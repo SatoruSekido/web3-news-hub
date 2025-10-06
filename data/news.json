@@ -1,10 +1,192 @@
 [
   {
-    "title": "Stablecoin Surge Could Trigger $1T Exit From Emerging Market Banks: Standard Chartered",
-    "link": "https://www.coindesk.com/markets/2025/10/06/stablecoin-surge-could-trigger-usd1t-exit-from-emerging-market-banks-standard-chartered",
-    "pubDate": "Mon, 06 Oct 2025 12:14:00 +0000",
+    "title": "The Daily: Crypto ETPs log record $6 billion weekly inflows, Galaxy launches new crypto and stock trading platform, and more",
+    "link": "https://www.theblock.co/post/373566/the-daily-crypto-etps-log-record-6-billion-weekly-inflows-galaxy-launches-new-crypto-and-stock-trading-platform-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 14:15:39 -0400",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "FIFA World Cup Blockchain Ticketing Platform Raises Swiss Regulatory Scrutiny: Report",
+    "link": "https://decrypt.co/343086/world-cup-blockchain-ticketing-platform-raises-swiss-regulatory",
+    "pubDate": "Mon, 06 Oct 2025 18:14:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Swiss gambling authority Gespa is reportedly probing whether or not FIFA's right-to-buy collectibles comply with local gambling laws."
+  },
+  {
+    "title": "Morgan Stanley sets 4% crypto cap for ‘opportunistic’ portfolios, aligning with BlackRock, Grayscale",
+    "link": "https://www.theblock.co/post/373562/morgan-stanley-sets-4-crypto-cap-opportunistic-portfolios-aligning-blackrock-grayscale?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 13:26:51 -0400",
+    "source": "The Block",
+    "contentSnippet": "Schwab and Vanguard are also starting to change their tune, signaling a gradual softening of resistance to digital assets."
+  },
+  {
+    "title": "Ex-BlockFi CEO Zac Prince Returns to Crypto Spotlight to Lead Galaxy Digital’s New Banking Platform",
+    "link": "https://www.coindesk.com/business/2025/10/06/ex-blockfi-ceo-zac-prince-returns-to-crypto-spotlight-to-lead-galaxy-digital-s-new-banking-platform",
+    "pubDate": "Mon, 06 Oct 2025 17:22:39 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Rising stablecoin usage could offer savers in weak economies a safer alternative to local banks."
+    "contentSnippet": "Prince's BlockFi became a symbol of crypto’s lending boom and bust, offering interest-bearing accounts, before collapsing when FTX’s failure left it short of liquidity."
+  },
+  {
+    "title": "New Rules, Better Tools: How Crypto Is Maturing Through Privacy and Regulation",
+    "link": "https://decrypt.co/343053/new-rules-better-tools-how-crypto-is-maturing-through-privacy-and-regulation",
+    "pubDate": "Mon, 06 Oct 2025 17:00:29 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "From enterprise privacy to stablecoin design, builders at Token2049 say crypto is becoming defined by structure, compliance, and trust."
+  },
+  {
+    "title": "‘The Future is Embedding Myriad as a Protocol’: Co-Founder",
+    "link": "https://decrypt.co/343058/the-future-is-embedding-myriad-as-a-protocol-co-founder",
+    "pubDate": "Mon, 06 Oct 2025 16:51:29 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Myriad brought its vision for the future of prediction markets to the Predictify Everything symposium at Token2049."
+  },
+  {
+    "title": "Crypto Lender Figure Shares Jump 6% After Bernstein Raises Price Target",
+    "link": "https://decrypt.co/343052/crypto-lender-figure-shares-jump-6-after-bernstein-raises-price-target",
+    "pubDate": "Mon, 06 Oct 2025 16:41:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts at investment firm Bernstein are forecasting a more than 30% increase from the Monday opening price of Figure Technologies ."
+  },
+  {
+    "title": "Stellar Lumens Breaks Resistance as Traders Drive 3% Rally",
+    "link": "https://www.coindesk.com/markets/2025/10/06/stellar-lumens-breaks-resistance-as-traders-drive-3-rally",
+    "pubDate": "Mon, 06 Oct 2025 16:28:48 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XLM climbed from $0.40 to $0.41 over a 23-hour period as corporate trading volumes tripled, signaling renewed institutional appetite for blockchain-based payment networks."
+  },
+  {
+    "title": "HBAR Advances 3% in Robust Recovery Rally Amid Market Volatility",
+    "link": "https://www.coindesk.com/markets/2025/10/06/hbar-advances-3-in-robust-recovery-rally-amid-market-volatility",
+    "pubDate": "Mon, 06 Oct 2025 16:17:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hedera’s native token climbed 3% over the past 24 hours, breaking key resistance levels and sustaining momentum on surging volume"
+  },
+  {
+    "title": "Grayscale Ethereum ETFs Are First in US to Add Staking",
+    "link": "https://decrypt.co/343051/grayscale-ethereum-etfs-first-us-add-staking",
+    "pubDate": "Mon, 06 Oct 2025 16:16:09 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Grayscale's new feature eliminates a major pain point for Ethereum ETFs: the absence of staking rewards for institutional investors."
+  },
+  {
+    "title": "PEPE Outpaces Memecoin Market as Whales Continue Accumulating",
+    "link": "https://www.coindesk.com/markets/2025/10/06/pepe-outpaces-memecoin-market-as-whales-continue-accumulating",
+    "pubDate": "Mon, 06 Oct 2025 15:54:38 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The price jump comes amid growing whale accumulation, with top 100 PEPE addresses on Ethereum adding 4.28% to their holdings in 30 days."
+  },
+  {
+    "title": "Filecoin Rises 2% After Breaking Through Resistance at $2.37 ",
+    "link": "https://www.coindesk.com/markets/2025/10/06/filecoin-rises-2-after-breaking-through-resistance-at-usd2-37",
+    "pubDate": "Mon, 06 Oct 2025 15:53:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The token has support at the $2.31 level."
+  },
+  {
+    "title": "Vietnam Caps Crypto Pilot at Five Licensed Exchanges",
+    "link": "https://decrypt.co/343048/vietnam-pilot-five-licensed-crypto-exchanges",
+    "pubDate": "Mon, 06 Oct 2025 15:53:19 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Experts warn Vietnam’s restrictive entry requirements and limited licensing could push innovation offshore."
+  },
+  {
+    "title": "Bitcoin, Ethereum, Solana ETFs Surge as Crypto Funds Pull in Record $5.95 Billion",
+    "link": "https://decrypt.co/343045/bitcoin-ethereum-solana-etfs-surge-crypto-funds-record-5-95-billion",
+    "pubDate": "Mon, 06 Oct 2025 15:38:55 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin soared to a new peak price over the weekend following a record week for cryptocurrency ETF investments, with nearly $6 billion worth."
+  },
+  {
+    "title": "Solana Company builds $530 million SOL war chest amid growing corporate adoption",
+    "link": "https://www.theblock.co/post/373552/solana-company-530-million-sol-war-chest-corporate-adoption?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 11:29:07 -0400",
+    "source": "The Block",
+    "contentSnippet": "Forrmerly known as Helius Medical Technologies, the Nasdaq-listed firm now holds over 2.2 million SOL alongside $15 million in cash."
+  },
+  {
+    "title": "Bee Maps Raises $32M to Scale Solana-Powered Decentralized Mapping Network",
+    "link": "https://www.coindesk.com/tech/2025/10/06/bee-maps-raises-usd32m-to-scale-solana-powered-decentralized-mapping-network",
+    "pubDate": "Mon, 06 Oct 2025 15:17:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The fresh capital will be used to distribute more devices, enhance AI models that process and update map features, and boost contributor incentives, Bee said."
+  },
+  {
+    "title": "Strategy Buys No Bitcoin While Making $140 Million in Dividend Payments",
+    "link": "https://decrypt.co/343035/strategy-buys-no-bitcoin-making-140-million-dividend-payments",
+    "pubDate": "Mon, 06 Oct 2025 15:14:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Strategy has made similarly timed pauses this year."
+  },
+  {
+    "title": "Joseph Lubin says ‘token-powered economies’ are coming to Consensys’ product suite, including Infura",
+    "link": "https://www.theblock.co/post/373549/joseph-lubin-says-token-powered-economies-are-coming-to-consensys-product-suite-including-infura?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 11:08:40 -0400",
+    "source": "The Block",
+    "contentSnippet": "Consensys founder Joseph Lubin has said tokens are coming for MetaMask, Linea and Infura’s DIN in a broader, token-powered product strategy."
+  },
+  {
+    "title": "Ondo completes acquisition of US-regulated broker Oasis Pro",
+    "link": "https://www.theblock.co/post/373547/ondo-completes-acquisition-of-us-regulated-broker-oasis-pro?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 11:06:15 -0400",
+    "source": "The Block",
+    "contentSnippet": "A joint report from Ripple and Boston Consulting Group projects that the tokenized asset market could exceed $18 trillion by 2033."
+  },
+  {
+    "title": "PLUME Rises 25% as Network Registered by SEC as Transfer Agent for Tokenized Securities",
+    "link": "https://www.coindesk.com/markets/2025/10/06/plume-network-registered-by-sec-as-transfer-agent-for-tokenized-securities",
+    "pubDate": "Mon, 06 Oct 2025 15:00:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Plume is already receiving interest from 40 Act funds and is seeking more licenses."
+  },
+  {
+    "title": "Leap Therapeutics Shares Jump on $59M Winklevoss-Led Crypto Deal",
+    "link": "https://www.coindesk.com/markets/2025/10/06/leap-therapeutics-shares-jump-on-usd59m-winklevoss-led-crypto-deal",
+    "pubDate": "Mon, 06 Oct 2025 14:54:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The penny stock name said the investment will be used to purchase cryptocurrency to be held on the company balance sheet."
+  },
+  {
+    "title": "Bitcoin Options Market Now Big Enough to Move Spot Prices, FalconX Says",
+    "link": "https://www.coindesk.com/markets/2025/10/06/bitcoin-options-market-now-big-enough-to-move-spot-prices-falconx-says",
+    "pubDate": "Mon, 06 Oct 2025 14:46:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Options flows now shape price direction more than spot trades as institutions lean on Deribit and IBIT to position around volatility."
+  },
+  {
+    "title": "Stablecoins Could Lure $1 Trillion in Deposits Away From Banks: Analysts",
+    "link": "https://decrypt.co/343010/stablecoins-could-lure-1-trillion-deposits-away-from-banks-analysts",
+    "pubDate": "Mon, 06 Oct 2025 14:39:24 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoins could drain $1 trillion from emerging market banks in three years as depositors prioritize capital preservation over yields, analysts predict."
+  },
+  {
+    "title": "Tom Lee's BitMine Boosts Ethereum Treasury Holdings to $13 Billion",
+    "link": "https://decrypt.co/343030/tom-lee-bitmine-boosts-ethereum-treasury-holdings-13-billion",
+    "pubDate": "Mon, 06 Oct 2025 14:02:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BitMine Immersion Technologies now holds more than three times the Ethereum of SharpLink Gaming, buying another $823 million worth last week."
+  },
+  {
+    "title": "AI/HPC Bitcoin Miners Rally as AMD Soars 30% on OpenAI Deal",
+    "link": "https://www.coindesk.com/markets/2025/10/06/ai-hpc-bitcoin-miners-rally-as-amd-soars-30-on-openai-deal",
+    "pubDate": "Mon, 06 Oct 2025 13:59:23 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "OpenAI’s multi-billion-dollar chip agreement with AMD fuels sector-wide gains across artificial intelligence and high-performance computing stocks."
+  },
+  {
+    "title": "BitMine’s Ethereum hoard swells to 2.83 million ETH after accumulating $821 million in ether last week",
+    "link": "https://www.theblock.co/post/373535/bitmines-ethereum-hoard-swells-to-2-83-million-eth-after-accumulating-821-million-in-ether-last-week?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 09:20:45 -0400",
+    "source": "The Block",
+    "contentSnippet": "BitMine says its ETH holdings have reached 2.83 million and $13.4 billion in crypto+cash, as corporate holders continue buying in \"Uptober.\""
+  },
+  {
+    "title": "Bernstein initiates coverage on Figure with $54 price target, says blockchain set to transform credit capital markets",
+    "link": "https://www.theblock.co/post/373527/bernstein-initiates-coverage-figure-54-usd-price-target?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 06 Oct 2025 09:12:40 -0400",
+    "source": "The Block",
+    "contentSnippet": "The analysts forecast 30% annual revenue growth through 2027, with Figure placed at the intersection of crypto, trading, and consumer finance."
   },
   {
     "title": "‘No new orange dots’: Strategy pauses weekly bitcoin acquisitions near all-time high",
@@ -26,188 +208,6 @@
     "pubDate": "Mon, 06 Oct 2025 07:43:36 -0400",
     "source": "The Block",
     "contentSnippet": "The crypto asset manager has also activated staking for its Grayscale Solana Trust (GSOL), which has yet to convert into an ETF."
-  },
-  {
-    "title": "Grayscale Adds Staking to Ethereum and Solana Investment Products in U.S. First",
-    "link": "https://www.coindesk.com/business/2025/10/06/grayscale-adds-staking-to-ethereum-and-solana-investment-products-in-u-s-first",
-    "pubDate": "Mon, 06 Oct 2025 11:34:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The update applies to Grayscale's Ethereum Trust ETF, Ethereum Mini Trust ETF, and Solana Trust, which have a combined $8.25 billion in assets under management."
-  },
-  {
-    "title": "Bitcoin's ATH Brings Firepower for Bulls With One Caveat: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/06/bitcoin-s-ath-brings-firepower-for-bulls-with-one-caveat-crypto-daybook-americas",
-    "pubDate": "Mon, 06 Oct 2025 11:15:33 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Oct. 6, 2025"
-  },
-  {
-    "title": "Galaxy Debuts Crypto Platform for Individuals to Rival Robinhood, Kraken",
-    "link": "https://decrypt.co/342919/galaxy-debuts-crypto-platform-individuals-rival-robinhood-kraken",
-    "pubDate": "Mon, 06 Oct 2025 11:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The firm has a history of servicing financial institutions."
-  },
-  {
-    "title": "Galaxy launches GalaxyOne platform offering crypto, stocks, and 8% yields to US users",
-    "link": "https://www.theblock.co/post/373468/galaxy-launches-galaxyone?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 07:00:00 -0400",
-    "source": "The Block",
-    "contentSnippet": "The platform will offer bitcoin, ether, Solana, and Paxos Gold trading and custody at launch, with more tokens to follow in the future."
-  },
-  {
-    "title": "Bitcoin’s $125K Resistance: Analyst Warns Failure Could Bring Bear Market",
-    "link": "https://www.coindesk.com/markets/2025/10/06/bitcoin-s-usd125k-resistance-analyst-warns-failure-could-bring-bear-market",
-    "pubDate": "Mon, 06 Oct 2025 10:58:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Ledn CIO John Glover warns that failing to surpass the $125,000 resistance could trigger a bear market."
-  },
-  {
-    "title": "Bitcoin's Rally Tightens Its Grip on Crypto Markets: Is Alt Season Cancelled?",
-    "link": "https://decrypt.co/343009/bitcoins-rally-tightens-its-grip-on-crypto-markets-is-alt-season-cancelled",
-    "pubDate": "Mon, 06 Oct 2025 10:34:23 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "As Bitcoin's rally pushes dominance to 59%, experts see altseason delayed but not cancelled, pending a market rotation."
-  },
-  {
-    "title": "PancakeSwap DEX rolls out CakePad to offer early access to new token listings",
-    "link": "https://www.theblock.co/post/373492/pancakeswap-dex-rolls-out-cakepad-to-offer-early-access-to-new-token-listings?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 05:56:50 -0400",
-    "source": "The Block",
-    "contentSnippet": "DeFi DEX PancakeSwap has launched its CakePad platform to offer early access to token listings and support its deflationary goals."
-  },
-  {
-    "title": "BNB Tops $1.2K in 4% Rally as Chain Activity and Institutional Demand Accelerate",
-    "link": "https://www.coindesk.com/markets/2025/10/06/bnb-tops-usd1-2k-in-4-rally-as-chain-activity-and-institutional-demand-accelerate",
-    "pubDate": "Mon, 06 Oct 2025 09:53:16 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The BNB Chain saw a surge in active addresses and decentralized trading, with the Aster Protocol's total value locked jumping 570% to $2.34 billion."
-  },
-  {
-    "title": "China Financial Leasing Group to Raise $11M for Crypto Investment",
-    "link": "https://www.coindesk.com/business/2025/10/06/china-financial-leasing-group-to-raise-usd11m-for-crypto-investment",
-    "pubDate": "Mon, 06 Oct 2025 09:49:46 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "China Financial will raise the capital through a new share subscription, issuing over 69 million new shares at a price of 1.25 Hong Kong dollars each."
-  },
-  {
-    "title": "Crypto investment products log record weekly inflows of nearly $6 billion",
-    "link": "https://www.theblock.co/post/373487/global-crypto-etps-record-weekly-inflows-bitcoin-all-time-high-coinshares?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 05:47:15 -0400",
-    "source": "The Block",
-    "contentSnippet": "The flows were driven by a delayed response to the U.S. interest rate cut, CoinShares Head of Research James Butterfill said."
-  },
-  {
-    "title": "AI and HPC Hype Fuels Pre-Market Rally in Bitcoin (BTC) Mining Stocks",
-    "link": "https://www.coindesk.com/markets/2025/10/06/ai-and-hpc-hype-fuels-pre-market-rally-in-bitcoin-btc-mining-stocks",
-    "pubDate": "Mon, 06 Oct 2025 09:16:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin treasury stocks are lagging, however, despite BTC trading above $124K."
-  },
-  {
-    "title": "Crypto exchange spot volumes edge down to $1.67 trillion in September, lowest since June",
-    "link": "https://www.theblock.co/post/373482/crypto-exchange-volume-slips-september?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 05:15:32 -0400",
-    "source": "The Block",
-    "contentSnippet": "Monthly spot trading volume across crypto exchanges fell to $1.67 trillion in September, the lowest level since June."
-  },
-  {
-    "title": "XRP Volumes on Aster DEX Mimic Those on Binance, Raising Questions About Market Frenzy",
-    "link": "https://www.coindesk.com/markets/2025/10/06/xrp-volumes-on-aster-dex-mimic-those-on-binance-putting-focus-on-the-market-s-current-obsession",
-    "pubDate": "Mon, 06 Oct 2025 09:05:42 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "DefiLlama delisted Aster’s perpetuals data after its founder flagged suspicious correlations in XRP trading volumes, raising questions about how one of crypto’s most active markets is being reported."
-  },
-  {
-    "title": "U.S. Government Shutdown, UK ETNs, Hedera Upgrade: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2025/10/06/u-s-government-shutdown-uk-etns-hedera-upgrade-crypto-week-ahead",
-    "pubDate": "Mon, 06 Oct 2025 08:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your look at what's coming in the week starting Oct. 6."
-  },
-  {
-    "title": "Polymarket Bettors Say U.S. Government Shutdown Will be Long But Won't Break Records",
-    "link": "https://www.coindesk.com/markets/2025/10/06/polymarket-bettors-say-u-s-government-shutdown-won-t-break-records-but-it-will-be-long",
-    "pubDate": "Mon, 06 Oct 2025 07:43:03 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bettors predict it will last longer than Oct. 15, but won't break the record set by the first Trump administration in 2018-2019."
-  },
-  {
-    "title": "Hong Kong–listed China Financial Leasing to raise $11 million for crypto investment platform",
-    "link": "https://www.theblock.co/post/373475/china-financial-leasing-raise?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 02:57:58 -0400",
-    "source": "The Block",
-    "contentSnippet": "China Financial Leasing Group plans to raise $11.1 million through a share placement to establish a cryptocurrency and AI investment platform."
-  },
-  {
-    "title": "The Funding: Why perp DEXs are getting VC attention now",
-    "link": "https://www.theblock.co/post/373464/the-funding-why-perp-dexs-getting-vc-attention-now?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 05 Oct 2025 19:45:17 -0400",
-    "source": "The Block",
-    "contentSnippet": "Perp DEXs are back in the spotlight. After Hyperliquid’s success, new players are attracting fresh VC attention and capital. Here’s why."
-  },
-  {
-    "title": "Aster’s token drops 10% after DefiLlama head raises wash trading concerns, delists perpetuals data",
-    "link": "https://www.theblock.co/post/373458/asters-token-drops-10-after-defillama-head-raises-wash-trading-concerns-delists-perpetuals-data?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 05 Oct 2025 18:37:28 -0400",
-    "source": "The Block",
-    "contentSnippet": "DefiLlama delisted the perpetuals volume data for Aster after finding data that suggests wash trading on the platform."
-  },
-  {
-    "title": "Donald Trump and Bitcoin: From 'Not a Fan' to Crypto President",
-    "link": "https://decrypt.co/240580/donald-trump-bitcoin-evolution-timeline-president",
-    "pubDate": "Sun, 05 Oct 2025 20:30:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "President Trump used to slam Bitcoin as \"a scam.\" Now he's back in the White House and making crypto moves for both himself and the U.S."
-  },
-  {
-    "title": "The Best Nintendo Switch 2 Games to Play Right Now",
-    "link": "https://decrypt.co/342829/the-best-nintendo-switch-2-games-to-play-right-now",
-    "pubDate": "Sun, 05 Oct 2025 17:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Got a Switch 2? These are the games you'll want to check out first, including heavyweights like Mario Kart, Donkey Kong, and Zelda."
-  },
-  {
-    "title": "'Sell Shovels': This Firm Makes Dashboards for Strategy and Dozens of Bitcoin Treasuries",
-    "link": "https://decrypt.co/342870/sell-shovels-firm-makes-dashboards-strategy-dozens-bitcoin-treasuries",
-    "pubDate": "Sun, 05 Oct 2025 14:57:54 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "As Bitcoin treasury firms proliferate in the U.S., an engineer-by-day is building dashboards for them on the other side of the world."
-  },
-  {
-    "title": "Bitcoin Hits New All-Time High Price Above $125,000",
-    "link": "https://decrypt.co/342971/bitcoin-all-time-high-price-125000",
-    "pubDate": "Sun, 05 Oct 2025 05:46:18 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The leading digital asset as been on a tear in 2025. How high can it go?"
-  },
-  {
-    "title": "Defiance Proposes 3X Leveraged Exposure on Bitcoin, Ethereum Funds and Crypto Stocks",
-    "link": "https://decrypt.co/342958/defiance-proposes-3x-leveraged-exposure-bitcoin-ethereum-funds-crypto-stocks",
-    "pubDate": "Sat, 04 Oct 2025 21:02:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Defiance's prospectus to the SEC on Friday outlines 49 ETFs that would provide leveraged exposure to Bitcoin funds, crypto firms, and more."
-  },
-  {
-    "title": "After 30 Days Without Food, AI Protester Finally Quits Hunger Strike",
-    "link": "https://decrypt.co/342959/after-30-days-without-food-ai-protester-quits-hunger-strike",
-    "pubDate": "Sat, 04 Oct 2025 19:59:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "AI activist Guido Reichstadter ended his 30-day hunger strike outside Anthropic HQ."
-  },
-  {
-    "title": "Trump Tariff Stimmy? Here’s How Much Covid Stimulus Checks Are Worth Now If Invested in Bitcoin",
-    "link": "https://decrypt.co/342907/how-much-covid-stimulus-checks-worth-now-invested-bitcoin",
-    "pubDate": "Sat, 04 Oct 2025 18:09:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "President Trump said this week that Americans could receive a cut of tariff revenue. Here's why it might be a good idea to invest those funds in Bitcoin."
-  },
-  {
-    "title": "We Tested the Best Free AI Image Editors—Here's What You'll Love and Hate",
-    "link": "https://decrypt.co/341845/we-tested-best-free-ai-image-editors-what-youll-love-hate",
-    "pubDate": "Sat, 04 Oct 2025 16:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "AI image editing has moved from painful workflows to plain English prompts—here’s how today’s top free models stack up."
   },
   {
     "title": " Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test ",
