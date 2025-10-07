@@ -1,52 +1,213 @@
 [
   {
+    "title": "Trump Fired Her From the FTC. Now Her Husband’s Crypto Bill Could Suffer",
+    "link": "https://decrypt.co/343251/trump-fired-ftc-commissioner-crypto-bill",
+    "pubDate": "Tue, 07 Oct 2025 18:07:00 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The intertwined fortunes of Rebecca and Justin Slaughter underscore a key constitutional issue that could derail crypto’s long-desired market structure bill."
+  },
+  {
+    "title": "Gemini stock projected for 25% upside driven by crypto reward card ‘flywheel’ and EU license",
+    "link": "https://www.theblock.co/post/373714/gemini-stock-projected-25-upside-driven-crypto-reward-card-flywheel-eu-license?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 13:56:11 -0400",
+    "source": "The Block",
+    "contentSnippet": "Analysts are split between buy and hold ratings, with KBW warning Gemini may remain unprofitable through the forecast period despite its rapid growth."
+  },
+  {
+    "title": "S&#038;P to Debut New Index Tracking Crypto Assets and Public Companies",
+    "link": "https://decrypt.co/343247/sp-debut-new-index-tracking-crypto-assets-public-companies",
+    "pubDate": "Tue, 07 Oct 2025 17:31:51 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The index will follow the performance of 15 cryptocurrencies and 35 companies focused on the digital asset space."
+  },
+  {
+    "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
+    "link": "https://decrypt.co/resources/zcash",
+    "pubDate": "Tue, 07 Oct 2025 17:23:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Zcash is touted as the next best privacy coin. It offers completely hidden transactions that could make crypto as anonymous as cash."
+  },
+  {
+    "title": "The Daily: NYSE parent firm ICE to invest $2 billion in Polymarket, Bitcoin ETFs log biggest daily inflows since Trump’s election win, and more",
+    "link": "https://www.theblock.co/post/373712/the-daily-nyse-parent-firm-ice-to-invest-2-billion-in-polymarket-bitcoin-etfs-log-biggest-daily-inflows-since-trumps-election-win-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 13:09:55 -0400",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "Scientists Who Brought Quantum Weirdness to the Real World Win Nobel Prize in Physics",
+    "link": "https://decrypt.co/343237/scientists-quantum-weirdness-real-world-win-nobel-prize-physics",
+    "pubDate": "Tue, 07 Oct 2025 16:58:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "This year's Nobel Prize in Physics honors a trio whose 1980s experiments made quantum circuits—and today’s quantum computers—possible."
+  },
+  {
+    "title": "BNB rallies 80% to become third-largest cryptocurrency as chain activity surges, supply tightens",
+    "link": "https://www.theblock.co/post/373571/bnb-rallies-third-largest-crypto-chain-activity-surges-supply-tightens?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 12:46:01 -0400",
+    "source": "The Block",
+    "contentSnippet": "BNB Chain activity has surged since mid-year, with transaction counts quadrupling and new token launches climbing."
+  },
+  {
+    "title": "Bitcoin miner IREN secures more multi-year cloud contracts, including NVIDIA GPU deployments",
+    "link": "https://www.theblock.co/post/373702/bitcoin-miner-iren-multi-year-cloud-services-contracts-nvidia-gpu-deployments?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 12:09:05 -0400",
+    "source": "The Block",
+    "contentSnippet": "As Bitcoin miners continue to ramp up their hashrate capabilities, firms like IREN are looking to compete in the emerging HPC vertical."
+  },
+  {
+    "title": "CleanCore's Dogecoin Treasury Tops 710M Tokens, Booking $20M+ Gain",
+    "link": "https://www.coindesk.com/business/2025/10/07/cleancore-s-dogecoin-treasury-tops-710m-tokens-booking-usd20m-gain",
+    "pubDate": "Tue, 07 Oct 2025 15:45:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company has been acquiring DOGE since early September using proceeds from a $175 million private placement."
+  },
+  {
+    "title": "Bitcoin Dips to $122K as Crypto Rally Gets Overheated. What Next?",
+    "link": "https://www.coindesk.com/markets/2025/10/07/bitcoin-dips-to-usd122k-as-crypto-rally-gets-overheated-what-next",
+    "pubDate": "Tue, 07 Oct 2025 15:33:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The pullback was a broad one, with altcoins like SOL, ADA, and XRP suffering even steeper declines."
+  },
+  {
+    "title": "Ethereum to $5,000—How Soon Could It Happen?",
+    "link": "https://decrypt.co/343229/ethereum-price-5000-how-soon-could-happen",
+    "pubDate": "Tue, 07 Oct 2025 15:31:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum edged closer to $5,000 on Tuesday as analysts point to strong demand, the upcoming Fusaka upgrade, and favorable macro conditions."
+  },
+  {
+    "title": "Filecoin Confronts Persistent Selling Pressure as Token Slumps 4%",
+    "link": "https://www.coindesk.com/markets/2025/10/07/filecoin-confronts-persistent-selling-pressure-as-token-slumps-4",
+    "pubDate": "Tue, 07 Oct 2025 15:27:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The crypto broke through multiple support levels on high volume."
+  },
+  {
+    "title": "Hyperliquid NFT airdrop rockets Hypurr to $300 million market cap",
+    "link": "https://www.theblock.co/post/373577/hyperliquid-nft-airdrop-rockets-hypurr-to-300-million-market-cap?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 11:26:01 -0400",
+    "source": "The Block",
+    "contentSnippet": "Hypurr’s $300 million market cap and soaring floor price reflect expectations it will serve as a high-signal loyalty pass for future rewards."
+  },
+  {
+    "title": "Bitcoin ETFs Haul in $1.19 Billion in Biggest Single-Day Surge Since July",
+    "link": "https://decrypt.co/343236/bitcoin-etfs-1-billion-biggest-single-day-surge-july",
+    "pubDate": "Tue, 07 Oct 2025 15:13:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BlackRock’s IBIT dominated with $970M as institutions pile into Bitcoin during government shutdown—but technical indicators flash warning signs."
+  },
+  {
+    "title": "BNB Quietly Crushes Top Ten Crypto Assets: What's Next?",
+    "link": "https://decrypt.co/343225/bnb-quietly-crushes-top-ten-cryptos-whats-next",
+    "pubDate": "Tue, 07 Oct 2025 15:08:24 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BNB's rally is driven by on-chain growth following the launch of decentralized exchange Aster, along with renewed institutional interest."
+  },
+  {
+    "title": "Gold-backed crypto tokens top $3 billion as metal hits all-time high",
+    "link": "https://www.theblock.co/post/373676/gold-backed-crypto-tokens-top-3-billion-as-metal-hits-all-time-high?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 11:07:35 -0400",
+    "source": "The Block",
+    "contentSnippet": "Tokenized gold trading volumes jumped to $640 million in the past 24 hours, led by PAX Gold and Tether Gold."
+  },
+  {
+    "title": "CEA Industries Total BNB Holdings Rise to 480K as Token Hits Record High",
+    "link": "https://www.coindesk.com/business/2025/10/07/cea-industries-total-bnb-holdings-rise-to-480k-as-token-hits-record-high",
+    "pubDate": "Tue, 07 Oct 2025 14:54:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The value of CEA's BNB holdings has moved to over $625 million, BNB itself reaching a new all-time high above $1,310."
+  },
+  {
+    "title": "Dogecoin Treasury Firm CleanCore Boosts Holdings With DOGE Price Up 12%",
+    "link": "https://decrypt.co/343230/dogecoin-treasury-firm-cleancore-boosts-holdings-doge-price-up-12",
+    "pubDate": "Tue, 07 Oct 2025 14:45:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Publicly traded Dogecoin treasury firm CleanCore added to its stash and now holds more than 710 million DOGE valued above $180 million."
+  },
+  {
+    "title": "Polymarket Valued at $9 Billion After NYSE Owner Invests $2B in Prediction Market",
+    "link": "https://decrypt.co/343228/polymarket-valued-9-billion-nyse-owner-invests-2b-prediction-market",
+    "pubDate": "Tue, 07 Oct 2025 14:36:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Polymarket said that Intercontinental Exchange would boost the prediction market's distribution following a $2 billion investment in the firm."
+  },
+  {
+    "title": "Bitcoin Miners Posted Record Profits in 2Q as HPC Push Accelerated, JPMorgan Says",
+    "link": "https://www.coindesk.com/markets/2025/10/07/bitcoin-miners-posted-record-profits-in-2q-as-hpc-push-accelerated-jpmorgan-says",
+    "pubDate": "Tue, 07 Oct 2025 14:29:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Rising bitcoin prices, improved efficiency, and heavy investment in high-performance computing fueled a strong second quarter for miners, the bank said."
+  },
+  {
+    "title": "Dogecoin treasury firm CleanCore holds 710 million DOGE as it awaits SEC share registration",
+    "link": "https://www.theblock.co/post/373679/dogecoin-treasury-cleancore-710-million-doge-awaits-sec-share-registration?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 10:26:34 -0400",
+    "source": "The Block",
+    "contentSnippet": "The company also said it is working with the SEC to get private placement shares registered in a timely manner."
+  },
+  {
+    "title": "S&P’s New Index Blends 15 Cryptos With 35 Crypto-Linked Stocks",
+    "link": "https://www.coindesk.com/markets/2025/10/07/s-and-p-s-new-index-blends-15-cryptos-with-35-crypto-linked-stocks",
+    "pubDate": "Tue, 07 Oct 2025 13:56:25 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Dinari will issue a blockchain-based token that tracks the performance of the index on-chain."
+  },
+  {
+    "title": "S&P Global to launch first hybrid index combining cryptocurrencies and crypto-related stocks",
+    "link": "https://www.theblock.co/post/373674/s-and-p-global-hybrid-index-cryptocurrencies-crypto-related-stocks?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 09:43:20 -0400",
+    "source": "The Block",
+    "contentSnippet": "Developed with Dinari, the index requires minimum market caps of $100 million for equities and $300 million for cryptocurrencies."
+  },
+  {
+    "title": "CEA Industries discloses 480,000 BNB corporate treasury as the Binance-linked token surges",
+    "link": "https://www.theblock.co/post/373670/cea-480000-bnb-treasury-binance-token-surges?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 09:29:49 -0400",
+    "source": "The Block",
+    "contentSnippet": "CEA says it holds 480,000 BNB with $663 million in crypto and cash, extending its single-asset treasury strategy as BNB hits fresh highs."
+  },
+  {
+    "title": "Bitcoin Miner IREN Jumps 9% After Securing New Multi-Year AI Cloud Contracts",
+    "link": "https://www.coindesk.com/markets/2025/10/07/bitcoin-miner-iren-jumps-9-after-securing-new-multi-year-ai-cloud-contracts",
+    "pubDate": "Tue, 07 Oct 2025 13:22:27 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "AI and HPC stocks are moving higher again, with IREN, Bitfarms, and Hive Digital extending their rally on rising GPU and cloud momentum."
+  },
+  {
+    "title": "Newly Public Crypto Exchange Gemini Gets Lukewarm Reception From KBW",
+    "link": "https://www.coindesk.com/markets/2025/10/07/newly-public-crypto-exchange-gemini-gets-lukewarm-reception-from-kbw",
+    "pubDate": "Tue, 07 Oct 2025 13:18:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Though liking the long-term prospects for the Winklevoss-led company, KBW placed a market perform rating on the stock, expecting GEMI to remain unprofitable for the time being."
+  },
+  {
+    "title": "XRP Retail Sentiment Flips Bearish, Flashing a Contrarian Buy Signal",
+    "link": "https://www.coindesk.com/markets/2025/10/07/xrp-retail-sentiment-flips-bearish-flashing-a-contrarian-buy-signal",
+    "pubDate": "Tue, 07 Oct 2025 13:17:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Retail traders are showing their most bearish tilt since the panic surrounding Trump’s tariff announcements bank in April."
+  },
+  {
+    "title": "CoinDesk 20 Performance Update: Uniswap (UNI) Drops 3.3% as Index Trades Lower ",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/10/07/coindesk-20-performance-update-uniswap-uni-drops-3-3-as-index-trades-lower",
+    "pubDate": "Tue, 07 Oct 2025 13:13:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Aave (AAVE) was also an underperformer, declining 3.1% from Monday."
+  },
+  {
+    "title": "Morning Minute: MetaMask Teases $30M Rewards Program",
+    "link": "https://decrypt.co/343211/morning-minute-metamask-teases-30m-rewards-program",
+    "pubDate": "Tue, 07 Oct 2025 13:12:23 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "It's ATH SZN, with Bitcoin, gold and BNB all making fresh all-time highs in the past 24 hours."
+  },
+  {
     "title": "Bitcoin life insurer Meanwhile raises $82 million in new funding to expand operations",
     "link": "https://www.theblock.co/post/373587/bitcoin-life-insurer-meanwhile-raises-82-million-new-funding?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 07 Oct 2025 08:27:29 -0400",
     "source": "The Block",
     "contentSnippet": "Haun Ventures and Bain Capital Crypto co-led the new funding, with participation from Pantera Capital, Apollo and other investors."
-  },
-  {
-    "title": "BNY Mellon weighs tokenized deposits to address legacy payment constraints: report",
-    "link": "https://www.theblock.co/post/373655/bny-mellon-weighs-tokenized-deposits-to-address-legacy-payment-constraints?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 08:20:02 -0400",
-    "source": "The Block",
-    "contentSnippet": "BNY, which processes $2.5 trillion in payments daily and oversees $55.8 trillion in assets is studying tokenized deposits to support blockchain payments."
-  },
-  {
-    "title": "Opera and Decrypt Team Up to ‘Bring the Next Billion Users’ to Web3",
-    "link": "https://decrypt.co/343200/opera-and-decrypt-team-up-to-bring-the-next-billion-users-to-web3",
-    "pubDate": "Tue, 07 Oct 2025 12:01:18 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The partnership will bring Decrypt’s news coverage to Opera’s hundreds of millions of users through its Opera News platform."
-  },
-  {
-    "title": "Bitcoin Treasury KindlyMD to Issue $250M in Convertible Debt With Nasdaq-Listed Antalpha",
-    "link": "https://decrypt.co/343152/bitcoin-treasury-kindlymd-250m-convertible-debt-antalpha",
-    "pubDate": "Tue, 07 Oct 2025 12:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company, the result of a merger earlier this year with David Bailey's Nakamoto Holdings, holds about $726 million in its Bitcoin treasury."
-  },
-  {
-    "title": "North Korean Hackers Have Stolen Over $2 Billion This Year: Elliptic",
-    "link": "https://www.coindesk.com/business/2025/10/06/north-korean-hackers-have-stolen-over-usd2-billion-in-2025-elliptic",
-    "pubDate": "Tue, 07 Oct 2025 12:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "North Korea’s crypto theft spree has already hit a record $2 billion in 2025, nearly triple last year’s total."
-  },
-  {
-    "title": "BlackRock's Bitcoin ETF Is Already Its Most Profitable, Surpassing Older ETFs",
-    "link": "https://decrypt.co/343207/blackrocks-bitcoin-etf-is-already-its-most-profitable-surpassing-older-etfs",
-    "pubDate": "Tue, 07 Oct 2025 11:35:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin ETFs will be a \"clear leader\" over traditional funds as IBIT nears the $100B milestone, analysts told Decrypt."
-  },
-  {
-    "title": "Tether Plans to Propose Candidates for Soccer Club Juventus Board Seat: Reuters",
-    "link": "https://www.coindesk.com/business/2025/10/07/tether-plans-to-propose-candidates-for-soccer-club-juventus-board-seat-reuters",
-    "pubDate": "Tue, 07 Oct 2025 11:32:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The stablecoin giant will submit its list at the club's annual shareholder meeting in November"
   },
   {
     "title": " Early crypto gems: How to discover them first ",
@@ -56,172 +217,11 @@
     "contentSnippet": "Spot early crypto gems in 2025 with five key checks — builders, usage, liquidity, token design and security — to avoid exit liquidity traps."
   },
   {
-    "title": "Bitcoin Rally is Fun, but Don't Overlook RWAs: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/06/bitcoin-rally-is-fun-but-don-t-overlook-rwas-crypto-daybook-americas",
-    "pubDate": "Tue, 07 Oct 2025 11:15:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Oct. 7, 2025"
-  },
-  {
-    "title": "ZKsync launches Atlas upgrade to support enterprise and institutional blockchains",
-    "link": "https://www.theblock.co/post/373407/zksync-launches-atlas-upgrade-support-enterprise-institutional-blockchains?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 07:00:00 -0400",
-    "source": "The Block",
-    "contentSnippet": "Matter Labs says the ZKsync Atlas upgrade will let enterprises run customizable chains that connect to global markets."
-  },
-  {
-    "title": "New York Stock Exchange Owner Nears $2B Stake in Polymarket: WSJ",
-    "link": "https://www.coindesk.com/business/2025/10/07/new-york-stock-exchange-owner-nears-usd2b-bet-on-polymarket-wsj",
-    "pubDate": "Tue, 07 Oct 2025 10:43:54 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The investment could help Polymarket return to the U.S. market, after it was shut off to U.S. users in 2022 following a settlement with the CFTC."
-  },
-  {
-    "title": "NYSE parent firm eyes $2 billion investment in Polymarket: WSJ",
-    "link": "https://www.theblock.co/post/373641/nyse-parent-firm-ice-eyes-2-billion-investment-in-polymarket-wsj?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 06:37:12 -0400",
-    "source": "The Block",
-    "contentSnippet": "NYSE-owner ICE will invest $2 billion in Polymarket, valuing the platform at $9 billion post-money according to the prediction market."
-  },
-  {
-    "title": "BNB Hits Record High Above $1,280 as Blockchain Activity Surges",
-    "link": "https://www.coindesk.com/markets/2025/10/07/bnb-hits-record-high-above-usd1-280-as-blockchain-activity-surges",
-    "pubDate": "Tue, 07 Oct 2025 10:27:43 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The BNB Chain reported a record 58 million monthly active addresses, overtaking Solana, with growth driven by the decentralized exchange Aster."
-  },
-  {
-    "title": "Ken Griffin Sounds Alarm as Gold Futures Tops $4,000 and Dollar Weakens",
-    "link": "https://www.coindesk.com/markets/2025/10/07/ken-griffin-sounds-alarm-as-gold-futures-tops-usd4-000-and-dollar-weakens",
-    "pubDate": "Tue, 07 Oct 2025 10:24:10 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Citadel CEO warns of asset inflation and “de-dollarization” as investors seek safety in gold, bitcoin, and other hard assets."
-  },
-  {
-    "title": "Bitcoin ETFs see largest daily inflows since Trump election surge as BlackRock’s IBIT nears $100 billion in AUM",
-    "link": "https://www.theblock.co/post/373631/bitcoin-etfs-largest-daily-inflows-since-trump-election-blackrock-ibit-nears-100-billion-usd-aum?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 06:17:58 -0400",
-    "source": "The Block",
-    "contentSnippet": "U.S. spot bitcoin ETFs attracted their second-largest ever daily inflows of $1.19 billion on Monday as BTC made fresh all-time highs."
-  },
-  {
-    "title": "Polymarket rolls out bitcoin deposits to expand funding options",
-    "link": "https://www.theblock.co/post/373629/polymarket-rolls-out-bitcoin-deposits-to-expand-funding-options?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 05:48:43 -0400",
-    "source": "The Block",
-    "contentSnippet": "Polymarket has enabled bitcoin deposits on its prediction market as BTC trades near record highs and punters favor a $130,000 October peak."
-  },
-  {
-    "title": "Solana’s $2.85B Revenue Rivals Palantir, Robinhood Amid Waning Memecoin Craze",
-    "link": "https://www.coindesk.com/markets/2025/10/07/solana-s-usd2-85b-revenue-rivals-palantir-robinhood-amid-waning-memecoin-craze",
-    "pubDate": "Tue, 07 Oct 2025 09:41:34 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "21Shares’ Matt Mena says Solana’s $2.85B in annual revenue shows lasting strength across DeFi, trading and new app sectors even as memecoin mania has cooled."
-  },
-  {
-    "title": "Morgan Stanley Recommends a 4% 'Opportunistic' Crypto Portfolio Allocation",
-    "link": "https://www.coindesk.com/markets/2025/10/07/morgan-stanley-recommends-a-4-opportunistic-crypto-portfolio-allocation",
-    "pubDate": "Tue, 07 Oct 2025 09:21:41 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The GIC described cryptocurrency as \"a speculative and increasingly popular asset class that many investors, nut not all, will seek to explore\""
-  },
-  {
-    "title": "U.S. Bitcoin ETFs Log $1B Inflows Again, a Level That’s Marked Local Tops Six Times Before",
-    "link": "https://www.coindesk.com/markets/2025/10/07/u-s-bitcoin-etfs-log-usd1b-inflows-again-a-level-that-s-marked-local-tops-six-times-before",
-    "pubDate": "Tue, 07 Oct 2025 09:06:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BlackRock’s iShares Bitcoin Trust (IBIT) is now its most profitable ETF for BlackRock, generating an estimated $244.5 million in annual revenue with nearly $100 billion in assets."
-  },
-  {
-    "title": "Uniswap, Aave Lead DeFi’s Fee Rebound to $600M as Buybacks Take Center Stage",
-    "link": "https://www.coindesk.com/markets/2025/10/07/uniswap-aave-lead-defi-s-fee-rebound-to-usd600m-as-buybacks-take-center-stage",
-    "pubDate": "Tue, 07 Oct 2025 08:59:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Protocols are trying to make token design matter again and are actively routing value back to holders."
-  },
-  {
-    "title": "Ethereum treasuries and spot ETFs now hold over 10% of ETH supply",
-    "link": "https://www.theblock.co/post/373624/ethereum-treasuries-etfs-eth-supply?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 04:40:06 -0400",
-    "source": "The Block",
-    "contentSnippet": "The combined ETH holdings of treasury companies and ETFs have risen to 12.48 million ETH, representing 10.31% of Ethereum's supply."
-  },
-  {
-    "title": "India plans to double down on CBDC, reaffirms stance against crypto: report",
-    "link": "https://www.theblock.co/post/373614/india-rbi-backed-digital-currency?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 03:47:26 -0400",
-    "source": "The Block",
-    "contentSnippet": "Goyal also reiterated the government’s discouragement of cryptocurrencies, saying that they remain subject to heavy taxation."
-  },
-  {
-    "title": "SharpLink’s unrealized gains surpass $900 million since ETH treasury launch",
-    "link": "https://www.theblock.co/post/373605/sharplinks-unrealized-gains-surpass-900-million?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 01:59:04 -0400",
-    "source": "The Block",
-    "contentSnippet": "SharpLink Gaming said it has seen its unrealized profits surge past $900 million since launching its treasury strategy in early June."
-  },
-  {
-    "title": "Top MIT Researcher Shows Decentralization Could Speed Up Ethereum, Solana",
-    "link": "https://decrypt.co/343197/top-mit-researcher-decentralization-speed-up-ethereum-solana",
-    "pubDate": "Tue, 07 Oct 2025 05:53:52 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "MIT’s Médard says decentralization isn’t an ideology as large systems fail under central control, and new Ethereum tests prove it in code."
-  },
-  {
-    "title": "India to Roll Out RBI-Linked Digital Currency Amid Dismissal of Crypto With 'No Backing'",
-    "link": "https://decrypt.co/343193/india-rbi-backed-digital-currency-crypto",
-    "pubDate": "Tue, 07 Oct 2025 04:36:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts say India is replacing its \"tax-and-tolerate\" stance with stricter oversight, favoring state-guaranteed digital currency."
-  },
-  {
-    "title": "VanEck Sees Bitcoin Reaching Half of Gold’s Market Value—But When?",
-    "link": "https://decrypt.co/343190/vaneck-bitcoin-half-golds-market-value-when",
-    "pubDate": "Tue, 07 Oct 2025 04:19:52 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "VanEck forecasts Bitcoin could capture half of gold’s $26 trillion market cap, though analysts say such valuations could take years."
-  },
-  {
-    "title": "HumanoidExo Turns Human Motion Into Data That Teaches Robots to Walk",
-    "link": "https://decrypt.co/343181/humanoidexo-human-motion-data-teaches-robots-walk",
-    "pubDate": "Tue, 07 Oct 2025 01:10:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The new system uses a wearable exoskeleton to record human motion and teach humanoid robots complex, full-body skills."
-  },
-  {
-    "title": "Eliza Labs Founder on Why AI Agents Shouldn’t Manage Your Money—Yet",
-    "link": "https://decrypt.co/343166/eliza-labs-founder-ai-agents-shouldnt-manage-your-money-yet",
-    "pubDate": "Mon, 06 Oct 2025 22:39:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Walters said AI agents aren’t ready to manage money, arguing their current value lies in structuring market data and executing faster trades."
-  },
-  {
-    "title": "Uniswap, Aave lead DeFi fee rebound to $600 million as protocols embrace buybacks and fundamentals",
-    "link": "https://www.theblock.co/post/373574/uniswap-aave-lead-defi-fee-rebound-to-600-million-as-protocols-embrace-buybacks-and-fundamentals?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 17:46:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "This represents a 76% increase over six months, with established players like Uniswap, Aave, and Ethena leading fee generation."
-  },
-  {
-    "title": "Bitcoin Mining Stocks Jump as Crypto Market Continues Historic Rally",
-    "link": "https://decrypt.co/343133/bitcoin-mining-stocks-jump-crypto-market-continues-historic-rally",
-    "pubDate": "Mon, 06 Oct 2025 21:14:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin mining company stocks are soaring as the price of the leading cryptocurrency breaks new all-time highs."
-  },
-  {
     "title": " FIFA’s blockchain-based tickets face scrutiny from Swiss gambling regulator ",
     "link": "https://cointelegraph.com/news/fifa-blockchain-tickets-scrutiny-swiss-nft?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 06 Oct 2025 22:13:39 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Switzerland’s gambling watchdog is reviewing FIFA’s “Right to Buy” NFTs, while noting no wrongdoing has been alleged."
-  },
-  {
-    "title": "MetaMask Reveals $30 Million Rewards Program Ahead of Token Drop",
-    "link": "https://decrypt.co/343123/metamask-30-million-rewards-program-ethereum-token",
-    "pubDate": "Mon, 06 Oct 2025 20:48:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Prominent Ethereum wallet MetaMask is gearing up to debut its own token, and will roll out a Linea-fueled rewards program in the run-up."
   },
   {
     "title": " Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test ",
