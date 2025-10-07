@@ -1,5 +1,82 @@
 [
   {
+    "title": "SharpLink’s unrealized gains surpass $900 million since ETH treasury launch",
+    "link": "https://www.theblock.co/post/373605/sharplinks-unrealized-gains-surpass-900-million?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 07 Oct 2025 01:59:04 -0400",
+    "source": "The Block",
+    "contentSnippet": "SharpLink Gaming said it has seen its unrealized profits surge past $900 million since launching its treasury strategy in early June."
+  },
+  {
+    "title": "Top MIT Researcher Shows Decentralization Could Speed Up Ethereum, Solana",
+    "link": "https://decrypt.co/343197/top-mit-researcher-decentralization-speed-up-ethereum-solana",
+    "pubDate": "Tue, 07 Oct 2025 05:53:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "MIT’s Médard says decentralization isn’t an ideology as large systems fail under central control, and new Ethereum tests prove it in code."
+  },
+  {
+    "title": "Fasset Wins Malaysia License to Launch First Stablecoin-Based Islamic Digital Bank",
+    "link": "https://www.coindesk.com/business/2025/10/07/fasset-wins-malaysia-license-to-launch-first-stablecoin-based-islamic-digital-bank",
+    "pubDate": "Tue, 07 Oct 2025 05:17:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Approval lets Fasset offer full-service, Shariah-compliant digital banking backed by stablecoins"
+  },
+  {
+    "title": "MetaMask Confirms $30M Rewards Program, Links to Future Token",
+    "link": "https://www.coindesk.com/markets/2025/10/07/metamask-confirms-usd30m-rewards-program-links-to-future-token",
+    "pubDate": "Tue, 07 Oct 2025 05:10:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "MetaMask's rewards initiative aims to boost activity on Consensys’ Linea network and integrate its mUSD stablecoin."
+  },
+  {
+    "title": "India to Introduce RBI-Backed Digital Currency For Faster Transactions: Report",
+    "link": "https://www.coindesk.com/markets/2025/10/07/india-to-introduce-rbi-backed-digital-currency-for-faster-transactions-report",
+    "pubDate": "Tue, 07 Oct 2025 05:01:41 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The new offering will leverage blockchain technology for faster and safer transactions, minister Piyush Goyal said."
+  },
+  {
+    "title": "XRP Traders Eye Bullish Breakout Toward $3.10. Here's Why",
+    "link": "https://www.coindesk.com/markets/2025/10/07/xrp-traders-eye-bullish-breakout-toward-usd3-10-here-s-why",
+    "pubDate": "Tue, 07 Oct 2025 04:56:18 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The $2.99 floor held on repeated defenses, leaving price boxed between $2.99 and $3.05 while ETF deadlines and rate speculation loom."
+  },
+  {
+    "title": "DOGE Surges 6% as Traders Eye Breakout to 35-Cents",
+    "link": "https://www.coindesk.com/markets/2025/10/07/doge-surges-6-as-traders-eye-breakout-to-35-cents",
+    "pubDate": "Tue, 07 Oct 2025 04:46:57 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Support has shifted higher into the $0.27 zone as institutions pressed bids, with momentum now eyeing the $0.30 ceiling."
+  },
+  {
+    "title": "India to Roll Out RBI-Linked Digital Currency Amid Dismissal of Crypto With 'No Backing'",
+    "link": "https://decrypt.co/343193/india-rbi-backed-digital-currency-crypto",
+    "pubDate": "Tue, 07 Oct 2025 04:36:06 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Experts say India is replacing its \"tax-and-tolerate\" stance with stricter oversight, favoring state-guaranteed digital currency."
+  },
+  {
+    "title": "VanEck Sees Bitcoin Reaching Half of Gold’s Market Value—But When?",
+    "link": "https://decrypt.co/343190/vaneck-bitcoin-half-golds-market-value-when",
+    "pubDate": "Tue, 07 Oct 2025 04:19:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "VanEck forecasts Bitcoin could capture half of gold’s $26 trillion market cap, though analysts say such valuations could take years."
+  },
+  {
+    "title": "Asia Morning Briefing: Regional Crypto Power Balance Is Shifting as Japan 'Ready to Pop’",
+    "link": "https://www.coindesk.com/markets/2025/10/07/asia-morning-briefing-regional-crypto-power-balance-is-shifting-as-japan-ready-to-pop",
+    "pubDate": "Tue, 07 Oct 2025 01:43:37 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "On the sidelines of Token2049 in Singapore, crypto execs kept returning to the same theme: Tokyo is becoming the region’s new crypto capital."
+  },
+  {
+    "title": "HumanoidExo Turns Human Motion Into Data That Teaches Robots to Walk",
+    "link": "https://decrypt.co/343181/humanoidexo-human-motion-data-teaches-robots-walk",
+    "pubDate": "Tue, 07 Oct 2025 01:10:40 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The new system uses a wearable exoskeleton to record human motion and teach humanoid robots complex, full-body skills."
+  },
+  {
     "title": "Eliza Labs Founder on Why AI Agents Shouldn’t Manage Your Money—Yet",
     "link": "https://decrypt.co/343166/eliza-labs-founder-ai-agents-shouldnt-manage-your-money-yet",
     "pubDate": "Mon, 06 Oct 2025 22:39:43 +0000",
@@ -28,7 +105,7 @@
     "contentSnippet": "Bitcoin mining company stocks are soaring as the price of the leading cryptocurrency breaks new all-time highs."
   },
   {
-    "title": " FIFA&#039;s blockchain-based tickets face scrutiny from Swiss gambling regulator ",
+    "title": " FIFA’s blockchain-based tickets face scrutiny from Swiss gambling regulator ",
     "link": "https://cointelegraph.com/news/fifa-blockchain-tickets-scrutiny-swiss-nft?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 06 Oct 2025 22:13:39 +0100",
     "source": "Cointelegraph NFT",
@@ -91,25 +168,11 @@
     "contentSnippet": "The coin is still down 95% from its 2016 all-time high."
   },
   {
-    "title": "AMD Stock Skyrockets on OpenAI Bet to Loosen Nvidia’s Grip on the AI Chip Market",
-    "link": "https://decrypt.co/343068/amd-stock-skyrockets-openai-bet-loosen-nvidia-grip-ai-chip-market",
-    "pubDate": "Mon, 06 Oct 2025 18:35:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The chipmaker's 6 gigawatt GPU deal marks its first major victory against Nvidia's dominance, but software remains a stubborn problem."
-  },
-  {
     "title": "The Daily: Crypto ETPs log record $6 billion weekly inflows, Galaxy launches new crypto and stock trading platform, and more",
     "link": "https://www.theblock.co/post/373566/the-daily-crypto-etps-log-record-6-billion-weekly-inflows-galaxy-launches-new-crypto-and-stock-trading-platform-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 06 Oct 2025 14:15:39 -0400",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "FIFA World Cup Blockchain Ticketing Platform Raises Swiss Regulatory Scrutiny: Report",
-    "link": "https://decrypt.co/343086/world-cup-blockchain-ticketing-platform-raises-swiss-regulatory",
-    "pubDate": "Mon, 06 Oct 2025 18:14:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Swiss gambling authority Gespa is reportedly probing whether or not FIFA's right-to-buy collectibles comply with local gambling laws."
   },
   {
     "title": "Morgan Stanley sets 4% crypto cap for ‘opportunistic’ portfolios, aligning with BlackRock, Grayscale",
@@ -126,60 +189,11 @@
     "contentSnippet": "Prince's BlockFi became a symbol of crypto’s lending boom and bust, offering interest-bearing accounts, before collapsing when FTX’s failure left it short of liquidity."
   },
   {
-    "title": "New Rules, Better Tools: How Crypto Is Maturing Through Privacy and Regulation",
-    "link": "https://decrypt.co/343053/new-rules-better-tools-how-crypto-is-maturing-through-privacy-and-regulation",
-    "pubDate": "Mon, 06 Oct 2025 17:00:29 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "From enterprise privacy to stablecoin design, builders at Token2049 say crypto is becoming defined by structure, compliance, and trust."
-  },
-  {
-    "title": "‘The Future is Embedding Myriad as a Protocol’: Co-Founder",
-    "link": "https://decrypt.co/343058/the-future-is-embedding-myriad-as-a-protocol-co-founder",
-    "pubDate": "Mon, 06 Oct 2025 16:51:29 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Myriad brought its vision for the future of prediction markets to the Predictify Everything symposium at Token2049."
-  },
-  {
-    "title": "Stellar Lumens Breaks Resistance as Traders Drive 3% Rally",
-    "link": "https://www.coindesk.com/markets/2025/10/06/stellar-lumens-breaks-resistance-as-traders-drive-3-rally",
-    "pubDate": "Mon, 06 Oct 2025 16:28:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XLM climbed from $0.40 to $0.41 over a 23-hour period as corporate trading volumes tripled, signaling renewed institutional appetite for blockchain-based payment networks."
-  },
-  {
-    "title": "HBAR Advances 3% in Robust Recovery Rally Amid Market Volatility",
-    "link": "https://www.coindesk.com/markets/2025/10/06/hbar-advances-3-in-robust-recovery-rally-amid-market-volatility",
-    "pubDate": "Mon, 06 Oct 2025 16:17:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera’s native token climbed 3% over the past 24 hours, breaking key resistance levels and sustaining momentum on surging volume"
-  },
-  {
-    "title": "PEPE Outpaces Memecoin Market as Whales Continue Accumulating",
-    "link": "https://www.coindesk.com/markets/2025/10/06/pepe-outpaces-memecoin-market-as-whales-continue-accumulating",
-    "pubDate": "Mon, 06 Oct 2025 15:54:38 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The price jump comes amid growing whale accumulation, with top 100 PEPE addresses on Ethereum adding 4.28% to their holdings in 30 days."
-  },
-  {
-    "title": "Filecoin Rises 2% After Breaking Through Resistance at $2.37 ",
-    "link": "https://www.coindesk.com/markets/2025/10/06/filecoin-rises-2-after-breaking-through-resistance-at-usd2-37",
-    "pubDate": "Mon, 06 Oct 2025 15:53:35 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token has support at the $2.31 level."
-  },
-  {
     "title": "Solana Company builds $530 million SOL war chest amid growing corporate adoption",
     "link": "https://www.theblock.co/post/373552/solana-company-530-million-sol-war-chest-corporate-adoption?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 06 Oct 2025 11:29:07 -0400",
     "source": "The Block",
     "contentSnippet": "Forrmerly known as Helius Medical Technologies, the Nasdaq-listed firm now holds over 2.2 million SOL alongside $15 million in cash."
-  },
-  {
-    "title": "Bee Maps Raises $32M to Scale Solana-Powered Decentralized Mapping Network",
-    "link": "https://www.coindesk.com/tech/2025/10/06/bee-maps-raises-usd32m-to-scale-solana-powered-decentralized-mapping-network",
-    "pubDate": "Mon, 06 Oct 2025 15:17:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The fresh capital will be used to distribute more devices, enhance AI models that process and update map features, and boost contributor incentives, Bee said."
   },
   {
     "title": "Joseph Lubin says ‘token-powered economies’ are coming to Consensys’ product suite, including Infura",
@@ -196,25 +210,11 @@
     "contentSnippet": "A joint report from Ripple and Boston Consulting Group projects that the tokenized asset market could exceed $18 trillion by 2033."
   },
   {
-    "title": "PLUME Rises 25% as Network Registered by SEC as Transfer Agent for Tokenized Securities",
-    "link": "https://www.coindesk.com/markets/2025/10/06/plume-network-registered-by-sec-as-transfer-agent-for-tokenized-securities",
-    "pubDate": "Mon, 06 Oct 2025 15:00:22 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Plume is already receiving interest from 40 Act funds and is seeking more licenses."
-  },
-  {
     "title": "BitMine’s Ethereum hoard swells to 2.83 million ETH after accumulating $821 million in ether last week",
     "link": "https://www.theblock.co/post/373535/bitmines-ethereum-hoard-swells-to-2-83-million-eth-after-accumulating-821-million-in-ether-last-week?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 06 Oct 2025 09:20:45 -0400",
     "source": "The Block",
     "contentSnippet": "BitMine says its ETH holdings have reached 2.83 million and $13.4 billion in crypto+cash, as corporate holders continue buying in \"Uptober.\""
-  },
-  {
-    "title": "Bernstein initiates coverage on Figure with $54 price target, says blockchain set to transform credit capital markets",
-    "link": "https://www.theblock.co/post/373527/bernstein-initiates-coverage-figure-54-usd-price-target?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 06 Oct 2025 09:12:40 -0400",
-    "source": "The Block",
-    "contentSnippet": "The analysts forecast 30% annual revenue growth through 2027, with Figure placed at the intersection of crypto, trading, and consumer finance."
   },
   {
     "title": " Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test ",
