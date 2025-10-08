@@ -1,31 +1,206 @@
 [
   {
+    "title": "This NYSE-Listed Food Company Aims to Stack $1.2 Billion in Bitcoin",
+    "link": "https://decrypt.co/343383/this-nyse-listed-food-company-aims-to-stack-1-2-billion-in-bitcoin",
+    "pubDate": "Wed, 08 Oct 2025 18:12:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "DDC's share price was up nearly 7% after announcing that it had raised an additional $124 million for Bitcoin purchases."
+  },
+  {
+    "title": "Solana DeFi Exchange Jupiter to Launch Native Stablecoin",
+    "link": "https://decrypt.co/343416/solana-defi-jupiter-ethena-stablecoin-jupusd",
+    "pubDate": "Wed, 08 Oct 2025 17:57:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana DEX and DeFi protocol Jupiter is expanding its feature set with the launch of its own stablecoin, JupUSD, on Solana."
+  },
+  {
+    "title": "Hyperliquid Lists MON-USD Perpetuals Ahead of Hotly Anticipated Monad Airdrop",
+    "link": "https://www.coindesk.com/business/2025/10/08/hyperliquid-lists-mon-usd-perpetuals-ahead-of-hotly-anticipated-monad-airdrop",
+    "pubDate": "Wed, 08 Oct 2025 17:54:21 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Both Hyperliquid’s announcement and Monad’s recent posts suggest that an airdrop may be imminent."
+  },
+  {
+    "title": "The Daily: Ethena and Jupiter to launch a Solana-based stablecoin, Litecoin and HBAR ETFs reach the ‘goal line,’ and more",
+    "link": "https://www.theblock.co/post/373885/the-daily-ethena-and-jupiter-to-launch-a-solana-based-stablecoin-litecoin-and-hbar-etfs-reach-the-goal-line-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 13:41:01 -0400",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "Stablecoins: The Revolution in Global Money Transfers",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/10/08/stablecoins-the-revolution-in-global-money-transfers",
+    "pubDate": "Wed, 08 Oct 2025 17:03:27 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Stablecoins are no longer just a bridge between crypto and fiat — they are becoming the rails of global commerce, writes Nonco CEO Fernando Martinez."
+  },
+  {
+    "title": "North Dakota to Issue Stablecoin With Fiserv as Digital Dollar Trend Expands",
+    "link": "https://www.coindesk.com/business/2025/10/08/north-dakota-to-issue-stablecoin-with-fiserv-as-digital-dollar-trend-expands",
+    "pubDate": "Wed, 08 Oct 2025 16:41:37 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Fiserv-powered U.S. dollar stablecoin will be available to local banks and credit unions, joining crypto experiments by U.S. states."
+  },
+  {
+    "title": "DDC Enterprise lands $124 million in sprint to build 10,000 bitcoin war chest",
+    "link": "https://www.theblock.co/post/373873/meal-platform-ddc-124-million-financing-sprint-10000-bitcoin-war-chest?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 12:40:05 -0400",
+    "source": "The Block",
+    "contentSnippet": "Achieving its 10,000 BTC target by 2025 would push DDC into the top tier of publicly listed bitcoin treasuries."
+  },
+  {
+    "title": "The State of DeFi Exploit Risk ",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/10/08/the-state-of-defi-exploit-risk",
+    "pubDate": "Wed, 08 Oct 2025 16:38:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "DeFi protocols can rival or surpass traditional financial security standards and introduce frameworks to better assess risks in real-world asset applications for smarter capital allocation, says Cicad"
+  },
+  {
+    "title": "Tezos Shooter ‘Reaper Actual’ From EverQuest Co-Creator Enters Alpha Playtesting",
+    "link": "https://decrypt.co/343396/tezos-shooter-reaper-actual-from-everquest-co-creator-enters-alpha-playtesting",
+    "pubDate": "Wed, 08 Oct 2025 16:29:46 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "John Smedley, the man behind EverQuest, H1Z1, and PlanetSide, has debuted his crypto shooter into an alpha playtesting phase."
+  },
+  {
+    "title": "Senate confirms Trump-backed pick Jonathan McKernan to Treasury role",
+    "link": "https://www.theblock.co/post/373871/senate-confirms-trump-backed-pick-jonathan-mckernan-to-treasury-role?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 12:24:49 -0400",
+    "source": "The Block",
+    "contentSnippet": "The U.S. Senate confirmed Jonathan McKernan, who has been critical of crypto debanking, to a top position at the Treasury Department."
+  },
+  {
+    "title": "MetaMask Adds Support for Hyperliquid Swaps, Eyes Polymarket Integration",
+    "link": "https://decrypt.co/343399/metamask-support-hyperliquid-swaps-eyes-polymarket-integration",
+    "pubDate": "Wed, 08 Oct 2025 16:19:07 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "MetaMask also unveiled a rewards system."
+  },
+  {
+    "title": "North Dakota and Fiserv to launch the state’s ‘Roughrider’ stablecoin next year",
+    "link": "https://www.theblock.co/post/373865/north-dakota-fiserv-launch-roughrider-stablecoin-next-year?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 12:14:28 -0400",
+    "source": "The Block",
+    "contentSnippet": "The Roughrider stablecoin will leverage the FIUSD digital asset platform and should eventually be interoperable with other coins."
+  },
+  {
+    "title": "The Protocol: 77% of Bitcoin Holders Have Never Used BTCFi, Survey Reveals",
+    "link": "https://www.coindesk.com/tech/2025/10/08/the-protocol-77-of-bitcoin-holders-have-never-used-btcfi-survey-reveals",
+    "pubDate": "Wed, 08 Oct 2025 16:13:58 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Also: Ethereum Fusaka Upgrade on Holesky, DoubleZero Goes Live and Bee Maps Raises $42M."
+  },
+  {
+    "title": "CZ Family Office Kickstarts $1 Billion Builder Fund on BNB",
+    "link": "https://decrypt.co/343392/cz-family-office-kickstarts-1-billion-fund-bnb",
+    "pubDate": "Wed, 08 Oct 2025 16:13:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Binance co-founder Changpeng Zhao's family office is setting aside $1 billion for long-term builders on BNB Chain."
+  },
+  {
+    "title": "Stellar (XLM) Rebounds Sharply as Institutional Interest Fuels Recovery Momentum",
+    "link": "https://www.coindesk.com/markets/2025/10/08/stellar-xlm-rebounds-sharply-as-institutional-interest-fuels-recovery-momentum",
+    "pubDate": "Wed, 08 Oct 2025 16:08:11 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XLM climbed back above $0.39 after a brief sell-off, with rising open interest signaling renewed institutional confidence."
+  },
+  {
+    "title": "Yellow: A Clearing Network Unifying Fragmented Blockchains",
+    "link": "https://www.theblock.co/post/373848/yellow-a-clearing-network-unifying-fragmented-blockchains?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 11:58:17 -0400",
+    "source": "The Block",
+    "contentSnippet": "The DeFi landscape remains highly fragmented. Liquidity is siloed within isolated blockchains, and moving assets across them requires bridges that introduce latency, exorbitant fees, and significant c"
+  },
+  {
+    "title": "Coinbase Debuts Crypto Staking in New York, Citing Deal With State Regulators",
+    "link": "https://decrypt.co/343394/coinbase-crypto-staking-new-york-state-regulators",
+    "pubDate": "Wed, 08 Oct 2025 15:54:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "After years of restrictions, the company now allows customers in the state to earn yield on ETH, SOL, and other crypto tokens."
+  },
+  {
+    "title": "Solana's Jupiter to Develop JupUSD Stablecoin With Backing From Ethena Labs",
+    "link": "https://www.coindesk.com/web3/2025/10/08/solana-s-jupiter-to-develop-jupusd-stablecoin-with-backing-from-ethena-labs",
+    "pubDate": "Wed, 08 Oct 2025 15:49:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "JupUSD will be developed in partnership with Ethana Labs and initially be fully collateralized by Ethana's USDtb stablecoin."
+  },
+  {
+    "title": "Bitcoin’s On-Chain Profitability Has Surged With 97% of Supply Now in Profit: Glassnode",
+    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-s-on-chain-profitability-has-surged-with-97-of-supply-now-in-profit-glassnode",
+    "pubDate": "Wed, 08 Oct 2025 15:47:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Glassnode says bitcoin’s breakout to record highs came on the back of $2.2 billion in ETF inflows and steady accumulation from smaller holders, not speculative hype."
+  },
+  {
+    "title": "This Trend Has Marked Local Tops in Bitcoin, but This Time May Be Different",
+    "link": "https://www.coindesk.com/markets/2025/10/08/this-trend-has-marked-local-tops-in-bitcoin-but-this-time-may-be-different",
+    "pubDate": "Wed, 08 Oct 2025 15:45:04 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Despite increasing by 450,000 BTC since July, short-term holders remain below prior highs, signaling tempered market sentiment."
+  },
+  {
+    "title": "Deutsche Bank to provide banking services for NYSE-listed crypto exchange Bullish",
+    "link": "https://www.theblock.co/post/373857/deutsche-bank-to-provide-banking-services-for-nyse-listed-crypto-exchange-bullish?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 11:42:23 -0400",
+    "source": "The Block",
+    "contentSnippet": "Bullish tapped Deutsche Bank to provide fiat deposits and withdrawals services for the exchange’s Hong Kong and German arms."
+  },
+  {
+    "title": " Ethereum’s Fusaka Upgrade Could Cut Node Costs, Ease Adoption",
+    "link": "https://www.coindesk.com/tech/2025/10/08/ethereum-s-fusaka-upgrade-could-cut-node-costs-ease-adoption",
+    "pubDate": "Wed, 08 Oct 2025 15:33:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Fusaka – a blend of the names Fulu and Osaka – consists of two simultaneous upgrades to Ethereum’s consensus and execution layers, respectively."
+  },
+  {
+    "title": "Why Is BNB So Resilient Amid the Crypto Market Pullback?",
+    "link": "https://decrypt.co/343377/bnb-resilient-crypto-market-pullback",
+    "pubDate": "Wed, 08 Oct 2025 15:18:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BNB sits just 2% from record high while other major cryptos have fallen."
+  },
+  {
+    "title": "UK digital asset market poised for 20% growth as FCA lifts four-year retail ban on crypto ETNs, IG says",
+    "link": "https://www.theblock.co/post/373828/uk-digital-asset-market-poised-20-growth-fca-lifts-four-year-bancrypto-etns?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 10:17:52 -0400",
+    "source": "The Block",
+    "contentSnippet": "The UK's financial regulator officially lifted its ban on crypto ETNs on Wednesday, opening up access to retail investors for the first time."
+  },
+  {
+    "title": "Ethena and Jupiter partner to launch native Solana stablecoin JupUSD",
+    "link": "https://www.theblock.co/post/373734/ethena-and-jupiter-partner-to-launch-native-solana-stablecoin-jupusd?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 10:00:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "As part of the arrangement, Jupiter plans to “progressively convert” about $750 million of USDC from its Liquidity Provider Pool into JupUSD."
+  },
+  {
+    "title": "Polygon activates Rio upgrade to revamp block production, speed up network",
+    "link": "https://www.theblock.co/post/373811/polygon-activates-rio-upgrade-to-revamp-block-production-speed-up-network?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 10:00:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "Polygon has activated the Rio hard fork on its proof-of-stake network, introducing major changes to block production and validation."
+  },
+  {
+    "title": "MetaMask rolls out perpetuals trading, plans Polymarket integration",
+    "link": "https://www.theblock.co/post/373302/metamask-rolls-out-perpetuals-trading-through-hyperliquid-integration?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 09:00:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "MetaMask has launched perpetuals trading and plans to integrate with Polymarket to offer prediction markets."
+  },
+  {
+    "title": "Morning Minute: Polymarket Raises $2B at $9B Valuation from NYSE Parent",
+    "link": "https://decrypt.co/343372/morning-minute-polymarket-raises-2b-at-9b-valuation-from-nyse-parent",
+    "pubDate": "Wed, 08 Oct 2025 12:33:42 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bigger part of the announcement is the new integration and distribution Polymarket gains via this partnership."
+  },
+  {
     "title": "Over $489M in Crypto Longs Liquidated as Bitcoin, Ethereum Extend Losses",
     "link": "https://decrypt.co/343371/over-489m-in-crypto-longs-liquidated-as-bitcoin-ethereum-extend-losses",
     "pubDate": "Wed, 08 Oct 2025 12:19:58 +0000",
     "source": "Decrypt",
     "contentSnippet": "Bitcoin's drop triggered $641 million in liquidations, but analysts see a healthy correction with a path to $135K if ETF inflows resume."
-  },
-  {
-    "title": "‘The 4-year cycle is dead, long live the king’: K33 claims Bitcoin’s new era breaks every old rule",
-    "link": "https://www.theblock.co/post/373799/the-4-year-cycle-is-dead-long-live-the-king-k33-claims-bitcoins-new-era-breaks-every-old-rule?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 08:12:59 -0400",
-    "source": "The Block",
-    "contentSnippet": "K33 argues that institutional adoption and policy shifts have ended bitcoin's four-year halving cycle, meaning this time is indeed different."
-  },
-  {
-    "title": "Crypto Markets Today: Gold Surges Past $4K as Bitcoin Rebounds; BNB Chain Defies Market Cool-Off",
-    "link": "https://www.coindesk.com/markets/2025/10/08/crypto-markets-today-gold-surges-past-usd4k-as-bitcoin-rebounds-bnb-chain-defies-market-cool-off",
-    "pubDate": "Wed, 08 Oct 2025 12:00:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Gold’s record-breaking rally and Bitcoin’s recovery to $122K come as derivatives markets show signs of profit-taking, not panic"
-  },
-  {
-    "title": "Bank of England Plans Exemptions to Stablecoin Limits: Bloomberg",
-    "link": "https://www.coindesk.com/policy/2025/10/08/bank-of-england-plans-exemptions-to-stablecoin-limits-on-businesses-bloomberg",
-    "pubDate": "Wed, 08 Oct 2025 11:52:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The BoE will grant waivers to some businesses like crypto exchanges that need to hold large amounts of the tokens."
   },
   {
     "title": "British Duo On Trial for Planning to Steal $23m in Crypto—From Behind Bars",
@@ -35,245 +210,70 @@
     "contentSnippet": "The pair are accused of planning robberies that targeted holders of “significant amounts of cryptocurrency assets” from jail."
   },
   {
-    "title": "Bit Digital’s Ethereum stockpile rises to $675 million as treasury firm adds 31,057 ETH",
-    "link": "https://www.theblock.co/post/373790/bit-digitals-ethereum-stockpile-rises-to-675-million-as-treasury-firm-adds-31057-eth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 07:31:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "The company used the net proceeds from its recently completed $150 million convertible notes offering to fund the acquisition."
-  },
-  {
-    "title": "US Labor Union Federation Slams Senate Crypto Bill as 'Facade of Regulation'",
-    "link": "https://decrypt.co/343366/us-labor-union-federation-slams-senate-crypto-bill-as-facade-of-regulation",
-    "pubDate": "Wed, 08 Oct 2025 11:15:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "AFL-CIO's opposition comes as the Senate rushes toward a year-end vote on legislation that would let banks trade crypto with FDIC backing."
-  },
-  {
-    "title": "Gold's Historic Run Dwarfs BTC But Analyst Remains Positive: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/08/gold-s-historic-run-dwarfs-btc-but-analyst-remain-positive-crypto-daybook-americas",
-    "pubDate": "Wed, 08 Oct 2025 11:00:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Oct. 8, 2025"
-  },
-  {
-    "title": "Survey Says: Crypto Voters May Skew Liberal But Favor What Trump's Done for Industry",
-    "link": "https://www.coindesk.com/policy/2025/10/07/survey-says-crypto-voters-may-skew-liberal-but-favor-what-trump-s-done-for-industry",
-    "pubDate": "Wed, 08 Oct 2025 11:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The diverse, young crowd of crypto investors may remain one of the few electoral sweet spots for President Donald Trump, according to an industry-funded poll."
-  },
-  {
-    "title": "Bitwise predicts record bitcoin ETF inflows in Q4 as ‘debasement trade’ kicks in",
-    "link": "https://www.theblock.co/post/373780/bitwise-predicts-record-bitcoin-etf-inflows-q4-debasement-trade?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 06:54:40 -0400",
-    "source": "The Block",
-    "contentSnippet": "CIO Matt Hougan cited recent wealth manager approvals, bitcoin's price surge, and the \"debasement trade\" narrative as key catalysts."
-  },
-  {
-    "title": "Polymarket discloses past funding rounds totaling $205 million before $2 billion ICE investment",
-    "link": "https://www.theblock.co/post/373783/polymarket-discloses-past-funding-rounds-totaling-205-million-before-2-billion-ice-investment?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 06:26:52 -0400",
-    "source": "The Block",
-    "contentSnippet": "Polymarket CEO Shayne Coplan said the prediction market closed $55M at a $350M valuation and $150M at a $1.2B valuation in previously undisclosed rounds."
-  },
-  {
-    "title": "Changpeng Zhao’s YZi Labs announces $1 billion fund for BNB Chain developers",
-    "link": "https://www.theblock.co/post/373774/changpeng-zhaos-yzi-labs-announces-1-billion-fund-for-bnb-chain-developers?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 05:31:20 -0400",
-    "source": "The Block",
-    "contentSnippet": "The $1 billion Builder Fund from YZi Labs aims to back BNB Chain-native founders and teams developing projects across sectors like DeFi and AI."
-  },
-  {
-    "title": "YZi Labs Introduces $1B Fund for BNB Chain Projects",
-    "link": "https://www.coindesk.com/business/2025/10/08/yzi-labs-introduces-usd1b-fund-for-bnb-chain-projects",
-    "pubDate": "Wed, 08 Oct 2025 09:29:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "YZI Labs says it wants the BNB ecosystem to form a backbone of \"democratized access and ownership\""
-  },
-  {
-    "title": "Bitcoin Under Pressure as Japanese Bond Yield Hits 17-Year High, Yen Depreciates ",
-    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-under-pressure-as-japanese-bond-yield-hits-17-year-high-yen-depreciates",
-    "pubDate": "Wed, 08 Oct 2025 09:22:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The hardening of Japanese government bond yields could spillover into other sovereign bond markets, capping upside in risk assets, including BTC."
-  },
-  {
-    "title": "Wealth App Stratiphy Partners With 21Shares to Offer Crypto ETNs Under New UK Rules",
-    "link": "https://www.coindesk.com/business/2025/10/08/wealth-management-app-stratiphy-and-21shares-partner-for-uk-access-to-crypto-etns",
-    "pubDate": "Wed, 08 Oct 2025 09:15:01 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The partnership launches as FCA rules change to allow UK retail investors to buy crypto Exchange Traded Notes."
-  },
-  {
-    "title": "Bank of England plans stablecoin cap exemptions as UK faces pressure to match US rules: report",
-    "link": "https://www.theblock.co/post/373760/uk-plans-stablecoin-cap-exemptions?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 04:34:38 -0400",
-    "source": "The Block",
-    "contentSnippet": "The BOE's earlier proposals included stablecoin caps of up to £20,000 ($26,832) for individuals and £10 million for businesses."
-  },
-  {
-    "title": "Traders price Monad at around $15 billion FDV on Hyperliquid’s MON pre-launch market",
-    "link": "https://www.theblock.co/post/373750/hyperliquid-lists-hyperps-monad-token?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 04:20:11 -0400",
-    "source": "The Block",
-    "contentSnippet": "Hyperliquid has listed MON-USD hyperps, allowing traders to long or short Monad's unlaunched token with up to 3x leverage."
-  },
-  {
-    "title": "PancakeSwap’s Chinese X Account Hacked to Push Scam Coin, Native Token Defies Drop",
-    "link": "https://decrypt.co/343362/pancakeswaps-chinese-x-account-hacked-native-token-defies-drop",
-    "pubDate": "Wed, 08 Oct 2025 06:11:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The price of PancakeSwap's native token remains mostly unaffected as experts blame the attack on phishing and weak security."
-  },
-  {
-    "title": "Trump memecoin issuer pursues $200 million funding to build digital asset treasury: Bloomberg",
-    "link": "https://www.theblock.co/post/373745/trump-memecoin-issuer-plans-funding?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 02:06:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "Fight Fight Fight LLC, the company behind Donald Trump’s memecoin, is seeking to raise at least $200 million to establish a digital asset treasury."
-  },
-  {
-    "title": "Bitcoin to $140K by Month End? Bullish Hopes Remain Even as Tuesday Drop Sends ETH, XRP, SOL Down 5%",
-    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-to-usd140k-by-month-end-bullish-hopes-remain-even-as-tuesday-drop-sends-eth-xrp-sol-down-5",
-    "pubDate": "Wed, 08 Oct 2025 05:54:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "With no payrolls or inflation prints on the calendar until Washington reopens, the market is running on positioning and flows rather than fresh catalysts."
-  },
-  {
-    "title": "XRP Crash Brewing? Prices Continue to Print 'Lower Highs' Alongside New Highs in Bitcoin",
-    "link": "https://www.coindesk.com/markets/2025/10/08/xrp-crash-brewing-prices-continue-to-print-lower-highs-alongside-new-highs-in-bitcoin",
-    "pubDate": "Wed, 08 Oct 2025 05:31:49 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The pattern makes XRP vulnerable to sharp downside volatility."
-  },
-  {
-    "title": "Kazakhstan Tightens Crypto Rules After Seizing $16.7M From Unlicensed Exchanges",
-    "link": "https://decrypt.co/343359/kazakhstan-tightens-crypto-rules-seizing-16-7m-illegal-exchanges",
-    "pubDate": "Wed, 08 Oct 2025 04:56:16 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The country's plans represent \"one of the boldest experiments in tying physical identity to financial transparency,\" Decrypt was told."
-  },
-  {
-    "title": "Dogecoin Plunges 8% Before Whale Buying Stabilizes at DOGE Prices $0.25",
-    "link": "https://www.coindesk.com/markets/2025/10/08/dogecoin-plunges-8-before-whale-buying-stabilizes-at-doge-prices-usd0-25",
-    "pubDate": "Wed, 08 Oct 2025 04:30:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Institutional interest remains with ETF filings, while mining investments signal long-term confidence in DOGE."
-  },
-  {
-    "title": "Why Altcoins Are Dragging Their Feet as Bitcoin, Ethereum Soar",
-    "link": "https://decrypt.co/343356/why-altcoins-are-dragging-their-feet-as-bitcoin-ethereum-soar",
-    "pubDate": "Wed, 08 Oct 2025 03:47:46 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts say altcoins lag as capital favors Bitcoin and Ethereum's liquidity, with any future rally being highly selective toward utility."
-  },
-  {
-    "title": "SEC to Formalize Crypto 'Innovation' Exemptions: Here's Why That Matters",
-    "link": "https://decrypt.co/343353/sec-formalize-crypto-innovation-exemptions",
-    "pubDate": "Wed, 08 Oct 2025 03:36:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The regulator is developing a framework that could let crypto projects experiment under supervision instead of facing enforcement."
-  },
-  {
-    "title": "Crypto’s Retail Era Is Over: Institutions Now Set the Market’s Pace, Experts Say",
-    "link": "https://decrypt.co/343350/cryptos-retail-era-over-institutions-set-markets-pace-experts",
-    "pubDate": "Tue, 07 Oct 2025 23:56:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Executives from Bitwise and Aspen Digital say long-term institutional capital now drives crypto as ETFs and wealth managers bring stability."
-  },
-  {
-    "title": "Litecoin, HBAR and more crypto ETFs ‘at the goal line’ as shutdown sits in the backdrop, analysts say",
-    "link": "https://www.theblock.co/post/373739/litecoin-hbar-and-more-crypto-etfs-at-the-goal-line-as-shutdown-sits-in-the-backdrop-analysts-say?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 18:51:37 -0400",
-    "source": "The Block",
-    "contentSnippet": "A new filing for an ETF tracking HBAR has revealed key details that analysts say signal it's inching closer to receiving the SEC's sign-off."
-  },
-  {
-    "title": "Bitcoin Cools but Analysts Remain Upbeat. Why?",
-    "link": "https://decrypt.co/343265/bitcoin-cools-but-analysts-remain-upbeat-why",
-    "pubDate": "Tue, 07 Oct 2025 22:25:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "One observer said that BTC could surpass $140,000 by year's end."
-  },
-  {
-    "title": "Uptober in Full Swing as Crypto Market Tops $4.3 Trillion: Here's What to Expect",
-    "link": "https://decrypt.co/343319/uptober-full-swing-crypto-market-what-to-expect",
-    "pubDate": "Tue, 07 Oct 2025 21:21:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The crypto market hit an all-time high this week as Bitcoin again shattered records. But can bulls sustain the momentum throughout the entire month of Uptober?"
-  },
-  {
-    "title": "DCG’s decentralized AI subsidiary Yuma hires TradeBlock co-founders to C-Suite",
-    "link": "https://www.theblock.co/post/373728/dcgs-decentralized-ai-subsidiary-yuma-hires-tradeblock-co-founders-c-suite?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 16:12:10 -0400",
-    "source": "The Block",
-    "contentSnippet": "TradeBlock had a preexisting relationship with DCG, one of the largest crypto conglomerates, and Axoni, a blockchain infrastructure firm."
-  },
-  {
-    "title": " Early crypto gems: How to discover them first ",
+    "title": "Early crypto gems: How to discover them first",
     "link": "https://cointelegraph.com/news/early-crypto-gems-how-to-discover-them-first?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 07 Oct 2025 12:27:08 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Spot early crypto gems in 2025 with five key checks — builders, usage, liquidity, token design and security — to avoid exit liquidity traps."
   },
   {
-    "title": " FIFA’s blockchain-based tickets face scrutiny from Swiss gambling regulator ",
+    "title": "FIFA’s blockchain-based tickets face scrutiny from Swiss gambling regulator",
     "link": "https://cointelegraph.com/news/fifa-blockchain-tickets-scrutiny-swiss-nft?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 06 Oct 2025 22:13:39 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Switzerland’s gambling watchdog is reviewing FIFA’s “Right to Buy” NFTs, while noting no wrongdoing has been alleged."
   },
   {
-    "title": " Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test ",
+    "title": "Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test",
     "link": "https://cointelegraph.com/news/judge-tosses-lawsuit-yuga-labs-fail-satisfy-howey-test?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 03 Oct 2025 22:47:38 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "The plaintiffs failed to show how Bored Ape Yacht Club and other NFTs represent investment contracts under the SEC's 3-pronged Howey Test."
   },
   {
-    "title": " Bitcoin on TV: How shows like South Park influence crypto ",
+    "title": "Bitcoin on TV: How shows like South Park influence crypto",
     "link": "https://cointelegraph.com/news/bitcoin-shows-south-park-influence-crypto?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 02 Oct 2025 14:15:51 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "\"South Park\" is back to roasting crypto in its recent episode, but digital assets like Bitcoin have been a pop culture punchline for a long time."
   },
   {
-    "title": " How to use Google’s Gemini to research coins before you invest ",
+    "title": "How to use Google’s Gemini to research coins before you invest",
     "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 02 Oct 2025 12:11:23 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
   },
   {
-    "title": " How to use ChatGPT to find hidden gems in the crypto market ",
+    "title": "How to use ChatGPT to find hidden gems in the crypto market",
     "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-find-hidden-gems-in-the-crypto-market?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 01 Oct 2025 10:45:27 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Discover hidden crypto gems using ChatGPT: GPTs, sentiment insights and data-driven scanners for smarter research and trading."
   },
   {
-    "title": " Base NFTs overtake rivals in sales count led by AI trading game: DappRadar ",
+    "title": "Base NFTs overtake rivals in sales count led by AI trading game: DappRadar",
     "link": "https://cointelegraph.com/news/base-nfts-dx-terminal-sales-september?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 30 Sep 2025 11:24:52 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Base’s DX Terminal NFTs ranked first in sales counts, having 1.27 million transactions, a more than 1,000% increase over the previous month."
   },
   {
-    "title": " Early Hyperliquid user sells airdropped Hypurr NFT for $467K ",
+    "title": "Early Hyperliquid user sells airdropped Hypurr NFT for $467K",
     "link": "https://cointelegraph.com/news/early-hyperliquid-user-sells-airdropped-hypurr-nft-467k?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 29 Sep 2025 03:36:38 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Early Hyperliquid users have been rewarded with a massive Hypurr NFT airdrop, with the free digital cats now worth over $64,000."
   },
   {
-    "title": " Hester Peirce discusses her future NFT plans after serving at SEC ",
+    "title": "Hester Peirce discusses her future NFT plans after serving at SEC",
     "link": "https://cointelegraph.com/news/sec-hester-peirce-crypto-mom-nft-joke?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 26 Sep 2025 22:35:00 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "She said she was joking about “becoming an NFT creator” after her time at the SEC; the commissioner signaled she was working “to get crypto policy right” first."
   },
   {
-    "title": " Vesting NFTs top daily sales volume chart: CryptoSlam ",
+    "title": "Vesting NFTs top daily sales volume chart: CryptoSlam",
     "link": "https://cointelegraph.com/news/vesting-nfts-top-daily-sales-volumes-chart-cryptoslam?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 26 Sep 2025 13:56:48 +0100",
     "source": "Cointelegraph NFT",
