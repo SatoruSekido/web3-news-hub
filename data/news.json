@@ -1,5 +1,82 @@
 [
   {
+    "title": "PancakeSwap’s Chinese X Account Hacked to Push Scam Coin, Native Token Defies Drop",
+    "link": "https://decrypt.co/343362/pancakeswaps-chinese-x-account-hacked-native-token-defies-drop",
+    "pubDate": "Wed, 08 Oct 2025 06:11:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The price of PancakeSwap's native token remains mostly unaffected as experts blame the attack on phishing and weak security."
+  },
+  {
+    "title": "Trump memecoin issuer pursues $200 million funding to build digital asset treasury: Bloomberg",
+    "link": "https://www.theblock.co/post/373745/trump-memecoin-issuer-plans-funding?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 08 Oct 2025 02:06:01 -0400",
+    "source": "The Block",
+    "contentSnippet": "Fight Fight Fight LLC, the company behind Donald Trump’s memecoin, is seeking to raise at least $200 million to establish a digital asset treasury."
+  },
+  {
+    "title": "XRP Crash Brewing? Prices Continue to Print 'Lower Highs' Alongside New Highs in Bitcoin",
+    "link": "https://www.coindesk.com/markets/2025/10/08/xrp-crash-brewing-prices-continue-to-print-lower-highs-alongside-new-highs-in-bitcoin",
+    "pubDate": "Wed, 08 Oct 2025 05:31:49 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The pattern makes XRP vulnerable to sharp downside volatility."
+  },
+  {
+    "title": "Kazakhstan Tightens Crypto Rules After Seizing $16.7M From Unlicensed Exchanges",
+    "link": "https://decrypt.co/343359/kazakhstan-tightens-crypto-rules-seizing-16-7m-illegal-exchanges",
+    "pubDate": "Wed, 08 Oct 2025 04:56:16 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The country's plans represent \"one of the boldest experiments in tying physical identity to financial transparency,\" Decrypt was told."
+  },
+  {
+    "title": "Dogecoin Plunges 8% Before Whale Buying Stabilizes at DOGE Prices $0.25",
+    "link": "https://www.coindesk.com/markets/2025/10/08/dogecoin-plunges-8-before-whale-buying-stabilizes-at-doge-prices-usd0-25",
+    "pubDate": "Wed, 08 Oct 2025 04:30:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Institutional interest remains with ETF filings, while mining investments signal long-term confidence in DOGE."
+  },
+  {
+    "title": "Gold Skyrockets Past $4K, Bitcoin Looks South as Dollar Index Hits 2-Month",
+    "link": "https://www.coindesk.com/markets/2025/10/08/gold-skyrockets-past-usd4k-bitcoin-looks-south-as-dollar-index-hits-2-month",
+    "pubDate": "Wed, 08 Oct 2025 04:19:05 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin and gold have diverged over the past 24 hours amid a strengthening dollar index."
+  },
+  {
+    "title": "Bitcoin’s Short-Term Whales Now Hold $10.1B in Paper Gains. Is a Cash Out Next?",
+    "link": "https://www.coindesk.com/markets/2025/10/08/bitcoin-s-short-term-whales-now-hold-usd10-1b-in-paper-gains-is-a-cash-out-next",
+    "pubDate": "Wed, 08 Oct 2025 04:00:31 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Exchange inflow data already showed $5.7 billion moving from STH wallets into exchanges earlier this week, marking an early sign that profit-taking is not a theoretical risk, but an active one."
+  },
+  {
+    "title": "Why Altcoins Are Dragging Their Feet as Bitcoin, Ethereum Soar",
+    "link": "https://decrypt.co/343356/why-altcoins-are-dragging-their-feet-as-bitcoin-ethereum-soar",
+    "pubDate": "Wed, 08 Oct 2025 03:47:46 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Experts say altcoins lag as capital favors Bitcoin and Ethereum's liquidity, with any future rally being highly selective toward utility."
+  },
+  {
+    "title": " XRP Drops to $2.90 Support as Bullish Crypto Bets Rack up $500M Liquidations ",
+    "link": "https://www.coindesk.com/markets/2025/10/08/xrp-drops-to-usd2-90-support-as-bullish-crypto-bets-rack-up-usd500m-liquidations",
+    "pubDate": "Wed, 08 Oct 2025 03:39:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Traders are watching if XRP can hold the $2.85–$2.87 support band amid broader market pressures."
+  },
+  {
+    "title": "SEC to Formalize Crypto 'Innovation' Exemptions: Here's Why That Matters",
+    "link": "https://decrypt.co/343353/sec-formalize-crypto-innovation-exemptions",
+    "pubDate": "Wed, 08 Oct 2025 03:36:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The regulator is developing a framework that could let crypto projects experiment under supervision instead of facing enforcement."
+  },
+  {
+    "title": "Asia Morning Briefing: Singapore Authorities Say Token2049 Organizer Not Covered by Russia Sanctions After A7A5 Appearance",
+    "link": "https://www.coindesk.com/markets/2025/10/08/asia-morning-briefing-singapore-authorities-say-token2049-organizer-not-covered-by-russia-sanctions-after-a7a5-appearance",
+    "pubDate": "Wed, 08 Oct 2025 02:05:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Monetary Authority of Singapore spokesperson tells CoinDesk that entities not regulated as financial institutions are not subject to sanctions measures."
+  },
+  {
     "title": "Crypto’s Retail Era Is Over: Institutions Now Set the Market’s Pace, Experts Say",
     "link": "https://decrypt.co/343350/cryptos-retail-era-over-institutions-set-markets-pace-experts",
     "pubDate": "Tue, 07 Oct 2025 23:56:48 +0000",
@@ -77,13 +154,6 @@
     "contentSnippet": "The government’s shutdown may not completely derail cryptocurrency legislation efforts, but insiders say it’s certainly not helping."
   },
   {
-    "title": "Trump Fired Her From the FTC. Now Her Husband’s Crypto Bill Could Suffer",
-    "link": "https://decrypt.co/343251/trump-fired-ftc-commissioner-crypto-bill",
-    "pubDate": "Tue, 07 Oct 2025 18:07:00 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The intertwined fortunes of Rebecca and Justin Slaughter underscore a key constitutional issue that could derail crypto’s long-desired market structure bill."
-  },
-  {
     "title": "Gemini stock projected for 25% upside driven by crypto reward card ‘flywheel’ and EU license",
     "link": "https://www.theblock.co/post/373714/gemini-stock-projected-25-upside-driven-crypto-reward-card-flywheel-eu-license?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 07 Oct 2025 13:56:11 -0400",
@@ -91,32 +161,11 @@
     "contentSnippet": "Analysts are split between buy and hold ratings, with KBW warning Gemini may remain unprofitable through the forecast period despite its rapid growth."
   },
   {
-    "title": "S&#038;P to Debut New Index Tracking Crypto Assets and Public Companies",
-    "link": "https://decrypt.co/343247/sp-debut-new-index-tracking-crypto-assets-public-companies",
-    "pubDate": "Tue, 07 Oct 2025 17:31:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The index will follow the performance of 15 cryptocurrencies and 35 companies focused on the digital asset space."
-  },
-  {
-    "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
-    "link": "https://decrypt.co/resources/zcash",
-    "pubDate": "Tue, 07 Oct 2025 17:23:52 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Zcash is touted as the next best privacy coin. It offers completely hidden transactions that could make crypto as anonymous as cash."
-  },
-  {
     "title": "The Daily: NYSE parent firm ICE to invest $2 billion in Polymarket, Bitcoin ETFs log biggest daily inflows since Trump’s election win, and more",
     "link": "https://www.theblock.co/post/373712/the-daily-nyse-parent-firm-ice-to-invest-2-billion-in-polymarket-bitcoin-etfs-log-biggest-daily-inflows-since-trumps-election-win-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 07 Oct 2025 13:09:55 -0400",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Scientists Who Brought Quantum Weirdness to the Real World Win Nobel Prize in Physics",
-    "link": "https://decrypt.co/343237/scientists-quantum-weirdness-real-world-win-nobel-prize-physics",
-    "pubDate": "Tue, 07 Oct 2025 16:58:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "This year's Nobel Prize in Physics honors a trio whose 1980s experiments made quantum circuits—and today’s quantum computers—possible."
   },
   {
     "title": "BNB rallies 80% to become third-largest cryptocurrency as chain activity surges, supply tightens",
@@ -147,13 +196,6 @@
     "contentSnippet": "The pullback was a broad one, with altcoins like SOL, ADA, and XRP suffering even steeper declines."
   },
   {
-    "title": "Filecoin Confronts Persistent Selling Pressure as Token Slumps 4%",
-    "link": "https://www.coindesk.com/markets/2025/10/07/filecoin-confronts-persistent-selling-pressure-as-token-slumps-4",
-    "pubDate": "Tue, 07 Oct 2025 15:27:35 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The crypto broke through multiple support levels on high volume."
-  },
-  {
     "title": "Hyperliquid NFT airdrop rockets Hypurr to $300 million market cap",
     "link": "https://www.theblock.co/post/373577/hyperliquid-nft-airdrop-rockets-hypurr-to-300-million-market-cap?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 07 Oct 2025 11:26:01 -0400",
@@ -166,48 +208,6 @@
     "pubDate": "Tue, 07 Oct 2025 11:07:35 -0400",
     "source": "The Block",
     "contentSnippet": "Tokenized gold trading volumes jumped to $640 million in the past 24 hours, led by PAX Gold and Tether Gold."
-  },
-  {
-    "title": "CEA Industries Total BNB Holdings Rise to 480K as Token Hits Record High",
-    "link": "https://www.coindesk.com/business/2025/10/07/cea-industries-total-bnb-holdings-rise-to-480k-as-token-hits-record-high",
-    "pubDate": "Tue, 07 Oct 2025 14:54:45 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The value of CEA's BNB holdings has moved to over $625 million, BNB itself reaching a new all-time high above $1,310."
-  },
-  {
-    "title": "Bitcoin Miners Posted Record Profits in 2Q as HPC Push Accelerated, JPMorgan Says",
-    "link": "https://www.coindesk.com/markets/2025/10/07/bitcoin-miners-posted-record-profits-in-2q-as-hpc-push-accelerated-jpmorgan-says",
-    "pubDate": "Tue, 07 Oct 2025 14:29:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Rising bitcoin prices, improved efficiency, and heavy investment in high-performance computing fueled a strong second quarter for miners, the bank said."
-  },
-  {
-    "title": "Dogecoin treasury firm CleanCore holds 710 million DOGE as it awaits SEC share registration",
-    "link": "https://www.theblock.co/post/373679/dogecoin-treasury-cleancore-710-million-doge-awaits-sec-share-registration?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 07 Oct 2025 10:26:34 -0400",
-    "source": "The Block",
-    "contentSnippet": "The company also said it is working with the SEC to get private placement shares registered in a timely manner."
-  },
-  {
-    "title": "S&P’s New Index Blends 15 Cryptos With 35 Crypto-Linked Stocks",
-    "link": "https://www.coindesk.com/markets/2025/10/07/s-and-p-s-new-index-blends-15-cryptos-with-35-crypto-linked-stocks",
-    "pubDate": "Tue, 07 Oct 2025 13:56:25 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Dinari will issue a blockchain-based token that tracks the performance of the index on-chain."
-  },
-  {
-    "title": "Bitcoin Miner IREN Jumps 9% After Securing New Multi-Year AI Cloud Contracts",
-    "link": "https://www.coindesk.com/markets/2025/10/07/bitcoin-miner-iren-jumps-9-after-securing-new-multi-year-ai-cloud-contracts",
-    "pubDate": "Tue, 07 Oct 2025 13:22:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "AI and HPC stocks are moving higher again, with IREN, Bitfarms, and Hive Digital extending their rally on rising GPU and cloud momentum."
-  },
-  {
-    "title": "Newly Public Crypto Exchange Gemini Gets Lukewarm Reception From KBW",
-    "link": "https://www.coindesk.com/markets/2025/10/07/newly-public-crypto-exchange-gemini-gets-lukewarm-reception-from-kbw",
-    "pubDate": "Tue, 07 Oct 2025 13:18:15 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Though liking the long-term prospects for the Winklevoss-led company, KBW placed a market perform rating on the stock, expecting GEMI to remain unprofitable for the time being."
   },
   {
     "title": " Early crypto gems: How to discover them first ",
