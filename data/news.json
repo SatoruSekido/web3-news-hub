@@ -1,5 +1,82 @@
 [
   {
+    "title": "Ethereum Foundation creates Privacy Cluster team to strengthen onchain privacy",
+    "link": "https://www.theblock.co/post/373951/ethereum-foundation-creates-privacy-cluster?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 09 Oct 2025 02:20:27 -0400",
+    "source": "The Block",
+    "contentSnippet": "Ethereum Foundation has formed the Privacy Cluster, a 47-member team of researchers, engineers, and cryptographers led by Igor Barinov."
+  },
+  {
+    "title": "UK to appoint ‘digital markets champion’ to lead tokenization efforts: report",
+    "link": "https://www.theblock.co/post/373949/uk-plans-digital-markets-champion-tokenization?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 09 Oct 2025 02:10:19 -0400",
+    "source": "The Block",
+    "contentSnippet": "The new role is set to coordinate and lead collaboration between the government and private sector on tokenization, Bloomberg reported."
+  },
+  {
+    "title": "Why Bitcoin's Rally Has Room to Run This Month",
+    "link": "https://decrypt.co/343501/why-bitcoins-rally-has-room-to-run-this-month",
+    "pubDate": "Thu, 09 Oct 2025 06:09:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin’s record rally appears durable, as on-chain data and derivatives point to restrained selling and steady institutional confidence."
+  },
+  {
+    "title": "Coinbase integrates DEX trading within its exchange for US users on Base network",
+    "link": "https://www.theblock.co/post/373940/coinbase-integrates-dex-trading-within-its-exchange-for-us-users-on-base-network?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 09 Oct 2025 01:37:19 -0400",
+    "source": "The Block",
+    "contentSnippet": "Coinbase first teased the DEX feature in August, and the trading service officially went live on Wednesday."
+  },
+  {
+    "title": "XRP Rejected at $2.93, Tests $2.85 Support After Failed Breakout",
+    "link": "https://www.coindesk.com/markets/2025/10/09/xrp-rejected-at-usd2-93-tests-usd2-85-support-after-failed-breakout",
+    "pubDate": "Thu, 09 Oct 2025 05:22:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A fresh supply zone formed at $2.92–$2.93, while the $2.85 floor is now under scrutiny as macro headwinds weigh on flows."
+  },
+  {
+    "title": "DOGE Rejected at $0.26, Slides 2% as Profit-Taking Hits",
+    "link": "https://www.coindesk.com/markets/2025/10/09/doge-rejected-at-usd0-26-slides-2-as-profit-taking-hits",
+    "pubDate": "Thu, 09 Oct 2025 05:18:38 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "On-chain flows show large holders adding 30M tokens (approximately $8M), suggesting accumulation remains intact even as resistance caps upside momentum."
+  },
+  {
+    "title": "Gemini Expands Operations in Australia with AUSTRAC Registration",
+    "link": "https://www.coindesk.com/markets/2025/10/09/gemini-expands-operations-in-australia-with-austrac-registration",
+    "pubDate": "Thu, 09 Oct 2025 04:36:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Gemini's Australia arm is now registered with AUSTRAC."
+  },
+  {
+    "title": "Zcash Extends October Rally: What's Driving the Surge?",
+    "link": "https://decrypt.co/343493/zcash-extends-october-rally-whats-driving-the-surge",
+    "pubDate": "Thu, 09 Oct 2025 03:53:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Zcash has surged more than 140% in two weeks to a three-year high, lifted by new institutional access and high-profile endorsements."
+  },
+  {
+    "title": "Bitwise and 21Shares Add Staking, Slash Fees in Latest Solana and Ethereum ETF Filings",
+    "link": "https://decrypt.co/343490/bitwise-21shares-staking-fees-solana-ethereum-etf",
+    "pubDate": "Thu, 09 Oct 2025 03:30:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "New filings from the two crypto ETF issuers suggest that U.S. crypto funds are moving beyond simple price exposure."
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin Climbs Through the Fog as Analysts Split on What’s Driving It",
+    "link": "https://www.coindesk.com/markets/2025/10/09/asia-morning-briefing-bitcoin-climbs-through-the-fog-as-analysts-split-on-what-s-driving-it",
+    "pubDate": "Thu, 09 Oct 2025 01:17:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Trading near $123,000, Bitcoin’s rise has become a mirror for the market’s uncertainty, part trust and part froth, with QCP calling it a “credibility hedge” while Glassnode and CryptoQuant debate whet"
+  },
+  {
+    "title": "The Decentralized Map Paying for Data That Google Uses for Free",
+    "link": "https://decrypt.co/343482/decentralized-map-paying-data-google-uses-free",
+    "pubDate": "Thu, 09 Oct 2025 01:07:56 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "OpenLedger’s latest addition of Sensemap to its on-chain AI ecosystem rewards users for verified real-world data, but can it compete?"
+  },
+  {
     "title": "Bank of North Dakota Taps Fiserv to Launch State-Backed 'Roughrider Coin'",
     "link": "https://decrypt.co/343478/north-dakota-fiserv-launch-state-backed-roughrider-coin",
     "pubDate": "Thu, 09 Oct 2025 00:00:56 +0000",
@@ -119,20 +196,6 @@
     "contentSnippet": "The rollout includes new bitcoin payment tools and a merchant wallet aimed at making cryptocurrency use easier for small businesses."
   },
   {
-    "title": "This NYSE-Listed Food Company Aims to Stack $1.2 Billion in Bitcoin",
-    "link": "https://decrypt.co/343383/this-nyse-listed-food-company-aims-to-stack-1-2-billion-in-bitcoin",
-    "pubDate": "Wed, 08 Oct 2025 18:12:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "DDC's share price was up nearly 7% after announcing that it had raised an additional $124 million for Bitcoin purchases."
-  },
-  {
-    "title": "Solana DeFi Exchange Jupiter to Launch Native Stablecoin",
-    "link": "https://decrypt.co/343416/solana-defi-jupiter-ethena-stablecoin-jupusd",
-    "pubDate": "Wed, 08 Oct 2025 17:57:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Solana DEX and DeFi protocol Jupiter is expanding its feature set with the launch of its own stablecoin, JupUSD, on Solana."
-  },
-  {
     "title": "Hyperliquid Lists MON-USD Perpetuals Ahead of Hotly Anticipated Monad Airdrop",
     "link": "https://www.coindesk.com/business/2025/10/08/hyperliquid-lists-mon-usd-perpetuals-ahead-of-hotly-anticipated-monad-airdrop",
     "pubDate": "Wed, 08 Oct 2025 17:54:21 +0000",
@@ -145,69 +208,6 @@
     "pubDate": "Wed, 08 Oct 2025 13:41:01 -0400",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Stablecoins: The Revolution in Global Money Transfers",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/10/08/stablecoins-the-revolution-in-global-money-transfers",
-    "pubDate": "Wed, 08 Oct 2025 17:03:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Stablecoins are no longer just a bridge between crypto and fiat — they are becoming the rails of global commerce, writes Nonco CEO Fernando Martinez."
-  },
-  {
-    "title": "North Dakota to Issue Stablecoin With Fiserv as Digital Dollar Trend Expands",
-    "link": "https://www.coindesk.com/business/2025/10/08/north-dakota-to-issue-stablecoin-with-fiserv-as-digital-dollar-trend-expands",
-    "pubDate": "Wed, 08 Oct 2025 16:41:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Fiserv-powered U.S. dollar stablecoin will be available to local banks and credit unions, joining crypto experiments by U.S. states."
-  },
-  {
-    "title": "DDC Enterprise lands $124 million in sprint to build 10,000 bitcoin war chest",
-    "link": "https://www.theblock.co/post/373873/meal-platform-ddc-124-million-financing-sprint-10000-bitcoin-war-chest?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 12:40:05 -0400",
-    "source": "The Block",
-    "contentSnippet": "Achieving its 10,000 BTC target by 2025 would push DDC into the top tier of publicly listed bitcoin treasuries."
-  },
-  {
-    "title": "The State of DeFi Exploit Risk ",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/10/08/the-state-of-defi-exploit-risk",
-    "pubDate": "Wed, 08 Oct 2025 16:38:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "DeFi protocols can rival or surpass traditional financial security standards and introduce frameworks to better assess risks in real-world asset applications for smarter capital allocation, says Cicad"
-  },
-  {
-    "title": "Tezos Shooter ‘Reaper Actual’ From EverQuest Co-Creator Enters Alpha Playtesting",
-    "link": "https://decrypt.co/343396/tezos-shooter-reaper-actual-from-everquest-co-creator-enters-alpha-playtesting",
-    "pubDate": "Wed, 08 Oct 2025 16:29:46 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "John Smedley, the man behind EverQuest, H1Z1, and PlanetSide, has debuted his crypto shooter into an alpha playtesting phase."
-  },
-  {
-    "title": "Senate confirms Trump-backed pick Jonathan McKernan to Treasury role",
-    "link": "https://www.theblock.co/post/373871/senate-confirms-trump-backed-pick-jonathan-mckernan-to-treasury-role?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 12:24:49 -0400",
-    "source": "The Block",
-    "contentSnippet": "The U.S. Senate confirmed Jonathan McKernan, who has been critical of crypto debanking, to a top position at the Treasury Department."
-  },
-  {
-    "title": "MetaMask Adds Support for Hyperliquid Swaps, Eyes Polymarket Integration",
-    "link": "https://decrypt.co/343399/metamask-support-hyperliquid-swaps-eyes-polymarket-integration",
-    "pubDate": "Wed, 08 Oct 2025 16:19:07 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "MetaMask also unveiled a rewards system."
-  },
-  {
-    "title": "North Dakota and Fiserv to launch the state’s ‘Roughrider’ stablecoin next year",
-    "link": "https://www.theblock.co/post/373865/north-dakota-fiserv-launch-roughrider-stablecoin-next-year?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 08 Oct 2025 12:14:28 -0400",
-    "source": "The Block",
-    "contentSnippet": "The Roughrider stablecoin will leverage the FIUSD digital asset platform and should eventually be interoperable with other coins."
-  },
-  {
-    "title": "The Protocol: 77% of Bitcoin Holders Have Never Used BTCFi, Survey Reveals",
-    "link": "https://www.coindesk.com/tech/2025/10/08/the-protocol-77-of-bitcoin-holders-have-never-used-btcfi-survey-reveals",
-    "pubDate": "Wed, 08 Oct 2025 16:13:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Also: Ethereum Fusaka Upgrade on Holesky, DoubleZero Goes Live and Bee Maps Raises $42M."
   },
   {
     "title": "Early crypto gems: How to discover them first",
