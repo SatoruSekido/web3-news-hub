@@ -1,31 +1,129 @@
 [
   {
+    "title": "Bitcoin Traders Tilt Bullish as Short Squeeze Looms While Chinese Memecoins Crash",
+    "link": "https://www.coindesk.com/markets/2025/10/10/crypto-markets-today",
+    "pubDate": "Fri, 10 Oct 2025 12:00:40 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin’s rebound from overnight lows has reignited bullish sentiment across crypto markets, with institutional inflows and leveraged positioning pointing to potential upside."
+  },
+  {
+    "title": "Zcash Leads Privacy Coin Surge Amid Surveillance Fears",
+    "link": "https://decrypt.co/343790/zcash-leads-privacy-coin-surge-amid-surveillance-fears",
+    "pubDate": "Fri, 10 Oct 2025 11:58:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Privacy coins have posted triple-digit weekly gains as investors seek protection from surveillance and capital freezes."
+  },
+  {
+    "title": "‘Distribution Is the Key’: BNB’s 129% Rally Mirrors Solana’s 2024 Surge",
+    "link": "https://www.coindesk.com/markets/2025/10/10/distribution-is-the-key-bnb-s-129-rally-mirrors-solana-s-2024-surge",
+    "pubDate": "Fri, 10 Oct 2025 11:42:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The recent surge in BNB's price appears to be driven by Binance's scale and user reach, with $14.8 billion in inflows last quarter."
+  },
+  {
+    "title": "$21 million stolen from Hyperliquid user after apparent private key compromise: PeckShield",
+    "link": "https://www.theblock.co/post/374145/21-million-stolen-from-hyperliquid-user-after-apparent-private-key-compromise-peckshield?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Oct 2025 07:38:44 -0400",
+    "source": "The Block",
+    "contentSnippet": "A Hyperliquid user lost about $21 million after a private key leak, with the attacker bridging stolen funds to Ethereum shortly after, per onchain data."
+  },
+  {
+    "title": "Bitcoin miners’ power edge makes them key AI infrastructure players, Bernstein says",
+    "link": "https://www.theblock.co/post/374135/bitcoin-miners-power-edge-key-ai-infrastructure-players-bernstein-iren?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Oct 2025 07:19:32 -0400",
+    "source": "The Block",
+    "contentSnippet": "IREN stands out with 3 GW of power capacity, 23,300 GPUs, and a $500 million AI cloud revenue run-rate by early 2026, the analysts said."
+  },
+  {
+    "title": "Bitcoin Ready for 'Big Moves' on 91% Chance of Fed Rate Cut: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/10/10/bitcoin-ready-for-big-moves-on-91-chance-of-fed-rate-cut-crypto-daybook-americas",
+    "pubDate": "Fri, 10 Oct 2025 11:15:23 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Oct. 10, 2025"
+  },
+  {
+    "title": "Zcash reclaims $200 level after three years amid renewed interest in privacy coins",
+    "link": "https://www.theblock.co/post/374131/zcash-reclaims-200-level-after-three-years-amid-renewed-interest-in-privacy-coins?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Oct 2025 06:21:17 -0400",
+    "source": "The Block",
+    "contentSnippet": "Zcash traded above $230 in a privacy-coin rally as traders pivoted to a censorship-resistant trend, while some warn the move could signal a local BTC top."
+  },
+  {
+    "title": "Will Cardano ETF be Approved by This year Amid Government Shutdown?",
+    "link": "https://www.coindesk.com/markets/2025/10/10/analysis-market-is-undervaluing-the-possibility-cardano-ada-etf-is-delayed-until-2026",
+    "pubDate": "Fri, 10 Oct 2025 10:03:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "With the SEC running on skeleton staff during the prolonged U.S. government shutdown, crypto ETF reviews are effectively frozen. A weeks-long pause could push Cardano’s long-awaited ETF decision past "
+  },
+  {
+    "title": "Ethereum ETFs end eight-day, $2 billion inflow streak as ETH cools",
+    "link": "https://www.theblock.co/post/374123/ethereum-etfs-end-latest-eight-day-2-billion-inflow-streak-eth-cools?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Oct 2025 05:34:15 -0400",
+    "source": "The Block",
+    "contentSnippet": "U.S. spot Ethereum exchange-traded funds experienced net outflows of $8.7 million on Thursday, led by Fidelity's FETH."
+  },
+  {
+    "title": "Crypto Industry Unimpressed by Possible Exemptions from Bank of England Stablecoin Cap",
+    "link": "https://decrypt.co/343775/crypto-industry-unimpressed-by-possible-exemptions-from-bank-of-england-stablecoin-cap",
+    "pubDate": "Fri, 10 Oct 2025 09:30:42 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Industry groups argued that any cap would be difficult to enforce, and would slow the development of the UK’s burgeoning crypto sector."
+  },
+  {
+    "title": "Bitcoin Miners Rally in Pre-Market as Sector Nears $90B Market Cap",
+    "link": "https://www.coindesk.com/markets/2025/10/10/bitcoin-miners-rally-in-pre-market-as-sector-nears-usd90b-market-cap",
+    "pubDate": "Fri, 10 Oct 2025 09:24:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "AI and high-performance computing demand fuel fresh gains, with miners eyeing a potential $100 billion market cap by year-end"
+  },
+  {
+    "title": "Bankr bot resumes activity on X after suspension sparks crypto community backlash",
+    "link": "https://www.theblock.co/post/374119/bankr-back-live-x?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 10 Oct 2025 05:09:50 -0400",
+    "source": "The Block",
+    "contentSnippet": "However, the bot remains suspended on Telegram, with Bankr founder suggesting a possible violation of terms of service."
+  },
+  {
+    "title": "China Expands Rare Earth Export Controls Ahead of Trump-Xi Meeting",
+    "link": "https://www.coindesk.com/markets/2025/10/10/china-expands-rare-earth-export-controls-ahead-of-trump-xi-meeting",
+    "pubDate": "Fri, 10 Oct 2025 09:00:58 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "This move could disrupt global supply chains, drive up prices, and have ripple effects across financial markets."
+  },
+  {
+    "title": "Hyperliquid Introduces 'Based Streams,' a DEX-Powered Live Streaming Platform",
+    "link": "https://www.coindesk.com/business/2025/10/10/hyperliquid-introduces-based-streams-a-dex-powered-live-streaming-platform",
+    "pubDate": "Fri, 10 Oct 2025 08:51:20 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The livestreaming feature lets creators broadcast trades, accept token donations, and reward viewers via its Hypercore protocol"
+  },
+  {
+    "title": "Bitcoin Implied Volatility Reaches 2.5-Month High as Seasonal Strength Kicks In",
+    "link": "https://www.coindesk.com/markets/2025/10/10/bitcoin-implied-volatility-reaches-2-5-month-high-as-seasonal-strength-kicks-in",
+    "pubDate": "Fri, 10 Oct 2025 07:49:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Implied volatility hits a 2.5-month high as price momentum and historical patterns point to a strong Q4"
+  },
+  {
+    "title": "Privacy Tokens Zcash, Dash, Railgun Rip Higher as Market Rotates Back to 2018 Narratives",
+    "link": "https://www.coindesk.com/markets/2025/10/10/privacy-tokens-zcash-dash-railgun-rip-higher-as-market-rotates-back-to-2018-narratives",
+    "pubDate": "Fri, 10 Oct 2025 06:45:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "What stands out is how capital is rotating into the once-forgotten privacy sector at the exact moment broader liquidity is still searching for a narrative."
+  },
+  {
+    "title": "Bitcoin 'OG' Whale Raises Bearish BTC Bet Worth Over $400M ",
+    "link": "https://www.coindesk.com/markets/2025/10/10/bitcoin-og-raises-bearish-btc-bet-worth-over-usd400m",
+    "pubDate": "Fri, 10 Oct 2025 06:28:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The OG whale reportedly sold BTC in the spot market earlier this week."
+  },
+  {
     "title": "Bitcoin slides to near $121,000 but analysts say ‘Uptober’ sentiment intact",
     "link": "https://www.theblock.co/post/374110/bitcoin-dips-uptober-still-intact?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Oct 2025 02:17:46 -0400",
     "source": "The Block",
     "contentSnippet": "Analysts said the crypto market structure remains strong, but told traders to keep an eye on broader economic news and data."
-  },
-  {
-    "title": "XRP Struggles to Reclaim $3 as Spot Demand Thins",
-    "link": "https://www.coindesk.com/markets/2025/10/10/xrp-struggles-to-reclaim-usd3-as-spot-demand-thins",
-    "pubDate": "Fri, 10 Oct 2025 06:17:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Traders are closely watching whether the $2.78 support level holds and how leverage unwinds might affect price volatility."
-  },
-  {
-    "title": "Monero Releases Privacy Boost Against Sneaky Network Nodes",
-    "link": "https://www.coindesk.com/tech/2025/10/10/monero-releases-privacy-boost-against-sneaky-network-nodes",
-    "pubDate": "Fri, 10 Oct 2025 05:52:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Monero has released the 'Fluorine Fermi' update to enhance user privacy against spy nodes."
-  },
-  {
-    "title": "XRP, DOGE, SOL See Friday Pullback as $2.7B Flow to Bitcoin ETFs This Week",
-    "link": "https://www.coindesk.com/markets/2025/10/10/xrp-doge-sol-see-friday-pullback-as-usd2-2b-flow-to-bitcoin-etfs-this-week",
-    "pubDate": "Fri, 10 Oct 2025 04:57:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC traders continue to lean bullish despite the price pullback. Privacy coins shine."
   },
   {
     "title": "Crypto Salaries Are Down This Year Despite Bitcoin's Historic Rally",
@@ -70,13 +168,6 @@
     "contentSnippet": "The two companies are reportedly in separate talks to acquire BVNK, a London-based fintech building stablecoin infrastructure."
   },
   {
-    "title": "Asia Morning Briefing: Polymarket’s POLY Could Bring Oracle's Home",
-    "link": "https://www.coindesk.com/markets/2025/10/10/asia-morning-briefing-polymarket-s-poly-could-bring-oracle-s-home",
-    "pubDate": "Fri, 10 Oct 2025 01:19:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Whale-led manipulation and disputed rulings have shaken trust in UMA’s oracle. POLY could mark Polymarket’s move to reclaim control of how truth is decided on-chain."
-  },
-  {
     "title": "Intel Bets Recovery on Panther Lake AI Chip as Foundry Bleeds Billions",
     "link": "https://decrypt.co/343731/intel-bets-recovery-panther-lake-ai-chip-foundry-bleeds",
     "pubDate": "Fri, 10 Oct 2025 00:06:37 +0000",
@@ -91,25 +182,11 @@
     "contentSnippet": "Crypto entrepreneur Arthur Hayes predicts that Bitcoin's typical four-year cycle is over as an increased money supply will benefit digital assets."
   },
   {
-    "title": "Senate Democrats' Leaked Crypto Position Would Strangle DeFi, Industry Insiders Say",
-    "link": "https://www.coindesk.com/policy/2025/10/09/senate-democrats-leaked-crypto-position-would-strangle-defi-industry-insiders-say",
-    "pubDate": "Thu, 09 Oct 2025 22:34:43 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Language said to be a Democratic proposal on handling decentralized finance in the crypto market structure effort is drawing heavy criticism."
-  },
-  {
     "title": "Senate Democrats’ DeFi legislative proposal draws fire from committee Republicans, crypto advocates",
     "link": "https://www.theblock.co/post/374095/senate-democrats-defi-legislative-proposal-draws-fire-from-committee-republicans-crypto-advocates?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 09 Oct 2025 17:55:29 -0400",
     "source": "The Block",
     "contentSnippet": "A new proposal from Senate Democrats aimed at preventing illicit activity through DeFi is getting heat from the crypto industry."
-  },
-  {
-    "title": "Coinbase and Mastercard Held Talks to Buy Stablecoin Fintech BVNK for Up to $2.5B: Fortune",
-    "link": "https://www.coindesk.com/business/2025/10/09/coinbase-and-mastercard-held-talks-to-buy-stablecoin-fintech-bvnk-for-up-to-usd2-5b-fortune",
-    "pubDate": "Thu, 09 Oct 2025 21:48:21 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The sale, if it goes through, could become the largest stablecoin acquisition to date, with Coinbase leading bids over Mastercard, sources told Fortune."
   },
   {
     "title": "Why JPMorgan Thinks Solana ETFs Won't Hit as Hard as Bitcoin, Ethereum Funds",
@@ -126,20 +203,6 @@
     "contentSnippet": "Haralambos Ioannou of Edlesborough was sentenced to 22 months in prison for illegally obtaining a second business relief loan—and spending the funds on crypto."
   },
   {
-    "title": "'Bitcoin Jesus' to Settle U.S. Tax, Fraud Charges: NYT",
-    "link": "https://www.coindesk.com/policy/2025/10/09/bitcoin-jesus-to-settle-u-s-tax-fraud-charges-nyt",
-    "pubDate": "Thu, 09 Oct 2025 21:12:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Roger Ver is reportedly close to a settlement with the U.S. Department of Justice over criminal fraud and tax charges filed last year."
-  },
-  {
-    "title": "Moon or Doom: What's Next for Bitcoin and XRP?",
-    "link": "https://decrypt.co/343704/moon-doom-bitcoin-xrp-price-targets-myriad",
-    "pubDate": "Thu, 09 Oct 2025 21:06:42 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Myriad prediction market users are bullish on Bitcoin and XRP, but the charts suggest traders might want to temper their enthusiasm."
-  },
-  {
     "title": "‘Bitcoin Jesus’ Roger Ver reaches tentative deal with DOJ over $48 million tax case: NYT",
     "link": "https://www.theblock.co/post/374089/bitcoin-jesus-roger-ver-tentative-deal-doj-48-million-tax-case-nyt?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 09 Oct 2025 16:43:49 -0400",
@@ -147,133 +210,70 @@
     "contentSnippet": "Early bitcoin investor Roger Ver reached a \"tentative agreement\" with the U.S. Justice Department, according to reporting from NYT."
   },
   {
-    "title": "'Bitcoin Jesus' Roger Ver Agrees to Pay $48 Million to End US Tax Fraud Case: NYT",
-    "link": "https://decrypt.co/343702/roger-bitcoin-jesus-ver-pay-48-million-end-us-tax-fraud-case",
-    "pubDate": "Thu, 09 Oct 2025 20:36:09 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto entrepreneur Roger Ver—known as \"Bitcoin Jesus\"—will have his tax evasion case dropped as part of a tentative deal, the New York Times reports."
-  },
-  {
-    "title": "Matter Labs co-founder Alex Gluchowski unveils the Atlas upgrade",
-    "link": "https://www.theblock.co/post/374085/matter-labs-co-founder-alex-gluchowski-unveils-the-atlas-upgrade?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Oct 2025 16:29:46 -0400",
-    "source": "The Block",
-    "contentSnippet": "Matter Labs Co-Founder and CEO Alex Gluchowski unveils the Atlas upgrade to provide faster settlements and more flexible infrastructure."
-  },
-  {
-    "title": "Filecoin Drops as Much as 7% as Selling Pressure Intensifies",
-    "link": "https://www.coindesk.com/markets/2025/10/09/filecoin-drops-as-much-as-7-as-selling-pressure-intensifies",
-    "pubDate": "Thu, 09 Oct 2025 19:06:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token has established support at $2.23 with resistance at the $2.41 level."
-  },
-  {
-    "title": "AAVE Plunges Below Key Support Levels Amid Broader Crypto Weakness",
-    "link": "https://www.coindesk.com/markets/2025/10/09/aave-plunges-below-key-support-levels-amid-broader-crypto-weakness",
-    "pubDate": "Thu, 09 Oct 2025 18:43:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "High-volume selling drove the DeFi bluechip token below critical technical thresholds."
-  },
-  {
-    "title": "Chainlink's LINK Tumbles 4% as Selling Pressure Mounts",
-    "link": "https://www.coindesk.com/markets/2025/10/09/chainlink-s-link-tumbles-4-as-selling-pressure-mounts",
-    "pubDate": "Thu, 09 Oct 2025 18:35:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Chainlink's native token faced heightened volatility as trading volumes surged during a critical technical breakdown."
-  },
-  {
-    "title": "Digital Currency Group subsidiary Yuma launches asset management division with two flagship funds",
-    "link": "https://www.theblock.co/post/374074/digital-currency-group-subsidiary-yuma-launches-asset-management-division-with-two-flagship-funds?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Oct 2025 14:18:07 -0400",
-    "source": "The Block",
-    "contentSnippet": "Yuma Asset Management will be anchored by a $10 million investment from Digital Currency Group, the crypto investment giant."
-  },
-  {
-    "title": "Solana treasury company Sharps Technology taps Coinbase for custody, liquidity, and OTC trading support",
-    "link": "https://www.theblock.co/post/374067/solana-treasury-company-sharps-technology-taps-coinbase-for-custody-liquidity-and-otc-trading-support?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Oct 2025 14:07:17 -0400",
-    "source": "The Block",
-    "contentSnippet": "The firm now holds over 2 million SOL tokens, in line with other Solana DATs like Helius, DeFi Development Corp., and Upexi."
-  },
-  {
-    "title": "The Daily: BlackRock’s 800,000 BTC haul, PayPay’s 40% stake in Binance Japan, JPMorgan’s modest Solana ETF inflow call, and more",
-    "link": "https://www.theblock.co/post/374064/the-daily-blackrocks-800000-btc-haul-paypays-40-stake-in-binance-japan-jpmorgans-modest-solana-etf-inflow-call-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Oct 2025 13:55:41 -0400",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Solana Foundation’s many discounted token deals fuels SOL treasury explosion",
-    "link": "https://www.theblock.co/post/374029/solana-foundations-many-discounted-token-deals-fuels-sol-treasury-explosion?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 09 Oct 2025 13:15:31 -0400",
-    "source": "The Block",
-    "contentSnippet": "Largely viewed as positive for the Solana ecosystem, more entrants could weaken the overall position of some players."
-  },
-  {
-    "title": " Early crypto gems: How to discover them first ",
+    "title": "Early crypto gems: How to discover them first",
     "link": "https://cointelegraph.com/news/early-crypto-gems-how-to-discover-them-first?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 07 Oct 2025 12:27:08 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Spot early crypto gems in 2025 with five key checks — builders, usage, liquidity, token design and security — to avoid exit liquidity traps."
   },
   {
-    "title": " FIFA’s blockchain-based tickets face scrutiny from Swiss gambling regulator ",
+    "title": "FIFA’s blockchain-based tickets face scrutiny from Swiss gambling regulator",
     "link": "https://cointelegraph.com/news/fifa-blockchain-tickets-scrutiny-swiss-nft?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 06 Oct 2025 22:13:39 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Switzerland’s gambling watchdog is reviewing FIFA’s “Right to Buy” NFTs, while noting no wrongdoing has been alleged."
   },
   {
-    "title": " Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test ",
+    "title": "Judge tosses lawsuit against Yuga Labs over failure to satisfy Howey test",
     "link": "https://cointelegraph.com/news/judge-tosses-lawsuit-yuga-labs-fail-satisfy-howey-test?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 03 Oct 2025 22:47:38 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "The plaintiffs failed to show how Bored Ape Yacht Club and other NFTs represent investment contracts under the SEC's 3-pronged Howey Test."
   },
   {
-    "title": " Bitcoin on TV: How shows like South Park influence crypto ",
+    "title": "Bitcoin on TV: How shows like South Park influence crypto",
     "link": "https://cointelegraph.com/news/bitcoin-shows-south-park-influence-crypto?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 02 Oct 2025 14:15:51 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "\"South Park\" is back to roasting crypto in its recent episode, but digital assets like Bitcoin have been a pop culture punchline for a long time."
   },
   {
-    "title": " How to use Google’s Gemini to research coins before you invest ",
+    "title": "How to use Google’s Gemini to research coins before you invest",
     "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Thu, 02 Oct 2025 12:11:23 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
   },
   {
-    "title": " How to use ChatGPT to find hidden gems in the crypto market ",
+    "title": "How to use ChatGPT to find hidden gems in the crypto market",
     "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-find-hidden-gems-in-the-crypto-market?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 01 Oct 2025 10:45:27 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Discover hidden crypto gems using ChatGPT: GPTs, sentiment insights and data-driven scanners for smarter research and trading."
   },
   {
-    "title": " Base NFTs overtake rivals in sales count led by AI trading game: DappRadar ",
+    "title": "Base NFTs overtake rivals in sales count led by AI trading game: DappRadar",
     "link": "https://cointelegraph.com/news/base-nfts-dx-terminal-sales-september?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 30 Sep 2025 11:24:52 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Base’s DX Terminal NFTs ranked first in sales counts, having 1.27 million transactions, a more than 1,000% increase over the previous month."
   },
   {
-    "title": " Early Hyperliquid user sells airdropped Hypurr NFT for $467K ",
+    "title": "Early Hyperliquid user sells airdropped Hypurr NFT for $467K",
     "link": "https://cointelegraph.com/news/early-hyperliquid-user-sells-airdropped-hypurr-nft-467k?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Mon, 29 Sep 2025 03:36:38 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Early Hyperliquid users have been rewarded with a massive Hypurr NFT airdrop, with the free digital cats now worth over $64,000."
   },
   {
-    "title": " Hester Peirce discusses her future NFT plans after serving at SEC ",
+    "title": "Hester Peirce discusses her future NFT plans after serving at SEC",
     "link": "https://cointelegraph.com/news/sec-hester-peirce-crypto-mom-nft-joke?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 26 Sep 2025 22:35:00 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "She said she was joking about “becoming an NFT creator” after her time at the SEC; the commissioner signaled she was working “to get crypto policy right” first."
   },
   {
-    "title": " Vesting NFTs top daily sales volume chart: CryptoSlam ",
+    "title": "Vesting NFTs top daily sales volume chart: CryptoSlam",
     "link": "https://cointelegraph.com/news/vesting-nfts-top-daily-sales-volumes-chart-cryptoslam?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 26 Sep 2025 13:56:48 +0100",
     "source": "Cointelegraph NFT",
