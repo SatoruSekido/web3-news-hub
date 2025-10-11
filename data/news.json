@@ -1,31 +1,108 @@
 [
   {
-    "title": "Gold-Backed Tokens Hold Firm in $19B Crypto Rout, But Rally May Be Near Exhaustion",
+    "title": "Indian tax authority targets over 400 wealthy Binance traders in tax evasion probe: report",
+    "link": "https://www.theblock.co/post/374283/indian-tax-authority-targets-over-400-wealthy-binance-traders-in-tax-evasion-probe-report?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 11 Oct 2025 13:55:35 -0400",
+    "source": "The Block",
+    "contentSnippet": "The traders are suspected of trading on Binance and hiding their gains from India's tax authority, which has high taxes on crypto trades and gains."
+  },
+  {
+    "title": "Astaroth Banking Trojan Harnessing GitHub to Steal Crypto Credentials",
+    "link": "https://decrypt.co/343833/astaroth-banking-trojan-harnessing-github-steal-crypto-credentials",
+    "pubDate": "Sat, 11 Oct 2025 17:31:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The keylogging malware is capable of using GitHub to redirect itself to new servers whenever existing servers go offline."
+  },
+  {
+    "title": "XRP Rebounds Sharply After 41% Flash Crash, Reclaims $2.47 Support",
+    "link": "https://www.coindesk.com/markets/2025/10/11/xrp-rebounds-sharply-after-41-flash-crash-reclaims-usd2-47-support",
+    "pubDate": "Sat, 11 Oct 2025 16:55:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The session’s $1.14 range — from $2.77 down to $1.64 — was one of the widest in XRP’s 2025 trading history, driven by macro-led deleveraging and heavy futures liquidations across major venues."
+  },
+  {
+    "title": "Is a Presidential Pardon in the Works for Binance Founder CZ?",
+    "link": "https://decrypt.co/343896/presidential-pardon-binance-founder-cz-report",
+    "pubDate": "Sat, 11 Oct 2025 16:03:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The Trump administration is reportedly weighing a pardon for Binance founder Changpeng “CZ” Zhao, who served prison time after pleading guilty to a money laundering violation."
+  },
+  {
+    "title": "AAVE Sees 64% Flash Crash as DeFi Protocol Endures 'Largest Stress Test'",
+    "link": "https://www.coindesk.com/markets/2025/10/11/aave-sees-64-flash-crash-as-defi-protocol-endures-largest-stress-test",
+    "pubDate": "Sat, 11 Oct 2025 16:02:50 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The largest decentralized lending protocol processed $180 million collateral liquidation within an hour on Friday, proving its resilience, founder Stani Kulechov said."
+  },
+  {
+    "title": "Blockchain Will Drive the Agent-to-Agent AI Marketplace Boom",
+    "link": "https://www.coindesk.com/opinion/2025/10/10/blockchain-will-drive-the-agent-to-agent-ai-marketplace-boom",
+    "pubDate": "Sat, 11 Oct 2025 16:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "For agents to be truly autonomous they need to have access to resources and self-custody their assets: programmable, permissionless, and composable blockchains are the ideal substrate for agents to do"
+  },
+  {
+    "title": "‘Largest Ever’ Crypto Liquidation Event Wipes Out 6,300 Wallets on Hyperliquid",
+    "link": "https://www.coindesk.com/markets/2025/10/11/largest-ever-crypto-liquidation-event-wipes-out-6-300-wallets-on-hyperliquid",
+    "pubDate": "Sat, 11 Oct 2025 15:54:55 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The sell-off erased over $1.23 billion in trader capital on Hyperliquid and $19 billion across the crypto market in a 24 hours."
+  },
+  {
+    "title": "Bitcoin’s On-Chain Strength Sets Stage for Fourth-Quarter Gains, Says Cathie Wood's ARK Invest",
+    "link": "https://www.coindesk.com/markets/2025/10/11/bitcoin-s-on-chain-strength-sets-stage-for-fourth-quarter-gains-says-cathie-wood-s-ark-invest",
+    "pubDate": "Sat, 11 Oct 2025 15:46:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "ARK Invest says bitcoin’s strong fundamentals, rising institutional demand and macro tailwinds could fuel gains, though timing remains key."
+  },
+  {
+    "title": "Bitcoin, Ethereum, Dogecoin Down Bad Amid Record $19 Billion in Crypto Liquidations",
+    "link": "https://decrypt.co/343941/bitcoin-ethereum-dogecoin-down-record-19-billion-crypto-liquidations",
+    "pubDate": "Sat, 11 Oct 2025 15:04:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin fell and altcoins crated Friday after President Trump ratcheted up his threats against China, fueling record crypto liquidations."
+  },
+  {
+    "title": "Binance to compensate some users after several markets depeg: ‘There are no excuses’",
+    "link": "https://www.theblock.co/post/374278/binance-to-compensate-some-users-after-several-markets-depeg-there-are-no-excuses?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 11 Oct 2025 11:01:16 -0400",
+    "source": "The Block",
+    "contentSnippet": "Losses due to price movements and unrealized profits are not entitled to compensation, according to Binance executives."
+  },
+  {
+    "title": "‘Bitcoin Is Not an Asset Class,’ Says One of UK’s Largest Retail Investment Platforms",
+    "link": "https://www.coindesk.com/policy/2025/10/11/bitcoin-is-not-an-asset-class-says-one-of-uk-s-largest-retail-investment-platforms",
+    "pubDate": "Sat, 11 Oct 2025 14:28:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hargreaves Lansdown says bitcoin lacks intrinsic value and shouldn’t be part of portfolios, even as it prepares to launch crypto ETN trading for clients early next year."
+  },
+  {
+    "title": "Norwegian Officials Probe Major Polymarket Bets on Nobel Peace Winner",
+    "link": "https://www.coindesk.com/markets/2025/10/11/norwegian-officials-probe-major-polymarket-bets-on-nobel-peace-winner",
+    "pubDate": "Sat, 11 Oct 2025 14:27:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A trader with a new account and no prior betting history placed a $70,000 bet on Venezuelan opposition leader Maria Corina Machado winning the prize."
+  },
+  {
+    "title": "State of Crypto: Market Structure Negotiations?",
+    "link": "https://www.coindesk.com/policy/2025/10/11/state-of-crypto-market-structure-negotiations",
+    "pubDate": "Sat, 11 Oct 2025 14:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A proposed regulatory framework for DeFi has the industry up in arms."
+  },
+  {
+    "title": "DOGE Suffers 50% Flash Crash Before Stabilizing Near $0.19",
+    "link": "https://www.coindesk.com/markets/2025/10/11/doge-suffers-50-flash-crash-before-stabilizing-near-usd0-19",
+    "pubDate": "Sat, 11 Oct 2025 13:17:47 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The move wiped out billions in nominal value, triggered cascading liquidations."
+  },
+  {
+    "title": "Gold-Backed Tokens Hold Firm in $19B Crypto Rout, but Rally May Be Near Exhaustion",
     "link": "https://www.coindesk.com/markets/2025/10/11/gold-backed-tokens-hold-firm-in-usd19b-crypto-rout-but-rally-may-be-near-exhaustion",
     "pubDate": "Sat, 11 Oct 2025 11:36:05 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "These gold-backed tokens have been a refuge for crypto investors, with year-to-date gains of over 50%, mirroring gold's historic rally."
-  },
-  {
-    "title": "BTC, ETH, XRP, SOL Face Slow Bottoming Process After $16B Liquidation Shock",
-    "link": "https://www.coindesk.com/markets/2025/10/11/v-shaped-rally-or-gradual-reset-btc-eth-xrp-sol-face-slow-bottoming-process-after-usd16b-liquidation-shock",
-    "pubDate": "Sat, 11 Oct 2025 06:57:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The multi-step bottoming process could be slow due to several reasons, including liquidity constraints over the weekend and slow absorption of supply."
-  },
-  {
-    "title": "XRP Crashes 40%, Before Recovering, in Biggest One-Day Drop",
-    "link": "https://www.coindesk.com/markets/2025/10/11/xrp-crashes-40-before-recovering-in-biggest-one-day-drop",
-    "pubDate": "Sat, 11 Oct 2025 05:32:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The selloff drove price as low as $1.64 before a partial recovery to $2.36, with volumes surging 164% above the 30-day average."
-  },
-  {
-    "title": "Biggest Crypto Liquidation Ever Sees $16B Longs Decimated Amid Market Chaos",
-    "link": "https://www.coindesk.com/markets/2025/10/10/usd16b-in-longs-liquidated-as-wall-street-sell-off-extends-btc-eth-broader-crypto-market-meltdown",
-    "pubDate": "Sat, 11 Oct 2025 03:46:31 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Trump’s 100% tariff warning on China ignited a global sell-off that wiped out $16 billion in leveraged crypto longs and pushed Ethena’s USDe to a rare sub-$1 print."
+    "contentSnippet": "Gold-backed tokens have been a refuge for crypto investors, with year-to-date gains of over 50%, mirroring gold's historic rally."
   },
   {
     "title": "Crypto liquidations near $10 billion in historic drawdown following Trump’s 100% tariffs on China",
@@ -42,25 +119,11 @@
     "contentSnippet": "The crypto market capitalization shed at least $125 billion when Trump first threatened countermeasures earlier on Friday."
   },
   {
-    "title": "Bitcoin’s Flash Crash Sees $7B Crypto Liquidation as Trump Ramps Up China Trade War",
-    "link": "https://www.coindesk.com/markets/2025/10/10/bitcoin-crashes-below-usd110k-cryptos-in-freefall-on-further-trump-tariff-on-china",
-    "pubDate": "Fri, 10 Oct 2025 21:51:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC tumbled 10% on Friday, while ETH, SOL and XRP crashed 15%-30% in a crypto flash crash as trade tensions escalate between the U.S. and China."
-  },
-  {
     "title": "YZi Labs-backed Aster delays Stage 2 airdrop citing ‘potential data inconsistencies’",
     "link": "https://www.theblock.co/post/374256/yzi-labs-backed-aster-delays-stage-2-airdrop-citing-potential-data-inconsistencies?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Oct 2025 17:49:53 -0400",
     "source": "The Block",
     "contentSnippet": "Some users complained about unexpectedly low token allocations quoted by the “S2 airdrop checker” deployed on Friday."
-  },
-  {
-    "title": "Galaxy Gets $460M Investment by 'Large Asset Manager' for Its HPC Push",
-    "link": "https://www.coindesk.com/business/2025/10/10/galaxy-gets-usd460m-investment-by-large-asset-manager-for-its-hpc-push",
-    "pubDate": "Fri, 10 Oct 2025 21:08:35 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The unnamed investor bought nearly 13 million shares from the company and some executives. The firm intends to use the proceeds to boost its Helios data center project."
   },
   {
     "title": "Galaxy raises $460 million in push to transform Texas bitcoin site into AI data hub",
@@ -112,13 +175,6 @@
     "contentSnippet": "Polymarket is focused on re-entering the U.S. market before the prediction market attempts to launch a token."
   },
   {
-    "title": "Ether's 7% Plunge Leads Crypto Liquidations in $600M Carnage",
-    "link": "https://www.coindesk.com/markets/2025/10/10/ether-s-7-plunge-leads-crypto-liquidations-in-usd600m-carnage",
-    "pubDate": "Fri, 10 Oct 2025 18:51:35 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ETH declined the most among the CoinDesk 20 Index, falling twice as far as bitcoin."
-  },
-  {
     "title": "Hyperliquid User Loses $21 Million Due to Private Key Compromise, Experts Say",
     "link": "https://decrypt.co/343849/hyperliquid-user-loses-21-million-private-key-compromise",
     "pubDate": "Fri, 10 Oct 2025 18:16:14 +0000",
@@ -147,67 +203,11 @@
     "contentSnippet": "The Arbitrum Foundation has hired Brendan Ma, formerly of Immutable and Goldman Sachs, as its head of investment strategy."
   },
   {
-    "title": "Nobel Peace Prize Organizers Probing Potential Polymarket Insider Trades",
-    "link": "https://decrypt.co/343840/nobel-peace-prize-organizers-intestigating-polymarket-insider-trades",
-    "pubDate": "Fri, 10 Oct 2025 17:24:29 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The odds of the eventual Nobel Peace Prize winner’s victory surged on the prediction market from near-zero to over 70%, several hours before the news was made public."
-  },
-  {
     "title": "Canary Capital inches closer to SEC nod on XRP, SOL ETFs in latest changes as shutdown looms on",
     "link": "https://www.theblock.co/post/374226/canary-capital-inches-closer-to-sec-nod-on-xrp-sol-etfs-in-latest-changes-as-shutdown-looms-on?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Oct 2025 13:15:07 -0400",
     "source": "The Block",
     "contentSnippet": "Canary Capital is inching closer to getting the SEC's sign-off as it moves to update two of its registration statements for XRP and SOL ETFs."
-  },
-  {
-    "title": "Crypto market sheds $125 billion as Trump threatens more tariffs on China",
-    "link": "https://www.theblock.co/post/374202/crypto-market-sells-off-trump-threatens-more-tariffs-china?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Oct 2025 12:55:56 -0400",
-    "source": "The Block",
-    "contentSnippet": "Financial markets sold off on Friday after U.S. President Donald Trump threatened a \"massive\" tariff hike on China."
-  },
-  {
-    "title": "Square Bitcoin a ‘big test’ of BTC’s future as payments network with $300 million profit upside, says Mizuho",
-    "link": "https://www.theblock.co/post/374208/square-bitcoin-big-test-btc-future-payments-300-million-profit-upside-mizuho?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Oct 2025 12:55:56 -0400",
-    "source": "The Block",
-    "contentSnippet": "Square Bitcoin lets U.S. merchants accept BTC with no fees until 2027, a move Mizuho analysts say could reshape consumer payments."
-  },
-  {
-    "title": "HBAR Tumbles 6% Amid Volume Surge as Wider Market Capitulates",
-    "link": "https://www.coindesk.com/markets/2025/10/10/hbar-tumbles-6-amid-volume-surge-as-wider-market-capitulates",
-    "pubDate": "Fri, 10 Oct 2025 16:54:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Traders exit positions as cryptocurrency breaks key technical levels amid broader market uncertainty."
-  },
-  {
-    "title": "On-Chain Investment Funds: Beware of Greeks Bearing Gifts",
-    "link": "https://www.coindesk.com/opinion/2025/10/10/on-chain-investment-funds-beware-of-greeks-bearing-gifts",
-    "pubDate": "Fri, 10 Oct 2025 16:35:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Some on-chain investment funds may arrive packaged as “innovation” but conceal higher costs, weaker protections, or unnecessary complexity, Prometheum’s co-CEO Aaron Kaplan argues."
-  },
-  {
-    "title": "Bitcoin, Ethereum Dive Alongside Stocks as Trump Threatens 'Massive' China Tariffs",
-    "link": "https://decrypt.co/343834/bitcoin-ethereum-dive-alongside-stocks-trump-threatens-massive-china-tariffs",
-    "pubDate": "Fri, 10 Oct 2025 15:57:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "President Trump said Friday that China may face even more severe tariffs, sending Bitcoin and other assets down alongside stock indices."
-  },
-  {
-    "title": "Trump Tariff Threat on China Sends Bitcoin Tumbling Below $119K",
-    "link": "https://www.coindesk.com/markets/2025/10/10/trump-tariff-threat-on-china-sends-bitcoin-tumbling-below-usd119k",
-    "pubDate": "Fri, 10 Oct 2025 15:37:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Cryptos came under pressure as a potential U.S.-China trade war once again on the table."
-  },
-  {
-    "title": "Singapore Delays Update to Crypto Rules for Banks Until 2027",
-    "link": "https://decrypt.co/343821/singapore-delays-update-to-crypto-rules-for-banks-until-2027",
-    "pubDate": "Fri, 10 Oct 2025 15:24:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The regulator cited industry feedback to a consultation on the changes, and the need for global alignment on prudential standards."
   },
   {
     "title": "Early crypto gems: How to discover them first",
