@@ -1,5 +1,54 @@
 [
   {
+    "title": "Friday’s $20B Crypto Market Meltdown: A Bitwise Portfolio Manager’s Postmortem Analysis",
+    "link": "https://www.coindesk.com/markets/2025/10/12/friday-s-usd20b-crypto-market-meltdown-a-bitwise-portfolio-manager-s-postmortem-analysis",
+    "pubDate": "Sat, 11 Oct 2025 23:57:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Jonathan Man outlines a $20 billion liquidation day, long-tail air pockets and a positioning reset that left markets on different footing by Saturday."
+  },
+  {
+    "title": "How Auto-Deleveraging on Crypto Perp Trading Platforms Can Shock and Anger Even Advanced Traders",
+    "link": "https://www.coindesk.com/markets/2025/10/11/how-adl-on-crypto-perp-trading-platforms-can-shock-and-anger-even-advanced-traders",
+    "pubDate": "Sat, 11 Oct 2025 21:58:55 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Doug Colkitt’s explainer details a backstop that trims winners, ranks accounts by profit leverage and size, and keeps zero-sum markets solvent under stress."
+  },
+  {
+    "title": "The Latest Nobel Peace Prize Winner Is a Bitcoin Supporter",
+    "link": "https://decrypt.co/343891/latest-nobel-peace-prize-winner-bitcoin-supporter",
+    "pubDate": "Sat, 11 Oct 2025 20:31:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "This year's Nobel Peace Prize winner, Venezuelan opposition leader María Corina Machado, previously spoke about Bitcoin as resistance money."
+  },
+  {
+    "title": "RWA giant Securitize eyeing public listing via Cantor Fitzgerald SPAC at unicorn valuation: Bloomberg",
+    "link": "https://www.theblock.co/post/374286/rwa-giant-securitize-eyeing-public-listing-via-cantor-fitzgerald-spac-at-unicorn-valuation-bloomberg?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 11 Oct 2025 16:26:47 -0400",
+    "source": "The Block",
+    "contentSnippet": "The firm may still opt to remain private as discussions are ongoing, people familiar with the matter told Bloomberg."
+  },
+  {
+    "title": "When You Tell AI Models to Act Like Women, Most Become More Risk-Averse: Study",
+    "link": "https://decrypt.co/343871/tell-ai-models-act-like-women-most-become-more-risk-averse-study",
+    "pubDate": "Sat, 11 Oct 2025 19:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "New research shows language models mirror human gender patterns in decision-making, with some AIs dramatically changing their risk tolerance based on whether they're prompted to think as male or femal"
+  },
+  {
+    "title": "Coinbase’s Upcoming Amex Card With BTC Cashback: Everything We Know So Far",
+    "link": "https://www.coindesk.com/markets/2025/10/11/coinbase-s-upcoming-amex-card-with-btc-cashback-everything-we-know-so-far",
+    "pubDate": "Sat, 11 Oct 2025 18:57:55 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Coinbase is planning to launch an Amex card whose design and rewards program are aimed squarely at bitcoiners — or those who want to become one."
+  },
+  {
+    "title": "Ethena's USDe Briefly Loses Peg During $19B Crypto Liquidation Cascade",
+    "link": "https://www.coindesk.com/markets/2025/10/11/ethena-s-usde-briefly-loses-peg-during-usd19b-crypto-liquidation-cascade",
+    "pubDate": "Sat, 11 Oct 2025 18:18:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "USDe recovered quickly, and Ethena Labs confirmed that the mint and redeem functionality remained operational, with the stablecoin remaining overcollateralized."
+  },
+  {
     "title": "Indian tax authority targets over 400 wealthy Binance traders in tax evasion probe: report",
     "link": "https://www.theblock.co/post/374283/indian-tax-authority-targets-over-400-wealthy-binance-traders-in-tax-evasion-probe-report?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 11 Oct 2025 13:55:35 -0400",
@@ -77,34 +126,6 @@
     "contentSnippet": "Hargreaves Lansdown says bitcoin lacks intrinsic value and shouldn’t be part of portfolios, even as it prepares to launch crypto ETN trading for clients early next year."
   },
   {
-    "title": "Norwegian Officials Probe Major Polymarket Bets on Nobel Peace Winner",
-    "link": "https://www.coindesk.com/markets/2025/10/11/norwegian-officials-probe-major-polymarket-bets-on-nobel-peace-winner",
-    "pubDate": "Sat, 11 Oct 2025 14:27:14 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A trader with a new account and no prior betting history placed a $70,000 bet on Venezuelan opposition leader Maria Corina Machado winning the prize."
-  },
-  {
-    "title": "State of Crypto: Market Structure Negotiations?",
-    "link": "https://www.coindesk.com/policy/2025/10/11/state-of-crypto-market-structure-negotiations",
-    "pubDate": "Sat, 11 Oct 2025 14:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A proposed regulatory framework for DeFi has the industry up in arms."
-  },
-  {
-    "title": "DOGE Suffers 50% Flash Crash Before Stabilizing Near $0.19",
-    "link": "https://www.coindesk.com/markets/2025/10/11/doge-suffers-50-flash-crash-before-stabilizing-near-usd0-19",
-    "pubDate": "Sat, 11 Oct 2025 13:17:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The move wiped out billions in nominal value, triggered cascading liquidations."
-  },
-  {
-    "title": "Gold-Backed Tokens Hold Firm in $19B Crypto Rout, but Rally May Be Near Exhaustion",
-    "link": "https://www.coindesk.com/markets/2025/10/11/gold-backed-tokens-hold-firm-in-usd19b-crypto-rout-but-rally-may-be-near-exhaustion",
-    "pubDate": "Sat, 11 Oct 2025 11:36:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Gold-backed tokens have been a refuge for crypto investors, with year-to-date gains of over 50%, mirroring gold's historic rally."
-  },
-  {
     "title": "Crypto liquidations near $10 billion in historic drawdown following Trump’s 100% tariffs on China",
     "link": "https://www.theblock.co/post/374266/crypto-liquidations-near-10-billion-in-historic-drawdown-following-trumps-100-tariffs-on-china?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Oct 2025 19:18:09 -0400",
@@ -175,20 +196,6 @@
     "contentSnippet": "Polymarket is focused on re-entering the U.S. market before the prediction market attempts to launch a token."
   },
   {
-    "title": "Hyperliquid User Loses $21 Million Due to Private Key Compromise, Experts Say",
-    "link": "https://decrypt.co/343849/hyperliquid-user-loses-21-million-private-key-compromise",
-    "pubDate": "Fri, 10 Oct 2025 18:16:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "After having their private key leaked, a Hyperliquid user lost $21 million—a painful reminder of the importance of personal security."
-  },
-  {
-    "title": "Don't Buy Bitcoin, Warns UK Investment Giant Hargreaves Lansdown—Here's Why",
-    "link": "https://decrypt.co/343837/dont-buy-bitcoin-warns-uk-investment-giant-hargreaves-lansdown",
-    "pubDate": "Fri, 10 Oct 2025 17:58:01 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "British investment platform Hargreaves Lansdown has warned users to stay away from Bitcoin, saying crypto has \"no intrinsic value.\""
-  },
-  {
     "title": "The Daily: Kalshi raises $300M at a $5B valuation, bitcoin miners’ power capacity is giving them an edge in AI, and more",
     "link": "https://www.theblock.co/post/374233/the-daily-kalshi-raises-300m-at-a-5b-valuation-bitcoin-miners-power-capacity-is-giving-them-an-edge-in-ai-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 10 Oct 2025 13:57:50 -0400",
@@ -201,13 +208,6 @@
     "pubDate": "Fri, 10 Oct 2025 13:49:37 -0400",
     "source": "The Block",
     "contentSnippet": "The Arbitrum Foundation has hired Brendan Ma, formerly of Immutable and Goldman Sachs, as its head of investment strategy."
-  },
-  {
-    "title": "Canary Capital inches closer to SEC nod on XRP, SOL ETFs in latest changes as shutdown looms on",
-    "link": "https://www.theblock.co/post/374226/canary-capital-inches-closer-to-sec-nod-on-xrp-sol-etfs-in-latest-changes-as-shutdown-looms-on?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 10 Oct 2025 13:15:07 -0400",
-    "source": "The Block",
-    "contentSnippet": "Canary Capital is inching closer to getting the SEC's sign-off as it moves to update two of its registration statements for XRP and SOL ETFs."
   },
   {
     "title": "Early crypto gems: How to discover them first",
