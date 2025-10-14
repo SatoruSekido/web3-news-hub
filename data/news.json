@@ -1,5 +1,131 @@
 [
   {
+    "title": "Leveraged Liquidations Underscore Bitcoin’s Equity Sensitivity, Citi Says",
+    "link": "https://www.coindesk.com/markets/2025/10/14/leveraged-liquidations-underscore-bitcoin-s-equity-sensitivity-citi-says",
+    "pubDate": "Tue, 14 Oct 2025 11:59:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The bank said U.S./China trade tensions triggered a sharp crypto selloff, but resilient ETF inflows are keeping its BTC and ETH forecasts intact."
+  },
+  {
+    "title": "Morning Minute: Citi Sets Sights on 2026 for Crypto Custody",
+    "link": "https://decrypt.co/344184/morning-minute-citi-sets-sights-on-2026-for-crypto-custody",
+    "pubDate": "Tue, 14 Oct 2025 11:41:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The third-biggest bank in the U.S. is finally embracing crypto. And it doesn't look like it's stopping at custody…"
+  },
+  {
+    "title": "Bitcoin slips below $112,000 as ETF outflows, weaker risk appetite weigh on prices",
+    "link": "https://www.theblock.co/post/374524/bitcoin-slips-below-112000-as-etf-outflows-weaker-risk-appetite-weigh-on-prices?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 07:25:02 -0400",
+    "source": "The Block",
+    "contentSnippet": "Bitcoin fell below $111,000 as investors withdrew $755 million from spot crypto ETFs and onchain data signaled widespread derisking."
+  },
+  {
+    "title": "Was $500B Value destruction Just a blip?: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/10/14/was-usd500b-value-destruction-just-a-blip-crypto-daybook-americas",
+    "pubDate": "Tue, 14 Oct 2025 11:15:49 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Oct. 14, 2025"
+  },
+  {
+    "title": "Crypto Markets Slide as Key Bitcoin Support Weakens and ETF Flows Reverse",
+    "link": "https://decrypt.co/344173/crypto-markets-slide-as-key-bitcoin-support-weakens-and-etf-flows-reverse",
+    "pubDate": "Tue, 14 Oct 2025 11:03:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts warn Bitcoin could fall toward $103,000 as it struggles to hold a critical support level amid major ETF outflows."
+  },
+  {
+    "title": "WisdomTree Launches Physically Backed Stellar Lumens ETP Across Europe",
+    "link": "https://www.coindesk.com/markets/2025/10/14/wisdomtree-launches-physically-backed-stellar-lumens-etp-across-europe",
+    "pubDate": "Tue, 14 Oct 2025 11:00:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "WisdomTree launched a physically backed stellar lumens ETP with a 0.50% fee on SIX and Euronext, saying it will add a Xetra listing on Oct. 15."
+  },
+  {
+    "title": "Metaplanet Trades Below 1x mNAV for First Time Since Starting Bitcoin Treasury Plan",
+    "link": "https://www.coindesk.com/markets/2025/10/14/metaplanet-trades-below-1x-mnav-for-first-time-since-starting-bitcoin-treasury-plan",
+    "pubDate": "Tue, 14 Oct 2025 10:28:50 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Falling share prices push bitcoin treasury firms below key valuation threshold."
+  },
+  {
+    "title": "Bernstein projects USDC stablecoin supply to triple by end of 2027, capturing one-third of market",
+    "link": "https://www.theblock.co/post/374513/bernstein-circle-usdc-triple-supply-by-end-2027-one-third-stablecoin-market?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 06:03:23 -0400",
+    "source": "The Block",
+    "contentSnippet": "Circle's regulatory compliance, liquidity head start, and partnerships with Coinbase and Binance are among the catalysts, the analysts said."
+  },
+  {
+    "title": "Ethereum ETFs Bleed $429M in Largest Single-Day Outflow Since Early September",
+    "link": "https://decrypt.co/344170/ethereum-etfs-bleed-429m-in-largest-single-day-outflow-since-early-september",
+    "pubDate": "Tue, 14 Oct 2025 10:02:31 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts call the exodus a \"macro reflex\" triggered by tariff-driven volatility and liquidations, not a structural retreat from ETH exposure."
+  },
+  {
+    "title": "Metaplanet’s enterprise value dips below Bitcoin holdings for first time",
+    "link": "https://www.theblock.co/post/374509/metaplanet-mnav-below-1?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 05:31:30 -0400",
+    "source": "The Block",
+    "contentSnippet": "Metaplanet's mNAV dropped below 1 for the first time, meaning its enterprise value is lower than that of its bitcoin holdings."
+  },
+  {
+    "title": "BlackRock's IBIT Bucks the Trend with Continued Inflows Despite Weak Bitcoin Price Action",
+    "link": "https://www.coindesk.com/markets/2025/10/14/blackrock-s-ibit-bucks-the-trend-with-continued-inflows-despite-weak-bitcoin-price-action",
+    "pubDate": "Tue, 14 Oct 2025 09:02:05 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Despite the largest ETF outflow in weeks and a sharp bitcoin price drop, IBIT continues to attract capital."
+  },
+  {
+    "title": "Ethereum’s Fusaka Rolls Out on Sepolia; Hoodi Testnet Up Next",
+    "link": "https://www.coindesk.com/business/2025/10/14/ethereum-s-fusaka-rolls-out-on-sepolia-hoodi-testnet-up-next",
+    "pubDate": "Tue, 14 Oct 2025 08:50:18 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The test follows a successful rollout on the Holesky testnet two weeks ago."
+  },
+  {
+    "title": "California approves law to preserve unclaimed crypto in original form",
+    "link": "https://www.theblock.co/post/374501/california-enacts-new-law-preventing-forced-liquidation-unclaimed-crypto?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 04:13:54 -0400",
+    "source": "The Block",
+    "contentSnippet": "SB 822 ensures that unclaimed crypto assets retain their original form when remitted to the state, rather than being liquidated."
+  },
+  {
+    "title": "Polychain-backed Enso Network activates mainnet, launches token on Ethereum and BNB",
+    "link": "https://www.theblock.co/post/374468/enso-network-activates-mainnet?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 04:00:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "The interoperability layer designed for decentralized finance aims to introduce 'a singular access point' for blockchains."
+  },
+  {
+    "title": "Bitcoin Slips Under $112K, ETH, DOGE Drop 6% as China Hits Back on U.S. Tariffs",
+    "link": "https://www.coindesk.com/markets/2025/10/14/bitcoin-slips-under-usd112k-eth-doge-drop-6-as-china-hits-back-on-u-s-tariffs",
+    "pubDate": "Tue, 14 Oct 2025 07:19:56 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Total liquidations hit $630 million, with long positions making up two-thirds of the wipeout, according to CoinGlass."
+  },
+  {
+    "title": " Societe Generale-FORGE and Bitpanda Expand Partnership to Bring Regulated Stablecoins to DeFi",
+    "link": "https://www.coindesk.com/business/2025/10/14/societe-generale-forge-and-bitpanda-expand-partnership-to-bring-regulated-stablecoins-to-defi",
+    "pubDate": "Tue, 14 Oct 2025 07:01:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The move makes SG-FORGE’s euro and dollar stablecoins available to retail users across Europe through Bitpanda’s DeFi wallet"
+  },
+  {
+    "title": "Bitcoin and Ethereum spot ETFs see $755M in outflows as traders turn cautious after weekend wipeout",
+    "link": "https://www.theblock.co/post/374493/spot-crypto-etfs-755-million-outflows?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 02:50:43 -0400",
+    "source": "The Block",
+    "contentSnippet": "Analysts said Monday's outflows reflect post-liquidation caution, adding that crypto price volatility will continue in the near term."
+  },
+  {
+    "title": "How to use Google’s Gemini to research coins before you invest",
+    "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 07:34:58 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
+  },
+  {
     "title": "Class Action Alleges Microsoft Choked AI Supply to Lift ChatGPT Costs",
     "link": "https://decrypt.co/344168/class-action-microsoft-choked-ai-supply-lift-chatgpt-costs",
     "pubDate": "Tue, 14 Oct 2025 06:19:47 +0000",
@@ -7,18 +133,18 @@
     "contentSnippet": "Microsoft is being accused of using cloud dominance to restrict AI compute, keeping ChatGPT costs artificially high for nearly three years."
   },
   {
+    "title": "Bullish Bitcoin Traders Eye Chart Patterns From 2020 and 2024 After Weekend’s $20B Liquidations",
+    "link": "https://www.coindesk.com/markets/2025/10/14/bullish-bitcoin-traders-eye-chart-patterns-from-2020-and-2024-after-weekend-s-usd19b-liquidations",
+    "pubDate": "Tue, 14 Oct 2025 06:12:27 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Similar washouts in 2020, 2021, and 2024 reset leverage and paved the way for recoveries in the weeks that followed, giving similar hopes to some market participants."
+  },
+  {
     "title": "XRP Fades Below $2.60 as $63M Whale Sales Hit Binance",
     "link": "https://www.coindesk.com/markets/2025/10/14/xrp-fades-below-usd2-60-as-usd63m-whale-sales-hit-binance",
     "pubDate": "Tue, 14 Oct 2025 05:46:04 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "raders are monitoring the $2.55 support and $2.65–$2.66 resistance zones for potential market shifts."
-  },
-  {
-    "title": "DOGE Faces Rejection at $0.22 as Dogecoin Treasury Firm Eyes Public Listing",
-    "link": "https://www.coindesk.com/markets/2025/10/14/doge-faces-rejection-at-usd0-22-as-dogecoin-treasury-firm-eyes-public-listing",
-    "pubDate": "Tue, 14 Oct 2025 04:56:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token found strong demand near $0.20 as institutional flows persisted, even as broader markets reacted to shifting trade rhetoric and renewed regulatory scrutiny following House of Doge’s Nasdaq d"
   },
   {
     "title": "Binance closer to South Korea re-entry as FIU reopens Gopax acquisition review: report",
@@ -63,13 +189,6 @@
     "contentSnippet": "TAO Synergies' shares rose 38.5% on Monday, while the announcement was made after markets closed that day."
   },
   {
-    "title": "Asia Morning Briefing: China Renaissance’s BNB Treasury Highlights a Shift in Asia’s Crypto Playbook",
-    "link": "https://www.coindesk.com/markets/2025/10/14/asia-morning-briefing-china-renaissance-s-bnb-treasury-highlights-a-shift-in-asia-s-crypto-playbook",
-    "pubDate": "Tue, 14 Oct 2025 01:48:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Enflux says the $600 million plan reflects a new wave of Asian capital favoring infrastructure tokens that power transaction flow over store-of-value assets."
-  },
-  {
     "title": "Canaan Stock Swells on Canadian Gas-to-Compute Pilot Plans",
     "link": "https://decrypt.co/344159/canaan-stock-swells-on-canadian-gas-to-compute-pilot-plans",
     "pubDate": "Tue, 14 Oct 2025 01:44:22 +0000",
@@ -96,118 +215,6 @@
     "pubDate": "Mon, 13 Oct 2025 21:52:40 +0000",
     "source": "Decrypt",
     "contentSnippet": "Here's why Trump's China tariff announcement on Friday was so devastating for leveraged traders."
-  },
-  {
-    "title": "Ethereum stablecoin activity hits new highs as weekly unique senders top 1 million",
-    "link": "https://www.theblock.co/post/374419/ethereum-stablecoin-activity-new-highs-weekly-unique-senders-top-1-million?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 13 Oct 2025 17:46:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "In 2025, there has been an average of 720,000 unique stablecoin senders on Ethereum per week."
-  },
-  {
-    "title": "Alleged 'Trump Insider Whale' Denies Insider Trading, Opens New $340 Million Bitcoin Short",
-    "link": "https://decrypt.co/344137/alleged-trump-insider-whale-denies-insider-trading-opens-340-million-bitcoin-short",
-    "pubDate": "Mon, 13 Oct 2025 21:13:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A whale that earned millions shorting Bitcoin and Ethereum right before Friday's crash is back at it—and denies being a Trump insider."
-  },
-  {
-    "title": "Crypto market structure bill may need to wait until after the midterm election, says TD Cowen",
-    "link": "https://www.theblock.co/post/374454/crypto-market-structure-bill-may-need-to-wait-until-after-the-midterm-election-says-td-cowen?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 13 Oct 2025 17:09:38 -0400",
-    "source": "The Block",
-    "contentSnippet": "Senators may be dragging their feet when it comes to passing crypto legislation, said TD Cowen in a note on Monday."
-  },
-  {
-    "title": "Ripple Is Offering $200K to 'Attack' XRP Ledger Lending Protocol",
-    "link": "https://decrypt.co/344136/ripple-offering-200k-attack-xrp-ledger-lending-protocol",
-    "pubDate": "Mon, 13 Oct 2025 20:51:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ripple is partnering with Immunefi to host a $200,000 \"attackathon\" that searches for bugs in the XRP Ledger lending protocol."
-  },
-  {
-    "title": "Citi Plans to Launch Crypto Custody Services in 2026: CNBC",
-    "link": "https://decrypt.co/344140/citi-plans-launch-crypto-custody-services-2026-cnbc",
-    "pubDate": "Mon, 13 Oct 2025 20:42:42 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Citi will offer crypto custody services in 2026, becoming the latest mainstream financial entity to delve deeper into crypto, CNBC reported."
-  },
-  {
-    "title": "Canaan shares jump 40% as miners turn flared gas into power amid bitcoin-to-AI infrastructure boom",
-    "link": "https://www.theblock.co/post/374414/canaan-shares-jump-40-miner-flared-gas-power-bitcoin-ai-infrastructure-boom?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 13 Oct 2025 16:16:28 -0400",
-    "source": "The Block",
-    "contentSnippet": "Canaan's pilot in Alberta will use stranded natural gas to power new high-density computing operations for bitcoin mining and AI."
-  },
-  {
-    "title": "Crypto crime research group SEAL Org unveils new way to report potential phishing sites",
-    "link": "https://www.theblock.co/post/374426/crypto-crime-research-group-seal-org-unveils-new-way-report-phishing-sites?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 13 Oct 2025 16:01:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "SEAL's Verifiable Phishing Reporter uses a cryptographic scheme designed by the team that proves whitehat hackers see what victims see."
-  },
-  {
-    "title": "Bitcoin Miners Lead Crypto Stock Bounce as OpenAI-Broadcom Deal Fuels AI Trade",
-    "link": "https://www.coindesk.com/markets/2025/10/13/bitcoin-miners-lead-crypto-stock-bounce-as-openai-broadcom-deal-fuels-ai-trade",
-    "pubDate": "Mon, 13 Oct 2025 19:31:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitfarms, Cipher Mining and Bitdeer posted double-digit gains on Monday as miners keep benefitting from artificial intelligence's surging demand for computing power."
-  },
-  {
-    "title": "Citi Eyes 2026 Crypto Custody Launch After Years of Quiet Development: CNBC",
-    "link": "https://www.coindesk.com/markets/2025/10/13/citi-eyes-2026-crypto-custody-launch-after-years-of-quiet-development-cnbc",
-    "pubDate": "Mon, 13 Oct 2025 19:23:46 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The bank’s digital asset head says Citi is aiming for a \"credible custody solution\" in the coming quarters to serve asset managers and other clients."
-  },
-  {
-    "title": "Alleged Hyperliquid whale denies Trump ties, thanks CZ for doxing, and pitches market stabilization fund",
-    "link": "https://www.theblock.co/post/374383/alleged-hyperliquid-whale-denies-trump-ties-thanks-cz-for-doxing-and-pitches-market-stabilization-fund?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 13 Oct 2025 15:15:52 -0400",
-    "source": "The Block",
-    "contentSnippet": "Jin allegedly profited more than $150 million by shorting the crypto prices ahead of President Trump's announced new tariffs on China."
-  },
-  {
-    "title": "Tornado Cash users can now maintain anonymity without ‘helping the hackers’ by using new 0xbow blacklist",
-    "link": "https://www.theblock.co/post/374410/tornado-cash-users-maintain-anonymity-without-helping-hackers-0xbow-blacklist?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 13 Oct 2025 14:42:35 -0400",
-    "source": "The Block",
-    "contentSnippet": "0xBow, the team behind Privacy Pools, is launching a new tool that will allow Tornado Cash users to dissociate funds from illicit activity."
-  },
-  {
-    "title": "XLM Rises 6% to Recover From Weekend Plunge",
-    "link": "https://www.coindesk.com/markets/2025/10/13/xlm-rises-6-to-recover-from-weekend-plunge",
-    "pubDate": "Mon, 13 Oct 2025 16:32:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Stellar posts dramatic intraday recovery from $0.33 support to $0.35 resistance as institutional money flows in."
-  },
-  {
-    "title": "Strategy Bought $27M in Bitcoin at $123K Before Crypto Crash",
-    "link": "https://www.coindesk.com/business/2025/10/13/strategy-bought-usd27m-in-bitcoin-at-usd123k-before-crypto-crash",
-    "pubDate": "Mon, 13 Oct 2025 16:17:09 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The firm acquired BTC at an average price of over $123,000, while the crypto was trading well below $110,000 during last week's carnage."
-  },
-  {
-    "title": "HBAR Rises Past Key Resistance After Explosive Decline",
-    "link": "https://www.coindesk.com/markets/2025/10/13/hbar-rises-past-key-resistance-after-explosive-decline",
-    "pubDate": "Mon, 13 Oct 2025 16:11:52 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "HBAR surged past key resistance at $0.19 amid a dramatic volume spike, signaling renewed institutional interest and reinforcing bullish momentum after a 9% recovery stretch."
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin and Altcoins Recover After $500B Crash",
-    "link": "https://www.coindesk.com/markets/2025/10/13/crypto-markets-today-bitcoin-and-altcoins-recover-after-usd500b-crash",
-    "pubDate": "Mon, 13 Oct 2025 15:55:29 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin derivatives show renewed optimism after a leverage flush, with open interest and basis rebounding, while options traders tilt bullish as funding rates diverge across exchanges."
-  },
-  {
-    "title": "Investment Bank China Renaissance Plans $600M BNB Treasury With YZi Labs: Bloomberg",
-    "link": "https://www.coindesk.com/business/2025/10/13/investment-bank-china-renaissance-plans-usd600m-bnb-treasury-with-yzi-labs-bloomberg",
-    "pubDate": "Mon, 13 Oct 2025 14:30:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The proposed investment vehicle would be a publicly traded US company designed to buy and hold BNB, marking one of the largest single bets on BNB by a publicly listed entity."
   },
   {
     "title": "How to use ChatGPT to find hidden gems in the crypto market",
@@ -243,13 +250,6 @@
     "pubDate": "Thu, 02 Oct 2025 14:15:51 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "\"South Park\" is back to roasting crypto in its recent episode, but digital assets like Bitcoin have been a pop culture punchline for a long time."
-  },
-  {
-    "title": "How to use Google’s Gemini to research coins before you invest",
-    "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 02 Oct 2025 12:11:23 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
   },
   {
     "title": "Base NFTs overtake rivals in sales count led by AI trading game: DappRadar",
