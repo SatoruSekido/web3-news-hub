@@ -1,17 +1,143 @@
 [
   {
+    "title": "Binance claims it ‘does not profit’ from its token listing process, calls allegations ‘false and defamatory’",
+    "link": "https://www.theblock.co/post/374675/binance-claims-does-not-profit-token-listing-calls-allegations-false-defamatory?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 19:54:32 -0400",
+    "source": "The Block",
+    "contentSnippet": "Binance was responding to CJ Hetherington, CEO of Limitless Labs, threatening potential legal action over his “false and defamatory” claims."
+  },
+  {
+    "title": "Roger Ver admits failing to report bitcoin holdings, DOJ drops indictment after $50 million settlement",
+    "link": "https://www.theblock.co/post/374673/bitcoin-jesus-roger-ver-deal-doj-pays-50-million-resolve-tax-case?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 19:47:02 -0400",
+    "source": "The Block",
+    "contentSnippet": "Roger Ver admitted to willfully failing to report his bitcoin holdings when he renounced U.S. citizenship in 2014, according to the DOJ."
+  },
+  {
+    "title": "Does the Bitcoin 'Debasement Trade' Narrative Still Hold Up After the Crash?",
+    "link": "https://decrypt.co/344290/does-bitcoin-debastement-trade-narrative-still-hold-up-after-crash",
+    "pubDate": "Tue, 14 Oct 2025 23:40:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Gold hit a new high on Monday, while Bitcoin remains wounded. Will crypto still be an asset of choice for traders wanting to dodge currency debasement?"
+  },
+  {
+    "title": "NodeMonkes surge again as bitcoin rallies, volume hits yearly record",
+    "link": "https://www.theblock.co/post/374417/nodemonkes-surge-again-as-bitcoin-rallies-volume-hits-yearly-record?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 18:46:02 -0400",
+    "source": "The Block",
+    "contentSnippet": "The correlation between NodeMonkes picking up trade volume whenever Bitcoin makes a new all-time high is undeniable."
+  },
+  {
+    "title": "Japanese Regulator Eyes Ban on Crypto Insider Trading: Nikkei",
+    "link": "https://decrypt.co/344301/japanese-regulator-eyes-ban-crypto-insider-trading",
+    "pubDate": "Tue, 14 Oct 2025 22:37:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Japanese regulators are working to ban insider trading on crypto in the country, according to a report from Nikkei."
+  },
+  {
+    "title": "Naughty or Nice? ChatGPT to Allow Erotica in December, Says Sam Altman",
+    "link": "https://decrypt.co/344286/naughty-nice-chatgpt-allow-erotica-december-sam-altman",
+    "pubDate": "Tue, 14 Oct 2025 22:05:05 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "After years of strict filtering, OpenAI CEO Sam Altman says age verification will unlock adult content in December, as the AI giant attempts to catch up to rivals."
+  },
+  {
+    "title": "Bitcoin Reasserts Dominance Over Ethereum as Trump Trade Spat Escalates",
+    "link": "https://decrypt.co/344276/bitcoin-reasserts-dominance-ethereum-trump-trade-spat-escalates",
+    "pubDate": "Tue, 14 Oct 2025 21:38:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum is slightly outperforming Bitcoin on the year, but it’s lost ground in recent weeks."
+  },
+  {
+    "title": "'Bitcoin Mayor' Eric Adams Establishes NYC Digital Assets and Blockchain Office",
+    "link": "https://decrypt.co/344299/bitcoin-mayor-eric-adams-establishes-nyc-digital-assets-blockchain-office",
+    "pubDate": "Tue, 14 Oct 2025 21:21:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ahead of his exit, New York City Mayor Eric Adams signed an executive order Tuesday to establish a crypto-focused office for the city."
+  },
+  {
+    "title": "Analysts see Circle as top stablecoin play, saying USDC will ‘supplant fiat’ in $20 trillion cross-border payments market",
+    "link": "https://www.theblock.co/post/374647/blair-sees-circle-top-stablecoin-play-usdc-supplant-fiat-20-trillion-cross-border-payments-market?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 16:40:33 -0400",
+    "source": "The Block",
+    "contentSnippet": "William Blair highlighting upcoming products like Arc and the Circle Payments Network as long-term revenue drivers."
+  },
+  {
+    "title": "Binance Offers Another $400M to Traders After Crypto Crash Triggers Record Liquidations",
+    "link": "https://decrypt.co/344270/binance-offers-400m-traders-crypto-crash-triggers-record-liquidations",
+    "pubDate": "Tue, 14 Oct 2025 20:31:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto exchange Binance will hand out a further $400 million to crypto traders and institutional users affected by recent liquidations."
+  },
+  {
+    "title": "NYC Mayor Adams launches first-ever city office for digital assets and blockchain",
+    "link": "https://www.theblock.co/post/374661/nyc-mayor-adams-launches-first-ever-city-office-digital-assets-blockchain?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 16:29:16 -0400",
+    "source": "The Block",
+    "contentSnippet": "The Office of Digital Assets and Blockchain will coordinate between industry and government to make New York City more welcoming to compliant crypto initiatives."
+  },
+  {
+    "title": "Bitcoin's Leverage Flush Favors Accumulation, K33 Says",
+    "link": "https://www.coindesk.com/markets/2025/10/14/bitcoin-s-leverage-flush-favors-accumulation-k33-says",
+    "pubDate": "Tue, 14 Oct 2025 20:21:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Crypto prices were down sizably on Tuesday but bounced off of their worst levels."
+  },
+  {
+    "title": "Laura Loomer Stokes Speculation Over Trump SBF Pardon: Is There Anything to It?",
+    "link": "https://decrypt.co/344233/laura-loomer-stokes-speculation-trump-sbf-pardon",
+    "pubDate": "Tue, 14 Oct 2025 20:05:34 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A social-media firestorm erupted over allegations of a \"massive, well-funded\" effort to win a Trump pardon for disgraced FTX founder Sam Bankman-Fried. But the evidence of an organized campaign is thi"
+  },
+  {
+    "title": "Figure brings its SEC-registered, yield-bearing security token YLDS to Sui",
+    "link": "https://www.theblock.co/post/374652/figure-brings-sec-registered-yield-bearing-security-token-ylds-sui?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 15:50:20 -0400",
+    "source": "The Block",
+    "contentSnippet": "The partnership will let Sui users earn yield from tokenized Treasurys directly within the network’s main trading venue, DeepBook."
+  },
+  {
+    "title": "Former Aptos Labs CEO Mo Shaikh launches $50 million fund to invest in crypto projects",
+    "link": "https://www.theblock.co/post/374648/former-aptos-labs-ceo-mo-shaikh-launches-50-million-fund-to-invest-in-crypto-projects?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 15:13:02 -0400",
+    "source": "The Block",
+    "contentSnippet": "Former Aptos Labs CEO Mo Shaikh and other early Aptos employees are launching a new $50 million crypto venture fund."
+  },
+  {
+    "title": "Kenya Passes Bill to Regulate Crypto as Regional Momentum Grows",
+    "link": "https://decrypt.co/344261/kenya-passes-bill-regulate-crypto-regional-momentum-grows",
+    "pubDate": "Tue, 14 Oct 2025 19:09:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Kenya is one step closer to regulating crypto in the country as parliament enacted the Virtual Asset Services Providers Bill."
+  },
+  {
+    "title": "Celsius Wind-down Secures $300M From Tether, Say GXD Labs, VanEck",
+    "link": "https://www.coindesk.com/policy/2025/10/14/celsius-wind-down-secures-usd300m-from-tether-say-gxd-labs-vaneck",
+    "pubDate": "Tue, 14 Oct 2025 19:05:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A consortium established by the companies announced the recovery of Celsius funds tied to claims against Tether."
+  },
+  {
+    "title": "Stripe stablecoin unit Bridge applies for national bank trust charter, co-founder Zach Abrams says",
+    "link": "https://www.theblock.co/post/374643/stripe-stablecoin-unit-bridge-applies-for-national-bank-trust-charter-co-founder-zach-abrams-says?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 14 Oct 2025 14:39:41 -0400",
+    "source": "The Block",
+    "contentSnippet": "If approved, Bridge would be able to provide regulated stablecoin issuance, management, and custody services."
+  },
+  {
+    "title": "Tether Pays $300 Million to Settle Celsius Lawsuit Over $4.5 Billion in Bitcoin",
+    "link": "https://decrypt.co/344256/tether-pays-300-million-celsius-lawsuit-bitcoin",
+    "pubDate": "Tue, 14 Oct 2025 18:34:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoin giant Tether has paid out almost $300 million to settle claims regarding allegedly improper Bitcoin liquidations tied to the collapse of crypto lender Celsius."
+  },
+  {
     "title": "Republican Bill Aims to Make Trump's Bitcoin and Crypto 401K Order Federal Law",
     "link": "https://decrypt.co/344250/republican-bill-aims-make-trump-bitcoin-crypto-401k-order-federal-law",
     "pubDate": "Tue, 14 Oct 2025 18:08:39 +0000",
     "source": "Decrypt",
     "contentSnippet": "Rep. Troy Downing (R-MT) said the bill would “supercharge” the financial security of Americans by exposing their retirement savings to alternative assets."
-  },
-  {
-    "title": "Monad Opens Airdrop to Solana Users, Ethereum NFT Holders as MON Launch Nears",
-    "link": "https://decrypt.co/344249/monad-opens-airdrop-solana-users-ethereum-nft-holders",
-    "pubDate": "Tue, 14 Oct 2025 17:56:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Upcoming layer-1 network Monad announced more details about its MON airdrop, including key dates and an eligibility checker."
   },
   {
     "title": "The Daily: US government bitcoin holdings surge to $36 billion, crypto ETFs see $755M in outflows after market wipeout, and more",
@@ -35,32 +161,11 @@
     "contentSnippet": "As the Justice Department pursues Prince Group's leader, the Treasury Department sanctioned the company while also severing Huione from the U.S. finance."
   },
   {
-    "title": "Elon Musk Gushes About Bitcoin 'Energy' Demands—Years After Environmental Gripes",
-    "link": "https://decrypt.co/344229/elon-musk-gushes-bitcoin-energy-demands-environmental-gripes",
-    "pubDate": "Tue, 14 Oct 2025 16:55:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Elon Musk praised Bitcoin's energy foundation years after criticizing crypto's power consumption and halting Tesla BTC payments."
-  },
-  {
-    "title": "Myriad's New Perpetual Sentiment Markets Make Opinions 'The Most Valuable Commodity'",
-    "link": "https://decrypt.co/344211/myriads-new-perpetual-sentiment-markets-make-opinions-the-most-valuable-commodity",
-    "pubDate": "Tue, 14 Oct 2025 16:47:53 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "With conventional polling, opinions cost nothing to express—limiting their accuracy. Perpetual Sentiment Markets fix that. Here's how."
-  },
-  {
     "title": "Celsius wins nearly $300 million from Tether in bankruptcy case, a fraction of its $4.3 billion claim",
     "link": "https://www.theblock.co/post/374625/celsius-wins-300-million-tether-bankruptcy-case-fraction-4-3-billion-claim?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 14 Oct 2025 12:46:17 -0400",
     "source": "The Block",
     "contentSnippet": "Celsius and Tether reached a $299.5 million settlement, ending a year-long court battle over allegedly improper bitcoin liquidations before the lender’s 2022 collapse."
-  },
-  {
-    "title": "Binance launches $400 million initiative to refund users, instill market confidence following crypto flash crash",
-    "link": "https://www.theblock.co/post/374623/binance-launches-400-million-initiative-to-refund-users-instill-market-confidence-following-crypto-flash-crash?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 12:34:50 -0400",
-    "source": "The Block",
-    "contentSnippet": "The exchange will reward eligible users trading vouchers and kickstart a low-interest loan fund for institutional users."
   },
   {
     "title": "Cathie Wood's ARK Invest Takes 11.5% Stake in Solana Treasury Firm Solmate Infrastructure (SLMT)",
@@ -91,13 +196,6 @@
     "contentSnippet": "Stellar faces brutal selling pressure while institutional buyers emerge at oversold levels amid broader crypto market turmoil."
   },
   {
-    "title": "New GOP bill aims to codify Trump’s executive order on crypto and private equity in 401(k) retirement plans",
-    "link": "https://www.theblock.co/post/374614/new-gop-bill-aims-to-codify-trumps-executive-order-on-crypto-and-private-equity-in-401k-retirement-plans?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 11:52:48 -0400",
-    "source": "The Block",
-    "contentSnippet": "A new bill would cement Trump's executive order directing the Labor Department to pave the way for crypto in 401(k) plans."
-  },
-  {
     "title": "Circle Called ‘Most Important’ Stablecoin Player by Investment Firm William Blair",
     "link": "https://www.coindesk.com/markets/2025/10/14/circle-called-most-important-stablecoin-player-by-investment-firm-william-blair",
     "pubDate": "Tue, 14 Oct 2025 15:43:56 +0000",
@@ -112,109 +210,11 @@
     "contentSnippet": "Cryptocurrency experiences dramatic reversal on heavy volume to confirm bearish momentum."
   },
   {
-    "title": "BlackRock Developing Tokenization Tech Amid Bitcoin, Ethereum ETF Success",
-    "link": "https://decrypt.co/344223/blackrock-developing-tokenization-tech-bitcoin-ethereum-etf-success",
-    "pubDate": "Tue, 14 Oct 2025 15:30:36 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "BlackRock CEO Larry Fink has long been bullish on tokenization—and said Tuesday that “young people” tend to use tokenized assets."
-  },
-  {
-    "title": "US government bitcoin holdings balloon to $36 billion following record-breaking DOJ seizure",
-    "link": "https://www.theblock.co/post/374572/us-government-bitcoin-holdings-balloon-to-36-billion-following-record-breaking-doj-seizure?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 11:24:23 -0400",
-    "source": "The Block",
-    "contentSnippet": "The accused is said to have forced people to work in Cambodian compounds part of large-scale crypto scam network."
-  },
-  {
-    "title": "Bitfarms names ex-Lazard banker Jonathan Mir CFO amid AI data-center pivot and 5x stock rally",
-    "link": "https://www.theblock.co/post/374589/bitfarms-names-ex-lazard-banker-jonathan-mir-cfo-ai-data-center-pivot-fivefold-stock-rally?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 11:15:00 -0400",
-    "source": "The Block",
-    "contentSnippet": "Bitfarms is tapping a longtime energy-infrastructure dealmaker to lead its U.S. expansion and AI-compute buildout."
-  },
-  {
-    "title": "BNB Slides 6.5% After Hitting All-Time High After $500B Crypto Rout",
-    "link": "https://www.coindesk.com/markets/2025/10/14/bnb-slides-6-5-after-hitting-all-time-high-after-usd500b-crypto-rout",
-    "pubDate": "Tue, 14 Oct 2025 15:06:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Despite the drop accumulation continues, with China Renaissance aiming to raise $600 million for a publicly traded crypto treasury focused solely on BNB."
-  },
-  {
-    "title": "DWS Sees Stablecoins Emerging as Core Payments Infrastructure",
-    "link": "https://www.coindesk.com/markets/2025/10/14/dws-sees-stablecoins-emerging-as-core-payments-infrastructure",
-    "pubDate": "Tue, 14 Oct 2025 15:05:16 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "With rising liquidity, regulatory clarity and institutional use, stablecoins are moving beyond crypto trading to challenge traditional payment networks, DWS said."
-  },
-  {
-    "title": "US Seeks $14 Billion in Bitcoin From Cambodian Crypto Scammer in Record Forfeiture",
-    "link": "https://decrypt.co/344224/us-seeks-14-billion-bitcoin-cambodian-crypto-scammer-record-forfeiture",
-    "pubDate": "Tue, 14 Oct 2025 15:02:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The United States is seeking the forfeiture of more than $14 billion in Bitcoin tied to a \"pig butchering\" crypto scam."
-  },
-  {
-    "title": "Privy experiences ‘partial outage’ as Monad opens much-anticipated MON token airdrop claim window",
-    "link": "https://www.theblock.co/post/374582/privy-experiences-partial-outage-as-monad-opens-much-anticipated-mon-token-airdrop-claim-window?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 10:55:23 -0400",
-    "source": "The Block",
-    "contentSnippet": "On Tuesday morning, The Monad Foundation opened a MON token airdrop claims portal using the popular web3 wallet for authentication."
-  },
-  {
-    "title": "Solmate secures $50 million in discounted SOL from Solana Foundation as Ark Invest takes big stake",
-    "link": "https://www.theblock.co/post/374574/solmate-50-million-discounted-sol-solana-foundation-ark-invest-takes-big-stake?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 10:43:13 -0400",
-    "source": "The Block",
-    "contentSnippet": "Solmate purchased $50 million of SOL from the Solana Foundation at a 15% discount and said Ark Invest now holds about 11.5% of the company."
-  },
-  {
-    "title": "Nasdaq-listed Tether Gold treasury firm completes $134 million purchase of XAUT",
-    "link": "https://www.theblock.co/post/374573/nasdaq-listed-tether-gold-treasury-firm-completes-134-million-usd-purchase-xaut?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 10:38:39 -0400",
-    "source": "The Block",
-    "contentSnippet": "The acquisition comes after Aurelion announced it had raised $150 million through a $100 million PIPE and a $50 million debt facility."
-  },
-  {
-    "title": "Breaking down crypto’s biggest ever liquidation event with Wintermute founder Evgeny Gaevoy",
-    "link": "https://www.theblock.co/post/374539/breaking-down-cryptos-biggest-ever-liquidation-event-with-wintermute-founder-evgeny-gaevoy?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 14 Oct 2025 09:33:11 -0400",
-    "source": "The Block",
-    "contentSnippet": "Wintermute founder and CEO Evgeny Gaevoy sheds light on the recent crypto wipeout and how market makers deal with such events."
-  },
-  {
-    "title": "Morning Minute: Citi Sets Sights on 2026 for Crypto Custody",
-    "link": "https://decrypt.co/344184/morning-minute-citi-sets-sights-on-2026-for-crypto-custody",
-    "pubDate": "Tue, 14 Oct 2025 11:41:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The third-biggest bank in the U.S. is finally embracing crypto. And it doesn't look like it's stopping at custody…"
-  },
-  {
-    "title": "Crypto Markets Slide as Key Bitcoin Support Weakens and ETF Flows Reverse",
-    "link": "https://decrypt.co/344173/crypto-markets-slide-as-key-bitcoin-support-weakens-and-etf-flows-reverse",
-    "pubDate": "Tue, 14 Oct 2025 11:03:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts warn Bitcoin could fall toward $103,000 as it struggles to hold a critical support level amid major ETF outflows."
-  },
-  {
-    "title": "Ethereum ETFs Bleed $429M in Largest Single-Day Outflow Since Early September",
-    "link": "https://decrypt.co/344170/ethereum-etfs-bleed-429m-in-largest-single-day-outflow-since-early-september",
-    "pubDate": "Tue, 14 Oct 2025 10:02:31 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts call the exodus a \"macro reflex\" triggered by tariff-driven volatility and liquidations, not a structural retreat from ETH exposure."
-  },
-  {
     "title": "How to use Google’s Gemini to research coins before you invest",
     "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 14 Oct 2025 07:34:58 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
-  },
-  {
-    "title": "Class Action Alleges Microsoft Choked AI Supply to Lift ChatGPT Costs",
-    "link": "https://decrypt.co/344168/class-action-microsoft-choked-ai-supply-lift-chatgpt-costs",
-    "pubDate": "Tue, 14 Oct 2025 06:19:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Microsoft is being accused of using cloud dominance to restrict AI compute, keeping ChatGPT costs artificially high for nearly three years."
   },
   {
     "title": "How to use ChatGPT to find hidden gems in the crypto market",
