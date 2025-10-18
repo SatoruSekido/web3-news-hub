@@ -1,5 +1,33 @@
 [
   {
+    "title": "Will Interest Payments Make Stablecoins More Interesting?",
+    "link": "https://www.coindesk.com/opinion/2025/10/17/will-interest-payments-make-stablecoins-more-interesting",
+    "pubDate": "Sat, 18 Oct 2025 12:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The restriction on paying interest to stablecoin users looks easy to circumvent, argues EY’s Paul Brody. So why not just let stablecoin providers pay interest the same as any bank would?"
+  },
+  {
+    "title": "OpenSea rejects pivot from NFTs, says it’s evolving to ‘trade everything’",
+    "link": "https://cointelegraph.com/news/opensea-rejects-pivot-from-nfts-trade-everything-onchain?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 12:47:45 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "OpenSea CEO Devin Finzer says the platform isn’t abandoning NFTs but expanding into a universal onchain trading hub."
+  },
+  {
+    "title": "DOGE Finds Support After Tariff-Led Selloff, Market Awaits Next Catalyst",
+    "link": "https://www.coindesk.com/markets/2025/10/18/doge-finds-support-after-tariff-led-selloff-market-awaits-next-catalyst",
+    "pubDate": "Sat, 18 Oct 2025 06:32:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The session’s 7% swing came amid renewed macro jitters and reports of large whale liquidations totaling over $74 million."
+  },
+  {
+    "title": "XRP Stabilizes After Early Dip, Traders Eye $2.40 Breakout",
+    "link": "https://www.coindesk.com/markets/2025/10/18/xrp-stabilizes-after-early-dip-traders-eye-usd2-40-breakout",
+    "pubDate": "Sat, 18 Oct 2025 06:19:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The move came amid renewed U.S.–China tariff fears and cautious positioning ahead of next week’s SEC deadlines for spot XRP ETFs."
+  },
+  {
     "title": "Solana decentralized exchange aggregator Jupiter unveils Ultra v3 offering improved trade execution, MEV protections and ‘gasless support’",
     "link": "https://www.theblock.co/post/375184/solana-decentralized-exchange-aggregator-jupiter-unveils-ultra-v3-improved-trade-execution-mev-protections-gasless-support?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Oct 2025 16:48:28 -0400",
@@ -168,32 +196,11 @@
     "contentSnippet": "Tether's open-source wallet toolkit supports multiple blockchains, from Bitcoin and Lightning to Solana and TON."
   },
   {
-    "title": "Arthur Hayes’ Maelstrom Seeks $250M Private Equity Fund to Acquire Crypto Firms: Bloomberg",
-    "link": "https://www.coindesk.com/business/2025/10/17/arthur-hayes-maelstrom-seeks-usd250m-private-equity-fund-to-acquire-crypto-service-firms-bloomberg",
-    "pubDate": "Fri, 17 Oct 2025 15:23:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Arthur Hayes’ Maelstrom family office is launching a private equity fund targeting infrastructure and analytics firms in crypto, aiming for $250 million in capital."
-  },
-  {
     "title": "Prominent Ethereum developer Dankrad Feist departs EF to join stablecoin-focused Layer 1 Tempo",
     "link": "https://www.theblock.co/post/375126/prominent-ethereum-developer-dankrad-feist-departs-ef-to-join-stablecoin-focused-layer-1-tempo?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Oct 2025 11:11:44 -0400",
     "source": "The Block",
     "contentSnippet": "Dankrad Feist, who made several notable contributions to Ethereum since entering the ecosystem in 2018, is joining alternative Layer 1 Tempo."
-  },
-  {
-    "title": "Coinbase, Binance Among Exchanges Targeted for Widened AML Checks by French Regulator: Bloomberg",
-    "link": "https://www.coindesk.com/policy/2025/10/17/coinbase-binance-among-exchanges-targeted-for-widened-aml-checks-by-french-regulator-bloomberg",
-    "pubDate": "Fri, 17 Oct 2025 15:01:38 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Failure to meet the requirements set by ACPR could compromise an exchange's ability to get a MiCA license from France."
-  },
-  {
-    "title": "Recent Fedspeak Confirms Intentions for Rate Cuts to Contiue: BofA",
-    "link": "https://www.coindesk.com/markets/2025/10/17/fed-governors-waller-williams-show-signs-of-pivoting-toward-rate-cuts-bofa-says",
-    "pubDate": "Fri, 17 Oct 2025 14:41:31 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "There appeared to be consensus around growing labor market risks even as sticky inflation remains an issue."
   },
   {
     "title": "Morning Minute: Bitcoin Falls Again as JPMorgan Blames Crypto Natives for Selloff",
@@ -271,12 +278,5 @@
     "pubDate": "Fri, 03 Oct 2025 22:47:38 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "The plaintiffs failed to show how Bored Ape Yacht Club and other NFTs represent investment contracts under the SEC's 3-pronged Howey Test."
-  },
-  {
-    "title": "Bitcoin on TV: How shows like South Park influence crypto",
-    "link": "https://cointelegraph.com/news/bitcoin-shows-south-park-influence-crypto?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Thu, 02 Oct 2025 14:15:51 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "\"South Park\" is back to roasting crypto in its recent episode, but digital assets like Bitcoin have been a pop culture punchline for a long time."
   }
 ]
