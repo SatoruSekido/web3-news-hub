@@ -1,5 +1,54 @@
 [
   {
+    "title": "Solana decentralized exchange aggregator Jupiter unveils Ultra v3 offering improved trade execution, MEV protections and ‘gasless support’",
+    "link": "https://www.theblock.co/post/375184/solana-decentralized-exchange-aggregator-jupiter-unveils-ultra-v3-improved-trade-execution-mev-protections-gasless-support?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 17 Oct 2025 16:48:28 -0400",
+    "source": "The Block",
+    "contentSnippet": "The updated protocol is \"seamlessly integrated\" into all Jupiter products, including its mobile and desktop apps as well as its API and Pro Tools."
+  },
+  {
+    "title": "Newsmax stock ticks higher amid plans to establish $5 million crypto treasury with Trump token, bitcoin",
+    "link": "https://www.theblock.co/post/375176/newsmax-stock-ticks-higher-amid-plans-to-establish-5-million-crypto-treasury-with-trump-token-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 17 Oct 2025 16:28:19 -0400",
+    "source": "The Block",
+    "contentSnippet": "Since making its debut ahead of President Trump's inauguration in January, it has been a steady slide for the TRUMP token."
+  },
+  {
+    "title": "Relax, That's Not a Stranger in Your House—It's Just an AI Prank",
+    "link": "https://decrypt.co/344783/relax-not-stranger-your-house-ai-prank",
+    "pubDate": "Fri, 17 Oct 2025 19:58:23 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A viral prank using AI-generated photos of a “homeless man” inside people’s homes has led to 911 calls, police warnings, and backlash over its cruelty."
+  },
+  {
+    "title": "Stripe's Tempo Blockchain Raises $500 Million, Poaches Prominent Ethereum Dev",
+    "link": "https://decrypt.co/344829/stripes-tempo-blockchain-raises-500-million-poaches-ethereum-dev",
+    "pubDate": "Fri, 17 Oct 2025 19:34:20 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Dankrad Feist has left the Ethereum Foundation to help build Stripe's Tempo blockchain, which Fortune reports is now valued at $5 billion."
+  },
+  {
+    "title": "YouTube Star MrBeast Files Trademark for Crypto Exchange and Payments Service",
+    "link": "https://decrypt.co/344809/youtube-star-mrbeast-trademark-crypto-exchange",
+    "pubDate": "Fri, 17 Oct 2025 19:11:14 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "MrBeast trademarks crypto exchange app, but regulatory hurdles remain before the YouTube star can launch MrBeast Financial."
+  },
+  {
+    "title": "Bitcoin, Ethereum and XRP Bleed as Traders Weigh End of 4-Year Cycle",
+    "link": "https://decrypt.co/344818/bitcoin-ethereum-xrp-bleed-traders-weigh-end-4-year-cycle",
+    "pubDate": "Fri, 17 Oct 2025 18:55:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Experts believe that some retail traders still follow the four-year Bitcoin cycle rulebook, accounting for part of crypto’s recent decline."
+  },
+  {
+    "title": "Astra Nova Raises $48.3M to Grow Web3, AI Entertainment Ecosystem",
+    "link": "https://www.coindesk.com/business/2025/10/17/astra-nova-raises-usd48-3m-to-grow-web3-ai-entertainment-ecosystem",
+    "pubDate": "Fri, 17 Oct 2025 18:19:16 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company develops no-code tools that enable creators to launch blockchain-based entertainment experiences."
+  },
+  {
     "title": "The Daily: Ripple leads $1 billion XRP treasury raise, MegaETH buys back portion of pre-seed stake, and more",
     "link": "https://www.theblock.co/post/375154/the-daily-ripple-leads-1-billion-xrp-treasury-raise-megaeth-buys-back-portion-of-pre-seed-stake-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Oct 2025 14:03:01 -0400",
@@ -42,7 +91,7 @@
     "contentSnippet": "The investors are looking to acquire a Nasdaq-listed firm and have reportedly secured hundreds of millions of dollars in Ethereum treasury commitments."
   },
   {
-    "title": "Stripe-backed Tempo blockchain raises $500 million Series A at a $5 billion valuation",
+    "title": "Stripe-backed Tempo blockchain raises $500 million Series A at a $5 billion valuation: report",
     "link": "https://www.theblock.co/post/375152/stripe-tempo-500-million-series-a-thrive?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Oct 2025 13:15:46 -0400",
     "source": "The Block",
@@ -154,7 +203,7 @@
     "contentSnippet": "And sell off they have, as Bitcoin hit a new four-month low overnight—turning crypto markets deep red."
   },
   {
-    "title": "Arthur Hayes’ family office, Maelstrom, targets $250 million for new private equity fund: Bloomberg",
+    "title": "Arthur Hayes’ family office, Maelstrom, targets $250 million for new private equity fund",
     "link": "https://www.theblock.co/post/375112/arthur-hayes-maelstrom-targets-250-million-private-equity-fund?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Oct 2025 10:29:02 -0400",
     "source": "The Block",
@@ -168,60 +217,11 @@
     "contentSnippet": "OpenSea is pivoting towards multi-chain crypto trading aggregation, letting users swap NFTs, memecoins, and tokens across 22 blockchains."
   },
   {
-    "title": "Japan's Top Banks Plan Joint Stablecoin Launch: Nikkei",
-    "link": "https://www.coindesk.com/business/2025/10/17/japan-s-top-banks-plan-joint-stablecoin-launch-nikkei",
-    "pubDate": "Fri, 17 Oct 2025 13:43:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Mitsubishi UFJ, Sumitomo Mitsui and Mizuho Financial Groups aim to create a shared framework for stablecoin issuance and transfer, according to a story in Nikkei."
-  },
-  {
-    "title": "MegaETH buys back 4.75% equity and token warrants from pre-seed investors",
-    "link": "https://www.theblock.co/post/375090/megaeth-buys-back-equity-token-warrants-pre-seed-investors?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 09:00:03 -0400",
-    "source": "The Block",
-    "contentSnippet": "Shuyao Kong said the buyback was completed at a valuation above the seed round, which was at a \"9-figure\" token valuation."
-  },
-  {
-    "title": "Is Smart Money Exiting? Whales Dump Solana, Aave, and Aster",
-    "link": "https://decrypt.co/344750/is-smart-money-exiting-whales-dump-solana-aave-and-aster",
-    "pubDate": "Fri, 17 Oct 2025 12:40:01 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A broad altcoin sell-off is seeing whales de-risking, according to analysts, citing fears of a black swan event."
-  },
-  {
-    "title": "Japan’s big banks join forces on stablecoins to speed corporate payments: Nikkei",
-    "link": "https://www.theblock.co/post/375083/japans-big-banks-join-forces-on-stablecoins-to-speed-corporate-payments-nikkei?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 07:58:02 -0400",
-    "source": "The Block",
-    "contentSnippet": "Japan’s MUFG, SMBC and Mizuho plan to jointly issue yen and dollar-pegged stablecoins in a push to standardize corporate onchain payments."
-  },
-  {
     "title": "Fear returns to the crypto market as $230B vanishes overnight",
     "link": "https://cointelegraph.com/news/crypto-fear-greed-index-falls-to-april-lows?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 17 Oct 2025 11:55:35 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Investor sentiment turned sharply bearish as crypto’s fear index plunged to 28, and $230 billion in value evaporated in a single day."
-  },
-  {
-    "title": "ARK 21Shares Bitcoin ETF Records Highest Outflows Since August",
-    "link": "https://decrypt.co/344740/ark-21shares-bitcoin-etf-records-highest-outflows-since-august",
-    "pubDate": "Fri, 17 Oct 2025 10:52:23 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts cited fallout from tariffs and last week's $19B liquidation event as driving institutional investors to defensive positioning."
-  },
-  {
-    "title": "Bitcoin's Plunge Below $105,000 Sends Crypto Market Cap to Lowest Level Since July",
-    "link": "https://decrypt.co/344735/bitcoins-plunge-below-105000-sends-crypto-market-cap-to-lowest-level-since-july",
-    "pubDate": "Fri, 17 Oct 2025 09:59:27 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts argue that crypto's \"bullish structure\" remains intact, despite a sell-off driven by fears in the traditional banking sector."
-  },
-  {
-    "title": "Salesforce Faces Class Action Over Alleged Illegal AI Training Data",
-    "link": "https://decrypt.co/344727/salesforce-faces-class-action-over-alleged-illegal-ai-training-data",
-    "pubDate": "Fri, 17 Oct 2025 09:26:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The authors claim the company trained its XGen models on nearly 200,000 pirated books, then scrubbed public disclosures."
   },
   {
     "title": "NFT markets rebound after $1.2B wipeout in Friday’s crypto crash",
