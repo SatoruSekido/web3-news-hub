@@ -1,17 +1,101 @@
 [
   {
-    "title": "There Are Three Major Tailwinds for Crypto’s Next Rally, Says Galaxy Digital’s Alex Thorn",
-    "link": "https://www.coindesk.com/markets/2025/10/19/three-major-tailwinds-for-crypto-s-next-rally-says-galaxy-digital-s-alex-thorn",
-    "pubDate": "Sun, 19 Oct 2025 00:20:08 +0000",
+    "title": "XRP Investor Says $3M in XRP Was Stolen; Cold Wallet Maker Says Seed Import Made Wallet Hot",
+    "link": "https://www.coindesk.com/tech/2025/10/19/xrp-investor-says-usd3m-in-xrp-was-stolen-cold-wallet-maker-says-seed-import-made-wallet-hot",
+    "pubDate": "Sun, 19 Oct 2025 17:57:24 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "The firm's top researcher says the structural bull case is intact, pointing to AI capex, stablecoins and tokenization as tailwinds even after this month’s shakeout."
+    "contentSnippet": "Long-time XRP investor Brandon LaRoque says he discovered the loss on Oct. 15 in cold wallet maker Ellipal’s mobile app, but the theft occurred on Oct. 12."
+  },
+  {
+    "title": "Professor Coin: Bitcoin, Energy and the Future of Sustainable Crypto",
+    "link": "https://decrypt.co/344761/professor-coin-bitcoin-energy-future-sustainable-crypto",
+    "pubDate": "Sun, 19 Oct 2025 17:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Research into Bitcoin’s energy use has extended to mining’s total environmental cost and whether it can accelerate the green transition."
+  },
+  {
+    "title": "Beijing moves to stop Chinese tech giants from issuing stablecoins in Hong Kong: FT",
+    "link": "https://www.theblock.co/post/375210/beijing-moves-to-stop-chinese-tech-giants-from-issuing-stablecoins-in-hong-kong-ft?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 19 Oct 2025 12:51:01 -0400",
+    "source": "The Block",
+    "contentSnippet": "Alibaba-backed Ant Group and one of China's largest retailers, JD.com, have reportedly paused their plans to issue stablecoins in Hong Kong."
+  },
+  {
+    "title": "‘Ether Caught Fire’: ETH Surged as Capital Fled Bitcoin in Q3, CoinGecko Report Finds",
+    "link": "https://www.coindesk.com/markets/2025/10/19/ether-caught-fire-eth-surged-as-capital-fled-bitcoin-in-q3-coingecko-report-finds",
+    "pubDate": "Sun, 19 Oct 2025 16:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "ETH hit fresh highs while bitcoin cooled, as investors chased DeFi, altcoins, and tokenized assets. CoinGecko calls it a defining market shift."
+  },
+  {
+    "title": "Coinbase Institutional Highlights Three Catalysts That Could Lift Crypto in Q4 2025",
+    "link": "https://www.coindesk.com/markets/2025/10/19/coinbase-institutional-highlights-three-catalysts-that-could-lift-crypto-in-q4-2025",
+    "pubDate": "Sun, 19 Oct 2025 15:41:41 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In a Q4 2025 outlook report, Coinbase Institutional says the cycle still skews positive — with liquidity, stablecoins and policy progress lifting the market."
+  },
+  {
+    "title": "What Is World Liberty Financial? The Trump Family DeFi Project Explained",
+    "link": "https://decrypt.co/resources/what-is-world-liberty-financial-the-trump-family-defi-project-explained",
+    "pubDate": "Sun, 19 Oct 2025 15:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The U.S. President's biggest crypto venture is a DeFi project promising to help the unbanked. But how does it work?"
+  },
+  {
+    "title": "Stablecoins' $1 Peg Is a 'Misconception,' Says NYDIG After $500 Billion Market Meltdown",
+    "link": "https://www.coindesk.com/markets/2025/10/19/stablecoins-usd1-peg-is-a-misconception-says-nydig-after-usd500-billion-market-meltdown",
+    "pubDate": "Sun, 19 Oct 2025 14:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The recent $500 billion crypto market sell-off revealed the instability of stablecoins, with prices fluctuating even for stablecoins."
+  },
+  {
+    "title": "XRP Setup Tightens Ahead of ETF Decisions, And $2.40 Break Could Define Next Leg",
+    "link": "https://www.coindesk.com/markets/2025/10/19/xrp-setup-tightens-ahead-of-etf-decisions-and-usd2-40-break-could-define-next-leg",
+    "pubDate": "Sun, 19 Oct 2025 13:42:01 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Strategists warn a deeper pullback toward $1.55 remains plausible before a structural recovery attempt toward the $7–$27 corridor."
+  },
+  {
+    "title": "DOGE Holds $0.19 Base as 'Smart Money' Accumulates Ahead of Breakout Attempt",
+    "link": "https://www.coindesk.com/markets/2025/10/19/doge-holds-usd0-19-base-as-smart-money-accumulates-ahead-of-breakout-attempt",
+    "pubDate": "Sun, 19 Oct 2025 13:33:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Traders focus on a potential breakout above $0.192 to sustain upward momentum."
+  },
+  {
+    "title": "Bitcoin’s Bullish October Is Headed to Be its Worst in 10 Years",
+    "link": "https://www.coindesk.com/markets/2025/10/19/bitcoin-s-bullish-october-is-headed-to-become-its-worst-in-10-years",
+    "pubDate": "Sun, 19 Oct 2025 13:25:34 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The historical average for October sits around 19.8%, next to November's 42% which is the asset's strongest month."
+  },
+  {
+    "title": "It’s Time for the Crypto Industry to Take the Threat of AI and Quantum Computing Seriously",
+    "link": "https://www.coindesk.com/opinion/2025/10/17/it-s-time-for-the-crypto-industry-to-take-the-threat-of-ai-and-quantum-computing-seriously",
+    "pubDate": "Sun, 19 Oct 2025 13:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "If a quantum computer ever broke a blockchain, the entire crypto industry might as well close down shop, argues Kostas Chalkias, chief cryptographer at Mysten Labs."
   },
   {
     "title": "Here’s what happened in crypto today",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 18 Oct 2025 23:17:18 +0100",
+    "pubDate": "Sun, 19 Oct 2025 13:58:48 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "Bitcoin Price Could Collapse to $70K or Lower as Bull Market Is Over: Elliott Wave Expert",
+    "link": "https://www.coindesk.com/markets/2025/10/19/bitcoin-price-could-collapse-to-usd70k-or-lower-as-bull-market-is-over-elliott-wave-guru",
+    "pubDate": "Sun, 19 Oct 2025 12:39:18 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Elliott Wave expert foresees a major bitcoin bear market that could last until late 2026."
+  },
+  {
+    "title": "XRP, SOL Break Ahead With Bullish Reset in Sentiment as Bitcoin and Ether Stay Stuck in the Gloom",
+    "link": "https://www.coindesk.com/markets/2025/10/19/xrp-breaks-ahead-with-bullish-reset-in-sentiment-as-bitcoin-and-ether-stay-stuck-in-the-gloom",
+    "pubDate": "Sun, 19 Oct 2025 07:30:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XRP, SOL options flash renewed bullish signal, contrasting bitcoin and ether."
   },
   {
     "title": "Bitcoin mining entrepreneur pitches 450-foot, $450 million Prometheus statue for Alcatraz Island",
@@ -21,13 +105,6 @@
     "contentSnippet": "The proposed Prometheus statue, at 450 feet, would dwarf the Statue of Liberty, at just 305 feet, and would be made of a nickel-bronze alloy."
   },
   {
-    "title": "Richest YouTube Star MrBeast’s Firm Files Trademark With Crypto Ambitions",
-    "link": "https://www.coindesk.com/business/2025/10/18/richest-youtube-star-mrbeast-s-firm-files-trademark-with-crypto-ambitions",
-    "pubDate": "Sat, 18 Oct 2025 20:00:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The application includes language related to crypto and Web3, such as managing financial services, downloadable software, and SaaS tools for managing crypto-related functionality."
-  },
-  {
     "title": "UK tax authority sends 65,000 letters to suspected crypto tax evaders, more than double last year’s count: FT",
     "link": "https://www.theblock.co/post/375200/uk-tax-authority-sends-65000-letters-to-suspected-crypto-tax-evaders-more-than-double-last-years-count-ft?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 18 Oct 2025 15:56:12 -0400",
@@ -35,67 +112,11 @@
     "contentSnippet": "Beginning in 2026, exchanges will share more detailed information on user activity with around 70 jurisdictions under new reporting requirements."
   },
   {
-    "title": "Analyst Says He ‘Nibbled’ HYPE Below $34, Eyes $28 Area as Downtrend Persists",
-    "link": "https://www.coindesk.com/markets/2025/10/18/analyst-says-he-nibbled-hype-below-usd34-eyes-usd28-area-as-downtrend-persists",
-    "pubDate": "Sat, 18 Oct 2025 19:01:22 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "In an X post, a respected pseudonymous crypto analyst said he bought a HYPE spot position under $34 and would \"load up\" closer to $28 amid a market downtrend."
-  },
-  {
-    "title": "Ripple CLO Rejects the Narrative That Crypto Is Just a Tool for 'Crime and Corruption'",
-    "link": "https://www.coindesk.com/policy/2025/10/18/ripple-clo-rejects-the-narrative-that-crypto-is-just-a-tool-for-crime-and-corruption",
-    "pubDate": "Sat, 18 Oct 2025 18:05:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "In an X post, Ripple's Stuart Alderoty said two recent New York Times pieces wrongly cast crypto as only a tool for crime and corruption."
-  },
-  {
     "title": "Wikipedia Traffic Drops as AI Answers Eat the Free Encyclopedia",
     "link": "https://decrypt.co/344845/wikipedia-traffic-drops-ai-answers-eat-free-encyclopedia",
     "pubDate": "Sat, 18 Oct 2025 18:01:06 +0000",
     "source": "Decrypt",
     "contentSnippet": "The Wikimedia Foundation revealed an unsettling trend: search engines and chatbots are providing Wikipedia's content directly to users without sending them to the site."
-  },
-  {
-    "title": "'Great Hackers, Terrible Traders': How Exploiters Panic Sold and Lost $13M During Market Chaos",
-    "link": "https://www.coindesk.com/markets/2025/10/18/great-hackers-terrible-traders-how-exploiters-panic-sold-and-lost-usd13m-during-market-chaos",
-    "pubDate": "Sat, 18 Oct 2025 17:38:09 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Six hacker wallets dumped ETH during the Oct. 10 market crash, then rebought at higher prices, amplifying losses."
-  },
-  {
-    "title": "OpenSea Confirms Q1 Launch for SEA Token With Half of Supply Allocated to Community",
-    "link": "https://www.coindesk.com/business/2025/10/18/opensea-confirms-q1-launch-for-sea-token-with-half-of-supply-allocated-to-community",
-    "pubDate": "Sat, 18 Oct 2025 17:24:16 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token will be integrated into OpenSea, allowing users to stake behind favorite collections or projects, Finzer said."
-  },
-  {
-    "title": "'Deploying More Capital — Steady Lads': Bitcoin Treasury Companies Struggle to Halt Plunge",
-    "link": "https://www.coindesk.com/markets/2025/10/18/deploying-more-capital-steady-lads-bitcoin-treasury-companies-struggle-to-halt-crash",
-    "pubDate": "Sat, 18 Oct 2025 17:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Already losing favor with investors when bitcoin was in bull mode, companies built around stacking BTC are facing an even larger threat thanks to the price collapse over the past two weeks."
-  },
-  {
-    "title": "BNB Outperforms Wide Market on Growing RWA Adoption, Potential Coinbase Listing",
-    "link": "https://www.coindesk.com/markets/2025/10/18/bnb-outperforms-wide-market-on-growing-rwa-adoption-potential-coinbase-listing",
-    "pubDate": "Sat, 18 Oct 2025 16:03:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token's price action is driven partly by Coinbase considering BNB for a listing and China Merchants Bank International tokenizing a MMF on the BNB Chain."
-  },
-  {
-    "title": "Bitcoin-Holding Institutions Seeking Yield, DeFi Capabilities",
-    "link": "https://www.coindesk.com/business/2025/10/17/institutions-edge-toward-bitcoin-yield-seeking-maturing-defi-capabilities",
-    "pubDate": "Sat, 18 Oct 2025 16:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Projects such as Rootstock and Babylon may be perking institutional demand for Bitcoin-based yield and restaking"
-  },
-  {
-    "title": "Ondo Finance Urges SEC to Delay Nasdaq's Tokenization Plan Over Transparency Gaps",
-    "link": "https://www.coindesk.com/policy/2025/10/18/ondo-finance-urges-sec-to-delay-nasdaq-s-tokenization-plan-over-transparency-gaps",
-    "pubDate": "Sat, 18 Oct 2025 15:57:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The proposed rule change relies on Nasdaq's vague understanding of how the Depository Trust Company (DTC) would handle post-trade settlement for these tokens."
   },
   {
     "title": "Circuit Breakers in DeFi? Why Experts Say Managing Chaos On-Chain Isn't That Easy",
@@ -182,13 +203,6 @@
     "contentSnippet": "Market makers paused trading during last week's flash crash, potentially adding to the volatility. Here’s what happened."
   },
   {
-    "title": "Here's When to Expect the SEA Token as OpenSea Trading Volume Spikes",
-    "link": "https://decrypt.co/344798/when-expect-sea-token-opensea-trading-volume-spikes",
-    "pubDate": "Fri, 17 Oct 2025 17:36:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "NFT marketplace and token trading platform OpenSea will launch its SEA token in Q1 2026, with 50% allocated for its community of users."
-  },
-  {
     "title": "Some of Asia’s largest Ethereum backers plan to launch $1 billion ETH treasury firm",
     "link": "https://www.theblock.co/post/375153/some-asias-largest-ethereum-backers-plan-launch-1-billion-eth-treasury-firm?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 17 Oct 2025 13:22:31 -0400",
@@ -215,20 +229,6 @@
     "pubDate": "Fri, 17 Oct 2025 13:09:28 -0400",
     "source": "The Block",
     "contentSnippet": "Ondo Finance is pushing back against Nasdaq's proposal to support tokenized stocks and exchange-traded funds."
-  },
-  {
-    "title": "9 Biggest Bitcoin Crashes in History",
-    "link": "https://decrypt.co/344676/9-biggest-bitcoin-crashes-history",
-    "pubDate": "Fri, 17 Oct 2025 16:56:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Mt. Gox hacks, China bans, COVID panic, and the FTX implosion: Here’s a brief history of the biggest price crashes in Bitcoin history."
-  },
-  {
-    "title": "Tether open-sources wallet kit for humans and AI agents on Bitcoin, Ethereum, and beyond",
-    "link": "https://www.theblock.co/post/375125/tether-open-sources-wallet-kit-humans-ai-agents-bitcoin-ethereum-beyond?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 11:34:38 -0400",
-    "source": "The Block",
-    "contentSnippet": "Tether's open-source wallet toolkit supports multiple blockchains, from Bitcoin and Lightning to Solana and TON."
   },
   {
     "title": "Fear returns to the crypto market as $230B vanishes overnight",
