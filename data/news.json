@@ -1,5 +1,61 @@
 [
   {
+    "title": " Bitcoin Jumps Past $111K, XRP, SOL, ETH Rally as Japanese Shares Hit Record High",
+    "link": "https://www.coindesk.com/markets/2025/10/20/bitcoin-retakes-usd110k-xrp-sol-eth-rally-as-japanese-shares-hit-record-high",
+    "pubDate": "Mon, 20 Oct 2025 05:52:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "On-chain data offered bullish cues to bitcoin."
+  },
+  {
+    "title": "Bitcoin returns above $110,500 on rate cut hopes; US-China risk still major: analysts",
+    "link": "https://www.theblock.co/post/375235/bitcoin-returns-above-110500?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 20 Oct 2025 01:45:37 -0400",
+    "source": "The Block",
+    "contentSnippet": "One analyst said the key resistance level stands at $111,000, where a break above could drive prices even higher."
+  },
+  {
+    "title": "Crypto execs to meet Senate Democrats over market structure legislation: report",
+    "link": "https://www.theblock.co/post/375233/crypto-executives-senate-democrats-market-structure-legislation?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 20 Oct 2025 01:33:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "Expected attendees include Coinbase CEO Brian Armstrong, Galaxy Digital CEO Mike Novogratz, Uniswap CEO Hayden Adams, and others."
+  },
+  {
+    "title": "Japan Considers Allowing Banks to Trade Digital Assets Such as Bitcoin: Report",
+    "link": "https://www.coindesk.com/markets/2025/10/20/japan-considers-allowing-banks-to-hold-digital-assets-such-as-bitcoin-report",
+    "pubDate": "Mon, 20 Oct 2025 04:48:57 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The reform would enable banks to trade cryptocurrencies similarly to stocks and bonds, with regulations to ensure stability."
+  },
+  {
+    "title": "Japan mulls allowing local banks to buy and sell crypto: reports",
+    "link": "https://www.theblock.co/post/375228/japan-fsa-local-banks-crypto?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 20 Oct 2025 00:07:46 -0400",
+    "source": "The Block",
+    "contentSnippet": "Japan's FSA plans to discuss potentially allowing banks to buy and sell crypto in an upcoming meeting, according to local news reports."
+  },
+  {
+    "title": "Has Bitcoin Bottomed? Here's What the Experts Say",
+    "link": "https://decrypt.co/344927/has-bitcoin-bottomed-heres-what-the-experts-say",
+    "pubDate": "Mon, 20 Oct 2025 03:54:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts believe Bitcoin is forming a local bottom as the Fed pivots toward rate cuts, though U.S.-China trade tensions remain a key risk."
+  },
+  {
+    "title": "Beijing Halts Tech Giants' Stablecoin Ambitions in Hong Kong: FT",
+    "link": "https://decrypt.co/344925/beijing-halts-tech-giants-stablecoin-ambitions-in-hong-kong",
+    "pubDate": "Mon, 20 Oct 2025 03:04:20 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Mainland officials have paused efforts from two top tech companies to establish stablecoin businesses in Hong Kong."
+  },
+  {
+    "title": "New York mayor candidate Cuomo pledges crypto innovation with new role",
+    "link": "https://www.theblock.co/post/375223/new-york-mayor-candidate-cuomo-crypto?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 19 Oct 2025 22:48:46 -0400",
+    "source": "The Block",
+    "contentSnippet": "Cuomo said he would create the role of Chief Innovation Officer to lead the city's tech innovation, including crypto and blockchain."
+  },
+  {
     "title": "The Funding: Crypto VCs unpack the largest liquidation event in history — and what’s next",
     "link": "https://www.theblock.co/post/375220/the-funding-crypto-vcs-unpack-the-largest-liquidation-event-in-history-and-whats-next?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 19 Oct 2025 19:00:23 -0400",
@@ -105,20 +161,6 @@
     "contentSnippet": "If a quantum computer ever broke a blockchain, the entire crypto industry might as well close down shop, argues Kostas Chalkias, chief cryptographer at Mysten Labs."
   },
   {
-    "title": "Bitcoin Price Could Collapse to $70K or Lower as Bull Market Is Over: Elliott Wave Expert",
-    "link": "https://www.coindesk.com/markets/2025/10/19/bitcoin-price-could-collapse-to-usd70k-or-lower-as-bull-market-is-over-elliott-wave-guru",
-    "pubDate": "Sun, 19 Oct 2025 12:39:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Elliott Wave expert foresees a major bitcoin bear market that could last until late 2026."
-  },
-  {
-    "title": "XRP, SOL Break Ahead With Bullish Reset in Sentiment as Bitcoin and Ether Stay Stuck in the Gloom",
-    "link": "https://www.coindesk.com/markets/2025/10/19/xrp-breaks-ahead-with-bullish-reset-in-sentiment-as-bitcoin-and-ether-stay-stuck-in-the-gloom",
-    "pubDate": "Sun, 19 Oct 2025 07:30:44 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XRP, SOL options flash renewed bullish signal, contrasting bitcoin and ether."
-  },
-  {
     "title": "Bitcoin mining entrepreneur pitches 450-foot, $450 million Prometheus statue for Alcatraz Island",
     "link": "https://www.theblock.co/post/375205/bitcoin-mining-entrepreneur-pitches-450-foot-450-million-prometheus-statue-for-alcatraz-island?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 18 Oct 2025 18:13:02 -0400",
@@ -168,20 +210,6 @@
     "contentSnippet": "OpenSea CEO Devin Finzer says the platform isn’t abandoning NFTs but expanding into a universal onchain trading hub."
   },
   {
-    "title": "Solana decentralized exchange aggregator Jupiter unveils Ultra v3 offering improved trade execution, MEV protections and ‘gasless support’",
-    "link": "https://www.theblock.co/post/375184/solana-decentralized-exchange-aggregator-jupiter-unveils-ultra-v3-improved-trade-execution-mev-protections-gasless-support?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 16:48:28 -0400",
-    "source": "The Block",
-    "contentSnippet": "The updated protocol is \"seamlessly integrated\" into all Jupiter products, including its mobile and desktop apps as well as its API and Pro Tools."
-  },
-  {
-    "title": "Newsmax stock ticks higher amid plans to establish $5 million crypto treasury with Trump token, bitcoin",
-    "link": "https://www.theblock.co/post/375176/newsmax-stock-ticks-higher-amid-plans-to-establish-5-million-crypto-treasury-with-trump-token-bitcoin?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 16:28:19 -0400",
-    "source": "The Block",
-    "contentSnippet": "Since making its debut ahead of President Trump's inauguration in January, it has been a steady slide for the TRUMP token."
-  },
-  {
     "title": "Relax, That's Not a Stranger in Your House—It's Just an AI Prank",
     "link": "https://decrypt.co/344783/relax-not-stranger-your-house-ai-prank",
     "pubDate": "Fri, 17 Oct 2025 19:58:23 +0000",
@@ -196,39 +224,11 @@
     "contentSnippet": "Dankrad Feist has left the Ethereum Foundation to help build Stripe's Tempo blockchain, which Fortune reports is now valued at $5 billion."
   },
   {
-    "title": "YouTube Star MrBeast Files Trademark for Crypto Exchange and Payments Service",
-    "link": "https://decrypt.co/344809/youtube-star-mrbeast-trademark-crypto-exchange",
-    "pubDate": "Fri, 17 Oct 2025 19:11:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "MrBeast trademarks crypto exchange app, but regulatory hurdles remain before the YouTube star can launch MrBeast Financial."
-  },
-  {
-    "title": "Bitcoin, Ethereum and XRP Bleed as Traders Weigh End of 4-Year Cycle",
-    "link": "https://decrypt.co/344818/bitcoin-ethereum-xrp-bleed-traders-weigh-end-4-year-cycle",
-    "pubDate": "Fri, 17 Oct 2025 18:55:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts believe that some retail traders still follow the four-year Bitcoin cycle rulebook, accounting for part of crypto’s recent decline."
-  },
-  {
-    "title": "The Daily: Ripple leads $1 billion XRP treasury raise, MegaETH buys back portion of pre-seed stake, and more",
-    "link": "https://www.theblock.co/post/375154/the-daily-ripple-leads-1-billion-xrp-treasury-raise-megaeth-buys-back-portion-of-pre-seed-stake-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 14:03:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Some of Asia’s largest Ethereum backers plan to launch $1 billion ETH treasury firm",
-    "link": "https://www.theblock.co/post/375153/some-asias-largest-ethereum-backers-plan-launch-1-billion-eth-treasury-firm?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 17 Oct 2025 13:22:31 -0400",
-    "source": "The Block",
-    "contentSnippet": "The investors are looking to acquire a Nasdaq-listed firm and have reportedly secured hundreds of millions of dollars in Ethereum treasury commitments."
-  },
-  {
     "title": "Swiss regulator GESPA takes aim at FIFA’s NFT platform in formal complaint",
     "link": "https://cointelegraph.com/news/swiss-regulator-gespa-fifa-nft-platform-complaint?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 17 Oct 2025 18:12:40 +0100",
     "source": "Cointelegraph NFT",
-    "contentSnippet": "Switzerland's nationwide gambling authority said that user rewards on the platform feature the element of chance, categorizing them as gambling."
+    "contentSnippet": "Switzerland’s nationwide gambling authority said user rewards on the platform feature the element of chance, categorizing them as gambling."
   },
   {
     "title": "Fear returns to the crypto market as $230B vanishes overnight",
