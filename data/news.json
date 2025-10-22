@@ -1,5 +1,117 @@
 [
   {
+    "title": "OpenAI’s Sora 2 Can Fabricate Convincing Deepfakes on Command, Study Finds",
+    "link": "https://decrypt.co/345296/sora-2-fabricate-convincing-deepfakes-on-command-study-finds",
+    "pubDate": "Wed, 22 Oct 2025 00:39:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Researchers found Sora 2 can produce realistic deepfake videos spreading false claims with little effort, intensifying scrutiny of its safety controls."
+  },
+  {
+    "title": "Why Google Shouldn’t Worry About OpenAI’s Atlas Browser—Yet",
+    "link": "https://decrypt.co/345293/why-google-shouldnt-worry-about-openais-atlas-browser-yet",
+    "pubDate": "Tue, 21 Oct 2025 23:57:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "OpenAI’s Atlas release to macOS on Tuesday marks a pivotal moment in web search, but should Google be concerned?"
+  },
+  {
+    "title": "'Oh Fuck': Solana Meme Coin Refunds Investors—A Year After Accidentally Burning $10 Million",
+    "link": "https://decrypt.co/345284/solana-meme-coin-slerf-refunds-investors-year-after-burning-10-million",
+    "pubDate": "Tue, 21 Oct 2025 22:12:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana meme coin investors have been refunded for the SOL they sent to the Slerf pre-sale wallet, which was mistakenly burned 19 months ago."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 21 Oct 2025 23:09:40 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+  },
+  {
+    "title": "Crypto’s ‘Decentralized’ Illusion Shattered Again by Another AWS Meltdown",
+    "link": "https://www.coindesk.com/news-analysis/2025/10/21/crypto-s-decentralized-illusion-shattered-again-by-another-aws-meltdown",
+    "pubDate": "Tue, 21 Oct 2025 21:12:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The October AWS outage took down some of crypto’s most prominent companies and networks. Many in the community pointed out their lack of decentralization."
+  },
+  {
+    "title": "Kadena winds down operations, KDA token drops 60%",
+    "link": "https://www.theblock.co/post/375608/kadena-winds-down-operations-kda-token-drops-60?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Oct 2025 17:00:37 -0400",
+    "source": "The Block",
+    "contentSnippet": "The organization behind the Kadena blockchain is winding down, effective immediately, due to unfavorable market conditions."
+  },
+  {
+    "title": "Ethereum Foundation moves $654 million in ETH amid online scrutiny of group’s transfers",
+    "link": "https://www.theblock.co/post/375602/ethereum-foundation-moves-eth-amid-online-scrutiny?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Oct 2025 16:59:42 -0400",
+    "source": "The Block",
+    "contentSnippet": "The foundation's co-Executive Director Hsiao-Wei Wang said on social media the transfer was part of scheduled wallet migration."
+  },
+  {
+    "title": "Sen. Warren slams stablecoin law and urges Treasury to address Trump conflict of interest concerns and financial risks",
+    "link": "https://www.theblock.co/post/375601/sen-warren-slams-stablecoin-law-urges-treasury-address-trump-conflict-interest-concerns-financial-risks?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Oct 2025 16:57:05 -0400",
+    "source": "The Block",
+    "contentSnippet": "Crypto critic Sen. Elizabeth Warren lambasted a stablecoin bill signed into law a few months ago in a letter to Treasury Secretary Bessent."
+  },
+  {
+    "title": "The Daily: SpaceX moves $270 million worth of bitcoin, Coinbase acquires Cobie’s crypto investment platform Echo, and more",
+    "link": "https://www.theblock.co/post/375596/the-daily-spacex-moves-270-million-worth-bitcoin-coinbase-acquires-cobies-crypto-investment-platform-echo-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Oct 2025 16:31:08 -0400",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "Bitcoin Giant Strategy Gets a 'Buy' From Citi—With a Warning",
+    "link": "https://decrypt.co/345267/bitcoin-giant-strategy-gets-buy-citi-warning",
+    "pubDate": "Tue, 21 Oct 2025 20:14:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Strategy could shoot up in price this year, analysts at the bank said. But only if BTC's price meets expectations."
+  },
+  {
+    "title": "Kadena Token Crashes as Company Behind Network Says It's Closing Up Shop",
+    "link": "https://decrypt.co/345276/kadena-token-crashes-company-behind-network-closing",
+    "pubDate": "Tue, 21 Oct 2025 20:09:59 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The Kadena organization is shutting down, and while the JP Morgan vets' blockchain will remain online, the KDA token is quickly plummeting."
+  },
+  {
+    "title": "Bitcoin, Ethereum Rise as Gold Sinks Following Record Highs—Here's Why",
+    "link": "https://decrypt.co/345263/bitcoin-ethereum-rise-gold-sinks-record-highs-why",
+    "pubDate": "Tue, 21 Oct 2025 19:58:44 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Gold has shined in recent weeks, but Bitcoin is 11% away from its all-time high."
+  },
+  {
+    "title": "Solana Saga Loses Security Updates and Support Following Seeker Phone Rollout",
+    "link": "https://decrypt.co/345262/solana-saga-loses-security-updates-support-seeker-phone-rollout",
+    "pubDate": "Tue, 21 Oct 2025 19:42:15 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana Mobile will no longer provide software updates and security patches to its first-generation Android phone, the Saga."
+  },
+  {
+    "title": "Gemini bullish on UK market as crypto adoption climbs to 24%, but says many still waiting on regulatory ‘stamp of approval’",
+    "link": "https://www.theblock.co/post/375583/gemini-uk-crypto-market-adoption-regulations?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Oct 2025 15:26:40 -0400",
+    "source": "The Block",
+    "contentSnippet": "The exchange expects new UK rules in 2026, highlighting that many people are still waiting on regulatory clarity before entering the space."
+  },
+  {
+    "title": "Streamer Sam Pepper Banned From Pump.fun, Kick After Injuring Girl With Firework Stunt",
+    "link": "https://decrypt.co/345229/streamer-sam-pepper-banned-pump-fun-kick-injuring-girl-firework-stunt",
+    "pubDate": "Tue, 21 Oct 2025 18:47:32 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "British streamer Sam Pepper is off Pump.fun and Kick after injuring a young teen girl due to launching a firework in her direction."
+  },
+  {
+    "title": "Largest crypto lending protocol Aave to integrate Maple’s yield-bearing assets",
+    "link": "https://www.theblock.co/post/375577/largest-crypto-lending-protocol-aave-integrate-maples-yield-bearing-assets?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 21 Oct 2025 14:22:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "The partnership with Maple marks a broader convergence between decentralized finance and institutional credit, positioning Aave as a bridge for traditional capital seeking onchain yield."
+  },
+  {
     "title": "Fed Considering 'Skinny' Master Accounts for Crypto Banks on 'Streamlined Timeline'",
     "link": "https://decrypt.co/345255/fed-considering-skinny-master-accounts-crypto-banks",
     "pubDate": "Tue, 21 Oct 2025 18:05:20 +0000",
@@ -35,13 +147,6 @@
     "contentSnippet": "Ripple’s ongoing $1 billion capital raise continued to support sentiment among professional traders seeking exposure to regulated-linked tokens."
   },
   {
-    "title": "Europol Takes Down Cybercrime Network in Latvia, Seizes $330,000 in Crypto",
-    "link": "https://decrypt.co/345214/europol-takes-down-cybercrime-network-in-latvia-seizes-330000-in-crypto",
-    "pubDate": "Tue, 21 Oct 2025 17:06:35 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The network provided SIM boxes and cards that fraudsters used to set up fake online accounts, stealing more than $5 million in Austria."
-  },
-  {
     "title": "Gold on track for biggest one-day slide in five years as Bitcoin draws rotation flows",
     "link": "https://www.theblock.co/post/375549/gold-track-biggest-one-day-slide-five-years-bitcoin-catches-capital-rotation-bid?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 21 Oct 2025 13:04:20 -0400",
@@ -54,20 +159,6 @@
     "pubDate": "Tue, 21 Oct 2025 16:52:59 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The token has support at the $1.52 level and resistance at $1.65."
-  },
-  {
-    "title": "British Columbia Wants to Permanently Ban New Crypto Mining Sites",
-    "link": "https://decrypt.co/345209/british-columbia-ban-crypto-mining-projects",
-    "pubDate": "Tue, 21 Oct 2025 16:37:16 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Canadian province says the move will protect clean energy for sectors creating jobs and growth."
-  },
-  {
-    "title": "SharpLink Makes First Ethereum Buy in Over a Month as ETH Holdings Top $3.5 Billion",
-    "link": "https://decrypt.co/345197/sharplink-makes-first-ethereum-buy-month-eth-holdings-top-3-5-billion",
-    "pubDate": "Tue, 21 Oct 2025 16:35:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum treasury firm SharpLink Gaming last week bought $79 million in ETH, marking its first crypto buy in over a month."
   },
   {
     "title": "‘UK can do better’: Kraken urges regulators to move faster on stablecoin and tokenization rules",
@@ -91,32 +182,11 @@
     "contentSnippet": "Hedera’s HBAR token tumbled amid heavy early-session sell pressure, breaching critical support before a sharp, high-volume rebound tempered losses in the final hour."
   },
   {
-    "title": "Ethereum Remains Volatile Ahead of US Inflation Report as ETH ETFs Shed Assets",
-    "link": "https://decrypt.co/345203/ethereum-etf-losses-slow-eth-volatile-inflation-report",
-    "pubDate": "Tue, 21 Oct 2025 15:44:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum ETFs lost $145 million on Monday as investors awaited delayed inflation data amid the longest-ever government shutdown fears."
-  },
-  {
     "title": "BitcoinOS Raises $10M to Expand Institutional BTCFi Capabilities",
     "link": "https://www.coindesk.com/business/2025/10/21/bitcoinos-raises-usd10m-to-expand-institutional-btcfi-capabilities",
     "pubDate": "Tue, 21 Oct 2025 15:39:27 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Greenfield Capital led the round with backing from FalconX, Bitcoin Frontier Fund and DNA Fund to advance zero-knowledge-powered Bitcoin infrastructure"
-  },
-  {
-    "title": "Galaxy Stock Jumps on 140% Trading Volume Increase in Q3",
-    "link": "https://decrypt.co/345204/galaxy-stock-jumps-140-trading-increase-q3",
-    "pubDate": "Tue, 21 Oct 2025 15:32:53 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The figure reflects an 80,000 Bitcoin sale."
-  },
-  {
-    "title": "Galaxy profit jumps 1,500% in record quarter as Novogratz calls Helios AI-compute campus its ‘cornerstone’",
-    "link": "https://www.theblock.co/post/375535/galaxy-profit-jumps-1500-record-quarter-novogratz-helios-data-campus-cornerstone-future?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Oct 2025 11:29:07 -0400",
-    "source": "The Block",
-    "contentSnippet": "Galaxy's Helios site, now fully financed and leased to CoreWeave, is set to start generating AI-infrastructure revenue in 2026."
   },
   {
     "title": "Strategy Gets Buy Rating From Citi on Bullish Bitcoin Outlook ",
@@ -147,133 +217,63 @@
     "contentSnippet": "At its first event on payment innovations, the Federal Reserve's Christopher Waller suggested a compromise over the crypto world's \"master account\" aims."
   },
   {
-    "title": "Coinbase Sees TradFi Institutions Driving Crypto Derivatives Boom",
-    "link": "https://www.coindesk.com/business/2025/10/21/coinbase-sees-tradfi-institutions-driving-crypto-derivatives-boom",
-    "pubDate": "Tue, 21 Oct 2025 14:38:29 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The listed exchange expects a rebalance from Asia's dominance towards U.S. and Europe-based, non-market maker institutions."
-  },
-  {
-    "title": "Tether hits 500 million users as stablecoin supply nears $182 billion",
-    "link": "https://www.theblock.co/post/375522/tether-hits-500-million-users-as-stablecoin-supply-nears-182-billion?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Oct 2025 10:27:34 -0400",
-    "source": "The Block",
-    "contentSnippet": "The company's CEO Paolo Ardoino called the milestone perhaps \"the biggest financial inclusion achievement in history.\""
-  },
-  {
-    "title": "SharpLink adds $75 million in Ethereum as treasury holdings rise to nearly 860,000 ETH",
-    "link": "https://www.theblock.co/post/375511/sharplink-adds-75-million-in-ethereum-as-treasury-holdings-rise-to-nearly-860000-eth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Oct 2025 10:13:51 -0400",
-    "source": "The Block",
-    "contentSnippet": "Given Ethereum's recent price slide, SharpLink's total ETH holdings are worth about $3.5 billion, about the same as last month."
-  },
-  {
-    "title": " Here’s what happened in crypto today ",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Oct 2025 15:05:42 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-  },
-  {
-    "title": "Waller signals Fed’s shift toward embracing crypto, proposes ‘skinny master account’ for payment innovators",
-    "link": "https://www.theblock.co/post/375513/waller-signals-feds-shift-toward-embracing-crypto-proposes-skinny-master-account-for-payment-innovators?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Oct 2025 09:57:48 -0400",
-    "source": "The Block",
-    "contentSnippet": "Federal Reserve Governor Waller says the central bank plan is entering a new era and says crypto will \"no longer be on the fringes.\""
-  },
-  {
-    "title": "Ethereum Core Veteran: Vitalik Buterin Has 'Complete Indirect Control’ Over Ecosystem",
-    "link": "https://decrypt.co/345167/ethereum-core-veteran-vitalik-buterin-has-complete-indirect-control-over-ecosystem",
-    "pubDate": "Tue, 21 Oct 2025 13:54:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Geth lead Péter Szilágyi’s criticisms of the Ethereum Foundation prompted Polygon CEO Sandeep Nailwal to chime in with his own issues."
-  },
-  {
-    "title": "Aave now holds $25 billion in outstanding loans, tightening grip on Ethereum lending as market consolidates",
-    "link": "https://www.theblock.co/post/375350/aave-now-holds-25-billion-in-outstanding-loans-tightening-grip-on-ethereum-lending-as-market-consolidates?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Oct 2025 09:47:22 -0400",
-    "source": "The Block",
-    "contentSnippet": "Aave currently serves nearly 1,000 unique borrowers daily, facilitating approximately $25 billion in outstanding loans on Ethereum."
-  },
-  {
-    "title": "Coinbase Acquires Crypto Fundraising Platform Echo for $375 Million",
-    "link": "https://decrypt.co/345168/coinbase-acquires-echo-375-million",
-    "pubDate": "Tue, 21 Oct 2025 13:41:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The deal marks Coinbase's another major acquisition this year as it builds infrastructure spanning token creation, fundraising, and secondary trading."
-  },
-  {
-    "title": "Morning Minute: Coinbase Buys Cobie's Echo &#038; Up Only NFT for $375M",
-    "link": "https://decrypt.co/345158/morning-minute-coinbase-buys-cobies-echo-up-only-nft-for-375m",
-    "pubDate": "Tue, 21 Oct 2025 12:58:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "It's a major win for the on-chain economy, builders, investors—and even Crypto Twitter, which now gets its favorite show back."
-  },
-  {
-    "title": "Flight3 founders talk Zebu Live, London’s revival, and the crypto market downturn",
-    "link": "https://www.theblock.co/post/375484/flight3-founders-talk-zebu-live-londons-revival-the-crypto-market-downturn?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 21 Oct 2025 08:18:32 -0400",
-    "source": "The Block",
-    "contentSnippet": "Flight3 founders Harry and Joylon Horsfall discuss their final preparations for Zebu Live, London's crypto revival, and the recent market crash."
-  },
-  {
-    "title": " Coinbase splashes $25M to revive a podcast from the last bull run ",
+    "title": "Coinbase splashes $25M to revive a podcast from the last bull run",
     "link": "https://cointelegraph.com/news/coinbase-spends-25-million-nft-revive-uponly-crypto-podcast?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 21 Oct 2025 06:37:18 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Coinbase has paid $25 million for an NFT that compels the once popular crypto podcast UpOnly to restart. Bull market vibes anyone?"
   },
   {
-    "title": " OpenSea rejects pivot from NFTs, says it’s evolving to ‘trade everything’ ",
+    "title": "OpenSea rejects pivot from NFTs, says it’s evolving to ‘trade everything’",
     "link": "https://cointelegraph.com/news/opensea-rejects-pivot-from-nfts-trade-everything-onchain?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Sat, 18 Oct 2025 12:47:45 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "OpenSea CEO Devin Finzer says the platform isn’t abandoning NFTs but expanding into a universal onchain trading hub."
   },
   {
-    "title": " Swiss regulator GESPA takes aim at FIFA’s NFT platform in formal complaint ",
+    "title": "Swiss regulator GESPA takes aim at FIFA’s NFT platform in formal complaint",
     "link": "https://cointelegraph.com/news/swiss-regulator-gespa-fifa-nft-platform-complaint?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 17 Oct 2025 18:12:40 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Switzerland’s nationwide gambling authority said user rewards on the platform feature the element of chance, categorizing them as gambling."
   },
   {
-    "title": " Fear returns to the crypto market as $230B vanishes overnight ",
+    "title": "Fear returns to the crypto market as $230B vanishes overnight",
     "link": "https://cointelegraph.com/news/crypto-fear-greed-index-falls-to-april-lows?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 17 Oct 2025 11:55:35 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Investor sentiment turned sharply bearish as crypto’s fear index plunged to 28, and $230 billion in value evaporated in a single day."
   },
   {
-    "title": " NFT markets rebound after $1.2B wipeout in Friday’s crypto crash ",
+    "title": "NFT markets rebound after $1.2B wipeout in Friday’s crypto crash",
     "link": "https://cointelegraph.com/news/nft-market-rebound-after-1-2b-wipeout-crypto-crash?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 15 Oct 2025 11:59:10 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Top Ethereum NFT collections like BAYC, Pudgy Penguins and CryptoPunks remain in the red despite a partial market recovery after Friday’s crypto market crash."
   },
   {
-    "title": " Sorare CEO still bullish on Ethereum despite ‘upgrading’ to Solana ",
+    "title": "Sorare CEO still bullish on Ethereum despite ‘upgrading’ to Solana",
     "link": "https://cointelegraph.com/news/sorare-hypes-ethereum-despite-migrating-to-solana?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 15 Oct 2025 05:19:16 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Fantasy sports crypto platform Sorare is migrating from Ethereum to Solana, with its CEO saying it is a better fit for Sorare due to its scalability and focus on consumer applications."
   },
   {
-    "title": " How to use Google’s Gemini to research coins before you invest ",
+    "title": "How to use Google’s Gemini to research coins before you invest",
     "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 14 Oct 2025 07:34:58 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
   },
   {
-    "title": " How to use ChatGPT to find hidden gems in the crypto market ",
+    "title": "How to use ChatGPT to find hidden gems in the crypto market",
     "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-find-hidden-gems-in-the-crypto-market?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Sun, 12 Oct 2025 10:24:17 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Discover hidden crypto gems using ChatGPT: GPTs, sentiment insights and data-driven scanners for smarter research and trading."
   },
   {
-    "title": " Early crypto gems: How to discover them first ",
+    "title": "Early crypto gems: How to discover them first",
     "link": "https://cointelegraph.com/news/early-crypto-gems-how-to-discover-them-first?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Tue, 07 Oct 2025 12:27:08 +0100",
     "source": "Cointelegraph NFT",
