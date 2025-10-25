@@ -1,5 +1,75 @@
 [
   {
+    "title": "Ripple Prime Is the Fintech Firm’s One-Stop Institutional Trading and Financing Desk",
+    "link": "https://www.coindesk.com/markets/2025/10/25/ripple-prime-is-the-fintech-firm-s-one-stop-institutional-trading-and-financing-desk",
+    "pubDate": "Sat, 25 Oct 2025 00:24:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Ripple Prime bundles trading, financing and clearing for institutions in one service, with risk controls, regulated custody and optional RLUSD collateral."
+  },
+  {
+    "title": "Elon Musk's SpaceX Moves $133 Million Worth of Bitcoin",
+    "link": "https://decrypt.co/345904/elon-musk-spacex-moves-133-million-worth-bitcoin",
+    "pubDate": "Fri, 24 Oct 2025 22:31:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Elon Musk's space exploration firm, SpaceX, moved $133 million worth of Bitcoin on Friday after transferring funds earlier this week."
+  },
+  {
+    "title": "Trump Picks SEC Crypto Task Force’s Mike Selig to Run CFTC: Report",
+    "link": "https://decrypt.co/345957/trump-sec-crypto-task-forces-mike-selig-cftc-report",
+    "pubDate": "Fri, 24 Oct 2025 21:47:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Selig, chief counsel for the SEC’s pro-crypto task force, is the president’s latest choice to run the CFTC, according to a Bloomberg report."
+  },
+  {
+    "title": "Public Keys: DraftKings Gets Predictable, Canaan Turns Around and Zelle Likes Stables",
+    "link": "https://decrypt.co/345947/public-keys-draftkings-canaan-zelle-stablecoins",
+    "pubDate": "Fri, 24 Oct 2025 21:31:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "DraftKings buys Railbird, Canaan rebounds from near-delisting, and Zelle embraces stablecoins in this week's Public Keys."
+  },
+  {
+    "title": "Custodia, Vantage Expand Pilot Into Live Tokenized Deposit Network for US Banks",
+    "link": "https://decrypt.co/345909/custodia-vantage-pilot-live-tokenized-deposit-network-us-banks",
+    "pubDate": "Fri, 24 Oct 2025 21:28:09 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The two banks have moved from pilot to production with a platform that lets U.S. lenders issue interoperable tokenized deposits compliant with the GENIUS Act."
+  },
+  {
+    "title": "Coinbase’s Base token could be worth as much as $34 billion, JPMorgan says",
+    "link": "https://www.theblock.co/post/376134/coinbases-base-token-could-be-worth-34-billion-jpmorgan-says?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 24 Oct 2025 17:12:08 -0400",
+    "source": "The Block",
+    "contentSnippet": "JPMorgan see Coinbase’s Base network growth and upcoming token exploration as a shift toward deeper onchain monetization."
+  },
+  {
+    "title": "YouTube Rival Rumble Teams With Tether to Add Bitcoin Tipping for Creators",
+    "link": "https://decrypt.co/345945/youtube-rival-rumble-teams-tether-add-bitcoin-tipping",
+    "pubDate": "Fri, 24 Oct 2025 21:02:59 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Publicly traded video sharing and livestream platform Rumble is adding Bitcoin tipping for its creator base."
+  },
+  {
+    "title": "Gold vs Ethereum: Which Hits $5K First? Here’s What the Charts Say",
+    "link": "https://decrypt.co/345918/gold-ethereum-which-hits-5k-first-what-charts-say",
+    "pubDate": "Fri, 24 Oct 2025 20:30:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum needs a 30% pump while gold requires 20% to reach $5K. But predicting which crosses the finish line first isn't as easy as that. Here's why."
+  },
+  {
+    "title": "President Trump taps Michael Selig to lead CFTC amid push for crypto oversight: Bloomberg",
+    "link": "https://www.theblock.co/post/373289/president-trump-taps-michael-selig-to-lead-cftc-amid-push-for-crypto-oversight-bloomberg?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 24 Oct 2025 15:29:35 -0400",
+    "source": "The Block",
+    "contentSnippet": "The White House tapped Michael Selig to lead the CFTC as lawmakers move to cement the agency's authority over digital assets."
+  },
+  {
+    "title": "Spooky Szn? Bitcoin Options Worth Record $31 Billion Set to Expire on Halloween",
+    "link": "https://decrypt.co/345888/bitcoin-options-record-31-billion-set-expire-halloween",
+    "pubDate": "Fri, 24 Oct 2025 19:06:55 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Despite the October flash crash and deleveraging event, Bitcoin traders are in for a record options expiry event at the end of the month. Here's what to expect."
+  },
+  {
     "title": "Payments Processor Zelle to Use Stablecoins for International Transactions",
     "link": "https://decrypt.co/345885/zelle-use-stablecoins-international-payments",
     "pubDate": "Fri, 24 Oct 2025 18:18:54 +0000",
@@ -70,39 +140,11 @@
     "contentSnippet": "Hedera’s token faces selling pressure after a failed breakout near $0.1716, with technical patterns signaling potential institutional distribution."
   },
   {
-    "title": "Tether Launches Decentralized AI App, Dataset to Challenge Big Tech Dominance",
-    "link": "https://decrypt.co/345859/tether-decentralized-ai-app-dataset-challenge-big-tech-dominance",
-    "pubDate": "Fri, 24 Oct 2025 15:45:00 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Stablecoin giant Tether launched QVAC Genesis I, the world’s largest open STEM AI dataset, and a privacy-focused local AI app, QVAC Workbench."
-  },
-  {
-    "title": "TRUMP PARDONS CZ, BTC BACK OVER $110K, A16Z’s STATE OF CRYPTO 2025",
-    "link": "https://decrypt.co/videos/interviews/9YKUk9do/trump-pardons-cz-btc-back-over-110k-a16zs-state-of-crypto-2025",
-    "pubDate": "Fri, 24 Oct 2025 15:31:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are green and rebounding. BTC is up 1% at $110,800, ETH is up 2% at $3,940, BNB is up 2% at $1,120, and SOL is up 1% at $191. MYX (+14%), VIRTUAL (+13%), ZEC (+11%), and WLFI (+11%) led "
-  },
-  {
     "title": "Zelle weighs stablecoin integration to expand its trillion-dollar payments network abroad",
     "link": "https://www.theblock.co/post/376092/zelle-weighs-stablecoin-integration-expand-trillion-dollar-payments-network-abroad?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 10:56:41 -0400",
     "source": "The Block",
     "contentSnippet": "Early Warning Services, which operates Zelle, has launched an initiative designed to explore international transfers using stablecoin technology."
-  },
-  {
-    "title": "Polymarket Exec Confirms Token, Airdrop—After Prediction Market Returns to US",
-    "link": "https://decrypt.co/345854/polymarket-exec-confirms-token-airdrop-after-reenters-us-market",
-    "pubDate": "Fri, 24 Oct 2025 14:44:34 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Matthew Modabber, Polymarket's CMO, confirmed the platform will launch a token and airdrop—but only after reentering the U.S. market."
-  },
-  {
-    "title": "Gaming Giants Electronic Arts and Krafton Are Going Big on Generative AI",
-    "link": "https://decrypt.co/345847/gaming-giants-electronic-arts-krafton-going-big-generative-ai",
-    "pubDate": "Fri, 24 Oct 2025 14:40:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The gaming firms behind FIFA and PUBG are betting on AI to transform their workflows, saying it’ll enable more creativity from humans."
   },
   {
     "title": "Crypto Exchange Gemini Gets Price Target Cut at Citi, While Bullish Earns Hike",
@@ -124,13 +166,6 @@
     "pubDate": "Fri, 24 Oct 2025 14:17:07 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "A cooler inflation print reignited crypto risk appetite, lifting bitcoin above $110,000 while altcoins continued to underperform."
-  },
-  {
-    "title": "Morning Minute: a16z’s 'State of Crypto 2025' Highlights Growth &#038; Key Trends",
-    "link": "https://decrypt.co/345835/morning-minute-a16zs-state-of-crypto-2025-highlights-growth-key-trends",
-    "pubDate": "Fri, 24 Oct 2025 14:02:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto is growing significantly in user base and market cap—find out what key trends have emerged over the past year, according to a16z."
   },
   {
     "title": "‘UK expansion was never an if, but a when’: Bitpanda sets sights on becoming Britain’s leading crypto platform",
@@ -175,46 +210,11 @@
     "contentSnippet": "Crypto heavyweights — including Ripple and Coinbase — are among a list of donors contributing to the new White House ballroom."
   },
   {
-    "title": "Crypto Regulators Must Adapt Quickly to Stay Globally Competitive",
-    "link": "https://www.coindesk.com/opinion/2025/10/22/crypto-regulators-must-adapt-quickly-to-stay-globally-competitive",
-    "pubDate": "Fri, 24 Oct 2025 13:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "MiCA has given Europe a uniquely strong position to establish the regulatory gold standard for crypto, says Malta Financial Services Authority CEO Kenneth Farrugia, but regulators must work quickly an"
-  },
-  {
-    "title": "Bitcoin and Ethereum Rise as Delayed Report Shows Inflation Cooled in September",
-    "link": "https://decrypt.co/345837/bitcoin-ethereum-rise-september-inflation",
-    "pubDate": "Fri, 24 Oct 2025 12:58:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin rises 2% as U.S. inflation cools to 3% in September, slightly below economists' 3.1% forecast, boosting crypto markets ahead of Fed meeting."
-  },
-  {
-    "title": "Five Plead Guilty Over $7.9M Dark Web Crypto Drug Operation",
-    "link": "https://decrypt.co/345833/five-plead-guilty-over-7-9m-dark-web-crypto-drug-operation",
-    "pubDate": "Fri, 24 Oct 2025 12:16:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "FireBunnyUSA operated for three years, shipping over 10,000 packages of illicit drugs while using crypto to obscure millions in proceeds."
-  },
-  {
     "title": "Polymarket CMO confirms POLY token and airdrop plans as prediction market boom gathers steam",
     "link": "https://www.theblock.co/post/376048/polymarket-cmo-confirms-poly-token-airdrop-plans?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 07:52:05 -0400",
     "source": "The Block",
     "contentSnippet": "Polymarket's Matthew Modabber said the prediction market will issue a POLY token and an airdrop after its U.S. app rollout."
-  },
-  {
-    "title": "JPMorgan to let institutional clients pledge BTC and ETH as loan collateral by year-end: Bloomberg",
-    "link": "https://www.theblock.co/post/376038/jpmorgan-to-let-institutional-clients-pledge-btc-eth-loan-collateral?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 24 Oct 2025 06:28:49 -0400",
-    "source": "The Block",
-    "contentSnippet": "JPMorgan will allow institutional clients to post BTC and ETH as collateral for loans by year-end, building on prior ETF collateral programs."
-  },
-  {
-    "title": "‘Appalling but unsurprising’: Rep. Maxine Waters condemns Trump’s pardon of Changpeng Zhao",
-    "link": "https://www.theblock.co/post/376029/maxine-waters-trump-cz-pardon?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 24 Oct 2025 05:03:55 -0400",
-    "source": "The Block",
-    "contentSnippet": "Waters said the pardon is a result of the Binance founder's lobbying to Trump, his family, and World Liberty Financial."
   },
   {
     "title": "Coinbase splashes $25M to revive a podcast from the last bull run",
