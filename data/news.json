@@ -1,5 +1,40 @@
 [
   {
+    "title": "North Korea’s AI-Powered Hackers Are Redefining Crypto Crime",
+    "link": "https://www.coindesk.com/business/2025/10/25/north-korea-s-ai-powered-hackers-are-redefining-crypto-crime",
+    "pubDate": "Sat, 25 Oct 2025 12:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Mysten Labs’ chief cryptographer warns that artificial intelligence, not quantum computing, poses the real near-term threat to blockchain security."
+  },
+  {
+    "title": "Bitcoin Consolidates Above $111,000 as Breakout Awaits Fresh Catalyst",
+    "link": "https://www.coindesk.com/markets/2025/10/25/bitcoin-consolidates-as-breakout-awaits-fresh-catalyst",
+    "pubDate": "Sat, 25 Oct 2025 09:49:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin stayed range-bound into 08:00 UTC on OCt. 25 as volume spiked on a defense of support and sellers capped rallies near the top of the recent corridor."
+  },
+  {
+    "title": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
+    "link": "https://www.coindesk.com/policy/2025/10/25/crypto-com-applies-for-occ-national-trust-bank-charter-to-expand-u-s-institutional-custody",
+    "pubDate": "Sat, 25 Oct 2025 09:10:56 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Crypto.com applied to U.S. banking regulator OCC for a national trust bank charter, a step it says would expand federally supervised crypto custody for institutions."
+  },
+  {
+    "title": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
+    "link": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week",
+    "pubDate": "Sat, 25 Oct 2025 06:46:34 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "October has been defined by forced selling and false starts and on track to become the worst since 2015, dampening an otherwise bullish month that averages over 25% returns for bitcoin."
+  },
+  {
+    "title": "Inverse Head-and-Shoulders Breakout Puts XRP on Track for $2.80 Test",
+    "link": "https://www.coindesk.com/markets/2025/10/25/inverse-head-and-shoulders-breakout-puts-xrp-on-track-for-usd2-80-test",
+    "pubDate": "Sat, 25 Oct 2025 06:34:53 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Failure to hold $2.50 on a closing basis would neutralize the bullish structure, potentially inviting rotation back toward $2.40–$2.42 support."
+  },
+  {
     "title": "Dogecoin Hits $0.20 as Breakout Volume Triples Average, Confirms Bullish Setup",
     "link": "https://www.coindesk.com/markets/2025/10/25/dogecoin-hits-usd0-20-as-breakout-volume-triples-average-confirms-bullish-setup",
     "pubDate": "Sat, 25 Oct 2025 06:00:01 +0000",
@@ -140,25 +175,11 @@
     "contentSnippet": "Crypto exchange Crypto.com is the latest firm to apply for a national bank trust charter, joining a list that includes Coinbase and Circle."
   },
   {
-    "title": "HBAR Slides 1.7% to $0.170 as Channel Support Crumbles",
-    "link": "https://www.coindesk.com/markets/2025/10/24/hbar-slides-1-7-to-usd0-170-as-channel-support-crumbles",
-    "pubDate": "Fri, 24 Oct 2025 15:54:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera’s token faces selling pressure after a failed breakout near $0.1716, with technical patterns signaling potential institutional distribution."
-  },
-  {
     "title": "Zelle weighs stablecoin integration to expand its trillion-dollar payments network abroad",
     "link": "https://www.theblock.co/post/376092/zelle-weighs-stablecoin-integration-expand-trillion-dollar-payments-network-abroad?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 10:56:41 -0400",
     "source": "The Block",
     "contentSnippet": "Early Warning Services, which operates Zelle, has launched an initiative designed to explore international transfers using stablecoin technology."
-  },
-  {
-    "title": "Crypto Exchange Gemini Gets Price Target Cut at Citi, While Bullish Earns Hike",
-    "link": "https://www.coindesk.com/markets/2025/10/24/crypto-exchange-gemini-gets-price-target-cut-at-citi-while-bullish-earns-hike",
-    "pubDate": "Fri, 24 Oct 2025 14:31:13 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Gemini’s trading growth is slowing despite strong card sign-ups and app downloads, said Citigroup, while Bullish momentum is accelerating."
   },
   {
     "title": "Softer inflation gives bitcoin room to run, but downside risks lurk beneath: analysts",
@@ -168,32 +189,11 @@
     "contentSnippet": "Bitcoin rose above $110,000 after softer U.S. CPI at 3.0%, while analysts say easing hopes clear policy risk, though options exposure leaves rallies fragile."
   },
   {
-    "title": "Crypto Markets Today: BTC Reclaims $110K as Softer CPI Boosts Market Sentiment, Altcoins Lag",
-    "link": "https://www.coindesk.com/markets/2025/10/24/crypto-markets-today-btc-reclaims-usd110k-as-softer-cpi-boosts-market-sentiment-altcoins-lag",
-    "pubDate": "Fri, 24 Oct 2025 14:17:07 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A cooler inflation print reignited crypto risk appetite, lifting bitcoin above $110,000 while altcoins continued to underperform."
-  },
-  {
     "title": "‘UK expansion was never an if, but a when’: Bitpanda sets sights on becoming Britain’s leading crypto platform",
     "link": "https://www.theblock.co/post/376071/bitpanda-uk-expansion?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 09:58:42 -0400",
     "source": "The Block",
     "contentSnippet": "The Vienna-based crypto broker aims to make the country one of its largest markets within two years amid growing regulatory clarity."
-  },
-  {
-    "title": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Gains 4%, Leading Index Higher",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/10/24/coindesk-20-performance-update-bitcoin-cash-bch-gains-4-leading-index-higher",
-    "pubDate": "Fri, 24 Oct 2025 13:33:54 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera (HBAR) was also a top performer, rising 3.5% from Thursday."
-  },
-  {
-    "title": "Coinbase Upgraded at JPMorgan, Seeing Potential $34B Opportunity in Base Token",
-    "link": "https://www.coindesk.com/markets/2025/10/24/jpmorgan-upgrades-coinbase-sees-potential-usd34b-opportunity-in-base-token",
-    "pubDate": "Fri, 24 Oct 2025 13:29:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Analysts from the banking giant upgraded Coinbase to overweight from neutral and raised its price target on the stock to $404 from $342."
   },
   {
     "title": "Valve’s Counter-Strike 2 update crashes $5.8B economy, revives NFT debate",
