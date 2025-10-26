@@ -1,5 +1,68 @@
 [
   {
+    "title": "'Moments of the Unknown': Justin Aversano Shares Globetrotting Love Letter to Humanity",
+    "link": "https://decrypt.co/345942/moments-unknown-justin-aversano-debuts-globetrotting-love-letter-humanity",
+    "pubDate": "Sun, 26 Oct 2025 18:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "From New York to Antarctica, Justin Aversano's latest work is a journey across continents, cultures, and the human heartbeat."
+  },
+  {
+    "title": "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds",
+    "link": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
+    "pubDate": "Sun, 26 Oct 2025 16:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. Here's how the free service compares to Gemini, ChatGPT, and Grok."
+  },
+  {
+    "title": "XRP Ledger Validator Sees NFT-to-NFT Trading Potential in Proposed 'Batch' Amendment",
+    "link": "https://www.coindesk.com/markets/2025/10/26/xrp-ledger-validator-sees-nft-to-nft-trading-potential-in-proposed-batch-amendment",
+    "pubDate": "Sun, 26 Oct 2025 15:50:54 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The proposed Batch amendment for the XRP Ledger introduces atomic transaction capabilities."
+  },
+  {
+    "title": "Bitcoin Bid, XRP Retakes 200-Day Average as Fed Rate Cut Looms; 'Mag 7' Earnings, Trump-Xi Summit Eyed",
+    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-bid-xrp-tops-200-day-average-as-fed-rate-cut-looms-mag-7-earnings-trump-xi-summit-eyed",
+    "pubDate": "Sun, 26 Oct 2025 14:38:42 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Major cryptocurrencies are trading higher ahead of a busy week featuring key Federal Reserve and Bank of Japan rate decisions alongside earnings reports from influential Mag 7 stocks."
+  },
+  {
+    "title": "Betting Scandals Are Rocking Sports. Will Prediction Markets Help or Hurt?",
+    "link": "https://decrypt.co/345961/sports-betting-scandals-nba-prediction-markets",
+    "pubDate": "Sun, 26 Oct 2025 14:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Government regulators and legal experts warn that insider trading could proliferate in professional sports as wagers migrate to prediction markets."
+  },
+  {
+    "title": "Gold’s Pause is Bitcoin’s Pulse as Risk Appetite Returns Ahead of the Fed Week",
+    "link": "https://www.coindesk.com/markets/2025/10/26/gold-s-pause-is-bitcoin-s-pulse-as-risk-appetite-returns-ahead-of-the-fed-week",
+    "pubDate": "Sun, 26 Oct 2025 14:00:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The move comes as the BTC/gold ratio — a measure of Bitcoin’s relative value against the yellow metal — flashed its most oversold reading in nearly three years last week."
+  },
+  {
+    "title": "Solana's Marinade Labs CEO Eyes Lower Barrier to Entry for Validators After 'Alpenglow' Upgrade",
+    "link": "https://www.coindesk.com/tech/2025/10/26/solana-s-marinade-labs-ceo-eyes-lower-barrier-to-entry-for-validators-after-alpenglow-upgrade",
+    "pubDate": "Sun, 26 Oct 2025 14:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In a conversation with CoinDesk, Marinade Labs' Michael Repetny gives an overview of the Solana staking ecosystem and the upcoming Alpenglow upgrade."
+  },
+  {
+    "title": "Teucrium CEO: 'Enormous Interest' in XRP, 'Extraordinary’ Success for Firm's XRP ETF",
+    "link": "https://www.coindesk.com/markets/2025/10/26/teucrium-ceo-enormous-interest-in-xrp-extraordinary-success-for-firm-s-xrp-etf",
+    "pubDate": "Sun, 26 Oct 2025 13:11:52 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Sal Gilbertie says hundreds of millions of dollars arrived in about 16 weeks, credits the XRP Army for fast traction and forecasts a broad crypto ETF wave."
+  },
+  {
+    "title": "Bitcoin Tops $113K, SOL, ADA, ETH Jump as US–China Trade Progress Lifts Risk Appetite",
+    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-tops-usd113k-sol-ada-eth-jump-as-us-china-trade-progress-lifts-risk-appetite",
+    "pubDate": "Sun, 26 Oct 2025 12:55:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "That risk sentiment across global markets. US and Asian equity futures advanced, and gold pulled back slightly from recent highs as traders rotated back into risk assets."
+  },
+  {
     "title": "Bitcoin Shines as a 'Liquidity Barometer,' Not an Inflation Hedge, NYDIG Says",
     "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-shines-as-a-liquidity-barometer-not-an-inflation-hedge-nydig-says",
     "pubDate": "Sun, 26 Oct 2025 12:00:00 +0000",
@@ -56,48 +119,6 @@
     "contentSnippet": "The exchange has processed more volume than Coinbase in recent months, according to The Block's data."
   },
   {
-    "title": "Bitcoin Treasury Firms Now Valued at Less Than Their BTC Holdings Amid Crumbled Sentiment",
-    "link": "https://www.coindesk.com/markets/2025/10/23/collapse-of-bitcoin-treasury-bubble-leaves-nearly-all-trading-below-value-of-their-btc-holdings",
-    "pubDate": "Sat, 25 Oct 2025 16:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Sector giant Strategy (MSTR) still trades at a premium to its bitcoin stack, but maybe not for long if the trend continues."
-  },
-  {
-    "title": "Rumble to Roll Out Bitcoin Tipping for 51 Million Users in December",
-    "link": "https://www.coindesk.com/business/2025/10/25/rumble-to-roll-out-bitcoin-tipping-for-51m-users-in-december",
-    "pubDate": "Sat, 25 Oct 2025 15:06:15 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The feature is developed with Tether and was announced at the Plan ₿ Forum in Lugano, Switzerland. The first BTC tip was sent to content creator David Freiheit."
-  },
-  {
-    "title": "ETH $10K Path Projected by Analyst as Ether Whales and Sharks Show ‘Signs of Confidence’",
-    "link": "https://www.coindesk.com/markets/2025/10/25/eth-usd10k-path-projected-by-analyst-as-ether-whales-and-sharks-show-signs-of-confidence",
-    "pubDate": "Sat, 25 Oct 2025 15:02:52 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Analysts on X outlined five-digit targets for ether while Santiment said larger wallets have started adding again, framing a longer path higher if resistance gives way."
-  },
-  {
-    "title": "State of Crypto: Skinny Master Accounts and Stablecoins",
-    "link": "https://www.coindesk.com/policy/2025/10/25/state-of-crypto-skinny-master-accounts-and-stablecoins",
-    "pubDate": "Sat, 25 Oct 2025 14:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Fed. Governor Waller's proposal could boost stablecoin firms in the U.S."
-  },
-  {
-    "title": "Kyrgyzstan Launches National Stablecoin, Sets Up Cryptocurrency Reserve: CZ",
-    "link": "https://www.coindesk.com/policy/2025/10/25/kyrgyzstan-launches-national-stablecoin-sets-up-cryptocurrency-reserve-cz",
-    "pubDate": "Sat, 25 Oct 2025 13:35:29 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The country has also legally recognized its central bank digital currency (CBDC), the digital som, with plans to pilot government-related payments with it."
-  },
-  {
-    "title": "Bitmine’s Tom Lee Sees Crypto Rally Into Year-End, Says S&P 500 Could Climb Another 10%",
-    "link": "https://www.coindesk.com/markets/2025/10/25/bitmine-s-tom-lee-sees-crypto-rally-into-year-end-says-s-and-p-500-could-climb-another-10",
-    "pubDate": "Sat, 25 Oct 2025 13:05:14 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "On CNBC, Tom Lee said Fed cuts and fading skepticism could lift U.S. stocks into year-end and that crypto may rebound as open interest resets and technicals improve."
-  },
-  {
     "title": "Meet the Roaring Kitty of Beyond Meat: 'I Would Feel Guilty Selling'",
     "link": "https://decrypt.co/345895/meet-roaring-kitty-beyond-meat-would-feel-guilty-selling",
     "pubDate": "Sat, 25 Oct 2025 13:00:03 +0000",
@@ -147,32 +168,11 @@
     "contentSnippet": "Publicly traded video sharing and livestream platform Rumble is adding Bitcoin tipping for its creator base."
   },
   {
-    "title": "Gold vs Ethereum: Which Hits $5K First? Here’s What the Charts Say",
-    "link": "https://decrypt.co/345918/gold-ethereum-which-hits-5k-first-what-charts-say",
-    "pubDate": "Fri, 24 Oct 2025 20:30:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum needs a 30% pump while gold requires 20% to reach $5K. But predicting which crosses the finish line first isn't as easy as that. Here's why."
-  },
-  {
     "title": "President Trump taps Michael Selig to lead CFTC amid push for crypto oversight: Bloomberg",
     "link": "https://www.theblock.co/post/373289/president-trump-taps-michael-selig-to-lead-cftc-amid-push-for-crypto-oversight-bloomberg?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 15:29:35 -0400",
     "source": "The Block",
     "contentSnippet": "The White House tapped Michael Selig to lead the CFTC as lawmakers move to cement the agency's authority over digital assets."
-  },
-  {
-    "title": "Spooky Szn? Bitcoin Options Worth Record $31 Billion Set to Expire on Halloween",
-    "link": "https://decrypt.co/345888/bitcoin-options-record-31-billion-set-expire-halloween",
-    "pubDate": "Fri, 24 Oct 2025 19:06:55 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Despite the October flash crash and deleveraging event, Bitcoin traders are in for a record options expiry event at the end of the month. Here's what to expect."
-  },
-  {
-    "title": "Payments Processor Zelle to Use Stablecoins for International Transactions",
-    "link": "https://decrypt.co/345885/zelle-use-stablecoins-international-payments",
-    "pubDate": "Fri, 24 Oct 2025 18:18:54 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The initiative reflects stablecoins' rising significance in the financial services world."
   },
   {
     "title": "SpaceX moves another $134 million in bitcoin to new wallets: Arkham",
