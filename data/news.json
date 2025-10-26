@@ -1,5 +1,47 @@
 [
   {
+    "title": "Tether-backed Rumble will debut Bitcoin tipping for its 51 million monthly users in December",
+    "link": "https://www.theblock.co/post/376178/tether-backed-rumble-will-debut-bitcoin-tipping-for-its-51-million-monthly-users-in-december?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 25 Oct 2025 16:53:39 -0400",
+    "source": "The Block",
+    "contentSnippet": "Rumble Wallet will soon support payments and tips in Bitcoin, USDT, and Tether Gold for its 51 million monthly active users."
+  },
+  {
+    "title": "Trump Names SEC Crypto Task Force Head Selig as Next Nominee to Run U.S. CFTC",
+    "link": "https://www.coindesk.com/policy/2025/10/25/frame-trump-names-sec-crypto-task-force-head-selig-as-next-nominee-to-run-u-s-cftc",
+    "pubDate": "Sat, 25 Oct 2025 20:53:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "If confirmed, current SEC official Mike Selig would take over the U.S. commodities watchdog as it's poised to be given wide authority over crypto."
+  },
+  {
+    "title": "First U.S. Spot XRP ETF Surpasses $100M in Assets Under Management",
+    "link": "https://www.coindesk.com/markets/2025/10/25/first-u-s-spot-xrp-etf-surpasses-usd100m-in-assets-under-management",
+    "pubDate": "Sat, 25 Oct 2025 20:00:03 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In Brazil, the Hashdex Nasdaq XRP (XRPH11) has accumulated around $52 million in assets, despite launching first."
+  },
+  {
+    "title": "Kyrgyzstan to launch stablecoin on BNB, plans CBDC in partnership with adviser Changpeng Zhao",
+    "link": "https://www.theblock.co/post/376174/kyrgyzstan-to-launch-stablecoin-on-bnb-plans-cbdc-in-partnership-with-adviser-changpeng-zhao?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 25 Oct 2025 15:02:47 -0400",
+    "source": "The Block",
+    "contentSnippet": "The country is also planning to create a national cryptocurrency reserve that will include BNB tokens, CZ said on X."
+  },
+  {
+    "title": "AI Biodefense Startup Valthos Launches With $30 Million, OpenAI Backing",
+    "link": "https://decrypt.co/345959/ai-biodefense-startup-valthos-launches-30-million-openai-backing",
+    "pubDate": "Sat, 25 Oct 2025 18:35:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "New York-based startup Valthos is developing AI systems to identify and counter biological threats before they spread."
+  },
+  {
+    "title": "SOL Now on Fidelity’s Retail Platform as Price Tests $195 While $188 Support Draws Focus",
+    "link": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
+    "pubDate": "Sat, 25 Oct 2025 18:27:54 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "SOL lands on Fidelity's retail trading platform, Gemini launches the Solana edition of its credit card, and $188 emerges as the key support level to watch."
+  },
+  {
     "title": "Crypto.com seeks OCC federal charter, joining Coinbase, Ripple, and others",
     "link": "https://www.theblock.co/post/376166/crypto-com-seeks-occ-federal-charter-joining-coinbase-ripple-and-others?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 25 Oct 2025 12:14:42 -0400",
@@ -61,27 +103,6 @@
     "pubDate": "Sat, 25 Oct 2025 12:00:00 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Mysten Labs’ chief cryptographer warns that artificial intelligence, not quantum computing, poses the real near-term threat to blockchain security."
-  },
-  {
-    "title": "Bitcoin Consolidates Above $111,000 as Breakout Awaits Fresh Catalyst",
-    "link": "https://www.coindesk.com/markets/2025/10/25/bitcoin-consolidates-as-breakout-awaits-fresh-catalyst",
-    "pubDate": "Sat, 25 Oct 2025 09:49:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin stayed range-bound into 08:00 UTC on OCt. 25 as volume spiked on a defense of support and sellers capped rallies near the top of the recent corridor."
-  },
-  {
-    "title": "Crypto.com Applies for OCC National Trust Bank Charter to Expand U.S. Institutional Custody",
-    "link": "https://www.coindesk.com/policy/2025/10/25/crypto-com-applies-for-occ-national-trust-bank-charter-to-expand-u-s-institutional-custody",
-    "pubDate": "Sat, 25 Oct 2025 09:10:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Crypto.com applied to U.S. banking regulator OCC for a national trust bank charter, a step it says would expand federally supervised crypto custody for institutions."
-  },
-  {
-    "title": "XRP Leads Gains on Ripple Moves, Bitcoin Holds $111K as ‘Uptober’ Dud Heads for Last Week",
-    "link": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week",
-    "pubDate": "Sat, 25 Oct 2025 06:46:34 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "October has been defined by forced selling and false starts and on track to become the worst since 2015, dampening an otherwise bullish month that averages over 25% returns for bitcoin."
   },
   {
     "title": "Elon Musk's SpaceX Moves $133 Million Worth of Bitcoin",
@@ -154,13 +175,6 @@
     "contentSnippet": "The initiative reflects stablecoins' rising significance in the financial services world."
   },
   {
-    "title": "Blockchain.com Gains Malta MiCA License as Company Eyes European Expansion",
-    "link": "https://decrypt.co/345892/blockchain-com-gains-malta-mica-license-company-eyes-european-expansion",
-    "pubDate": "Fri, 24 Oct 2025 18:10:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The crypto firm is the latest to seek a MiCA license in Malta, as EU regulators raise concerns about uneven supervision across member states."
-  },
-  {
     "title": "SpaceX moves another $134 million in bitcoin to new wallets: Arkham",
     "link": "https://www.theblock.co/post/376129/spacex-moves-another-134-million-in-bitcoin-to-new-wallets-arkham?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 13:44:13 -0400",
@@ -196,25 +210,11 @@
     "contentSnippet": "Bitcoin rose above $110,000 after softer U.S. CPI at 3.0%, while analysts say easing hopes clear policy risk, though options exposure leaves rallies fragile."
   },
   {
-    "title": "‘UK expansion was never an if, but a when’: Bitpanda sets sights on becoming Britain’s leading crypto platform",
-    "link": "https://www.theblock.co/post/376071/bitpanda-uk-expansion?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 24 Oct 2025 09:58:42 -0400",
-    "source": "The Block",
-    "contentSnippet": "The Vienna-based crypto broker aims to make the country one of its largest markets within two years amid growing regulatory clarity."
-  },
-  {
     "title": "Valve’s Counter-Strike 2 update crashes $5.8B economy, revives NFT debate",
     "link": "https://cointelegraph.com/news/counter-strike-s-cosmetic-market-collapse-shows-use-case-for-nfts-in-gaming?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Fri, 24 Oct 2025 14:28:43 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "A major update to Counter-Strike 2’s item mechanics wiped nearly $2 billion from its $5.8 billion skin market, igniting debate over central control in gaming."
-  },
-  {
-    "title": "Coinbase, Ripple among crypto titans donating to Trump’s new White House ballroom",
-    "link": "https://www.theblock.co/post/376062/crypto-donors-trump-white-house-ballroom?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 24 Oct 2025 09:18:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "Crypto heavyweights — including Ripple and Coinbase — are among a list of donors contributing to the new White House ballroom."
   },
   {
     "title": "Coinbase splashes $25M to revive a podcast from the last bull run",
