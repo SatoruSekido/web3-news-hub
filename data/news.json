@@ -1,5 +1,33 @@
 [
   {
+    "title": "Bitcoin Rebounds as $319M in Shorts Are Liquidated While Traders Eye U.S.-China Talks",
+    "link": "https://www.coindesk.com/markets/2025/10/26/bitcoin-rebounds-as-usd319m-in-shorts-are-liquidated-while-traders-eye-u-s-china-talks",
+    "pubDate": "Mon, 27 Oct 2025 00:53:18 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin cleared $112,000 on heavy volume and hovered near $114,500 late Sunday (UTC), while CoinGlass showed $319 million of short positions liquidated over 24 hours."
+  },
+  {
+    "title": "Bitcoin proposal to curb spam with a temporary soft fork sparks debate among developers",
+    "link": "https://www.theblock.co/post/376184/bitcoin-proposal-to-curb-spam-with-a-temporary-soft-fork-sparks-debate-among-developers?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 26 Oct 2025 17:21:39 -0400",
+    "source": "The Block",
+    "contentSnippet": "After this month's v30 update to Bitcoin Core, some developers are considering a temporary soft fork to tamp down on arbitrary data, like inscriptions."
+  },
+  {
+    "title": "Bitcoin illiquid supply declines as 62,000 BTC moves out of long-term holder wallets: Glassnode",
+    "link": "https://www.theblock.co/post/376188/bitcoin-illiquid-supply-declines-as-62000-btc-moves-out-of-long-term-holder-wallets-glassnode?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 26 Oct 2025 16:20:45 -0400",
+    "source": "The Block",
+    "contentSnippet": "A recent estimate from Fidelity found that as much of 42% of Bitcoin's supply could be considered illiquid by 2032, if current trends hold."
+  },
+  {
+    "title": "North Korea Has Stolen Billions in Crypto, But the Ability to 'Fight Back Is Growing': Chainalysis",
+    "link": "https://decrypt.co/346010/north-korea-stolen-billions-crypto-ability-fight-back-growing-chainalysis",
+    "pubDate": "Sun, 26 Oct 2025 20:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The sanctioning of the DPRK IT worker network and recovery of Bybit funds are signs of the growing pushback, experts told Decrypt."
+  },
+  {
     "title": "'Moments of the Unknown': Justin Aversano Shares Globetrotting Love Letter to Humanity",
     "link": "https://decrypt.co/345942/moments-unknown-justin-aversano-debuts-globetrotting-love-letter-humanity",
     "pubDate": "Sun, 26 Oct 2025 18:01:03 +0000",
@@ -105,13 +133,6 @@
     "contentSnippet": "New York-based startup Valthos is developing AI systems to identify and counter biological threats before they spread."
   },
   {
-    "title": "SOL Now on Fidelity’s Retail Platform as Price Tests $195 While $188 Support Draws Focus",
-    "link": "https://www.coindesk.com/markets/2025/10/25/sol-now-on-fidelity-s-retail-platform-as-price-tests-usd195-while-usd188-support-draws-focus",
-    "pubDate": "Sat, 25 Oct 2025 18:27:54 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "SOL lands on Fidelity's retail trading platform, Gemini launches the Solana edition of its credit card, and $188 emerges as the key support level to watch."
-  },
-  {
     "title": "Crypto.com seeks OCC federal charter, joining Coinbase, Ripple, and others",
     "link": "https://www.theblock.co/post/376166/crypto-com-seeks-occ-federal-charter-joining-coinbase-ripple-and-others?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 25 Oct 2025 12:14:42 -0400",
@@ -161,13 +182,6 @@
     "contentSnippet": "JPMorgan see Coinbase’s Base network growth and upcoming token exploration as a shift toward deeper onchain monetization."
   },
   {
-    "title": "YouTube Rival Rumble Teams With Tether to Add Bitcoin Tipping for Creators",
-    "link": "https://decrypt.co/345945/youtube-rival-rumble-teams-tether-add-bitcoin-tipping",
-    "pubDate": "Fri, 24 Oct 2025 21:02:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Publicly traded video sharing and livestream platform Rumble is adding Bitcoin tipping for its creator base."
-  },
-  {
     "title": "President Trump taps Michael Selig to lead CFTC amid push for crypto oversight: Bloomberg",
     "link": "https://www.theblock.co/post/373289/president-trump-taps-michael-selig-to-lead-cftc-amid-push-for-crypto-oversight-bloomberg?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 24 Oct 2025 15:29:35 -0400",
@@ -194,20 +208,6 @@
     "pubDate": "Fri, 24 Oct 2025 13:07:33 -0400",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Zelle weighs stablecoin integration to expand its trillion-dollar payments network abroad",
-    "link": "https://www.theblock.co/post/376092/zelle-weighs-stablecoin-integration-expand-trillion-dollar-payments-network-abroad?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 24 Oct 2025 10:56:41 -0400",
-    "source": "The Block",
-    "contentSnippet": "Early Warning Services, which operates Zelle, has launched an initiative designed to explore international transfers using stablecoin technology."
-  },
-  {
-    "title": "Softer inflation gives bitcoin room to run, but downside risks lurk beneath: analysts",
-    "link": "https://www.theblock.co/post/376081/softer-inflation-gives-bitcoin-room-run-downside-risks-lurk-beneath-analysts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 24 Oct 2025 10:22:22 -0400",
-    "source": "The Block",
-    "contentSnippet": "Bitcoin rose above $110,000 after softer U.S. CPI at 3.0%, while analysts say easing hopes clear policy risk, though options exposure leaves rallies fragile."
   },
   {
     "title": "Valve’s Counter-Strike 2 update crashes $5.8B economy, revives NFT debate",
