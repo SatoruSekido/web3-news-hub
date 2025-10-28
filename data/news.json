@@ -1,5 +1,82 @@
 [
   {
+    "title": "MetaMask goes multichain: one account supports EVM, Solana and soon Bitcoin",
+    "link": "https://www.theblock.co/post/376450/metamask-multichain-account?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Oct 2025 02:17:02 -0400",
+    "source": "The Block",
+    "contentSnippet": "The update rolls out automatically, requiring no user action, and will be made a default standard for MetaMask."
+  },
+  {
+    "title": "Nasdaq-listed Prenetics Global raises $48 million for bitcoin treasury expansion",
+    "link": "https://www.theblock.co/post/376451/prenetics-48-million-bitcoin-treasury?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Oct 2025 02:05:50 -0400",
+    "source": "The Block",
+    "contentSnippet": "Investors participating in the latest round include Kraken, Exodus, GPTX by Jihan Wu, DL Holdings, and American Ventures."
+  },
+  {
+    "title": "Dogecoin Consolidates Below $0.21 With Cup-and-Handle Pattern Emerging",
+    "link": "https://www.coindesk.com/markets/2025/10/28/dogecoin-consolidates-below-usd0-21-with-cup-and-handle-pattern-emerging",
+    "pubDate": "Tue, 28 Oct 2025 05:32:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Institutional positioning and derivatives data indicate growing speculative interest, with futures activity climbing 9% over the past 24 hours."
+  },
+  {
+    "title": "Kalshi Sues New York Regulators After Crypto.com's Nevada Loss",
+    "link": "https://decrypt.co/346297/kalshi-sues-new-york-regulators-after-crypto-coms-nevada-loss",
+    "pubDate": "Tue, 28 Oct 2025 05:27:51 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "By suing first, Kalshi controls the narrative to focus on federal preemption rather than contract legality, Decrypt was told."
+  },
+  {
+    "title": "XRP Edges Higher to $2.63 as Volume Surges Signal Growing Trader Interest",
+    "link": "https://www.coindesk.com/markets/2025/10/28/xrp-edges-higher-to-usd2-63-as-volume-surges-signal-growing-trader-interest",
+    "pubDate": "Tue, 28 Oct 2025 05:25:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Onchain data show a roughly 3.36% drop in exchange reserves since early October — a historically bullish signal tied to accumulation."
+  },
+  {
+    "title": "Democrat Seeks Crypto Trading Ban for Politicians Following Binance Founder’s Pardon",
+    "link": "https://decrypt.co/346294/democrat-seeks-crypto-trading-ban-politicians-binance-pardon",
+    "pubDate": "Tue, 28 Oct 2025 04:14:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Democrat Ro Khanna called Trump’s pardon of Binance founder Zhao “blatant corruption” as he pushes to ban politicians from trading crypto."
+  },
+  {
+    "title": "Bitcoin Leverage Nears $40 Billion Ahead of Key Fed Vote",
+    "link": "https://decrypt.co/346292/bitcoin-leverage-nears-40b-ahead-key-fed-vote",
+    "pubDate": "Tue, 28 Oct 2025 04:00:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin’s climb to $116,000 has spurred a wave of leveraged bets ahead of Wednesday’s Fed decision, as traders brace for another rate cut."
+  },
+  {
+    "title": "Preliminary Consensus on U.S.-China Trade Deal May Unlock Bitcoin Upside, Exchange Says",
+    "link": "https://www.coindesk.com/markets/2025/10/28/preliminary-consensus-on-us-china-trade-deal-may-unlock-bitcoin-upside-exchange-says",
+    "pubDate": "Tue, 28 Oct 2025 03:34:37 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Flows have largely leaned bearish since the Oct. 10 crash."
+  },
+  {
+    "title": "Asia Morning Briefing: Crypto Markets Brace for a Pivotal Week as Trump–Xi Talks and Fed Decision Loom",
+    "link": "https://www.coindesk.com/markets/2025/10/28/asia-morning-briefing-crypto-markets-brace-for-a-pivotal-week-as-trump-xi-talks-and-fed-decision-loom",
+    "pubDate": "Tue, 28 Oct 2025 02:19:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Traders are betting on a Trump–Xi breakthrough and a dovish Fed pivot to revive “Uptober,” though markets remain wary that rare-earth restrictions and the U.S. shutdown could spoil the rally."
+  },
+  {
+    "title": "Gate Reinvents the Exchange Model: From Trading Platform to ‘Full Web3 Operating System’",
+    "link": "https://decrypt.co/346047/gate-reinvents-the-exchange-model-from-trading-platform-to-full-web3-operating-system",
+    "pubDate": "Tue, 28 Oct 2025 02:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "With beefed-up security, tokenized stocks, crypto travel bookings and a meme coin launchpad, Gate is offering users a more rounded experience."
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest buys $31 million worth of Block Inc. shares",
+    "link": "https://www.theblock.co/post/376440/ark-invest-31-million-block-inc?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 27 Oct 2025 21:44:45 -0400",
+    "source": "The Block",
+    "contentSnippet": "Ark Invest also bought shares in DraftKings, which is launching its own prediction market in the near term."
+  },
+  {
     "title": "Argentine Stablecoin Use Surged Ahead of President Milei's Midterm Election Win",
     "link": "https://decrypt.co/346184/argentine-stablecoin-use-surged-ahead-of-president-mileis-midterm-election-win",
     "pubDate": "Mon, 27 Oct 2025 23:26:05 +0000",
@@ -91,13 +168,6 @@
     "contentSnippet": "Professional sports are emerging as a notable tailwind for Robinhood as the firm’s prediction market offering grows, says Compass Point."
   },
   {
-    "title": "China Maintains Scrutiny of Crypto While Asia Embraces Stablecoins",
-    "link": "https://decrypt.co/346157/china-crypto-scrutiny-asia-stablecoin-embrace",
-    "pubDate": "Mon, 27 Oct 2025 19:09:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The People's Bank of China Governor’s warning on sovereignty risks comes amid Asia's stablecoin boom and Chinese firms seeking offshore licenses in Hong Kong."
-  },
-  {
     "title": "Wall Street Bank Citi, Coinbase Partner to Expand Digital Asset Payments",
     "link": "https://www.coindesk.com/business/2025/10/27/wall-street-bank-citi-coinbase-partner-to-expand-digital-asset-payments",
     "pubDate": "Mon, 27 Oct 2025 19:06:26 +0000",
@@ -119,13 +189,6 @@
     "contentSnippet": "This follows earlier SEC guidance allowing firms to go public by filing an S-1 without a delaying amendment, enabling a launch after 20 days."
   },
   {
-    "title": "Bored Ape Metaverse Game 'Otherside' Launching With Amazon NFT Drop",
-    "link": "https://decrypt.co/346105/bored-ape-metaverse-game-otherside-launching-amazon-nft-drop",
-    "pubDate": "Mon, 27 Oct 2025 18:42:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Bored Ape Yacht Club creator will soon launch the social and interactive hub for its Otherside metaverse, complete with an Amazon avatar."
-  },
-  {
     "title": "Chainlink's LINK Gains as Whales Accumulate $188M After October Crypto Crash",
     "link": "https://www.coindesk.com/markets/2025/10/27/chainlink-s-link-gains-as-whales-accumulate-usd188m-after-october-crypto-crash",
     "pubDate": "Mon, 27 Oct 2025 18:28:04 +0000",
@@ -140,73 +203,10 @@
     "contentSnippet": "S&P Global assigned a B- rating to the company's debt, not exactly a ringing endorsement, but a rating nevertheless."
   },
   {
-    "title": "The Daily: Mt. Gox pushes back repayment deadline, Standard Chartered says bitcoin may never fall below $100k again, and more",
-    "link": "https://www.theblock.co/post/376339/the-daily-mt-gox-pushes-back-repayment-deadline-standard-chartered-says-bitcoin-may-never-fall-below-100k-again-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Oct 2025 14:09:07 -0400",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Ethereum Network MegaETH Attracts $350M in Token Sale, Valuing MEGA at $7 Billion",
-    "link": "https://decrypt.co/346104/ethereum-network-megaeth-350m-token-sale-valuing-mega-7-billion",
-    "pubDate": "Mon, 27 Oct 2025 17:58:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "MegaETH's massively oversubscribed initial coin offering has resulted in a \"hypothetical\" FDV of $7 billion, the team said."
-  },
-  {
-    "title": "Trump Sons' American Bitcoin Stock Jumps After Adding $163 Million to BTC Treasury",
-    "link": "https://decrypt.co/346068/trump-sons-american-bitcoin-jumps-adding-163-million-treasury",
-    "pubDate": "Mon, 27 Oct 2025 17:48:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company holds approximately 3,865 Bitcoin acquired through mining and strategic purchases."
-  },
-  {
-    "title": "Apollo partners with Coinbase to ‘unlock’ stablecoin lending business",
-    "link": "https://www.theblock.co/post/376334/apollo-partners-with-coinbase-to-unlock-stablecoin-lending-business?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Oct 2025 13:47:12 -0400",
-    "source": "The Block",
-    "contentSnippet": "Coinbase already allows some U.S.-based customers to borrow up to $100,000, using the their digital assets as collateral."
-  },
-  {
-    "title": "Coinbase and Citi to explore digital payments, including stablecoin payouts, for bank’s institutional clients",
-    "link": "https://www.theblock.co/post/376329/coinbase-and-citi-to-explore-digital-payments-including-stablecoin-payouts-for-banks-institutional-clients?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 27 Oct 2025 13:06:23 -0400",
-    "source": "The Block",
-    "contentSnippet": "Initial focus includes Coinbase working with Citi on digital asset payment options for the bank's institutional clients."
-  },
-  {
     "title": "ICP Faces Downward Pressure but Traders Eye Relief Bounce Near $3.15",
     "link": "https://www.coindesk.com/markets/2025/10/27/icp-faces-downard-pressurer-but-traders-eye-relief-bounce-near-usd3-15",
     "pubDate": "Mon, 27 Oct 2025 16:14:15 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Internet Computer slid to $3.19 after breaking support, but buyers see short-term rebound potential near $3.15."
-  },
-  {
-    "title": "BONK Battles Back After Breaking Support; Traders Eye $0.000015 Rebound",
-    "link": "https://www.coindesk.com/markets/2025/10/27/bonk-battles-back-after-breaking-support-traders-eye-usd0-000015-rebound",
-    "pubDate": "Mon, 27 Oct 2025 15:58:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BONK slipped below the key $0.000015 support but traders anticipate a near-term bounce as volume surges."
-  },
-  {
-    "title": "South Korean Crypto Exchanges See 1,400x Jump in Flows Linked to Sanctioned Cambodian Entities",
-    "link": "https://www.coindesk.com/business/2025/10/27/south-korean-crypto-exchanges-see-1-400x-jump-in-flows-linked-to-sanctioned-cambodian-entities",
-    "pubDate": "Mon, 27 Oct 2025 15:48:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bithumb led with 12.4 billion won, followed by Upbit with 366 million won. Smaller amounts moved through Coinone and Korbit, while Gopax reported no activity."
-  },
-  {
-    "title": "Trump's American Bitcoin and Saylor's Strategy Add to Bitcoin Holdings",
-    "link": "https://www.coindesk.com/markets/2025/10/27/trump-s-american-bitcoin-and-saylor-s-strategy-add-to-bitcoin-holdings",
-    "pubDate": "Mon, 27 Oct 2025 15:34:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "American Bitcoin acquired 1,414 BTC while Michael Saylor’s Strategy added 390 BTC."
-  },
-  {
-    "title": "Crypto Stocks Climb Alongside Bitcoin and Nasdaq on Chinese Trade Talk Optimism",
-    "link": "https://www.coindesk.com/markets/2025/10/27/crypto-stocks-climb-as-trump-signals-progress-on-china-trade-talks-ahead-of-fed-meeting",
-    "pubDate": "Mon, 27 Oct 2025 14:39:23 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Robinhood was leading among the exchanges and Trump-affiliated American Bitcoin was higher by 10% after adding to its bitcoin stack."
   }
 ]
