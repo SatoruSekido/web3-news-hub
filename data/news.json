@@ -1,212 +1,142 @@
 [
   {
+    "title": "Bitcoin, Ethereum Shrug Off Central Bank’s Interest Rate Cut",
+    "link": "https://decrypt.co/346555/bitcoin-ethereum-fed-interest-rate-cut",
+    "pubDate": "Wed, 29 Oct 2025 18:09:08 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Recent jobs data and other economic indicators have pointed to a slowing economy."
+  },
+  {
+    "title": "Fed Delivers Expected 25 Basis Point Rate Cut as Markets Await Powell’s Comments",
+    "link": "https://www.coindesk.com/markets/2025/10/29/fed-delivers-expected-25-basis-point-rate-cut-as-markets-await-powell-s-comments",
+    "pubDate": "Wed, 29 Oct 2025 18:03:20 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Headed lower on Wednesday ahead of the news, bitcoin remained so in the minutes following the news at $111,700, down 3% over the past 24 hours."
+  },
+  {
+    "title": "Telegram Launches Cocoon: A Decentralized AI Network That Pays GPU Owners in Crypto",
+    "link": "https://decrypt.co/346645/telegram-launches-cocoon-decentralized-ai-network-pays-gpu-owners-crypto",
+    "pubDate": "Wed, 29 Oct 2025 17:41:19 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Telegram founder Pavel Durov unveiled Cocoon—a TON-powered network where GPU owners earn crypto for providing private AI compute."
+  },
+  {
+    "title": "Kraken Top Crypto Exchange in EU Lobbying Spending Ahead of Coinbase",
+    "link": "https://decrypt.co/346632/kraken-top-crypto-exchange-eu-lobbying-spending-coinbase",
+    "pubDate": "Wed, 29 Oct 2025 17:28:59 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Many crypto firms increased year-over-year spending 25% in 2024."
+  },
+  {
+    "title": "Senators Introduce Bill to Ban AI Companions for Minors Over Mental Health Fears",
+    "link": "https://decrypt.co/346624/senators-introduce-bill-ban-ai-companions-minors-mental-health-fears",
+    "pubDate": "Wed, 29 Oct 2025 17:12:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bipartisan GUARD Act would criminalize exploitative AI interactions with children and require companies to disclose when users are speaking to a machine."
+  },
+  {
+    "title": "Stellar Edges 1.5% Higher Breaking $0.32 Amid Institutional Accumulation",
+    "link": "https://www.coindesk.com/markets/2025/10/29/stellar-edges-1-5-higher-breaking-usd0-32-amid-institutional-accumulation",
+    "pubDate": "Wed, 29 Oct 2025 17:10:47 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XLM demonstrates resilience with modest gains and exceptional volume surge, signaling potential momentum building beneath current consolidation patterns."
+  },
+  {
+    "title": "Analysts Expect Strong Q3 for Coinbase But Disagree Sharply on Its Future",
+    "link": "https://www.coindesk.com/markets/2025/10/29/analysts-expect-strong-q3-for-coinbase-but-disagree-sharply-on-its-future",
+    "pubDate": "Wed, 29 Oct 2025 17:08:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Barclays, JP Morgan and Compass Point see gains in USDC and trading, but clash over Base, Deribit and profit margins."
+  },
+  {
+    "title": "Investment Bank Mizuho Says Visa Is Becoming the ‘Stablecoin of Stablecoins’",
+    "link": "https://www.coindesk.com/markets/2025/10/29/investment-bank-mizuho-says-visa-is-becoming-the-stablecoin-of-stablecoins",
+    "pubDate": "Wed, 29 Oct 2025 17:05:20 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Visa’s growing stablecoin network positions it as the key infrastructure player in blockchain payments, while individual tokens risk becoming commoditized assets."
+  },
+  {
+    "title": "HBAR Consolidates at $0.2010 as Volume Surge Signals Distribution",
+    "link": "https://www.coindesk.com/markets/2025/10/29/hbar-consolidates-at-usd0-2010-as-volume-surge-signals-distribution",
+    "pubDate": "Wed, 29 Oct 2025 16:54:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hedera faces selling pressure at $0.2055 resistance as trading volume explodes 137% above average, marking institutional distribution amid choppy price action."
+  },
+  {
+    "title": "Securitize Rolls Out Tokenized Credit Fund with BNY on Ethereum",
+    "link": "https://www.coindesk.com/business/2025/10/29/securitize-rolls-out-tokenized-credit-fund-with-bny-on-ethereum",
+    "pubDate": "Wed, 29 Oct 2025 16:50:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The fund offers exposure to collateralized loan obligations, with onchain capital allocator Grove planning a $100 million anchor investment."
+  },
+  {
+    "title": "Bitcoin ATMs Used for 'Missed Jury Duty' Scam, Massachusetts Police Warn",
+    "link": "https://decrypt.co/346623/bitcoin-atms-missed-jury-duty-scam-massachusetts-police-warn",
+    "pubDate": "Wed, 29 Oct 2025 16:48:51 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "At least two Massachusetts individuals fell victim to a Bitcoin ATM scam that lured them to transfer funds claiming they missed jury duty."
+  },
+  {
+    "title": "Crypto Long & Short: Fast Money, Slow Money",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/10/29/crypto-long-and-short-fast-money-slow-money",
+    "pubDate": "Wed, 29 Oct 2025 16:30:16 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Read this week’s Crypto Long & Short Newsletter for Andy Baehr's “Vibe Check,” a story of two markets. Then, learn how the true internet generation set the stage for digital currencies with Sam Ewen."
+  },
+  {
+    "title": "MegaETH Raises $450M in Oversubscribed Token Sale Backed by Ethereum Founders",
+    "link": "https://www.coindesk.com/business/2025/10/29/megaeth-raises-usd450m-in-oversubscribed-token-sale-backed-by-ethereum-founders",
+    "pubDate": "Wed, 29 Oct 2025 16:24:55 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The high-speed Ethereum layer-2 drew nearly nine times its target as over 14,000 investors rushed in."
+  },
+  {
+    "title": "BNB Slips 2.7% As Traders Focus on Technicals During Crypto Market Drawdown",
+    "link": "https://www.coindesk.com/markets/2025/10/29/bnb-slips-2-7-as-traders-focus-on-technicals-during-crypto-market-drawdown",
+    "pubDate": "Wed, 29 Oct 2025 16:11:43 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The decline was part of a broader crypto market drop, with traders focusing on technical cues and selling dominating"
+  },
+  {
+    "title": "Crypto Perps Are Easier to Access Than Ever Before—Is That A Good Thing?",
+    "link": "https://decrypt.co/346584/crypto-perps-easier-access-metamask-phantom-blum",
+    "pubDate": "Wed, 29 Oct 2025 15:55:20 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "MetaMask, Phantom, and Telegram mini-app Blum now offer perpetual futures trading natively within their crypto apps. What are the risks?"
+  },
+  {
+    "title": "Michael Saylor's Strategy Drops $18B in Value, but a Rebound May Be Near: 10X Research",
+    "link": "https://www.coindesk.com/markets/2025/10/29/michael-saylor-s-strategy-drops-usd18b-in-value-but-a-rebound-may-be-near-10x-research",
+    "pubDate": "Wed, 29 Oct 2025 15:48:24 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company is expected to report another quarterly profit on Thursday, possibly reviving expectations for S&P 500 inclusion, 10x Research's Markus Thielen argued."
+  },
+  {
+    "title": "FED Decision Today! Monad 3 Day Airdrop! Western Union Stablecoin on SOL!",
+    "link": "https://decrypt.co/videos/interviews/ttxiAJvJ/fed-decision-today-monad-3-day-airdrop-western-union-stablecoin-on-sol",
+    "pubDate": "Wed, 29 Oct 2025 15:42:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BTC: 112.9k (-1%) | BTC.D: 60% (+0.3%). ETH: 4000 (-3%) | BNB: 1116 (-1%) | SOL: 194 (-4%). Top Gainers: PI, TRUMP, M, PAXG, ZEC. BTC ETFs: +$202m | ETH ETFs: +$246m. Crypto falls ahead of Fed decisio"
+  },
+  {
+    "title": "BNB Meme Coin Tied to Statue of Changpeng Zhao Rises After CZ Says 'Don't Buy'",
+    "link": "https://decrypt.co/346609/bnb-meme-coin-statue-changpeng-zhao-rises-binance-founder-says-dont-buy",
+    "pubDate": "Wed, 29 Oct 2025 15:26:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A meme coin tied to a statue of Changpeng Zhao surged after the Binance founder encouraged people via social media to not buy the token."
+  },
+  {
+    "title": "Bitcoin Miner TeraWulf Aims to Raise $575 Million to Fund Google-Backed AI Ambitions",
+    "link": "https://decrypt.co/346607/bitcoin-miner-terawulf-aims-575-million-raise-google-backed-ai-ambitions",
+    "pubDate": "Wed, 29 Oct 2025 15:21:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The miner is pushing ahead quickly with its data center plans."
+  },
+  {
     "title": "Morning Minute: Western Union Chooses Solana for Stablecoin",
     "link": "https://decrypt.co/346568/morning-minute-western-union-chooses-solana-for-stablecoin",
     "pubDate": "Wed, 29 Oct 2025 12:26:40 +0000",
     "source": "Decrypt",
     "contentSnippet": "Headlining a blockbuster day for Solana, which has a record-setting debut for its shiny new staking ETF as well."
-  },
-  {
-    "title": "Australian Regulator Signals Broader Digital Asset Oversight Ahead of New Licensing Regime",
-    "link": "https://www.coindesk.com/policy/2025/10/29/australian-regulator-signals-broader-digital-asset-oversight-ahead-of-new-licensing-regime",
-    "pubDate": "Wed, 29 Oct 2025 12:08:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ASIC said many digital assets are covered by existing financial laws as it readies the ground for impending digital asset platform legislation."
-  },
-  {
-    "title": "SDNY Judge Denies OpenAI Bid To Strike Authors' Book-Download Claim",
-    "link": "https://decrypt.co/346567/sdny-judge-denies-openai-bid-to-strike-authors-book-download-claim",
-    "pubDate": "Wed, 29 Oct 2025 12:08:23 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Artificial intelligence firms OpenAI, Meta, and Anthropic all face copyright lawsuits as courts weigh fair use in AI training."
-  },
-  {
-    "title": "Ironlight Wins FINRA Approval for First U.S. Regulated ATS With Onchain Atomic Settlement",
-    "link": "https://www.coindesk.com/policy/2025/10/29/ironlight-wins-finra-approval-for-first-u-s-regulated-ats-with-onchain-atomic-settlement",
-    "pubDate": "Wed, 29 Oct 2025 12:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The firm gained approval to introduce a regulated trading system for tokenized securities."
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin Consolidates at $113K Ahead of Potential U.S.-China Trade Deal",
-    "link": "https://www.coindesk.com/markets/2025/10/29/crypto-markets-today-bitcoin-consolidates-at-usd113k-ahead-of-potential-u-s-china-trade-deal",
-    "pubDate": "Wed, 29 Oct 2025 12:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The crypto market paused midweek as traders looked to the Federal Reserve’s interest-rate call and progress on a potential U.S.-China trade agreement."
-  },
-  {
-    "title": "Memecoin Tied to CZ Statue Crashes 99% After Binance Founder Disowns It",
-    "link": "https://www.coindesk.com/business/2025/10/29/memecoin-tied-to-cz-statue-crashes-99-after-binance-founder-disowns-it-amid-usd1-2b-volume",
-    "pubDate": "Wed, 29 Oct 2025 11:49:54 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A Washington, D.C. statue of Changpeng “CZ” Zhao became the center of a memecoin frenzy after the “czstatue” token surged 27,000% in a day before collapsing to near zero."
-  },
-  {
-    "title": "Core Scientific Holders Poised to Reject CoreWeave Merger, Jefferies Says",
-    "link": "https://www.coindesk.com/markets/2025/10/29/core-scientific-holders-poised-to-reject-coreweave-merger-jefferies-says",
-    "pubDate": "Wed, 29 Oct 2025 11:21:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The bank said investors are likely to vote down the deal on Oct. 30, betting Core Scientific can create more value on its own."
-  },
-  {
-    "title": "Bitcoin holds near $113,000 ahead of FOMC as traders await Powell’s guidance",
-    "link": "https://www.theblock.co/post/376732/bitcoin-holds-near-113000-ahead-of-fomc-as-traders-await-powells-guidance?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 07:19:22 -0400",
-    "source": "The Block",
-    "contentSnippet": "BTC floated near $113,000 before the FOMC, with traders awaiting Powell’s remarks as ETF inflows and macro tailwinds support prices."
-  },
-  {
-    "title": "Stablecoin Inflows Rise Before Fed Rate Decision: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/10/29/stablecoin-inflows-rise-before-fed-rate-decision-crypto-daybook-americas",
-    "pubDate": "Wed, 29 Oct 2025 11:15:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Oct. 29, 2025"
-  },
-  {
-    "title": "How Dollar Breakouts Have Nailed Bitcoin Peaks: Is Another Top in the Works?",
-    "link": "https://decrypt.co/346559/how-dollar-breakouts-have-nailed-bitcoin-peaks-is-another-top-in-the-works",
-    "pubDate": "Wed, 29 Oct 2025 11:05:44 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Historical precedent suggests potential U.S. dollar strength could trigger another Bitcoin top, but an analyst says otherwise."
-  },
-  {
-    "title": "Grayscale debuts Solana staking ETF, as crypto firms push ahead despite government shutdown",
-    "link": "https://www.theblock.co/post/376661/grayscale-debuts-solana-staking-etf-as-crypto-firms-push-ahead-despite-government-shutdown?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 07:00:00 -0400",
-    "source": "The Block",
-    "contentSnippet": "Grayscale Investments is the latest firm to launch an exchange-traded fund tracking the price of Solana and including staking."
-  },
-  {
-    "title": "Bitcoin, Ether Brace for $17B Options Expiry Amid Fed Meeting, Tech Company Earnings",
-    "link": "https://www.coindesk.com/markets/2025/10/29/bitcoin-ether-brace-for-usd17b-options-expiry-amid-fed-meeting-tech-company-earnings",
-    "pubDate": "Wed, 29 Oct 2025 10:25:23 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Traders eye potential volatility as bitcoin hovers near max pain around $114,000 and ether nears $4,000."
-  },
-  {
-    "title": "Bitwise spot Solana ETF draws $69.5 million on debut as new HBAR and Litecoin funds see zero flows",
-    "link": "https://www.theblock.co/post/376731/bitwise-spot-solana-etf-69-5-million-usd-first-day-inflows-hbar-litecoin?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 05:55:39 -0400",
-    "source": "The Block",
-    "contentSnippet": "Bitwise's BSOL generated $57.9 million in volume on its first trading day — the most of any ETF launch this year."
-  },
-  {
-    "title": "Deutsche Digital Assets and Safello to List Staked Bittensor ETP on SIX Swiss Exchange",
-    "link": "https://www.coindesk.com/business/2025/10/29/deutsche-digital-assets-and-safello-to-list-staked-bittensor-etp-on-six-swiss-exchange",
-    "pubDate": "Wed, 29 Oct 2025 09:28:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The exchange-traded product offers investors regulated access to Bittensor’s TAO token with staking rewards and full physical backing."
-  },
-  {
-    "title": "DBS, Goldman Sachs Execute First Over-the-Counter Interbank Crypto Options Trade",
-    "link": "https://www.coindesk.com/markets/2025/10/29/dbs-goldman-sachs-execute-first-over-the-counter-interbank-crypto-options-trade",
-    "pubDate": "Wed, 29 Oct 2025 08:44:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "DBS said the deal involved trading cash-settled OTC bitcoin and ether options."
-  },
-  {
-    "title": "World Liberty Financial to Airdrop 8.4M WLFI Tokens to Early USD1 Users",
-    "link": "https://www.coindesk.com/markets/2025/10/29/world-liberty-financial-to-airdrop-8-4m-wlfi-tokens-to-early-usd1-users",
-    "pubDate": "Wed, 29 Oct 2025 08:26:50 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Trump-backed stablecoin project is rewarding early adopters through its USD1 points program, distributing tokens across six exchanges as it expands into DeFi and real-world asset integrations."
-  },
-  {
-    "title": "Stable to launch Phase 2 of pre-deposit campaign next week",
-    "link": "https://www.theblock.co/post/376720/stable-phase-2-campaign?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 02:55:12 -0400",
-    "source": "The Block",
-    "contentSnippet": "The announcement drew negative feedback on X, with users claiming large holders had executed deposits in Phase 1 before the public opening."
-  },
-  {
-    "title": "Ethereum ICO participant moves $6 million in ETH after 8-year dormancy: onchain data",
-    "link": "https://www.theblock.co/post/376722/ethereum-ico-participant-moves-1500-eth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 02:39:01 -0400",
-    "source": "The Block",
-    "contentSnippet": "The investor participated in Ethereum's 2014 ICO and received 20,000 ETH for about $6,200, Lookonchain reported."
-  },
-  {
-    "title": "Microsoft Values $135 Billion Stake in OpenAI as Firms Face Legal Pressure",
-    "link": "https://decrypt.co/346554/microsoft-135-billion-stake-openai-legal-pressure",
-    "pubDate": "Wed, 29 Oct 2025 04:59:18 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The recapitalization gives OpenAI freedom to partner with competitors and release open-weight models, even as both firms face legal pressure."
-  },
-  {
-    "title": "Bitwise's Solana ETF Draws $69.5M on Debut, Outpacing Rival Fund's Launch",
-    "link": "https://decrypt.co/346552/bitwise-solana-etf-draws-69m-debut-outpacing-rival-funds-launch",
-    "pubDate": "Wed, 29 Oct 2025 04:25:44 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The strong early inflows suggest institutions are favoring Bitwise’s direct staking model as Solana ETFs start gaining traction."
-  },
-  {
-    "title": "Australia classifies stablecoins, wrapped tokens as financial products in updated guidance",
-    "link": "https://www.theblock.co/post/376712/australian-regulator-updated-guidance?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 00:18:33 -0400",
-    "source": "The Block",
-    "contentSnippet": "Under new guidance, companies would need to obtain a license to offer products such as stablecoins and wrapped tokens."
-  },
-  {
-    "title": "Tom Lee’s BitMine adds $113 million worth of ETH to treasury: onchain data",
-    "link": "https://www.theblock.co/post/376710/bitmine-adds-27316-eth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 23:42:18 -0400",
-    "source": "The Block",
-    "contentSnippet": "BitMine's Monday disclosure revealed that its treasury holdings have surpassed 3.3 million ETH, worth over $13 billion."
-  },
-  {
-    "title": "World Liberty Financial to distribute 8.4 million WLFI for early USD1 adopters",
-    "link": "https://www.theblock.co/post/376706/world-liberty-financial-distribute-wlfi?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 21:57:10 -0400",
-    "source": "The Block",
-    "contentSnippet": "The distribution rewards users who earned points by trading USD1 pairs on partner exchanges and maintaining USD1 balances."
-  },
-  {
-    "title": "OpenAI Reveals Over 1 Million ChatGPT Users Discuss Suicide Weekly",
-    "link": "https://decrypt.co/346513/openai-reveals-1-million-chatgpt-users-discuss-suicide-weekly",
-    "pubDate": "Wed, 29 Oct 2025 00:23:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "OpenAI says it’s strengthening suicide crisis safeguards, but a former researcher says the fixes don’t go far enough."
-  },
-  {
-    "title": "Humanoid Race Heats Up as 1X Unveils Talking Home Robot Helper NEO",
-    "link": "https://decrypt.co/346509/humanoid-race-heats-up-1x-unveils-talking-home-robot-helper",
-    "pubDate": "Wed, 29 Oct 2025 00:03:33 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts expect the humanoid and service-robot markets to exceed $300 billion within the next decade as companies continue to forge ahead."
-  },
-  {
-    "title": "Australia’s Financial Regulator Flags Broader Oversight of Crypto Under Updated Guidance",
-    "link": "https://decrypt.co/346511/australia-financial-regulator-oversight-crypto-updated-guidance",
-    "pubDate": "Tue, 28 Oct 2025 23:43:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The final guidance expands last year’s draft, adding new examples and custody rules as ASIC shifts from proposals to enforceable oversight."
-  },
-  {
-    "title": "Visa adding support for four stablecoins on four unique blockchains, as spend quadrupled last quarter",
-    "link": "https://www.theblock.co/post/376682/visa-adding-support-for-four-stablecoins-on-four-unique-blockchains-as-spend-quadrupled-last-quarter?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 19:21:14 -0400",
-    "source": "The Block",
-    "contentSnippet": "CEO Ryan McInerney also noted that his company has started enabling banks to mint and burn their own stablecoins."
-  },
-  {
-    "title": "Sam Altman Confronts Backlash Over GPT-5 Rollout, Unveils Expanding Vision During AMA",
-    "link": "https://decrypt.co/346501/sam-altman-confronts-backlash-gpt-5-rollout-vision-ama",
-    "pubDate": "Tue, 28 Oct 2025 23:04:41 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The OpenAI CEO admitted the company mishandled the GPT-5 upgrade and said adults deserve freer tools."
-  },
-  {
-    "title": "AI Backlash Is Here: Even Sophisticated Users Are Getting Sick of Tech's Latest Obsession",
-    "link": "https://decrypt.co/346170/ai-backlash-sophisticated-users-getting-sick-techs-latest-obsession",
-    "pubDate": "Tue, 28 Oct 2025 21:43:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Forced AI software features are stirring real user frustration, while studies on fatigue are piling up. Is a full-blown revolt in our future?"
-  },
-  {
-    "title": "Ethereum’s Fusaka hard fork activates on final testnet ahead of mainnet launch",
-    "link": "https://www.theblock.co/post/376674/ethereum-fusaka-hard-fork-activates-final-testnet-ahead-mainnet-launch?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 17:04:18 -0400",
-    "source": "The Block",
-    "contentSnippet": "Hoodi represents the third and final testnet deployment, following successive activations on Holesky and Sepolia earlier this month."
   }
 ]
