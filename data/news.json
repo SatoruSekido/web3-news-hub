@@ -1,5 +1,75 @@
 [
   {
+    "title": "XRP and SOL Futures Open Interest on CME Hits Record High",
+    "link": "https://www.coindesk.com/markets/2025/10/29/xrp-and-sol-futures-open-interest-on-cme-hits-record-high",
+    "pubDate": "Wed, 29 Oct 2025 05:35:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Record XRP and Solana futures activity pushed open interest on the derivatives giant’s platform to roughly $3 billion, signaling renewed retail and institutional appetite for altcoin exposure."
+  },
+  {
+    "title": "XRP Trades Higher on Big Flows, Yet Technical Setup Signals Caution",
+    "link": "https://www.coindesk.com/markets/2025/10/29/xrp-trades-higher-on-big-flows-yet-technical-setup-signals-caution",
+    "pubDate": "Wed, 29 Oct 2025 05:24:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Traders should watch for XRP to maintain support around $2.60-$2.63, as a sustained rise above $2.65 could shift the bias bullish."
+  },
+  {
+    "title": "Microsoft Values $135 Billion Stake in OpenAI as Firms Face Legal Pressure",
+    "link": "https://decrypt.co/346554/microsoft-135-billion-stake-openai-legal-pressure",
+    "pubDate": "Wed, 29 Oct 2025 04:59:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The recapitalization gives OpenAI freedom to partner with competitors and release open-weight models, even as both firms face legal pressure."
+  },
+  {
+    "title": "Bitcoin Dip Looks Standard Pre-FOMC and $120K Would Open Path to $143K, Analysts Say",
+    "link": "https://www.coindesk.com/markets/2025/10/29/bitcoin-dip-looks-standard-pre-fomc-and-usd120k-would-open-path-to-usd143k-analysts-say",
+    "pubDate": "Wed, 29 Oct 2025 04:38:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "After a quick jump toward $116,094 faded, buyers showed up near $112,500 while analysts watched $120,000 as the level that could clear the way toward $143,000."
+  },
+  {
+    "title": "Bitwise's Solana ETF Draws $69.5M on Debut, Outpacing Rival Fund's Launch",
+    "link": "https://decrypt.co/346552/bitwise-solana-etf-draws-69m-debut-outpacing-rival-funds-launch",
+    "pubDate": "Wed, 29 Oct 2025 04:25:44 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The strong early inflows suggest institutions are favoring Bitwise’s direct staking model as Solana ETFs start gaining traction."
+  },
+  {
+    "title": "Australia classifies stablecoins, wrapped tokens as financial products in updated guidance",
+    "link": "https://www.theblock.co/post/376712/australian-regulator-updated-guidance?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Oct 2025 00:18:33 -0400",
+    "source": "The Block",
+    "contentSnippet": "Under new guidance, companies would need to obtain a license to offer products such as stablecoins and wrapped tokens."
+  },
+  {
+    "title": "Recent Bitcoin Crash Has Put $1B in sUSDe Loop Trades at Risk, Research Firm Says",
+    "link": "https://www.coindesk.com/markets/2025/10/29/recent-bitcoin-crash-has-put-usd1b-in-susde-loop-trades-at-risk-research-firm-says",
+    "pubDate": "Wed, 29 Oct 2025 04:05:03 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "looped positions that rely on borrowing stables to buy sUSDe are at risk, Sentora Research said."
+  },
+  {
+    "title": "Tom Lee’s BitMine adds $113 million worth of ETH to treasury: onchain data",
+    "link": "https://www.theblock.co/post/376710/bitmine-adds-27316-eth?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Oct 2025 23:42:18 -0400",
+    "source": "The Block",
+    "contentSnippet": "BitMine's Monday disclosure revealed that its treasury holdings have surpassed 3.3 million ETH, worth over $13 billion."
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin Holds Ground as Traders Sit on Stablecoins Before Fed Decision",
+    "link": "https://www.coindesk.com/markets/2025/10/29/asia-morning-briefing-bitcoin-holds-ground-as-traders-sit-on-stablecoins-before-fed-decision",
+    "pubDate": "Wed, 29 Oct 2025 02:17:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The market is confident that the Fed will cut rates. But crypto traders are still waiting for confirmation."
+  },
+  {
+    "title": "World Liberty Financial to distribute 8.4 million WLFI for early USD1 adopters",
+    "link": "https://www.theblock.co/post/376706/world-liberty-financial-distribute-wlfi?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 28 Oct 2025 21:57:10 -0400",
+    "source": "The Block",
+    "contentSnippet": "The distribution rewards users who earned points by trading USD1 pairs on partner exchanges and maintaining USD1 balances."
+  },
+  {
     "title": "OpenAI Reveals Over 1 Million ChatGPT Users Discuss Suicide Weekly",
     "link": "https://decrypt.co/346513/openai-reveals-1-million-chatgpt-users-discuss-suicide-weekly",
     "pubDate": "Wed, 29 Oct 2025 00:23:04 +0000",
@@ -98,13 +168,6 @@
     "contentSnippet": "The first ETFs to track the spot price of Litecoin and HBAR made their debuts Tuesday, along with a new staked SOL fund."
   },
   {
-    "title": "Bitcoin Uptober Cliffhanger: Will BTC Close the Month Green?",
-    "link": "https://decrypt.co/346463/bitcoin-uptober-will-btc-close-month-green",
-    "pubDate": "Tue, 28 Oct 2025 19:49:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "With just days left in Uptober, Bitcoin is in the green for the month—but just barely. Can it hold on and keep the seasonal trend alive?"
-  },
-  {
     "title": "Blockchain-Based Polymarket Eyes U.S. Comeback by November: BBG",
     "link": "https://www.coindesk.com/markets/2025/10/28/blockchain-based-polymarket-eyes-u-s-comeback-by-november-bbg",
     "pubDate": "Tue, 28 Oct 2025 19:40:57 +0000",
@@ -126,39 +189,11 @@
     "contentSnippet": "With all three tests done, developers will finalize the date that Fusaka will go live on mainnet, tentatively aiming for December 3."
   },
   {
-    "title": "Microsoft AI Chief Says No to 'Sex Robots' as Industry Booms",
-    "link": "https://decrypt.co/346449/microsoft-ai-chief-says-no-sex-robots-industry-booms",
-    "pubDate": "Tue, 28 Oct 2025 19:14:31 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Microsoft's AI boss Mustafa Suleyman nixes erotic development, setting the tech giant apart from rivals exploring romantic chatbots."
-  },
-  {
-    "title": "SharpLink Plans $200M ETH Deployment on Consensys’ Linea Over Multiple Years",
-    "link": "https://www.coindesk.com/markets/2025/10/28/sharplink-plans-usd200m-eth-deployment-on-consensys-linea-over-multiple-years",
-    "pubDate": "Tue, 28 Oct 2025 18:41:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "SharpLink said it will use Anchorage Digital to deploy ether on Linea, combining ether.fi staking and EigenCloud restaking to seek yield under institutional controls."
-  },
-  {
     "title": "Polymarket to go live in the US by late November as sports betting becomes key battleground: Bloomberg",
     "link": "https://www.theblock.co/post/376623/polymarket-us-november-sports-betting-battleground-prediction-markets?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 28 Oct 2025 14:25:20 -0400",
     "source": "The Block",
     "contentSnippet": "Polymarket’s U.S. comeback follows record trading volumes and growing competition in the prediction market sector."
-  },
-  {
-    "title": "Chainlink Underpins Balcony's $240B Real Estate Tokenization Platform",
-    "link": "https://www.coindesk.com/markets/2025/10/28/chainlink-underpins-balcony-s-usd240b-real-estate-tokenization-platform",
-    "pubDate": "Tue, 28 Oct 2025 18:24:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Balcony will use Chainlink’s Runtime Environment (CRE) to bring over $240 billion worth of government-sourced property data onchain."
-  },
-  {
-    "title": "Western Union to Launch Stablecoin on Solana With Anchorage Digital",
-    "link": "https://www.coindesk.com/business/2025/10/28/western-union-to-launch-stablecoin-on-solana-with-anchorage-digital",
-    "pubDate": "Tue, 28 Oct 2025 18:16:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The U.S. dollar-pegged token is expected to become available in the first half of 2026."
   },
   {
     "title": "Pardon of Binance’s Zhao is ‘rocket fuel’ for BNB token ecosystem, says treasury CEO",
@@ -168,45 +203,10 @@
     "contentSnippet": "The pardon could pave the way for Binance's return to the U.S., which would be bullish for the BNB token ecosystem, BNB Network CEO said."
   },
   {
-    "title": "Bitcoin's Offshoot, BCH, Edges Up 1% to Challenge Downtrend",
-    "link": "https://www.coindesk.com/markets/2025/10/28/bitcoin-s-offshoot-bch-edges-up-1-16-to-usd56-challenges-dowtrend",
-    "pubDate": "Tue, 28 Oct 2025 18:01:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Minor gains accompanied by elevated volume suggest underlying accumulation despite muted price action."
-  },
-  {
-    "title": "55 Years of Financial Surveillance",
-    "link": "https://www.coindesk.com/opinion/2025/10/28/55-years-of-financial-surveillance",
-    "pubDate": "Tue, 28 Oct 2025 18:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Reform needs to happen before the Bank Secrecy Act gets to celebrate its next big milestone, argues Nicholas Anthony, a policy analyst at the Cato Institute."
-  },
-  {
     "title": "Consensys-backed Ethereum treasury firm SharpLink deploys $200 million in ETH on Linea Layer 2",
     "link": "https://www.theblock.co/post/376621/consensys-backed-ethereum-treasury-firm-sharplink-deploys-200-million-in-eth-on-linea-layer-2?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 28 Oct 2025 13:56:07 -0400",
     "source": "The Block",
     "contentSnippet": "SharpLink will deploy $200 million worth of its ETH treasury holdings into staking and restaking strategies using ether.fi and EigenCloud."
-  },
-  {
-    "title": "The Daily: Trump’s Truth Social gets into prediction markets, Circle launches Arc public testnet, MetaMask goes multichain, and more",
-    "link": "https://www.theblock.co/post/376605/the-daily-trumps-truth-social-gets-into-prediction-markets-circle-launches-arc-public-testnet-metamask-goes-multichain-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 13:50:15 -0400",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Western Union plans stablecoin launch on Solana for early 2026",
-    "link": "https://www.theblock.co/post/376608/western-union-plans-stablecoin-launch-on-solana-for-early-2026?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 13:34:58 -0400",
-    "source": "The Block",
-    "contentSnippet": "CEO Devin McGranahan first signaled the company was exploring stablecoin integrations as early as July, inspired by the GENIUS Act."
-  },
-  {
-    "title": "Tether attests to full physical backing for its gold-based token as market value tops $2 billion",
-    "link": "https://www.theblock.co/post/376585/tether-attests-full-physical-backing-gold-based-token-market-value-tops-2-billion?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 28 Oct 2025 13:18:19 -0400",
-    "source": "The Block",
-    "contentSnippet": "Tether's XAUT value has more than doubled since August amid growing demand for tokenized real-world assets."
   }
 ]
