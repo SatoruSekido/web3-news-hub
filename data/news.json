@@ -1,5 +1,68 @@
 [
   {
+    "title": "XRP Rejects $2.67 Breakout in Risk of Deeper Pullback as Fed Cuts Cause Bitcoin Slide",
+    "link": "https://www.coindesk.com/markets/2025/10/30/xrp-rejects-usd2-67-breakout-in-risk-of-deeper-pullback-as-fed-cuts-cause-bitcoin-slide",
+    "pubDate": "Thu, 30 Oct 2025 05:53:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XRP slid from $2.63 to $2.59 after a failed breakout above the $2.67 zone, with trading volume spiking to roughly 392.6 million tokens—about 658% above its recent average—during the rejection."
+  },
+  {
+    "title": "Chinese Man Arrested in Bangkok Over Alleged $14M Crypto Ponzi Scheme",
+    "link": "https://decrypt.co/346753/chinese-man-arrested-bangkok-alleged-14m-crypto-ponzi",
+    "pubDate": "Thu, 30 Oct 2025 05:27:08 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Thai police discovered an illegal firearm during the raid as they work to extradite the suspect back to China for trial."
+  },
+  {
+    "title": "BTC Drops, Then Pops, as Trump Lowers China Tariffs ",
+    "link": "https://www.coindesk.com/markets/2025/10/30/btc-drops-then-pops-as-trump-lowers-china-tariffs",
+    "pubDate": "Thu, 30 Oct 2025 05:25:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "However, bitcoin and other non-yielding assets may benefit in the coming months as liquidity returns and investors rotate out of cash-heavy positions into growth and alternative stores of value."
+  },
+  {
+    "title": "Gold on a Steady Decline, Is it Bitcoin's Time to Shine?",
+    "link": "https://decrypt.co/346751/gold-on-a-steady-decline-is-it-bitcoins-time-to-shine",
+    "pubDate": "Thu, 30 Oct 2025 05:20:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "As gold cools, experts see a potential Bitcoin catch-up trade, but warn a major capital rotation is unlikely due to different investor bases."
+  },
+  {
+    "title": "Hong Kong’s top regulator flags digital asset treasury risks: report",
+    "link": "https://www.theblock.co/post/376882/hong-kong-regulator-examines-digital-asset-treasuries?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Oct 2025 01:12:05 -0400",
+    "source": "The Block",
+    "contentSnippet": "SFC Chair Kelvin Wong Tin-yau said the regulator will step up investor education efforts on DATs and their risks."
+  },
+  {
+    "title": "KRWQ launches as first Korean won stablecoin on Base",
+    "link": "https://www.theblock.co/post/376877/krwq-korean-won-stablecoin-base?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Oct 2025 23:44:24 -0400",
+    "source": "The Block",
+    "contentSnippet": "KRWQ is not yet offered to South Korean residents, as local regulations on stablecoin are under development."
+  },
+  {
+    "title": "Binance.US denies political motive in listing Trump-linked USD1 stablecoin",
+    "link": "https://www.theblock.co/post/376870/binance-denies-political-motive-usd1?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 29 Oct 2025 23:00:56 -0400",
+    "source": "The Block",
+    "contentSnippet": "Binance.US responded to criticism from Sen. Chris Murphy, who alleged its USD1 listing was payback following Trump's pardon of CZ."
+  },
+  {
+    "title": "Bitchat Tops Jamaica App Charts as Hurricane Melissa Cuts Connectivity",
+    "link": "https://decrypt.co/346748/bitchat-tops-jamaica-app-charts-hurricane-melissa-cuts-connectivity",
+    "pubDate": "Thu, 30 Oct 2025 02:22:00 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitchat uses Bluetooth mesh networking for offline communication, turning each phone into a node that relays messages to nearby devices."
+  },
+  {
+    "title": "Asia Morning Briefing: What's the Real Use for a Yen Stablecoin? An On-Chain Carry Trade",
+    "link": "https://www.coindesk.com/markets/2025/10/30/asia-morning-briefing-what-s-the-real-use-for-a-yen-stablecoin-an-on-chain-carry-trade",
+    "pubDate": "Thu, 30 Oct 2025 01:52:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Unlike most Asian currencies, the yen moves freely across borders, making it the perfect vehicle for an on-chain carry trade that blends Japan’s easy money with DeFi’s appetite for yield."
+  },
+  {
     "title": "Mastercard in Talks to Acquire Stablecoin Tech Firm Zerohash for Around $2 Billion: Fortune",
     "link": "https://decrypt.co/346720/mastercard-talks-acquire-stablecoin-tech-zerohash-2-billion-fortune",
     "pubDate": "Thu, 30 Oct 2025 00:21:30 +0000",
@@ -63,13 +126,6 @@
     "contentSnippet": "Bitcoin falling on Fed rate cut news? Here's what happened, and what to expect in the near term."
   },
   {
-    "title": "President Trump's Solana Meme Coin Is Hot Again, Jumping 46% Amid 'Relief Rally'",
-    "link": "https://decrypt.co/346695/president-trump-solana-meme-coin-hot-again-jumping-46-amid-relief-rally",
-    "pubDate": "Wed, 29 Oct 2025 21:25:32 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "President Trump appears to be easing his trade war for now, helping his Solana meme coin pump amid what an analyst called a “relief rally.”"
-  },
-  {
     "title": "Chainlink Drops, Then Bounces 4% as FOMC Volatility Drives Crypto Market",
     "link": "https://www.coindesk.com/markets/2025/10/29/chainlink-drops-then-bounces-4-as-fomc-volatility-drives-crypto-market",
     "pubDate": "Wed, 29 Oct 2025 21:17:38 +0000",
@@ -96,20 +152,6 @@
     "pubDate": "Wed, 29 Oct 2025 20:50:27 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The global payments firm previously held talks to acquire crypto payment infrastructure startup BNVK, according to reports."
-  },
-  {
-    "title": "21Shares Applies for Hyperliquid ETF as New Crypto Funds Hit Market",
-    "link": "https://decrypt.co/346676/21shares-applies-hyperliquid-etf-new-crypto-funds-market",
-    "pubDate": "Wed, 29 Oct 2025 20:22:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The U.S. Securities and Exchange Commission now has over 90 filings to consider as fund managers push for altcoin products."
-  },
-  {
-    "title": "Warren, Sanders Blast Trump Admin for Legitimizing 'Dangerous' Bitcoin and Crypto 401Ks",
-    "link": "https://decrypt.co/346685/warren-sanders-blast-trump-admin-legitimizing-dangerous-bitcoin-crypto-401ks",
-    "pubDate": "Wed, 29 Oct 2025 20:09:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "In a letter sent to the SEC and Department of Labor, the senators warned that the Trump admin’s push to expose the $31 trillion retirement savings industry to crypto could end in disaster."
   },
   {
     "title": "What Bitcoin Chart Says About BTC Price After Powell Casts Doubt on December Cut?",
@@ -154,27 +196,6 @@
     "contentSnippet": "XLM demonstrates resilience with modest gains and exceptional volume surge, signaling potential momentum building beneath current consolidation patterns."
   },
   {
-    "title": "Analysts Expect Strong Q3 for Coinbase But Disagree Sharply on Its Future",
-    "link": "https://www.coindesk.com/markets/2025/10/29/analysts-expect-strong-q3-for-coinbase-but-disagree-sharply-on-its-future",
-    "pubDate": "Wed, 29 Oct 2025 17:08:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Barclays, JP Morgan and Compass Point see gains in USDC and trading, but clash over Base, Deribit and profit margins."
-  },
-  {
-    "title": "Investment Bank Mizuho Says Visa Is Becoming the ‘Stablecoin of Stablecoins’",
-    "link": "https://www.coindesk.com/markets/2025/10/29/investment-bank-mizuho-says-visa-is-becoming-the-stablecoin-of-stablecoins",
-    "pubDate": "Wed, 29 Oct 2025 17:05:20 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Visa’s growing stablecoin network positions it as the key infrastructure player in blockchain payments, while individual tokens risk becoming commoditized assets."
-  },
-  {
-    "title": "HBAR Consolidates at $0.2010 as Volume Surge Signals Distribution",
-    "link": "https://www.coindesk.com/markets/2025/10/29/hbar-consolidates-at-usd0-2010-as-volume-surge-signals-distribution",
-    "pubDate": "Wed, 29 Oct 2025 16:54:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera faces selling pressure at $0.2055 resistance as trading volume explodes 137% above average, marking institutional distribution amid choppy price action."
-  },
-  {
     "title": "Solana Company adds $20 million in SOL, touts 7% yield as institutional staking funds hit the market",
     "link": "https://www.theblock.co/post/376768/solana-company-adds-20-million-sol-touts-7-yield-institutional-staking-funds-market?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 29 Oct 2025 12:28:09 -0400",
@@ -187,26 +208,5 @@
     "pubDate": "Wed, 29 Oct 2025 12:25:06 -0400",
     "source": "The Block",
     "contentSnippet": "Architect is backed by investors including Coinbase Ventures, Circle Ventures, and Anthony Scaramucci's SALT Fund."
-  },
-  {
-    "title": "Zcash shielded supply hits 4.5 million ZEC as privacy narrative reignites and token surges 7x",
-    "link": "https://www.theblock.co/post/376312/zcash-shielded-supply-privacy-token-surges-7x?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 10:46:02 -0400",
-    "source": "The Block",
-    "contentSnippet": "The rising shielded supply suggests growing trust in Zcash's privacy features and improved infrastructure support."
-  },
-  {
-    "title": "William Blair analysts forecast ‘slingshot recovery’ for Visa amid stablecoin tailwinds",
-    "link": "https://www.theblock.co/post/376755/william-blair-visa-stablecoin-tailwinds?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 09:47:52 -0400",
-    "source": "The Block",
-    "contentSnippet": "Visa CEO Ryan McInerney recently confirmed the payments giant is adding support for four stablecoins across four blockchains."
-  },
-  {
-    "title": "21Shares files for Hyperliquid ETF following wave of crypto fund launches",
-    "link": "https://www.theblock.co/post/376749/21shares-files-hyperliquid-etf-following-wave-crypto-fund-launches?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 09:31:39 -0400",
-    "source": "The Block",
-    "contentSnippet": "A new proposal for an ETF tracking the performance of Hyperliquid's native token was filed by 21Shares on Wednesday."
   }
 ]
