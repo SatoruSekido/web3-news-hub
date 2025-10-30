@@ -1,5 +1,117 @@
 [
   {
+    "title": "Morning Minute: MetaMask Parent Consensys Files for IPO",
+    "link": "https://decrypt.co/346764/morning-minute-metamask-parent-consensys-files-for-ipo",
+    "pubDate": "Thu, 30 Oct 2025 12:11:56 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Just a day after rolling out its MetaMask rewards program, which now begs the question—how will they balance an IPO and a token launch?"
+  },
+  {
+    "title": "Uphold relaunches XRP rewards debit card in US",
+    "link": "https://www.theblock.co/post/376864/uphold-relaunches-xrp-rewards-debit-card-in-us?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Oct 2025 08:00:00 -0400",
+    "source": "The Block",
+    "contentSnippet": "The company's move follows Uphold in March reinstating staking rewards for U.S. customers across 19 different digital assets."
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Tests $110K as Traders ‘Sell the News’ on Fed Cut, U.S.-China Deal",
+    "link": "https://www.coindesk.com/markets/2025/10/30/crypto-markets-today-bitcoin-tests-usd110k-as-traders-sell-the-news-on-fed-cut-u-s-china-deal",
+    "pubDate": "Thu, 30 Oct 2025 12:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin slid to its $110,000 support as the broader crypto market shed $80 billion following the Federal Reserve’s interest-rate cut and a new U.S.-China trade agreement."
+  },
+  {
+    "title": "Circle’s USDC Overtakes Tether's USDT in Onchain Activity as Regulation Drives Shift: JPMorgan",
+    "link": "https://www.coindesk.com/markets/2025/10/30/circle-s-usdc-overtakes-tether-s-usdt-in-onchain-activity-as-regulation-drives-shift-jpmorgan",
+    "pubDate": "Thu, 30 Oct 2025 11:40:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "USDC leapfrogged USDT in onchain activity as regulatory clarity pushes investors toward transparent and compliant stablecoins."
+  },
+  {
+    "title": "Ethereum US Spot Demand Slips Amid Crypto Market Pressure",
+    "link": "https://decrypt.co/346765/ethereum-us-spot-demand-slips-amid-crypto-market-pressure",
+    "pubDate": "Thu, 30 Oct 2025 11:26:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "U.S. Ethereum demand cools as ETF inflows stall, but experts see this as a rotation, not a reversal, ahead of a utility-driven cycle."
+  },
+  {
+    "title": "Plasma’s XPL Token Crashes 80% as Hype Fades Amid Woeful Debut",
+    "link": "https://www.coindesk.com/business/2025/10/30/plasma-s-xpl-token-crashes-80-as-hype-fades-amid-woeful-debut",
+    "pubDate": "Thu, 30 Oct 2025 11:19:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Once billed as the “blockchain for stablecoins,” Plasma’s XPL token has plunged from its $1.67 peak to $0.31 amid low network activity and waning sentiment"
+  },
+  {
+    "title": "Market Stumbles on Fed Caution as Options Expiry Looms: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/10/30/market-stumbles-on-fed-caution-as-options-expiry-looms-crypto-daybook-americas",
+    "pubDate": "Thu, 30 Oct 2025 11:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Oct. 30, 2025"
+  },
+  {
+    "title": "DeFi Set to Challenge TradFi With $2T in Tokenized Assets by 2028: Standard Chartered",
+    "link": "https://www.coindesk.com/markets/2025/10/30/defi-set-to-challenge-tradfi-with-usd2t-in-tokenized-assets-by-2028-standard-chartered",
+    "pubDate": "Thu, 30 Oct 2025 11:12:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The bank said the 2025 stablecoin boom is fueling a self-sustaining wave of DeFi growth, and it forecasted $2 trillion in tokenized real-world assets by 2028."
+  },
+  {
+    "title": "Grayscale spot Solana ETF sees $1.4M inflows on debut as over $500M exits Bitcoin and Ethereum funds",
+    "link": "https://www.theblock.co/post/376899/grayscale-spot-solana-etf-debut-inflows-bitcoin-ethereum-outflows?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Oct 2025 07:04:53 -0400",
+    "source": "The Block",
+    "contentSnippet": "Grayscale's new U.S. spot Solana ETF, GSOL, registered $1.4 million in net inflows on its Oct. 29 trading debut."
+  },
+  {
+    "title": "TeraWulf upsizes private offering to $900 million to fund Texas data center expansion",
+    "link": "https://www.theblock.co/post/376898/terawulf-upsizes-private-offering-to-900-million-to-fund-texas-data-center-expansion?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Oct 2025 07:02:36 -0400",
+    "source": "The Block",
+    "contentSnippet": "TeraWulf upsizes and prices a $900 million zero-coupon convertible due 2032 to fund a Texas data center build."
+  },
+  {
+    "title": "Australia's AUSTRAC Fines Cryptolink as Part of Crypto ATM Crackdown",
+    "link": "https://www.coindesk.com/policy/2025/10/30/australia-s-austrac-fines-cryptolink-as-part-of-crypto-atm-crackdown",
+    "pubDate": "Thu, 30 Oct 2025 11:02:23 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "AUSTRAC has fined Cryptolink 56,340 Australian dollars ($37,000) after identifying \"weaknesses\" in the company's AML/CTF compliance."
+  },
+  {
+    "title": "Australian Police Use 'Crypto Safe Cracker' to Access $6M Stash",
+    "link": "https://decrypt.co/346755/australian-police-use-crypto-safe-cracker-to-access-6m-stash",
+    "pubDate": "Thu, 30 Oct 2025 10:42:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The AFP Commissioner revealed how one analyst's intuition unlocked millions in crypto which a suspect tried to hide behind manipulated code."
+  },
+  {
+    "title": "Analysis: Prediction Market Bettors Miscalculated Dutch Election Results",
+    "link": "https://www.coindesk.com/markets/2025/10/30/analysis-prediction-market-bettors-miscalculated-dutch-election-results",
+    "pubDate": "Thu, 30 Oct 2025 09:20:21 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Both Polymarket and Kalshi traders ignored late polls showing D66 gaining ground, keeping Geert Wilders’ PVV priced as a sure thing until exit polls forced a repricing that erased millions in misplace"
+  },
+  {
+    "title": "This Bitcoin Market Dynamic Commands Attention as Prices Surge Past $110K Ahead of $13B Options Expiry",
+    "link": "https://www.coindesk.com/markets/2025/10/30/this-bitcoin-market-dynamic-commands-attention-as-prices-surge-past-usd110k-ahead-of-usd13b-options-expiry",
+    "pubDate": "Thu, 30 Oct 2025 07:37:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Key market dynamic points to potential for heightened market volatility ahead of Friday's options expiry."
+  },
+  {
+    "title": "Bitcoin tops $111,300 as Trump says China trade deal coming ‘pretty soon’",
+    "link": "https://www.theblock.co/post/376888/bitcoin-rises-trump-china-deal-pretty-soon?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 30 Oct 2025 03:11:44 -0400",
+    "source": "The Block",
+    "contentSnippet": "Trump reportedly said that he would cut reciprocal tariffs from 20% to 10%, and that he settled rare earth-related issues with China."
+  },
+  {
+    "title": "Crypto Traders Take On $800M Liquidations as Fed’s Caution Sparks ‘Sell-the-News’ Reversal",
+    "link": "https://www.coindesk.com/markets/2025/10/30/crypto-traders-take-on-usd800m-liquidations-as-fed-s-caution-sparks-sell-the-news-reversal",
+    "pubDate": "Thu, 30 Oct 2025 06:27:02 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Large clusters of long liquidations can signal capitulation and potential short-term bottoms, while heavy short wipeouts may precede local tops as momentum flips."
+  },
+  {
     "title": "XRP Rejects $2.67 Breakout in Risk of Deeper Pullback as Fed Cuts Cause Bitcoin Slide",
     "link": "https://www.coindesk.com/markets/2025/10/30/xrp-rejects-usd2-67-breakout-in-risk-of-deeper-pullback-as-fed-cuts-cause-bitcoin-slide",
     "pubDate": "Thu, 30 Oct 2025 05:53:51 +0000",
@@ -12,13 +124,6 @@
     "pubDate": "Thu, 30 Oct 2025 05:27:08 +0000",
     "source": "Decrypt",
     "contentSnippet": "Thai police discovered an illegal firearm during the raid as they work to extradite the suspect back to China for trial."
-  },
-  {
-    "title": "BTC Drops, Then Pops, as Trump Lowers China Tariffs ",
-    "link": "https://www.coindesk.com/markets/2025/10/30/btc-drops-then-pops-as-trump-lowers-china-tariffs",
-    "pubDate": "Thu, 30 Oct 2025 05:25:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "However, bitcoin and other non-yielding assets may benefit in the coming months as liquidity returns and investors rotate out of cash-heavy positions into growth and alternative stores of value."
   },
   {
     "title": "Gold on a Steady Decline, Is it Bitcoin's Time to Shine?",
@@ -56,13 +161,6 @@
     "contentSnippet": "Bitchat uses Bluetooth mesh networking for offline communication, turning each phone into a node that relays messages to nearby devices."
   },
   {
-    "title": "Asia Morning Briefing: What's the Real Use for a Yen Stablecoin? An On-Chain Carry Trade",
-    "link": "https://www.coindesk.com/markets/2025/10/30/asia-morning-briefing-what-s-the-real-use-for-a-yen-stablecoin-an-on-chain-carry-trade",
-    "pubDate": "Thu, 30 Oct 2025 01:52:09 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Unlike most Asian currencies, the yen moves freely across borders, making it the perfect vehicle for an on-chain carry trade that blends Japan’s easy money with DeFi’s appetite for yield."
-  },
-  {
     "title": "Mastercard in Talks to Acquire Stablecoin Tech Firm Zerohash for Around $2 Billion: Fortune",
     "link": "https://decrypt.co/346720/mastercard-talks-acquire-stablecoin-tech-zerohash-2-billion-fortune",
     "pubDate": "Thu, 30 Oct 2025 00:21:30 +0000",
@@ -91,25 +189,11 @@
     "contentSnippet": "Consensys, the Ethereum software firm behind MetaMask, has reportedly hired JPMorgan and Goldman Sachs to prepare for a potential IPO"
   },
   {
-    "title": "Putin Boasts of Testing Poseidon Nuclear Drone Meant to Unleash Radioactive Tsunamis",
-    "link": "https://decrypt.co/346667/putin-boasts-testing-poseidon-nuclear-drone-radioactive-tsunamis",
-    "pubDate": "Wed, 29 Oct 2025 22:26:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Putin touts tests of Russia’s nuclear “Poseidon” drone, built to trigger radioactive tsunamis—analysts see posturing, not proof."
-  },
-  {
     "title": "MetaMask parent Consensys pursues IPO with JPMorgan and Goldman: Axios",
     "link": "https://www.theblock.co/post/376845/metamask-parent-consensys-pursues-ipo-jpmorgan-goldman-axios?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 29 Oct 2025 17:53:26 -0400",
     "source": "The Block",
     "contentSnippet": "Consensys plans to follow in the footsteps of other crypto firms like Circle and Bullish and launch an initial public offering."
-  },
-  {
-    "title": "Humanoid Hype Meets Reality: 1X's $20K NEO Home Robot Draws Skepticism, Memes",
-    "link": "https://decrypt.co/346648/humanoid-hype-meets-reality-1x-20k-home-robot-skepticism-memes",
-    "pubDate": "Wed, 29 Oct 2025 21:51:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Initial hype for the 1X NEO cooled after demos showed the robot was still fully tele-operated, sparking skepticism online."
   },
   {
     "title": "‘Huge number’: Bitwise’s Solana ETF crosses $70 million in volume on second day",
@@ -119,94 +203,10 @@
     "contentSnippet": "The Bitwise Solana Staking ETF's $56 million day-one volume was the most among nearly 850 ETF launches this year."
   },
   {
-    "title": "Bitcoin Sentiment Slides as Market Dips: Why Bearish Odds Are Now Increasing",
-    "link": "https://decrypt.co/346697/bitcoin-sentiment-slides-market-dips-why-bearish-odds-prediction-market",
-    "pubDate": "Wed, 29 Oct 2025 21:36:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin falling on Fed rate cut news? Here's what happened, and what to expect in the near term."
-  },
-  {
-    "title": "Chainlink Drops, Then Bounces 4% as FOMC Volatility Drives Crypto Market",
-    "link": "https://www.coindesk.com/markets/2025/10/29/chainlink-drops-then-bounces-4-as-fomc-volatility-drives-crypto-market",
-    "pubDate": "Wed, 29 Oct 2025 21:17:38 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The oracle network token overcame selling pressure earlier Wednesday, but the technical picture remains mixed."
-  },
-  {
-    "title": "Consensys Plans Public Debut, Taps JPMorgan and Goldman Sachs to Lead IPO: Axios",
-    "link": "https://www.coindesk.com/markets/2025/10/29/consensys-plans-public-debut-taps-jpmorgan-and-goldman-sachs-to-lead-ipo-axios",
-    "pubDate": "Wed, 29 Oct 2025 21:09:40 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The MetaMask maker’s public debut could be the biggest Ethereum-native listing yet, amid a wave of crypto firms hitting U.S. markets."
-  },
-  {
     "title": "Mastercard to acquire crypto infrastructure startup Zerohash in deal worth up to $2 billion: Fortune",
     "link": "https://www.theblock.co/post/376840/mastercard-acquire-crypto-infrastructure-startup-zerohash-deal-worth-2-billion-fortune?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 29 Oct 2025 17:00:53 -0400",
     "source": "The Block",
     "contentSnippet": "The deal would extend Mastercard’s crypto reach from payments into the core infrastructure powering stablecoins and tokenization."
-  },
-  {
-    "title": "Mastercard Eyes Zero Hash Acquisition for Nearly $2B Bet on Stablecoins: Report",
-    "link": "https://www.coindesk.com/business/2025/10/29/mastercard-eyes-zero-hash-acquisition-for-nearly-usd2b-bet-on-stablecoins-report",
-    "pubDate": "Wed, 29 Oct 2025 20:50:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The global payments firm previously held talks to acquire crypto payment infrastructure startup BNVK, according to reports."
-  },
-  {
-    "title": "What Bitcoin Chart Says About BTC Price After Powell Casts Doubt on December Cut?",
-    "link": "https://www.coindesk.com/markets/2025/10/29/E",
-    "pubDate": "Wed, 29 Oct 2025 19:49:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC is down but not out following Powell's hakwish commentary on rates."
-  },
-  {
-    "title": "Bitcoin Tumbles Back to $110K on Fed's Powell's Hawkish Comments",
-    "link": "https://www.coindesk.com/markets/2025/10/29/bitcoin-tumbles-back-to-usd110k-under-fed-s-powell-s-hawkish-comments",
-    "pubDate": "Wed, 29 Oct 2025 18:49:34 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Though acknowledging growing weakness in the labor market, Powell said a December rate cut is not a \"foregone conclusion.\""
-  },
-  {
-    "title": "Fed cuts rates by quarter point as shutdown data blackout clouds outlook",
-    "link": "https://www.theblock.co/post/376825/fed-cuts-rates-by-quarter-point-as-shutdown-data-blackout-clouds-outlook?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 14:25:28 -0400",
-    "source": "The Block",
-    "contentSnippet": "Lower interest rates typically make traditional investments less attractive, and investors seek higher returns through assets like crypto."
-  },
-  {
-    "title": "Fed Delivers Expected 25 Basis Point Rate Cut as Markets Await Powell’s Comments",
-    "link": "https://www.coindesk.com/markets/2025/10/29/fed-delivers-expected-25-basis-point-rate-cut-as-markets-await-powell-s-comments",
-    "pubDate": "Wed, 29 Oct 2025 18:03:20 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Headed lower on Wednesday ahead of the decision, bitcoin remained so in the minutes following the news at $111,700, down 3% over the past 24 hours."
-  },
-  {
-    "title": "The Daily: Visa adding support for four stablecoins, Bitwise spot Solana ETF sees $69.5 million inflows on debut, and more",
-    "link": "https://www.theblock.co/post/376820/the-daily-visa-adding-support-four-stablecoins-bitwise-spot-solana-etf-69-5-million-inflows-debut-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 13:52:55 -0400",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Stellar Edges 1.5% Higher Breaking $0.32 Amid Institutional Accumulation",
-    "link": "https://www.coindesk.com/markets/2025/10/29/stellar-edges-1-5-higher-breaking-usd0-32-amid-institutional-accumulation",
-    "pubDate": "Wed, 29 Oct 2025 17:10:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XLM demonstrates resilience with modest gains and exceptional volume surge, signaling potential momentum building beneath current consolidation patterns."
-  },
-  {
-    "title": "Solana Company adds $20 million in SOL, touts 7% yield as institutional staking funds hit the market",
-    "link": "https://www.theblock.co/post/376768/solana-company-adds-20-million-sol-touts-7-yield-institutional-staking-funds-market?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 12:28:09 -0400",
-    "source": "The Block",
-    "contentSnippet": "Public firms now hold about 16 million SOL, with corporate treasuries continuing to expand across the ecosystem."
-  },
-  {
-    "title": "Former FTX US president Brett Harrison’s Architect launches regulated exchange to bring crypto-style perpetual futures to traditional assets",
-    "link": "https://www.theblock.co/post/376771/former-ftx-us-president-brett-harrison-architect-launches-regulated-exchange-to-bring-crypto-style-perpetual-futures-to-traditional-assets?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 29 Oct 2025 12:25:06 -0400",
-    "source": "The Block",
-    "contentSnippet": "Architect is backed by investors including Coinbase Ventures, Circle Ventures, and Anthony Scaramucci's SALT Fund."
   }
 ]
