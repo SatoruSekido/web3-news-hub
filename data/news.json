@@ -1,5 +1,75 @@
 [
   {
+    "title": "Bitcoin: The Dawn of a New Monetary Era",
+    "link": "https://www.coindesk.com/opinion/2025/10/31/bitcoin-the-dawn-of-a-new-monetary-era",
+    "pubDate": "Sat, 01 Nov 2025 18:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Seventeen years after Satoshi Nakamoto introduced Bitcoin to the world, it has grown from a cryptographic experiment into a global movement, argues Tony Yazbeck, co-founder of The Bitcoin Way."
+  },
+  {
+    "title": "Crypto Leverage Trading a 'Major Problem', Says Former FTX US President",
+    "link": "https://decrypt.co/347047/crypto-leverage-trading-major-problem-former-ftx-us-president",
+    "pubDate": "Sat, 01 Nov 2025 17:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The former FTX US exec is launching a perpetual futures exchange for traditional assets, and wants to avoid the risks present in crypto."
+  },
+  {
+    "title": "CEO of collapsed Thodex exchange found dead in Turkish prison while serving 11,196-year sentence: report",
+    "link": "https://www.theblock.co/post/377170/ceo-of-collapsed-thodex-exchange-found-dead-in-turkish-prison-while-serving-11196-year-sentence-report?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 01 Nov 2025 12:46:47 -0400",
+    "source": "The Block",
+    "contentSnippet": "The collapse of Thodex left 400,000 users with losses of up to $2.5 billion, according to estimates from the time, one of crypto's largest rug pulls."
+  },
+  {
+    "title": "Bitcoin’s ‘Red October’: What Happened to the Widely Anticipated Uptober Crypto Rally?",
+    "link": "https://www.coindesk.com/markets/2025/11/01/bitcoin-s-red-october-what-happened-to-the-widely-anticipated-uptober-crypto-rally",
+    "pubDate": "Sat, 01 Nov 2025 16:24:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A mid-October sell-off knocked majors off early highs and left bitcoin down for the month while BNB and a few altcoins finished higher."
+  },
+  {
+    "title": "Latin American Crypto Exchange Ripio Launches Argentine Peso Stablecoin 'wARS'",
+    "link": "https://www.coindesk.com/markets/2025/11/01/latin-american-crypto-exchange-ripio-launches-argentine-peso-stablecoin-wars",
+    "pubDate": "Sat, 01 Nov 2025 16:17:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The launch follows Ripio's previous release of a tokenized sovereign bond and is part of a broader push to bring real-world assets onto blockchain rails."
+  },
+  {
+    "title": "State of Crypto: The Government Shutdown Nears a Record",
+    "link": "https://www.coindesk.com/policy/2025/11/01/state-of-crypto-the-government-shutdown-nears-a-record",
+    "pubDate": "Sat, 01 Nov 2025 16:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The ongoing U.S. government shutdown may become the longest in history, with reverberating effects on crypto legislation."
+  },
+  {
+    "title": "ARK Invest’s Crypto Exposure Tops $2.15B as Bullish Holdings Rise Across 3 Funds",
+    "link": "https://www.coindesk.com/business/2025/11/01/ark-invest-s-crypto-exposure-tops-usd2-15b-as-bullish-holdings-rise-across-3-funds",
+    "pubDate": "Sat, 01 Nov 2025 14:58:40 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "ARK Invest increased its stake in Bullish by 105,000 shares, worth $5.3 million, to 2.27 million shares valued at $114 million. Its crypto exposure now tops $2.15 billion."
+  },
+  {
+    "title": "Red Uptober: Why Bitcoin Just Had Its Worst October in Years",
+    "link": "https://decrypt.co/347060/red-uptober-why-bitcoin-worst-october-years",
+    "pubDate": "Sat, 01 Nov 2025 14:49:35 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts spoke to Decrypt about why October—dubbed \"Uptober\" for its historically strong returns—ended up being a downer for Bitcoin."
+  },
+  {
+    "title": "Satoshi's Bitcoin Whitepaper Turns 17: From Cypherpunk Rebellion to Wall Street Staple",
+    "link": "https://www.coindesk.com/markets/2025/11/01/satoshi-s-bitcoin-whitepaper-turns-17-from-cypherpunk-rebellion-to-wall-street-staple",
+    "pubDate": "Sat, 01 Nov 2025 14:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Once envisioned as peer-to-peer cash, Bitcoin’s journey reflects both mainstream triumph and existential tension."
+  },
+  {
+    "title": "MiCA Won’t Save Us from a Stablecoin Crisis. It Might be Building One",
+    "link": "https://www.coindesk.com/opinion/2025/10/31/mica-won-t-save-us-from-a-stablecoin-crisis-it-might-be-building-one",
+    "pubDate": "Sat, 01 Nov 2025 13:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "MiCA deserves credit for imposing order on chaos, but its structure rests on a dangerous assumption: that proof-of-reserves equals proof-of-stability, argues Dr. Daniel D’Alvia. It does not."
+  },
+  {
     "title": "Tesla CEO Elon Musk Says X Chat's New P2P Encryption System Is Similar to Bitcoin's",
     "link": "https://www.coindesk.com/tech/2025/11/01/tesla-ceo-elon-musk-says-x-chat-s-new-p2p-encryption-system-is-similar-to-bitcoin-s",
     "pubDate": "Sat, 01 Nov 2025 12:01:41 +0000",
@@ -84,25 +154,11 @@
     "contentSnippet": "California's Department of Financial Protection and Innovation fined Bitcoin ATM operator Coinhub $675,000 for violating digital assets law."
   },
   {
-    "title": "Chainlink's LINK Bounces 3.6% From Lows; Stellar Integration Expands RWA Reach",
-    "link": "https://www.coindesk.com/markets/2025/10/31/chainlink-s-link-bounces-3-6-from-lows-stellar-integration-expands-rwa-reach",
-    "pubDate": "Fri, 31 Oct 2025 18:39:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Stellar is integrating Chainlink’s CCIP, Data Feeds, and Streams to enable tokenized asset flow across chains."
-  },
-  {
     "title": "Tether Reports $10 Billion Profit in 2025 So Far—Here's How That Compares to the Big Banks",
     "link": "https://decrypt.co/347009/tether-reports-10-billion-profit-2025-so-far-compares-big-banks",
     "pubDate": "Fri, 31 Oct 2025 18:26:46 +0000",
     "source": "Decrypt",
     "contentSnippet": "Stablecoin giant Tether is making billions on its US Treasury reserves, putting it in league with some of Wall Street’s top earners."
-  },
-  {
-    "title": "Crypto Bank Custodia Suffers Another Court Rejection in Fed Master Account Pursuit",
-    "link": "https://www.coindesk.com/policy/2025/10/31/crypto-bank-custodia-suffers-another-court-rejection-in-fed-master-account-pursuit",
-    "pubDate": "Fri, 31 Oct 2025 18:17:09 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The 10th Circuit Court of Appeals ruled against Custodia nine months after hearing arguments in the company's effort to secure a Federal Reserve master account."
   },
   {
     "title": "Steak 'n Shake Bitcoin Burger Comes With Actual BTC as Firm Creates 'Strategic Reserve'",
@@ -119,20 +175,6 @@
     "contentSnippet": "Former Binance CEO Changpeng Zhao is pushing back against statements made by Sen. Warren following his pardon by President Trump."
   },
   {
-    "title": "The Bitcoin White Paper Offered a Blueprint for a More Reliable Financial System",
-    "link": "https://www.coindesk.com/opinion/2025/10/31/the-bitcoin-white-paper-offered-a-blueprint-for-a-more-reliable-financial-system",
-    "pubDate": "Fri, 31 Oct 2025 18:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Satoshi Nakamoto’s Bitcoin white paper did not describe the end of Bitcoin’s development but the beginning, argues Voltage’s Bobby Shell."
-  },
-  {
-    "title": "Brazilian Bitcoin Treasury OranjeBTC Buys Back Stock Instead of BTC",
-    "link": "https://decrypt.co/347005/brazilian-bitcoin-treasury-oranjebtc-buys-stock-btc",
-    "pubDate": "Fri, 31 Oct 2025 17:54:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The publicly traded company started trading on Brazil's stock market B3 earlier this month."
-  },
-  {
     "title": "Canaan’s Japan deal marks first state-linked bitcoin mining project in the country",
     "link": "https://www.theblock.co/post/377130/canaans-japan-deal-marks-first-state-linked-bitcoin-mining-project-in-the-country?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 31 Oct 2025 13:53:47 -0400",
@@ -140,46 +182,11 @@
     "contentSnippet": "The Canaan deal follows TEPCO’s 2024 bitcoin-mining experiments using surplus renewable energy and grid efficiency."
   },
   {
-    "title": "REX IncomeMax ETF Taps Volatile Crypto Firms to Turn Price Swings Into Weekly Income",
-    "link": "https://decrypt.co/347007/rex-etf-taps-volatile-crypto-firms-price-swings-weekly-income",
-    "pubDate": "Fri, 31 Oct 2025 17:46:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company is behind several crypto-focused ETFs."
-  },
-  {
-    "title": "'Do Not Fear Ghosts of Fiat,' Says Bitcoin Policy Institute, as Bears Lurk at Resistance",
-    "link": "https://www.coindesk.com/markets/2025/10/31/do-not-fear-ghosts-of-fiat-says-bitcoin-policy-institute-as-bears-lurk-at-resistance",
-    "pubDate": "Fri, 31 Oct 2025 17:27:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A fast rebound met heavier trading, but rallies stalled near resistance as advocates shared Halloween-themed comments on X."
-  },
-  {
-    "title": "ICP Rebounds Above $2.92 to Reverse Some Mid-Week Losses",
-    "link": "https://www.coindesk.com/markets/2025/10/31/icp-rebounds-above-usd2-92-to-reverse-some-mid-week-losses",
-    "pubDate": "Fri, 31 Oct 2025 17:04:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ICP bounces 1.04% to $2.94, reversing part of its recent decline as traders return and buying activity strengthens above key support."
-  },
-  {
-    "title": "BONK Regains Some Ground With 4.6% Gain",
-    "link": "https://www.coindesk.com/markets/2025/10/31/bonk-regains-some-ground-with-4-6-gain",
-    "pubDate": "Fri, 31 Oct 2025 16:47:38 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BONK climbs above $0.00001380 resistance with 67% volume surge as meme token rallies toward new short-term highs."
-  },
-  {
     "title": "Appeals court upholds ruling that Custodia is not entitled to a Fed master account",
     "link": "https://www.theblock.co/post/377137/appeals-court-upholds-ruling-custodia-fed-master-account?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 31 Oct 2025 12:42:51 -0400",
     "source": "The Block",
     "contentSnippet": "An appeals court has ruled on Friday that digital asset bank Custodia is not entitled to a Federal Reserve master account."
-  },
-  {
-    "title": "Bitcoin Cash Breaks Above $550 as Volume Surges; Range Tightens Near Support",
-    "link": "https://www.coindesk.com/markets/2025/10/31/bitcoin-cash-breaks-above-usd550-as-volume-surges-range-tightens-near-support",
-    "pubDate": "Fri, 31 Oct 2025 16:24:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A breakout above $550 followed a 1 a.m. UTC volume spike, then price cooled into a $553 to $556 band as traders watched whether $553.50 would hold."
   },
   {
     "title": "Tether’s annual profits top $10 billion as Treasury holdings swell",
@@ -201,12 +208,5 @@
     "pubDate": "Fri, 31 Oct 2025 09:14:15 -0400",
     "source": "The Block",
     "contentSnippet": "Ether.fi has proposed a $50 million ETHFI buyback program, joining Aave and OpenSea as token buybacks surpass $1.4 billion in 2025."
-  },
-  {
-    "title": "Fold partners with Steak ’n Shake for new Bitcoin Burger rewards program",
-    "link": "https://www.theblock.co/post/377071/fold-bitcoin-burger-rewards?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 08:31:10 -0400",
-    "source": "The Block",
-    "contentSnippet": "Fold, which trades under the ticker FLD, allows users to earn bitcoin cashback on everyday purchases at select retailers."
   }
 ]
