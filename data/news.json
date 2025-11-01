@@ -1,5 +1,96 @@
 [
   {
+    "title": "Elon Musk Tells Joe Rogan the Next Tesla Roadster Will Fly—And AI Is Coming for Everyone",
+    "link": "https://decrypt.co/347050/elon-musk-joe-rogan-next-tesla-roadster-fly-ai-coming-everyone",
+    "pubDate": "Fri, 31 Oct 2025 21:54:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Elon Musk covered AI bias, superintelligence, government waste, social media, and flying cars in marathon Joe Rogan interview."
+  },
+  {
+    "title": "'We Fucked Up': MEXC Exec Promises Changes After Blowup Over Frozen Crypto Millions",
+    "link": "https://decrypt.co/347043/mexc-exec-promises-changes-after-blowup-frozen-crypto-millions",
+    "pubDate": "Fri, 31 Oct 2025 21:34:50 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto exchange MEXC says it's changing processes after an influencer's crusade to unlock his $3 million account."
+  },
+  {
+    "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call",
+    "link": "https://decrypt.co/347026/coinbase-ceo-garners-praise-pushback-prediction-market-shoutouts",
+    "pubDate": "Fri, 31 Oct 2025 20:50:19 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Brian Armstrong used Coinbase's Q3 earnings call to drop a few terms that prediction market users had bet on. The remarks got mixed reviews."
+  },
+  {
+    "title": "The Daily: Standard Chartered sees major RWA growth on Ethereum, CZ challenges Sen. Warren, and more",
+    "link": "https://www.theblock.co/post/377163/the-daily-standard-chartered-rwa-ethereum-changpeng-zhao-sen-warren-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 31 Oct 2025 16:38:21 -0400",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "Analysts remain bullish on Strategy despite slower bitcoin accumulation, eye 2026 reacceleration",
+    "link": "https://www.theblock.co/post/377157/analysts-bullish-strategy-despite-slower-bitcoin-accumulation-2026-reacceleration?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 31 Oct 2025 16:03:19 -0400",
+    "source": "The Block",
+    "contentSnippet": "Strategy’s new credit rating & preferred-stock structure could open larger institutional channels, strengthening its BTC buying capacity."
+  },
+  {
+    "title": "Court Denies Crypto Bank Custodia's Bid to Pry Master Account From Unwilling Fed",
+    "link": "https://decrypt.co/347022/court-denies-crypto-bank-custodia-bid-pry-master-account-fed",
+    "pubDate": "Fri, 31 Oct 2025 19:36:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Custodia said it may request a rehearing on the matter, after a panel of judges ruled 2-1 to affirm a district court’s prior ruling denying the crypto bank Fed access."
+  },
+  {
+    "title": "European Central Bank to 'Accelerate' CBDC Plans, Eyeing 2029 Digital Euro Rollout",
+    "link": "https://decrypt.co/347019/european-central-bank-accelerate-cbdc-plans-eyeing-2029-digital-euro-rollout",
+    "pubDate": "Fri, 31 Oct 2025 19:21:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Europe could see the digital euro issued continent-wide as early as 2029, after a potential CBDC pilot in mid-2027."
+  },
+  {
+    "title": "Analyst Says Ethereum Is the Best Ecosystem and Ether Is Poised to Top $5,000",
+    "link": "https://www.coindesk.com/markets/2025/10/31/analyst-says-ethereum-is-the-best-ecosystem-and-ether-is-poised-to-top-usd5-000",
+    "pubDate": "Fri, 31 Oct 2025 19:00:04 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Ether rose on heavier trading, then slipped after an upper-band rejection, leaving a tighter range and a clear set of checkpoints above and below."
+  },
+  {
+    "title": "Stablecoin issuers dominate crypto revenue, capturing up to 75% of daily protocol earnings",
+    "link": "https://www.theblock.co/post/376316/stablecoin-issuers-dominate-crypto-revenue-capturing-75-daily-protocol-earnings?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 31 Oct 2025 14:46:02 -0400",
+    "source": "The Block",
+    "contentSnippet": "Increased competition within the stablecoin sector is pushing some players to explore alternative approaches to value sharing."
+  },
+  {
+    "title": "California Regulator Fines Bitcoin ATM Operator Coinhub $675K for Violating Law",
+    "link": "https://decrypt.co/347010/california-regulator-fines-bitcoin-atm-operator-coinhub-765k",
+    "pubDate": "Fri, 31 Oct 2025 18:43:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "California's Department of Financial Protection and Innovation fined Bitcoin ATM operator Coinhub $675,000 for violating digital assets law."
+  },
+  {
+    "title": "Chainlink's LINK Bounces 3.6% From Lows; Stellar Integration Expands RWA Reach",
+    "link": "https://www.coindesk.com/markets/2025/10/31/chainlink-s-link-bounces-3-6-from-lows-stellar-integration-expands-rwa-reach",
+    "pubDate": "Fri, 31 Oct 2025 18:39:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Stellar is integrating Chainlink’s CCIP, Data Feeds, and Streams to enable tokenized asset flow across chains."
+  },
+  {
+    "title": "Tether Reports $10 Billion Profit in 2025 So Far—Here's How That Compares to the Big Banks",
+    "link": "https://decrypt.co/347009/tether-reports-10-billion-profit-2025-so-far-compares-big-banks",
+    "pubDate": "Fri, 31 Oct 2025 18:26:46 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoin giant Tether is making billions on its US Treasury reserves, putting it in league with some of Wall Street’s top earners."
+  },
+  {
+    "title": "Crypto Bank Custodia Suffers Another Court Rejection in Fed Master Account Pursuit",
+    "link": "https://www.coindesk.com/policy/2025/10/31/crypto-bank-custodia-suffers-another-court-rejection-in-fed-master-account-pursuit",
+    "pubDate": "Fri, 31 Oct 2025 18:17:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The 10th Circuit Court of Appeals ruled against Custodia nine months after hearing arguments in the company's effort to secure a Federal Reserve master account."
+  },
+  {
     "title": "Steak 'n Shake Bitcoin Burger Comes With Actual BTC as Firm Creates 'Strategic Reserve'",
     "link": "https://decrypt.co/346987/steak-shake-bitcoin-burger-comes-actual-btc-thanks-fold",
     "pubDate": "Fri, 31 Oct 2025 18:15:07 +0000",
@@ -98,46 +189,11 @@
     "contentSnippet": "FIL has support at the $1.48 level and resistance at $1.52."
   },
   {
-    "title": "Claims that Binance helped with Trump Launch for CZ Pardon! Coinbase $1.9B in revenue! ",
-    "link": "https://decrypt.co/videos/interviews/NSatW9jv/claims-that-binance-helped-with-trump-launch-for-cz-pardon-coinbase-19b-in-revenue",
-    "pubDate": "Fri, 31 Oct 2025 15:30:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are down 1-3% after a major post-fomc dip yesterday; btc -3% at $110,100, eth -3% at $3,900, bnb +1% at $1,120, sol -2% at $192. Zec (+2%) and aero (+2%) led top movers. 870m+ was liquid"
-  },
-  {
-    "title": "Wall Street Divided on Coinbase’s Path Forward After Q3 Earnings Beat",
-    "link": "https://www.coindesk.com/markets/2025/10/31/wall-street-divided-on-coinbase-s-path-forward-after-q3-earnings-beat",
-    "pubDate": "Fri, 31 Oct 2025 15:14:15 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Transaction revenue hit $1.05 billion, but price targets range from $266 to $510 as Wall Street debates whether growth can outpace rising costs."
-  },
-  {
     "title": "Wall Street analysts stay bullish on Coinbase after strong Q3, point to derivatives and stablecoins as next growth drivers",
     "link": "https://www.theblock.co/post/377111/wall-street-bullish-coinbase-strong-q3-derivatives-stablecoins-growth-drivers?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 31 Oct 2025 10:50:38 -0400",
     "source": "The Block",
     "contentSnippet": "Analysts highlighted Coinbase’s diversification beyond trading, citing momentum in derivatives, stablecoin revenue, and its Base network."
-  },
-  {
-    "title": "Core Scientific Upgraded to Outperform Following Failed CoreWeave Merger: Macquarie",
-    "link": "https://www.coindesk.com/markets/2025/10/31/core-scientific-upgraded-to-outperform-following-failed-coreweave-merger-macquarie",
-    "pubDate": "Fri, 31 Oct 2025 14:32:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The bitcoin miner turned AI infrastructure play has more than 50% upside, said the bank."
-  },
-  {
-    "title": "Brazil’s OranjeBTC Joins Wave of Struggling Crypto Treasury Firms Turning to Buybacks",
-    "link": "https://www.coindesk.com/business/2025/10/31/brazil-s-oranjebtc-joins-wave-of-struggling-crypto-treasury-firms-turning-to-buybacks",
-    "pubDate": "Fri, 31 Oct 2025 13:50:54 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The move is part of a growing trend among DAT companies, including ETHZilla, Metaplanet, Sequans, and Empery Digital."
-  },
-  {
-    "title": "BlackRock's IBIT Sheds $291M in a Day, as Bitcoin ETFs Pull Back",
-    "link": "https://decrypt.co/346963/blackrocks-ibit-sheds-291m-in-a-day-as-bitcoin-etfs-pull-back",
-    "pubDate": "Fri, 31 Oct 2025 13:39:24 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "BlackRock's Bitcoin ETF posted its largest outflow since August, but the longer-term picture for institutional demand remains intact."
   },
   {
     "title": "Ether.fi DAO proposes $50 million ETHFI buyback as DeFi’s repurchase wave tops $1.4 billion",
@@ -152,61 +208,5 @@
     "pubDate": "Fri, 31 Oct 2025 08:31:10 -0400",
     "source": "The Block",
     "contentSnippet": "Fold, which trades under the ticker FLD, allows users to earn bitcoin cashback on everyday purchases at select retailers."
-  },
-  {
-    "title": "Morning Minute: Coinbase Smashes Q3 Earnings Despite Sideways Crypto Market",
-    "link": "https://decrypt.co/346959/morning-minute-coinbase-smashes-q3-earnings-despite-sideways-crypto-market",
-    "pubDate": "Fri, 31 Oct 2025 12:14:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The crypto exchange is targeting big continued growth despite lingering questions about the near-term state of the market."
-  },
-  {
-    "title": "Panic and Greed Are Shaping Ethereum’s Price: What’s Next?",
-    "link": "https://decrypt.co/346956/panic-and-greed-are-shaping-ethereums-price-whats-next",
-    "pubDate": "Fri, 31 Oct 2025 11:28:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum is stuck in a volatile cycle driven by leverage, and a breakout will require a bid from spot investors, analysts told Decrypt."
-  },
-  {
-    "title": "Meta Moves to Dismiss Porn-Piracy Suit, Calls AI-Training Claims 'Nonsensical'",
-    "link": "https://decrypt.co/346953/meta-moves-to-dismiss-porn-piracy-suit-calls-ai-training-claims-nonsensical",
-    "pubDate": "Fri, 31 Oct 2025 10:57:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The alleged porn downloads were for personal use, not AI training, Meta claimed in a motion asking to toss the suit."
-  },
-  {
-    "title": "Bitcoin rebounds near $110,000 as US–China accord counters ETF outflows, hawkish Fed: analysts",
-    "link": "https://www.theblock.co/post/377100/bitcoin-rebounds-near-110000?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 06:10:37 -0400",
-    "source": "The Block",
-    "contentSnippet": "Bitcoin has revisited $110,000 after the Fed’s hawkish cut and a U.S.–China tariff thaw lifted sentiment, even as spot ETFs saw sharp outflows."
-  },
-  {
-    "title": "Connecticut Senator Says Binance 'Greased the Wheels' for Trump's Crypto Deals",
-    "link": "https://decrypt.co/346944/connecticut-senator-says-binance-greased-the-wheels-for-trumps-crypto-deals",
-    "pubDate": "Fri, 31 Oct 2025 10:07:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Senator Chris Murphy’s allegations add to mounting Democratic criticism of Trump's ties to the crypto industry."
-  },
-  {
-    "title": "New York judge grants relief to Multichain liquidators, extending freeze on stolen USDC",
-    "link": "https://www.theblock.co/post/377094/multichain-extends-freeze-stolen-usdc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 05:33:59 -0400",
-    "source": "The Block",
-    "contentSnippet": "The Singapore liquidators are seeking to recover assets stolen from Multichain, including $63 million worth of USDC."
-  },
-  {
-    "title": "SBF says FTX was solvent, blames bankruptcy team for ‘decimating’ firm",
-    "link": "https://www.theblock.co/post/377088/sbf-says-ftx-was-solvent?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 03:37:20 -0400",
-    "source": "The Block",
-    "contentSnippet": "Bankman-Fried and his family have claimed that the FTX co-founder was wrongfully convicted, and are seeking clemency from President Trump."
-  },
-  {
-    "title": "Bitcoin Braces for Fed Balance-Sheet Shift as Liquidity Cycle Turns",
-    "link": "https://decrypt.co/346924/bitcoin-braces-fed-balance-sheet-shift-liquidity-cycle-turns",
-    "pubDate": "Fri, 31 Oct 2025 05:07:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts say the Fed's pivot from quantitative tightening could propel Bitcoin to $200,000, citing key differences from 2019."
   }
 ]
