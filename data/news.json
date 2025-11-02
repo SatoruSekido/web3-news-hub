@@ -1,10 +1,17 @@
 [
   {
-    "title": "Is November the New October? Analyst Says It’s Bitcoin’s Strongest Month — Here’s the Data",
+    "title": "Is November the New October? Here’s What Bitcoin Price Data Actually Shows",
     "link": "https://www.coindesk.com/markets/2025/11/01/is-november-the-new-october-analyst-says-it-s-bitcoin-s-strongest-month-here-s-the-data",
     "pubDate": "Sat, 01 Nov 2025 21:36:09 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Lark Davis called November bitcoin’s strongest month with a 42.5% average gain; the median is far lower and a single outlier year does much of the lifting."
+    "contentSnippet": "Lark Davis called November bitcoin’s strongest month with a 42.5% average, but CoinGlass shows a median near 8.8% and a 2013 outlier that inflates the mean."
+  },
+  {
+    "title": "Zcash creator ECC unveils Q4 2025 roadmap as privacy token’s price and shielded supply surge",
+    "link": "https://www.theblock.co/post/377176/zcash-creator-ecc-unveils-q4-2025-roadmap-as-privacy-tokens-price-and-shielded-supply-surge?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 01 Nov 2025 17:34:41 -0400",
+    "source": "The Block",
+    "contentSnippet": "The roadmap calls for more temporary address creations to preserve privacy, as well as quality-of-life fixes for Keystone hardware wallet users."
   },
   {
     "title": "Criminal Crypto Use Is Becoming 'Increasingly Sophisticated', Says Europol",
@@ -201,12 +208,5 @@
     "pubDate": "Fri, 31 Oct 2025 11:50:55 -0400",
     "source": "The Block",
     "contentSnippet": "The company also holds nearly $13 billion in precious metals and $10 billion in Bitcoin as exposure to US Treasuries hit $135 billion."
-  },
-  {
-    "title": "Wall Street analysts stay bullish on Coinbase after strong Q3, point to derivatives and stablecoins as next growth drivers",
-    "link": "https://www.theblock.co/post/377111/wall-street-bullish-coinbase-strong-q3-derivatives-stablecoins-growth-drivers?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 10:50:38 -0400",
-    "source": "The Block",
-    "contentSnippet": "Analysts highlighted Coinbase’s diversification beyond trading, citing momentum in derivatives, stablecoin revenue, and its Base network."
   }
 ]
