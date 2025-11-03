@@ -1,5 +1,40 @@
 [
   {
+    "title": "Elizabeth Warren rebuffs defamation allegations from Changpeng Zhao through lawyer: report",
+    "link": "https://www.theblock.co/post/377184/elizabeth-warren-rebuffs-defamation-allegations-from-changpeng-zhao-through-lawyer-report?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 02 Nov 2025 16:40:05 -0500",
+    "source": "The Block",
+    "contentSnippet": "Warren's lawyer asserts that the Senator's statement that CZ pleaded guilty to a criminal money laundering charge was factual, and thus not defamation."
+  },
+  {
+    "title": "The Biggest Games Releasing in November 2025",
+    "link": "https://decrypt.co/347123/biggest-games-releasing-november-2025",
+    "pubDate": "Sun, 02 Nov 2025 21:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "It's a big month for gaming, thanks to the impending release of Call of Duty: Black Ops 7, Kirby Air Riders, and a new Zelda game on Switch 2."
+  },
+  {
+    "title": "European Commission eyes SEC-style single supervisor over crypto, stock exchanges: FT",
+    "link": "https://www.theblock.co/post/377181/european-commission-eyes-sec-style-single-supervisor-over-crypto-stock-exchanges-ft?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 02 Nov 2025 15:21:55 -0500",
+    "source": "The Block",
+    "contentSnippet": "The Commission is planning a proposal for December that would centralize supervision of crypto firms under a single regulatory agency in Europe."
+  },
+  {
+    "title": "The Complete Idiot's Guide to MCP: Giving Your AI Web Superpowers",
+    "link": "https://decrypt.co/346185/complete-idiots-guide-mcp-giving-your-ai-web-superpowers",
+    "pubDate": "Sun, 02 Nov 2025 20:01:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Tired of feeding data to OpenAI, Google, or Anthropic? A few open-source tools and the Model Context Protocol let you give any lightweight model real-time browsing powers."
+  },
+  {
+    "title": "What Is Tempo? The Payments and Stablecoin Blockchain Built by Stripe",
+    "link": "https://decrypt.co/resources/what-tempo-payments-stablecoin-blockchain-stripe",
+    "pubDate": "Sun, 02 Nov 2025 19:01:39 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Payments giant Stripe is helping build Tempo, a layer-1 blockchain focused on payments and stablecoins. Here's what you need to know."
+  },
+  {
     "title": "Quantum Threat to Bitcoin: How Panic Could Break Crypto Before Physics Does",
     "link": "https://decrypt.co/346256/quantum-threat-bitcoin-how-panic-could-break-crypto-before-physics-does",
     "pubDate": "Sun, 02 Nov 2025 16:01:43 +0000",
@@ -140,20 +175,6 @@
     "contentSnippet": "Elon Musk covered AI bias, superintelligence, government waste, social media, and flying cars in marathon Joe Rogan interview."
   },
   {
-    "title": "'We Fucked Up': MEXC Exec Promises Changes After Blowup Over Frozen Crypto Millions",
-    "link": "https://decrypt.co/347043/mexc-exec-promises-changes-after-blowup-frozen-crypto-millions",
-    "pubDate": "Fri, 31 Oct 2025 21:34:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto exchange MEXC says it's changing processes after an influencer's crusade to unlock his $3 million account."
-  },
-  {
-    "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call",
-    "link": "https://decrypt.co/347026/coinbase-ceo-garners-praise-pushback-prediction-market-shoutouts",
-    "pubDate": "Fri, 31 Oct 2025 20:50:19 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Brian Armstrong used Coinbase's Q3 earnings call to drop a few terms that prediction market users had bet on. The remarks got mixed reviews."
-  },
-  {
     "title": "The Daily: Standard Chartered sees major RWA growth on Ethereum, CZ challenges Sen. Warren, and more",
     "link": "https://www.theblock.co/post/377163/the-daily-standard-chartered-rwa-ethereum-changpeng-zhao-sen-warren-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 31 Oct 2025 16:38:21 -0400",
@@ -166,13 +187,6 @@
     "pubDate": "Fri, 31 Oct 2025 16:03:19 -0400",
     "source": "The Block",
     "contentSnippet": "Strategy’s new credit rating & preferred-stock structure could open larger institutional channels, strengthening its BTC buying capacity."
-  },
-  {
-    "title": "Court Denies Crypto Bank Custodia's Bid to Pry Master Account From Unwilling Fed",
-    "link": "https://decrypt.co/347022/court-denies-crypto-bank-custodia-bid-pry-master-account-fed",
-    "pubDate": "Fri, 31 Oct 2025 19:36:41 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Custodia said it may request a rehearing on the matter, after a panel of judges ruled 2-1 to affirm a district court’s prior ruling denying the crypto bank Fed access."
   },
   {
     "title": "Stablecoin issuers dominate crypto revenue, capturing up to 75% of daily protocol earnings",
@@ -194,19 +208,5 @@
     "pubDate": "Fri, 31 Oct 2025 13:53:47 -0400",
     "source": "The Block",
     "contentSnippet": "The Canaan deal follows TEPCO’s 2024 bitcoin-mining experiments using surplus renewable energy and grid efficiency."
-  },
-  {
-    "title": "Appeals court upholds ruling that Custodia is not entitled to a Fed master account",
-    "link": "https://www.theblock.co/post/377137/appeals-court-upholds-ruling-custodia-fed-master-account?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 12:42:51 -0400",
-    "source": "The Block",
-    "contentSnippet": "An appeals court has ruled on Friday that digital asset bank Custodia is not entitled to a Federal Reserve master account."
-  },
-  {
-    "title": "Tether’s annual profits top $10 billion as Treasury holdings swell",
-    "link": "https://www.theblock.co/post/377120/tethers-annual-profits-top-10-billion-as-treasury-holdings-swell?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 11:50:55 -0400",
-    "source": "The Block",
-    "contentSnippet": "The company also holds nearly $13 billion in precious metals and $10 billion in Bitcoin as exposure to US Treasuries hit $135 billion."
   }
 ]
