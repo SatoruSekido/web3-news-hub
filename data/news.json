@@ -1,101 +1,199 @@
 [
   {
-    "title": "Bitcoin Drop May Be Warning for Stocks: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/11/03/bitcoin-drop-may-be-warning-for-stocks-crypto-daybook-americas",
-    "pubDate": "Mon, 03 Nov 2025 12:15:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Nov. 3, 2025"
-  },
-  {
-    "title": "IREN Soars 30% After Inking $9.7B AI Cloud Deal With Tech Giant MicroSoft",
-    "link": "https://www.coindesk.com/markets/2025/11/03/microsoft-signs-usd9-7b-ai-cloud-deal-with-bitcoin-mining-stalwart-iren-zooms",
-    "pubDate": "Mon, 03 Nov 2025 11:31:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The deal is indicative of how miners’ once-volatile hardware fleets are increasingly viewed as strategic compute assets, bridging the gap between blockchain and AI."
-  },
-  {
-    "title": "Bitcoin slides below $108,000 as traders remain cautious, whales take profit, and ETFs experience outflows: analysts",
-    "link": "https://www.theblock.co/post/377242/bitcoin-slides-below-108000-as-traders-remain-cautious-whales-take-profit-and-etfs-experience-outflows-analysts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 06:26:16 -0500",
+    "title": "Custodia ruling a ‘speed bump’ not a roadblock for crypto banks, says TD Cowen",
+    "link": "https://www.theblock.co/post/377336/custodia-ruling-speed-bump-not-roadblock-crypto-banks-td-cowen?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 13:05:55 -0500",
     "source": "The Block",
-    "contentSnippet": "Bitcoin has slipped under $108,000 as whales take profits and ETFs see outflows."
+    "contentSnippet": "A ruling last week declaring that Custodia is not entitled to a master account is not the end of the road, said a TD Cowen analyst."
   },
   {
-    "title": "Dogecoin Breakdown Deepens, $0.18 Support Snaps as Whales Offload 440M Tokens",
-    "link": "https://www.coindesk.com/markets/2025/11/03/doge-breakdown-deepens-usd0-18-support-snaps-as-whales-offload-440m-tokens",
-    "pubDate": "Mon, 03 Nov 2025 11:19:43 +0000",
+    "title": "Nasdaq Reprimands TON Treasury for $558 Million Stock Sale, Crypto Buy",
+    "link": "https://decrypt.co/347165/nasdaq-reprimands-ton-treasury-558-million-stock-sale-crypto-buy",
+    "pubDate": "Mon, 03 Nov 2025 18:02:49 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Nasdaq said TON Strategy failed to get shareholder approval for a massive crypto-fueled fundraise—but stopped short of delisting the company’s stock."
+  },
+  {
+    "title": "Chainlink Drops 10% Amid Crypto Selloff; New Rewards Program Unveiled",
+    "link": "https://www.coindesk.com/markets/2025/11/03/chainlink-drops-10-amid-crypto-selloff-new-rewards-program-unveiled",
+    "pubDate": "Mon, 03 Nov 2025 17:51:30 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Analysts warn that sustained trading below $0.18 could lead to a drop toward $0.07, while defending this level might spark a recovery."
+    "contentSnippet": "The oracle network's token hit its weakest price since the October 10 crash, breaking key support levels after multiple failed breakout last week."
   },
   {
-    "title": "Animoca Brands Files for Nasdaq Listing Via Reverse Merger",
-    "link": "https://www.coindesk.com/business/2025/11/03/animoca-brands-files-for-usdtk-million-ipo-in-u-s-with-usdtk-valuation",
-    "pubDate": "Mon, 03 Nov 2025 11:06:54 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The deal aims to expand Animoca's investor base and enhance access to its digital assets and growth companies."
+    "title": "Morning Minute: Tether Prints $10 Billion in Profit",
+    "link": "https://decrypt.co/347149/morning-minute-tether-prints-10-billion-profit",
+    "pubDate": "Mon, 03 Nov 2025 17:41:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoin giant Tether has tripled its USDT supply since 2023, and generating profits that would make major banks jealous."
   },
   {
-    "title": "Berachain Halts Network to Contain Balancer-Linked Exploit, Conduct ‘Emergency Hard Fork’",
-    "link": "https://www.coindesk.com/markets/2025/11/03/berachain-halts-network-to-contain-balancer-linked-exploit-to-conduct-emergency-hard-fork",
-    "pubDate": "Mon, 03 Nov 2025 10:46:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The pause allows developers to roll out an emergency hard fork aimed at isolating compromised contracts and recovering affected assets before resuming operations."
+    "title": "Ripple Prime Clients Gain Access to Spot Crypto Trading",
+    "link": "https://decrypt.co/347164/ripple-prime-clients-access-spot-crypto-trading",
+    "pubDate": "Mon, 03 Nov 2025 17:40:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ripple acquired prime brokerage Hidden Road for $1.25 billion in April."
   },
   {
-    "title": "Standard Chartered CEO Sees Hong Kong Stablecoin as Pivotal for International Trade Settlement",
-    "link": "https://www.coindesk.com/markets/2025/11/03/standard-chartered-ceo-sees-hong-kong-stablecoin-as-pivotal-for-international-trading-settlement",
-    "pubDate": "Mon, 03 Nov 2025 10:46:10 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "At FinTech Week, the Standard Chartered CEO said Hong Kong’s digital asset pilots, including HKD-backed stablecoins and tokenized deposits, could transform cross-border trade, as regulators unveiled n"
-  },
-  {
-    "title": "HIVE Digital's Mining Capacity Hits 23 EH/s as Bitcoin Output Funds AI Shift",
-    "link": "https://www.coindesk.com/business/2025/11/03/hive-digital-s-mining-capacity-hits-23-eh-s-as-bitcoin-output-funds-ai-shift",
-    "pubDate": "Mon, 03 Nov 2025 10:45:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The company is converting parts of its mining footprint into AI-ready data centers, including a site in Grand Falls, New Brunswick, that could support 25,000 GPUs."
-  },
-  {
-    "title": "Miners, Robinhood Earnings and Interest-Rate Decisions: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2025/11/03/miners-robinhood-earnings-and-interest-rate-decisions-crypto-week-ahead",
-    "pubDate": "Mon, 03 Nov 2025 09:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your look at what's coming in the week starting Nov. 3."
-  },
-  {
-    "title": "DeFi protocol Balancer potentially exploited as onchain data shows millions in outflows",
-    "link": "https://www.theblock.co/post/377223/defi-protocol-balancer-potentially-exploited-as-onchain-data-shows-millions-in-outflows?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 03:36:57 -0500",
+    "title": "Kraken unlocks crypto collateral for derivatives across the EU",
+    "link": "https://www.theblock.co/post/377300/kraken-unlocks-crypto-collateral-for-derivatives-across-the-eu?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 12:32:07 -0500",
     "source": "The Block",
-    "contentSnippet": "DeFi protocol Balancer appears to have been exploited, with over $116 million in ether derivatives moved out of its vaults, per onchain data."
+    "contentSnippet": "Kraken will now allow traders to post crypto collateral in the European Union via its MiFID-regulated derivatives platform."
   },
   {
-    "title": "Balancer Hit by Apparent Exploit as $110M in Crypto Moves to New Wallets",
-    "link": "https://www.coindesk.com/markets/2025/11/03/balancer-hit-by-apparent-exploit-as-usd70m-in-crypto-moves-to-new-wallets",
-    "pubDate": "Mon, 03 Nov 2025 08:17:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The affected funds include 6,850 osETH, 6,590 WETH, and 4,260 wstETH, blockchain data analyzed by CoinDesk showed."
-  },
-  {
-    "title": "BTC’s 'Indecision' Problem: Here's What the Market Is Trying to Tell Us",
-    "link": "https://www.coindesk.com/markets/2025/11/03/btc-s-indecision-problem-here-s-what-the-market-is-trying-to-tell-us",
-    "pubDate": "Mon, 03 Nov 2025 07:44:13 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC's monthly chart shows indecision at record highs."
-  },
-  {
-    "title": "Polymarket activity rebounds to new highs while Kalshi dominates in volume",
-    "link": "https://www.theblock.co/post/377214/polymarket-rebounds-kalshi-leads?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 02:40:42 -0500",
+    "title": "35 key crypto hires, moves and exits: October 2025",
+    "link": "https://www.theblock.co/post/377295/35-key-crypto-hires-moves-and-exits-october-2025?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 12:20:16 -0500",
     "source": "The Block",
-    "contentSnippet": "Polymarket is preparing to relaunch in the US by the end of this month, and has teased an upcoming token launch."
+    "contentSnippet": "A look at the most notable hires, moves and exits in the broader crypto ecosystem during the month of October."
   },
   {
-    "title": "Hong Kong to allow crypto exchanges to access global liquidity pools",
-    "link": "https://www.theblock.co/post/377209/hong-kong-crypto-global-liquidity?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 01:18:44 -0500",
+    "title": "BitMine Adds $294 Million in Ethereum as Tom Lee Makes Bullish Bitcoin, ETH Price Projections",
+    "link": "https://decrypt.co/347155/bitmine-294-million-ethereum-lee-bullish-bitcoin-eth-price",
+    "pubDate": "Mon, 03 Nov 2025 17:09:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BitMine Immersion shares were trading more than 8% lower on Monday after the firm acquired over 82,000 ETH in the last week."
+  },
+  {
+    "title": "HIVE Digital accelerates AI infrastructure push with $1.7 million Canada data-center land deal",
+    "link": "https://www.theblock.co/post/377306/hive-digital-accelerates-ai-infrastructure-push-1-7-million-canada-data-center-deal?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 12:08:44 -0500",
     "source": "The Block",
-    "contentSnippet": "The Hong Kong SFC said it will allow local crypto exchanges to share global order books with their overseas trading platforms."
+    "contentSnippet": "Bitcoin miners are repositioning themselves as infrastructure providers for hyperscalers amid soaring demand for AI compute power."
+  },
+  {
+    "title": "Stellar Holds the Line at $0.277 as Buyers Defend Key Support Zone",
+    "link": "https://www.coindesk.com/markets/2025/11/03/stellar-holds-the-line-at-usd0-277-as-buyers-defend-key-support-zone",
+    "pubDate": "Mon, 03 Nov 2025 16:59:50 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XLM steadies after a sharp 5.5% sell-off, with traders watching the $0.277 level as the critical line between recovery and renewed downside pressure."
+  },
+  {
+    "title": "ICP Slides 5.5% as Bulls Lose Momentum After Volatile Session",
+    "link": "https://www.coindesk.com/markets/2025/11/03/icp-slides-5-5-as-bulls-lose-momentum-after-volatile-session",
+    "pubDate": "Mon, 03 Nov 2025 16:47:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The token climbed to nearly $4.30 late on Sunday, before tracking downward throughout Monday."
+  },
+  {
+    "title": "President Trump talks crypto, corruption and Changpeng Zhao in ’60 Minutes’ interview",
+    "link": "https://www.theblock.co/post/377296/trump-talks-crypto-corruption-changpeng-zhao-60-minutes-interview?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 11:47:06 -0500",
+    "source": "The Block",
+    "contentSnippet": "In an extended interview, President Donald Trump reiterated his pardon for Changpeng Zhao and making America \"number one\" for crypto."
+  },
+  {
+    "title": "Strategy Snaps Up More Bitcoin Amid BTC Price Drop",
+    "link": "https://decrypt.co/347150/strategy-snaps-more-bitcoin-holdings-btc-drop",
+    "pubDate": "Mon, 03 Nov 2025 16:46:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Strategy's buy was among its smallest. Bitcoin's price has fallen more than 7% over the past week."
+  },
+  {
+    "title": "Hedera’s HBAR Slides 5% as $0.19 Support Crumbles, Traders Eye Technical Reversal",
+    "link": "https://www.coindesk.com/markets/2025/11/03/hedera-s-hbar-slides-5-as-usd0-19-support-crumbles-traders-eye-technical-reversal",
+    "pubDate": "Mon, 03 Nov 2025 16:40:11 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hedera token breaks key technical level amid volume surge, though late-session reversal signals emerge."
+  },
+  {
+    "title": "CZ Pumps Aster 25% with Tweet! Crypto Majors Selloff! Trump distances from CZ!",
+    "link": "https://decrypt.co/videos/interviews/a89XRwtQ/cz-pumps-aster-25-with-tweet-crypto-majors-selloff-trump-distances-from-cz",
+    "pubDate": "Mon, 03 Nov 2025 16:38:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto majors fell between 2–5% following a Sunday night selloff, with Bitcoin down 2% at $108,100, Ethereum off 4% at $3,720, BNB down 6% at $1,020, and Solana dropping 5% to $176. Among top movers, "
+  },
+  {
+    "title": "BONK Tumbles as Meme Token Breaks Support, Tests Key Lows",
+    "link": "https://www.coindesk.com/markets/2025/11/03/bonk-tumbles-as-meme-token-breaks-support-tests-key-lows",
+    "pubDate": "Mon, 03 Nov 2025 16:21:02 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "BONK slid to $0.00001232, breaking through critical support as sales pressure swept through Solana-linked meme tokens."
+  },
+  {
+    "title": "Bitcoin, Ethereum and Dogecoin Plunge as Crypto Liquidations Top $1.1 Billion",
+    "link": "https://decrypt.co/347154/bitcoin-ethereum-dogecoin-plunge-crypto-liquidations-topping-1-1-billion",
+    "pubDate": "Mon, 03 Nov 2025 16:13:15 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto liquidations are piling up as Bitcoin falls 4% and altcoins like Ethereum, XRP, and Dogecoin have been hit much harder."
+  },
+  {
+    "title": "Major crypto investor Animoca Brands poised for Nasdaq listing through merger with AI company",
+    "link": "https://www.theblock.co/post/377291/major-crypto-investor-animoca-brands-poised-for-nasdaq-listing-through-merger-with-ai-company?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 11:12:28 -0500",
+    "source": "The Block",
+    "contentSnippet": "If the merger is completed, Animoca would own the vast majority of Currenc and assume its listing on the Nasdaq."
+  },
+  {
+    "title": "Polkadot Slumps as Bears Break Key Support at $2.87",
+    "link": "https://www.coindesk.com/markets/2025/11/03/polkadot-slumps-as-bears-break-key-support-at-usd2-87",
+    "pubDate": "Mon, 03 Nov 2025 15:57:37 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Heavy institutional selling pressure triggered a technical breakdown in DOT."
+  },
+  {
+    "title": "Crypto Giant Animoca Brands Eyes Nasdaq Debut via Reverse Merger",
+    "link": "https://decrypt.co/347151/crypto-giant-animoca-brands-eyes-nasdaq-debut-reverse-merger",
+    "pubDate": "Mon, 03 Nov 2025 15:55:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Investment firm and crypto game publisher Animoca Brands plans to go public via a reverse merger, the Hong Kong-based firm said Monday."
+  },
+  {
+    "title": "Bitcoin Slides Below $106K as Cryptos Tumble, Nearing October Crash Lows",
+    "link": "https://www.coindesk.com/markets/2025/11/03/bitcoin-slides-below-usd106k-as-cryptos-tumble-nearing-october-crash-lows",
+    "pubDate": "Mon, 03 Nov 2025 15:55:37 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The downturn in prices rippled across derivatives markets, liquidating over $1 billion in leveraged trading positions across all digital assets Monday, CoinGlass data showed."
+  },
+  {
+    "title": "Strive Proposes High-Yield Preferred Stock to Expand Bitcoin Holdings",
+    "link": "https://www.coindesk.com/business/2025/11/03/strive-proposes-high-yield-preferred-stock-to-expand-bitcoin-holdings",
+    "pubDate": "Mon, 03 Nov 2025 15:43:31 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The preferred shares, dubbed SATA, are set to carry an initial 12% annual dividend, payable monthly in cash."
+  },
+  {
+    "title": "Toncoin Falls as Nasdaq Flags Rule Violation in $273M Purchase by Major Holder",
+    "link": "https://www.coindesk.com/markets/2025/11/03/toncoin-falls-as-nasdaq-flags-rule-violation-in-usd273m-purchase-by-major-holder",
+    "pubDate": "Mon, 03 Nov 2025 15:34:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Nasdaq reprimanded TON Strategy, a major holder of TON, for failing to obtain shareholder approval before issuing stock to finance a $272.7 million purchase."
+  },
+  {
+    "title": "Cipher Mining shares jump 33% on $5.5 billion AWS AI deal, new 1 GW Texas site",
+    "link": "https://www.theblock.co/post/377285/cipher-mining-shares-jump-5-5-billion-usd-aws-ai-deal-1gw-texas-site?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 10:26:54 -0500",
+    "source": "The Block",
+    "contentSnippet": "Cipher reported a net loss of $3 million for Q3, but also revealed a joint entity to develop a new 1 GW site in West Texas named \"Colchis.\""
+  },
+  {
+    "title": "AI Payments Startup Kite Debuts Token With $263M Trading Volume in First Two Hours",
+    "link": "https://www.coindesk.com/business/2025/11/03/ai-payments-startup-kite-debuts-token-with-usd263m-trading-volume-in-first-two-hours",
+    "pubDate": "Mon, 03 Nov 2025 15:13:04 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The blockchain firm’s native token debuted Monday with strong activity on Binance and Korean exchanges, following a $18 million Series A raise in September."
+  },
+  {
+    "title": "Ripple launches digital asset prime brokerage for US markets following $1.25 billion Hidden Road deal",
+    "link": "https://www.theblock.co/post/377281/ripple-launches-digital-asset-prime-brokerage-for-us-markets-following-1-25-billion-hidden-road-deal?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 09:39:44 -0500",
+    "source": "The Block",
+    "contentSnippet": "Ripple has unveiled a U.S. digital asset prime brokerage after its Hidden Road acquisition, offering OTC spot trading for XRP, RLUSD and other assets."
+  },
+  {
+    "title": "Powell’s hawkish tone leaves crypto investors in a ‘state of limbo’ amid $360M in weekly ETP outflows: CoinShares",
+    "link": "https://www.theblock.co/post/377274/powell-hawkish-crypto-limbo?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 09:17:01 -0500",
+    "source": "The Block",
+    "contentSnippet": "Investors interpreted Fed Chair Powell's remarks on the likelihood of December rate cuts as hawkish, Head of Research James Butterfill said."
+  },
+  {
+    "title": "‘Orange is the color of November’: Michael Saylor’s Strategy buys another 397 bitcoin for $45.6 million",
+    "link": "https://www.theblock.co/post/377235/orange-is-the-color-of-november-michael-saylor-strategy-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 08:05:44 -0500",
+    "source": "The Block",
+    "contentSnippet": "Strategy's holdings account for more than 3% of the total 21 million bitcoin supply — worth around $69 billion."
   },
   {
     "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
@@ -105,108 +203,10 @@
     "contentSnippet": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto."
   },
   {
-    "title": "Monthly Ethereum stablecoin volume hits record $2.8 trillion in October",
-    "link": "https://www.theblock.co/post/377195/ethereum-stablecoin-volume-all-time-high?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Nov 2025 23:50:19 -0500",
-    "source": "The Block",
-    "contentSnippet": "Analysts say traders are actively seeking yield-generating opportunities during a broader profit-taking in the market."
-  },
-  {
-    "title": "DEX volume hits all-time high in October as traders reposition funds",
-    "link": "https://www.theblock.co/post/377197/dex-volume-all-time-high-october?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Nov 2025 23:36:46 -0500",
-    "source": "The Block",
-    "contentSnippet": "Decentralized exchange trading volume soared to a record $613.3 billion in October, up from around $500 billion in September."
-  },
-  {
     "title": "Crypto Prices Slip Ahead of US Jobs Data as Bessent Flags Rate Risks",
     "link": "https://decrypt.co/347138/crypto-prices-slip-us-jobs-data-bessent-flags-rate-risks",
     "pubDate": "Mon, 03 Nov 2025 03:50:36 +0000",
     "source": "Decrypt",
     "contentSnippet": "Crypto slipped in thin weekend trade as investors prepared for U.S. jobs data and weighed comments from Treasury Secretary Scott Bessent."
-  },
-  {
-    "title": "South Australia Rounds Up Another 55 Suspects After High Court Backs Encrypted-App Sting",
-    "link": "https://decrypt.co/347136/south-australia-55-suspects-high-court-backs-encrypted-app",
-    "pubDate": "Mon, 03 Nov 2025 02:07:23 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Authorities moved to the third phase of Operation Ironside, using AN0M intelligence to expand drug, weapons and laundering cases."
-  },
-  {
-    "title": "The Funding: Crypto VCs discuss the next phase of DATs amid rising buybacks",
-    "link": "https://www.theblock.co/post/377187/the-funding-crypto-vcs-dats-buybacks?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Nov 2025 21:07:19 -0500",
-    "source": "The Block",
-    "contentSnippet": "Crypto treasury firms are turning to buybacks — and in one case, selling treasury tokens to fund them. I asked VCs what’s driving the shift and what’s next."
-  },
-  {
-    "title": "Elizabeth Warren rebuffs defamation allegations from Changpeng Zhao through lawyer: report",
-    "link": "https://www.theblock.co/post/377184/elizabeth-warren-rebuffs-defamation-allegations-from-changpeng-zhao-through-lawyer-report?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Nov 2025 16:40:05 -0500",
-    "source": "The Block",
-    "contentSnippet": "Warren's lawyer asserts that the Senator's statement that CZ pleaded guilty to a criminal money laundering charge was factual, and thus not defamation."
-  },
-  {
-    "title": "The Biggest Games Releasing in November 2025",
-    "link": "https://decrypt.co/347123/biggest-games-releasing-november-2025",
-    "pubDate": "Sun, 02 Nov 2025 21:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "It's a big month for gaming, thanks to the impending release of Call of Duty: Black Ops 7, Kirby Air Riders, and a new Zelda game on Switch 2."
-  },
-  {
-    "title": "European Commission eyes SEC-style single supervisor over crypto, stock exchanges: FT",
-    "link": "https://www.theblock.co/post/377181/european-commission-eyes-sec-style-single-supervisor-over-crypto-stock-exchanges-ft?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sun, 02 Nov 2025 15:21:55 -0500",
-    "source": "The Block",
-    "contentSnippet": "The Commission is planning a proposal for December that would centralize supervision of crypto firms under a single regulatory agency in Europe."
-  },
-  {
-    "title": "The Complete Idiot's Guide to MCP: Giving Your AI Web Superpowers",
-    "link": "https://decrypt.co/346185/complete-idiots-guide-mcp-giving-your-ai-web-superpowers",
-    "pubDate": "Sun, 02 Nov 2025 20:01:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Tired of feeding data to OpenAI, Google, or Anthropic? A few open-source tools and the Model Context Protocol let you give any lightweight model real-time browsing powers."
-  },
-  {
-    "title": "What Is Tempo? The Payments and Stablecoin Blockchain Built by Stripe",
-    "link": "https://decrypt.co/resources/what-tempo-payments-stablecoin-blockchain-stripe",
-    "pubDate": "Sun, 02 Nov 2025 19:01:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Payments giant Stripe is helping build Tempo, a layer-1 blockchain focused on payments and stablecoins. Here's what you need to know."
-  },
-  {
-    "title": "Quantum Threat to Bitcoin: How Panic Could Break Crypto Before Physics Does",
-    "link": "https://decrypt.co/346256/quantum-threat-bitcoin-how-panic-could-break-crypto-before-physics-does",
-    "pubDate": "Sun, 02 Nov 2025 16:01:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts say the real danger to Bitcoin isn’t quantum machines—it’s human panic and slow preparation."
-  },
-  {
-    "title": "Zcash creator ECC unveils Q4 2025 roadmap as privacy token’s price and shielded supply surge",
-    "link": "https://www.theblock.co/post/377176/zcash-creator-ecc-unveils-q4-2025-roadmap-as-privacy-tokens-price-and-shielded-supply-surge?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sat, 01 Nov 2025 17:34:41 -0400",
-    "source": "The Block",
-    "contentSnippet": "The roadmap calls for more temporary address creations to preserve privacy, as well as quality-of-life fixes for Keystone hardware wallet users."
-  },
-  {
-    "title": "Criminal Crypto Use Is Becoming 'Increasingly Sophisticated', Says Europol",
-    "link": "https://decrypt.co/347078/criminal-crypto-use-becoming-increasingly-sophisticated-says-europol",
-    "pubDate": "Sat, 01 Nov 2025 21:01:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "EU law enforcement has pledged deeper cooperation and investment as criminals refine blockchain abuse tactics."
-  },
-  {
-    "title": "Public Keys: Coinbase Cashes In, IBIT Slips, and REX Spins Volatility Into Gold",
-    "link": "https://decrypt.co/347076/public-keys-coinbase-ibit-rex",
-    "pubDate": "Sat, 01 Nov 2025 18:57:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Coinbase soars past Q3 targets while Bitcoin ETFs face turbulence—plus a new fund betting on crypto stock volatility for income."
-  },
-  {
-    "title": "Romanian Regulator Blacklists Polymarket as 'Gambling That Must Be Licensed'",
-    "link": "https://decrypt.co/347052/romanian-regulator-blacklists-polymarket-gambling",
-    "pubDate": "Sat, 01 Nov 2025 18:23:38 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Romanian National Office for Gambling said that it would \"not allow the transformation of blockchain into a screen for illegal betting.\""
   }
 ]
