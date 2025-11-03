@@ -1,5 +1,96 @@
 [
   {
+    "title": "Bitcoin Drop May Be Warning for Stocks: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/03/bitcoin-drop-may-be-warning-for-stocks-crypto-daybook-americas",
+    "pubDate": "Mon, 03 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 3, 2025"
+  },
+  {
+    "title": "IREN Soars 30% After Inking $9.7B AI Cloud Deal With Tech Giant MicroSoft",
+    "link": "https://www.coindesk.com/markets/2025/11/03/microsoft-signs-usd9-7b-ai-cloud-deal-with-bitcoin-mining-stalwart-iren-zooms",
+    "pubDate": "Mon, 03 Nov 2025 11:31:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The deal is indicative of how miners’ once-volatile hardware fleets are increasingly viewed as strategic compute assets, bridging the gap between blockchain and AI."
+  },
+  {
+    "title": "Bitcoin slides below $108,000 as traders remain cautious, whales take profit, and ETFs experience outflows: analysts",
+    "link": "https://www.theblock.co/post/377242/bitcoin-slides-below-108000-as-traders-remain-cautious-whales-take-profit-and-etfs-experience-outflows-analysts?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 06:26:16 -0500",
+    "source": "The Block",
+    "contentSnippet": "Bitcoin has slipped under $108,000 as whales take profits and ETFs see outflows."
+  },
+  {
+    "title": "Dogecoin Breakdown Deepens, $0.18 Support Snaps as Whales Offload 440M Tokens",
+    "link": "https://www.coindesk.com/markets/2025/11/03/doge-breakdown-deepens-usd0-18-support-snaps-as-whales-offload-440m-tokens",
+    "pubDate": "Mon, 03 Nov 2025 11:19:43 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Analysts warn that sustained trading below $0.18 could lead to a drop toward $0.07, while defending this level might spark a recovery."
+  },
+  {
+    "title": "Animoca Brands Files for Nasdaq Listing Via Reverse Merger",
+    "link": "https://www.coindesk.com/business/2025/11/03/animoca-brands-files-for-usdtk-million-ipo-in-u-s-with-usdtk-valuation",
+    "pubDate": "Mon, 03 Nov 2025 11:06:54 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The deal aims to expand Animoca's investor base and enhance access to its digital assets and growth companies."
+  },
+  {
+    "title": "Berachain Halts Network to Contain Balancer-Linked Exploit, Conduct ‘Emergency Hard Fork’",
+    "link": "https://www.coindesk.com/markets/2025/11/03/berachain-halts-network-to-contain-balancer-linked-exploit-to-conduct-emergency-hard-fork",
+    "pubDate": "Mon, 03 Nov 2025 10:46:24 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The pause allows developers to roll out an emergency hard fork aimed at isolating compromised contracts and recovering affected assets before resuming operations."
+  },
+  {
+    "title": "Standard Chartered CEO Sees Hong Kong Stablecoin as Pivotal for International Trade Settlement",
+    "link": "https://www.coindesk.com/markets/2025/11/03/standard-chartered-ceo-sees-hong-kong-stablecoin-as-pivotal-for-international-trading-settlement",
+    "pubDate": "Mon, 03 Nov 2025 10:46:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "At FinTech Week, the Standard Chartered CEO said Hong Kong’s digital asset pilots, including HKD-backed stablecoins and tokenized deposits, could transform cross-border trade, as regulators unveiled n"
+  },
+  {
+    "title": "HIVE Digital's Mining Capacity Hits 23 EH/s as Bitcoin Output Funds AI Shift",
+    "link": "https://www.coindesk.com/business/2025/11/03/hive-digital-s-mining-capacity-hits-23-eh-s-as-bitcoin-output-funds-ai-shift",
+    "pubDate": "Mon, 03 Nov 2025 10:45:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company is converting parts of its mining footprint into AI-ready data centers, including a site in Grand Falls, New Brunswick, that could support 25,000 GPUs."
+  },
+  {
+    "title": "Miners, Robinhood Earnings and Interest-Rate Decisions: Crypto Week Ahead",
+    "link": "https://www.coindesk.com/markets/2025/11/03/miners-robinhood-earnings-and-interest-rate-decisions-crypto-week-ahead",
+    "pubDate": "Mon, 03 Nov 2025 09:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your look at what's coming in the week starting Nov. 3."
+  },
+  {
+    "title": "DeFi protocol Balancer potentially exploited as onchain data shows millions in outflows",
+    "link": "https://www.theblock.co/post/377223/defi-protocol-balancer-potentially-exploited-as-onchain-data-shows-millions-in-outflows?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 03:36:57 -0500",
+    "source": "The Block",
+    "contentSnippet": "DeFi protocol Balancer appears to have been exploited, with over $116 million in ether derivatives moved out of its vaults, per onchain data."
+  },
+  {
+    "title": "Balancer Hit by Apparent Exploit as $110M in Crypto Moves to New Wallets",
+    "link": "https://www.coindesk.com/markets/2025/11/03/balancer-hit-by-apparent-exploit-as-usd70m-in-crypto-moves-to-new-wallets",
+    "pubDate": "Mon, 03 Nov 2025 08:17:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The affected funds include 6,850 osETH, 6,590 WETH, and 4,260 wstETH, blockchain data analyzed by CoinDesk showed."
+  },
+  {
+    "title": "BTC’s 'Indecision' Problem: Here's What the Market Is Trying to Tell Us",
+    "link": "https://www.coindesk.com/markets/2025/11/03/btc-s-indecision-problem-here-s-what-the-market-is-trying-to-tell-us",
+    "pubDate": "Mon, 03 Nov 2025 07:44:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "BTC's monthly chart shows indecision at record highs."
+  },
+  {
+    "title": "Polymarket activity rebounds to new highs while Kalshi dominates in volume",
+    "link": "https://www.theblock.co/post/377214/polymarket-rebounds-kalshi-leads?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 02:40:42 -0500",
+    "source": "The Block",
+    "contentSnippet": "Polymarket is preparing to relaunch in the US by the end of this month, and has teased an upcoming token launch."
+  },
+  {
     "title": "Hong Kong to allow crypto exchanges to access global liquidity pools",
     "link": "https://www.theblock.co/post/377209/hong-kong-crypto-global-liquidity?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 03 Nov 2025 01:18:44 -0500",
@@ -14,20 +105,6 @@
     "contentSnippet": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto."
   },
   {
-    "title": "Why Did Fed Inject $29.4B in Liquidity And What Does it Mean For Bitcoin?",
-    "link": "https://www.coindesk.com/markets/2025/11/03/why-did-the-fed-inject-usd29-4b-in-liquidity-and-what-does-it-mean-for-bitcoin",
-    "pubDate": "Mon, 03 Nov 2025 05:26:21 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "While the move helps avoid potential liquidity crises that could damage financial markets, it falls short of being as stimulative to risk assets as the Fed's other moves, such as QE."
-  },
-  {
-    "title": "Dogecoin, Cardano Lead Selloff on Profit-Taking, Gold Pulls Back as China Ends Tax Rebate",
-    "link": "https://www.coindesk.com/markets/2025/11/03/dogecoin-cardano-lead-selloff-on-profit-taking-gold-pulls-back-as-china-ends-tax-rebate",
-    "pubDate": "Mon, 03 Nov 2025 05:25:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Meanwhile, bitcoin selling by long-term investors has tripled since June, as buyers who entered near $93,000 take profits."
-  },
-  {
     "title": "Monthly Ethereum stablecoin volume hits record $2.8 trillion in October",
     "link": "https://www.theblock.co/post/377195/ethereum-stablecoin-volume-all-time-high?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 02 Nov 2025 23:50:19 -0500",
@@ -40,20 +117,6 @@
     "pubDate": "Sun, 02 Nov 2025 23:36:46 -0500",
     "source": "The Block",
     "contentSnippet": "Decentralized exchange trading volume soared to a record $613.3 billion in October, up from around $500 billion in September."
-  },
-  {
-    "title": "DOGE Falls to $0.18 as Long-Term Holders Exit, 'Death Cross' Price Action Appears",
-    "link": "https://www.coindesk.com/markets/2025/11/03/doge-falls-to-usd0-18-as-long-term-holders-exit-death-cross-price-action-appears",
-    "pubDate": "Mon, 03 Nov 2025 04:11:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The decline came amid a deteriorating technical backdrop and increased selling activity across large wallets."
-  },
-  {
-    "title": "XRP Chart Turns Neutral, Repeated $2.55 Rejections Define Next Breakout Zone",
-    "link": "https://www.coindesk.com/markets/2025/11/03/xrp-chart-turns-neutral-repeated-usd2-55-rejections-define-next-breakout-zone",
-    "pubDate": "Mon, 03 Nov 2025 04:00:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Traders are closely monitoring the $2.49 support level, as sustained closes below could lead to further declines."
   },
   {
     "title": "Crypto Prices Slip Ahead of US Jobs Data as Bessent Flags Rate Risks",
@@ -75,13 +138,6 @@
     "pubDate": "Sun, 02 Nov 2025 21:07:19 -0500",
     "source": "The Block",
     "contentSnippet": "Crypto treasury firms are turning to buybacks — and in one case, selling treasury tokens to fund them. I asked VCs what’s driving the shift and what’s next."
-  },
-  {
-    "title": "Asia Morning Briefing: Cautious Calm Returns to BTC Markets as Traders Rebuild Risk",
-    "link": "https://www.coindesk.com/markets/2025/11/03/asia-morning-briefing-cautious-calm-returns-to-btc-markets-as-traders-rebuild-risk",
-    "pubDate": "Mon, 03 Nov 2025 01:34:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC holds near $110K and Ethereum trades around $3,900 as liquidations ease and market makers report clients slowly re-entering risk after the Fed-driven selloff."
   },
   {
     "title": "Elizabeth Warren rebuffs defamation allegations from Changpeng Zhao through lawyer: report",
@@ -126,41 +182,6 @@
     "contentSnippet": "Experts say the real danger to Bitcoin isn’t quantum machines—it’s human panic and slow preparation."
   },
   {
-    "title": "ASTER Zooms 20% as Binance's CZ Purchases 2M Tokens",
-    "link": "https://www.coindesk.com/markets/2025/11/02/aster-zooms-20-as-binance-s-cz-purchases-2m-tokens",
-    "pubDate": "Sun, 02 Nov 2025 15:15:10 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ASTER is a rebranded derivative platform token with a max supply of 8 billion, focusing on community incentives and decentralized exchange features."
-  },
-  {
-    "title": "The AWS Outage Shows Why Crypto Can't Keep Relying On Centralized Infrastructure",
-    "link": "https://www.coindesk.com/opinion/2025/11/01/the-aws-outage-shows-why-crypto-can-t-keep-relying-on-centralized-infrastructure",
-    "pubDate": "Sun, 02 Nov 2025 15:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "For an industry that prides itself on decentralization and constantly lauds its benefits, crypto exchanges being so reliant on vulnerable centralized cloud platforms for their own infrastructure feels"
-  },
-  {
-    "title": "'Bitcoin's Silent IPO': Analyst Addresses BTC's Lame Price Action in Viral Weekend Essay",
-    "link": "https://www.coindesk.com/markets/2025/11/02/bitcoin-s-silent-ipo-analyst-addresses-btc-s-lame-price-action-in-viral-weekend-essay",
-    "pubDate": "Sun, 02 Nov 2025 14:40:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Wildly successful ETFs, accelerating institutional adoption and friendly regulatory policy, yet bitcoin watches from the sidelines as other assets surge. What gives?"
-  },
-  {
-    "title": "Sam Bankman-Fried's Last Chance? Appeals Court to Hear Arguments on FTX Founder's Retrial Motion Next Week",
-    "link": "https://www.coindesk.com/news-analysis/2025/10/31/sam-bankman-fried-s-last-chance-appeals-court-to-hear-arguments-on-ftx-founder-s-retrial-motion-next-week",
-    "pubDate": "Sun, 02 Nov 2025 14:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The FTX founder is looking for a fresh trial on his fraud and conspiracy charges. He's got an uphill battle."
-  },
-  {
-    "title": "November Could Be the New October for U.S. Crypto ETFs After Shutdown Delays SEC Decisions",
-    "link": "https://www.coindesk.com/news-analysis/2025/11/02/november-could-be-the-new-october-for-u-s-crypto-etfs-after-shutdown-delays-sec-decisions",
-    "pubDate": "Sun, 02 Nov 2025 13:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "After October’s delays caused by the U.S. government shutdown, ETF issuers are finding new ways to bring spot crypto funds to market."
-  },
-  {
     "title": "Zcash creator ECC unveils Q4 2025 roadmap as privacy token’s price and shielded supply surge",
     "link": "https://www.theblock.co/post/377176/zcash-creator-ecc-unveils-q4-2025-roadmap-as-privacy-tokens-price-and-shielded-supply-surge?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 01 Nov 2025 17:34:41 -0400",
@@ -175,13 +196,6 @@
     "contentSnippet": "EU law enforcement has pledged deeper cooperation and investment as criminals refine blockchain abuse tactics."
   },
   {
-    "title": "‘Big time debut’: U.S. spot Solana ETFs draw $200 million in inflows during short debut trading week",
-    "link": "https://www.theblock.co/post/377172/big-time-debut-u-s-spot-solana-etfs-draw-200-million-in-inflows-during-short-debut-trading-week?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sat, 01 Nov 2025 15:43:06 -0400",
-    "source": "The Block",
-    "contentSnippet": "Spot Bitcoin and Ethereum ETFs also saw net positive inflows over the month of October, on significantly elevated trading volume."
-  },
-  {
     "title": "Public Keys: Coinbase Cashes In, IBIT Slips, and REX Spins Volatility Into Gold",
     "link": "https://decrypt.co/347076/public-keys-coinbase-ibit-rex",
     "pubDate": "Sat, 01 Nov 2025 18:57:48 +0000",
@@ -194,19 +208,5 @@
     "pubDate": "Sat, 01 Nov 2025 18:23:38 +0000",
     "source": "Decrypt",
     "contentSnippet": "The Romanian National Office for Gambling said that it would \"not allow the transformation of blockchain into a screen for illegal betting.\""
-  },
-  {
-    "title": "CEO of collapsed Thodex exchange found dead in Turkish prison while serving 11,196-year sentence: report",
-    "link": "https://www.theblock.co/post/377170/ceo-of-collapsed-thodex-exchange-found-dead-in-turkish-prison-while-serving-11196-year-sentence-report?utm_source=rss&utm_medium=rss",
-    "pubDate": "Sat, 01 Nov 2025 12:46:47 -0400",
-    "source": "The Block",
-    "contentSnippet": "The collapse of Thodex left 400,000 users with losses of up to $2.5 billion, according to estimates from the time, one of crypto's largest rug pulls."
-  },
-  {
-    "title": "The Daily: Standard Chartered sees major RWA growth on Ethereum, CZ challenges Sen. Warren, and more",
-    "link": "https://www.theblock.co/post/377163/the-daily-standard-chartered-rwa-ethereum-changpeng-zhao-sen-warren-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 31 Oct 2025 16:38:21 -0400",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   }
 ]
