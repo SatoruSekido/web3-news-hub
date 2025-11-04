@@ -1,5 +1,96 @@
 [
   {
+    "title": "Bitcoin’s Last Support Before $100K Breaks as 'Mag 7' Skew Flips, Oracle CDS Surges",
+    "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-s-last-support-before-usd100k-breaks-as-mag-7-skew-flips-oracle-cds-surges",
+    "pubDate": "Tue, 04 Nov 2025 06:04:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The decline comes amid signs of over exuberance in major tech stocks and investor angst about increased AI spending."
+  },
+  {
+    "title": "Stream Finance halts withdrawals and deposits after $93 million loss disclosed",
+    "link": "https://www.theblock.co/post/377400/stream-finance-halts-withdrawals-93-million-loss?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 00:01:50 -0500",
+    "source": "The Block",
+    "contentSnippet": "Stream Finance said an external fund manager disclosed a $93 million loss in its fund assets on Monday, and it is investigating the incident."
+  },
+  {
+    "title": "US Prosecutors Seek Maximum Sentence for Samourai Wallet Developers",
+    "link": "https://decrypt.co/347236/us-prosecutors-seek-maximum-sentence-for-samourai-wallet-developers",
+    "pubDate": "Tue, 04 Nov 2025 04:56:36 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Prosecutors allege the developers weren't “mere bystanders,” but were instead actively soliciting criminals, while earning millions."
+  },
+  {
+    "title": "FTX withdraws motion seeking to limit repayments in China, Russia and other restricted jurisdictions",
+    "link": "https://www.theblock.co/post/377395/ftx-withdraws-motion-limit-repayments?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 23:34:58 -0500",
+    "source": "The Block",
+    "contentSnippet": "Meanwhile, Sam Bankman-Fried, the convicted founder of FTX, is scheduled to appear at an appeal hearing in New York on Tuesday."
+  },
+  {
+    "title": "FTSE Russell Takes First Step Toward On-Chain Benchmark Data With Chainlink",
+    "link": "https://decrypt.co/347233/ftse-russell-first-step-on-chain-benchmark-data-chainlink",
+    "pubDate": "Tue, 04 Nov 2025 04:32:37 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The collab brings FTSE Russell’s benchmark indices to blockchain for the first time, linking regulated market data with on-chain finance."
+  },
+  {
+    "title": "Bitcoin Price Outlook: What's Next After Red October?",
+    "link": "https://decrypt.co/347231/bitcoin-price-outlook-whats-next-after-red-october",
+    "pubDate": "Tue, 04 Nov 2025 03:38:50 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin's \"Red October\" is a healthy correction that could fuel a bullish November, targeting up to $150K by year-end, Decrypt was told."
+  },
+  {
+    "title": "Bitcoin, Ether, Solana Traders Liquidated for Over $1B as Prices Dump 5-10%",
+    "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-ether-solana-traders-liquidated-for-over-usd1b-as-prices-dump-5-10",
+    "pubDate": "Tue, 04 Nov 2025 03:00:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Long traders accounted for nearly 90% of the liquidations, with $1.14 billion in bullish bets erased."
+  },
+  {
+    "title": "Strategy proposes euro STRE share offering to fund future bitcoin buys",
+    "link": "https://www.theblock.co/post/377385/strategy-euro-stre-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 21:52:05 -0500",
+    "source": "The Block",
+    "contentSnippet": "Strategy plans to offer 3.5 million shares of euro-denominated perpetual preferred stock STRE to fund bitcoin purchases."
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest buys $12 million worth of Bullish shares",
+    "link": "https://www.theblock.co/post/377387/ark-invest-buys-bullish-shares?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 03 Nov 2025 21:30:28 -0500",
+    "source": "The Block",
+    "contentSnippet": "Bullish, a crypto exchange backed by Peter Thiel, launched spot trading in the US last month after obtaining a key New York license."
+  },
+  {
+    "title": "Dogecoin Plunges 8% as Price Action Points to Brief Technical Bounces",
+    "link": "https://www.coindesk.com/markets/2025/11/04/dogecoin-plunges-8-as-price-action-points-to-brief-technical-bounces",
+    "pubDate": "Tue, 04 Nov 2025 02:18:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Analysts suggest stabilization above $0.165 is crucial for recovery, with a daily close above $0.18 needed to counter bearish momentum."
+  },
+  {
+    "title": "Physics vs. Code: Why Google’s ‘Quantum Money’ Could Make Blockchain Obsolete",
+    "link": "https://decrypt.co/347228/physics-code-googles-quantum-money-could-make-blockchain-obsolete",
+    "pubDate": "Tue, 04 Nov 2025 02:17:58 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Google Quantum AI’s new research revisits a 1960s idea for unforgeable “quantum money,” exploring how physics, not code, could secure finance."
+  },
+  {
+    "title": "XRP Triangle Tightens as Token Falls 6%, Watch This Price Level For Further Breakdown",
+    "link": "https://www.coindesk.com/markets/2025/11/04/xrp-triangle-tightens-as-token-falls-6-watch-this-price-level-for-further-breakdown",
+    "pubDate": "Tue, 04 Nov 2025 02:08:57 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The move reflected cautious accumulation rather than broad conviction, as trading volumes remained below trend despite multiple volatility spikes during the session."
+  },
+  {
+    "title": "Asia Morning Briefing: BTC Tests Its Floor as Legacy Sellers Meet Macro Rotation",
+    "link": "https://www.coindesk.com/markets/2025/11/04/asia-morning-briefing-btc-tests-its-floor-as-legacy-sellers-meet-macro-rotation",
+    "pubDate": "Tue, 04 Nov 2025 02:02:50 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Market makers say liquidity is moving back into equities while crypto digests heavy profit-taking from long-term holders."
+  },
+  {
     "title": "Bitwise, Grayscale reveal fees for XRP and Dogecoin ETFs as firms push ahead to launch without SEC’s green light",
     "link": "https://www.theblock.co/post/377381/bitwise-grayscale-reveal-fees-for-xrp-and-dogecoin-etfs-as-firms-push-ahead-to-launch-without-secs-green-light?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 03 Nov 2025 18:42:38 -0500",
@@ -91,13 +182,6 @@
     "contentSnippet": "Preprint repository ArXiv is cracking down on survey papers after AI tools make it easy to mass-produce low-quality submissions that overwhelm volunteer moderators."
   },
   {
-    "title": "The Daily: Balancer hit by $128 million exploit, Hong Kong opens global liquidity access for local crypto exchanges, and more",
-    "link": "https://www.theblock.co/post/377349/the-daily-balancer-hit-by-128-million-exploit-hong-kong-opens-global-liquidity-access-for-local-crypto-exchanges-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 14:36:09 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
     "title": "Bitcoin Miners IREN, Cipher Rise After Multi-Billion-Dollar Microsoft, Amazon Deals",
     "link": "https://decrypt.co/347193/bitcoin-miners-iren-cipher-rise-billion-dollar-microsoft-amazon",
     "pubDate": "Mon, 03 Nov 2025 19:28:23 +0000",
@@ -112,60 +196,11 @@
     "contentSnippet": "Volume jumped 628% as SUI sliced through key support, then bounced — without buyer conviction."
   },
   {
-    "title": "US Bitcoin ETFs Lost $946 Million After Hawkish Tone From Fed",
-    "link": "https://decrypt.co/347176/us-bitcoin-etfs-lost-946-million-hawkish-tone-fed",
-    "pubDate": "Mon, 03 Nov 2025 19:02:54 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Solana funds surged with $421 million in fresh capital. Overall, crypto ETFs shed $360 million in assets."
-  },
-  {
-    "title": "Balancer Exploited for $128 Million Across Ethereum Chains as Berachain Halts Network",
-    "link": "https://decrypt.co/347173/balancer-exploited-128-million-across-ethereum-chains-berachain-halts",
-    "pubDate": "Mon, 03 Nov 2025 18:47:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Some $128 million in crypto was stolen from Balancer liquidity pools on Ethereum and beyond, with Berachain halting its chain as a result."
-  },
-  {
-    "title": "Paradigm leads $7.6 million seed funding round for perp DEX aggregator Liquid",
-    "link": "https://www.theblock.co/post/377341/paradigm-leads-funding-perp-dex-aggregator-liquid?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 13:35:03 -0500",
-    "source": "The Block",
-    "contentSnippet": "Liquid, a crypto perp DEX aggregator, has raised $7.6 million in seed funding from investors including Paradigm and General Catalyst."
-  },
-  {
-    "title": "Custodia ruling a ‘speed bump’ not a roadblock for crypto banks, says TD Cowen",
-    "link": "https://www.theblock.co/post/377336/custodia-ruling-speed-bump-not-roadblock-crypto-banks-td-cowen?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 13:05:55 -0500",
-    "source": "The Block",
-    "contentSnippet": "A ruling last week declaring that Custodia is not entitled to a master account is not the end of the road, said a TD Cowen analyst."
-  },
-  {
-    "title": "Nasdaq Reprimands TON Treasury for $558 Million Stock Sale, Crypto Buy",
-    "link": "https://decrypt.co/347165/nasdaq-reprimands-ton-treasury-558-million-stock-sale-crypto-buy",
-    "pubDate": "Mon, 03 Nov 2025 18:02:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Nasdaq said TON Strategy failed to get shareholder approval for a massive crypto-fueled fundraise—but stopped short of delisting the company’s stock."
-  },
-  {
     "title": "Chainlink Drops 10% Amid Crypto Selloff; New Rewards Program Unveiled",
     "link": "https://www.coindesk.com/markets/2025/11/03/chainlink-drops-10-amid-crypto-selloff-new-rewards-program-unveiled",
     "pubDate": "Mon, 03 Nov 2025 17:51:30 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The oracle network's token hit its weakest price since the October 10 crash, breaking key support levels after multiple failed breakout last week."
-  },
-  {
-    "title": "Morning Minute: Tether Prints $10 Billion in Profit",
-    "link": "https://decrypt.co/347149/morning-minute-tether-prints-10-billion-profit",
-    "pubDate": "Mon, 03 Nov 2025 17:41:27 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Stablecoin giant Tether has tripled its USDT supply since 2023, and generating profits that would make major banks jealous."
-  },
-  {
-    "title": "Kraken unlocks crypto collateral for derivatives across the EU",
-    "link": "https://www.theblock.co/post/377300/kraken-unlocks-crypto-collateral-for-derivatives-across-the-eu?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 12:32:07 -0500",
-    "source": "The Block",
-    "contentSnippet": "Kraken will now allow traders to post crypto collateral in the European Union via its MiFID-regulated derivatives platform."
   },
   {
     "title": "Stellar Holds the Line at $0.277 as Buyers Defend Key Support Zone",
@@ -175,38 +210,73 @@
     "contentSnippet": "XLM steadies after a sharp 5.5% sell-off, with traders watching the $0.277 level as the critical line between recovery and renewed downside pressure."
   },
   {
-    "title": "ICP Slides 5.5% as Bulls Lose Momentum After Volatile Session",
-    "link": "https://www.coindesk.com/markets/2025/11/03/icp-slides-5-5-as-bulls-lose-momentum-after-volatile-session",
-    "pubDate": "Mon, 03 Nov 2025 16:47:09 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token climbed to nearly $4.30 late on Sunday, before tracking downward throughout Monday."
+    "title": " Valve’s Counter-Strike 2 update crashes $5.8B economy, revives NFT debate ",
+    "link": "https://cointelegraph.com/news/counter-strike-s-cosmetic-market-collapse-shows-use-case-for-nfts-in-gaming?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 24 Oct 2025 14:28:43 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "A major update to Counter-Strike 2’s item mechanics wiped nearly $2 billion from its $5.8 billion skin market, igniting debate over central control in gaming."
   },
   {
-    "title": "Hedera’s HBAR Slides 5% as $0.19 Support Crumbles, Traders Eye Technical Reversal",
-    "link": "https://www.coindesk.com/markets/2025/11/03/hedera-s-hbar-slides-5-as-usd0-19-support-crumbles-traders-eye-technical-reversal",
-    "pubDate": "Mon, 03 Nov 2025 16:40:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera token breaks key technical level amid volume surge, though late-session reversal signals emerge."
+    "title": " Coinbase splashes $25M to revive a podcast from the last bull run ",
+    "link": "https://cointelegraph.com/news/coinbase-spends-25-million-nft-revive-uponly-crypto-podcast?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 21 Oct 2025 06:37:18 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Coinbase has paid $25 million for an NFT that compels the once popular crypto podcast UpOnly to restart. Bull market vibes anyone?"
   },
   {
-    "title": "BONK Tumbles as Meme Token Breaks Support, Tests Key Lows",
-    "link": "https://www.coindesk.com/markets/2025/11/03/bonk-tumbles-as-meme-token-breaks-support-tests-key-lows",
-    "pubDate": "Mon, 03 Nov 2025 16:21:02 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BONK slid to $0.00001232, breaking through critical support as sales pressure swept through Solana-linked meme tokens."
+    "title": " OpenSea rejects pivot from NFTs, says it’s evolving to ‘trade everything’ ",
+    "link": "https://cointelegraph.com/news/opensea-rejects-pivot-from-nfts-trade-everything-onchain?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sat, 18 Oct 2025 12:47:45 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "OpenSea CEO Devin Finzer says the platform isn’t abandoning NFTs but expanding into a universal onchain trading hub."
   },
   {
-    "title": "Polkadot Slumps as Bears Break Key Support at $2.87",
-    "link": "https://www.coindesk.com/markets/2025/11/03/polkadot-slumps-as-bears-break-key-support-at-usd2-87",
-    "pubDate": "Mon, 03 Nov 2025 15:57:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Heavy institutional selling pressure triggered a technical breakdown in DOT."
+    "title": " Swiss regulator GESPA takes aim at FIFA’s NFT platform in formal complaint ",
+    "link": "https://cointelegraph.com/news/swiss-regulator-gespa-fifa-nft-platform-complaint?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 18:12:40 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Switzerland’s nationwide gambling authority said user rewards on the platform feature the element of chance, categorizing them as gambling."
   },
   {
-    "title": "Bitcoin Slides Below $106K as Cryptos Tumble, Nearing October Crash Lows",
-    "link": "https://www.coindesk.com/markets/2025/11/03/bitcoin-slides-below-usd106k-as-cryptos-tumble-nearing-october-crash-lows",
-    "pubDate": "Mon, 03 Nov 2025 15:55:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The downturn in prices rippled across derivatives markets, liquidating over $1 billion in leveraged trading positions across all digital assets Monday, CoinGlass data showed."
+    "title": " Fear returns to the crypto market as $230B vanishes overnight ",
+    "link": "https://cointelegraph.com/news/crypto-fear-greed-index-falls-to-april-lows?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 17 Oct 2025 11:55:35 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Investor sentiment turned sharply bearish as crypto’s fear index plunged to 28, and $230 billion in value evaporated in a single day."
+  },
+  {
+    "title": " NFT markets rebound after $1.2B wipeout in Friday’s crypto crash ",
+    "link": "https://cointelegraph.com/news/nft-market-rebound-after-1-2b-wipeout-crypto-crash?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 15 Oct 2025 11:59:10 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Top Ethereum NFT collections like BAYC, Pudgy Penguins and CryptoPunks remain in the red despite a partial market recovery after Friday’s crypto market crash."
+  },
+  {
+    "title": " Sorare CEO still bullish on Ethereum despite ‘upgrading’ to Solana ",
+    "link": "https://cointelegraph.com/news/sorare-hypes-ethereum-despite-migrating-to-solana?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Wed, 15 Oct 2025 05:19:16 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Fantasy sports crypto platform Sorare is migrating from Ethereum to Solana, with its CEO saying it is a better fit for Sorare due to its scalability and focus on consumer applications."
+  },
+  {
+    "title": " How to use Google’s Gemini to research coins before you invest ",
+    "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 14 Oct 2025 07:34:58 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
+  },
+  {
+    "title": " How to use ChatGPT to find hidden gems in the crypto market ",
+    "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-find-hidden-gems-in-the-crypto-market?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Sun, 12 Oct 2025 10:24:17 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Discover hidden crypto gems using ChatGPT: GPTs, sentiment insights and data-driven scanners for smarter research and trading."
+  },
+  {
+    "title": " Early crypto gems: How to discover them first ",
+    "link": "https://cointelegraph.com/news/early-crypto-gems-how-to-discover-them-first?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Tue, 07 Oct 2025 12:27:08 +0100",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Spot early crypto gems in 2025 with five key checks — builders, usage, liquidity, token design and security — to avoid exit liquidity traps."
   }
 ]
