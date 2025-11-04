@@ -1,5 +1,103 @@
 [
   {
+    "title": "Privacy Coins Post Double-Digit Gains, Defying Market Slump",
+    "link": "https://decrypt.co/347253/privacy-coins-post-double-digit-gains-defying-market-slump",
+    "pubDate": "Tue, 04 Nov 2025 12:23:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts say privacy tokens are rallying as investors seek anonymity from increasing Bitcoin scrutiny, with Dash seeing record whale accumulation."
+  },
+  {
+    "title": "Privacy Coins Outperform as Bitcoin Price Nears June Low: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/04/privacy-coins-outperform-as-bitcoin-price-nears-june-low-crypto-daybook-americas",
+    "pubDate": "Tue, 04 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 4, 2025"
+  },
+  {
+    "title": "Analysts map $285M in potential exposure across DeFi after Stream Finance’s $93M loss",
+    "link": "https://www.theblock.co/post/377491/analysts-map-285m-in-potential-exposure-across-defi-after-stream-finances-93m-loss?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 06:49:26 -0500",
+    "source": "The Block",
+    "contentSnippet": "DeFi analysts claim there may be over $285 million in cross-protocol exposure tied to Stream Finance's $93 million loss."
+  },
+  {
+    "title": "UBS, Chainlink Execute First Onchain Tokenized Fund Redemption in $100T Market",
+    "link": "https://www.coindesk.com/business/2025/11/04/ubs-chainlink-execute-first-onchain-tokenized-fund-redemption-in-usd100t-market",
+    "pubDate": "Tue, 04 Nov 2025 11:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The transaction involved the tokenized UBS USD Money Market Investment Fund Token (uMINT) on Ethereum, with DigiFT as the onchain distributor."
+  },
+  {
+    "title": "Over $1.3 billion in crypto positions liquidated as bitcoin’s drop below $104,000 hits ‘fragile’ market",
+    "link": "https://www.theblock.co/post/377451/crypto-liquidations-bitcoin-drops-under-104000-usd-fragile-market?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 05:23:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "Bitcoin has dropped below $104,000, triggering $1.4 billion in liquidations as fear surges, ETF outflows persist, and traders go risk-off."
+  },
+  {
+    "title": "Bitcoin Nears Lowest Since June as U.S. Government Shutdown Hits Joint Longest",
+    "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-nears-lowest-since-june-as-u-s-government-shutdown-hits-joint-longest",
+    "pubDate": "Tue, 04 Nov 2025 10:03:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The bitcoin price is approaching $103,000 as the federal shutdown ties the 2018–2019 record while dollar the strengthens and tech market futures decline."
+  },
+  {
+    "title": "US prosecutors seek five-year prison terms for Samourai Wallet founders",
+    "link": "https://www.theblock.co/post/377443/us-seek-five-year-samourai-wallet?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 05:00:50 -0500",
+    "source": "The Block",
+    "contentSnippet": "Prosecutors alleged that Rodriguez and Lonergan operated a service that helped launder at least $237 million in criminal proceeds."
+  },
+  {
+    "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
+    "link": "https://decrypt.co/347238/bitcoin-slips-below-104k-as-crypto-market-extends-losses",
+    "pubDate": "Tue, 04 Nov 2025 09:47:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts say a DeFi crisis and macro fears sparked a crypto sell-off, but the leverage flush may pave the way for a sustainable recovery."
+  },
+  {
+    "title": "Strategy Introduces a Euro-Denominated Preferred Stock Stream, Following Q3 Earnings",
+    "link": "https://www.coindesk.com/markets/2025/11/04/strategy-introduces-a-euro-denominated-preferred-stock-stream-following-q3-earnings",
+    "pubDate": "Tue, 04 Nov 2025 09:37:40 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Less than a week after hinting at an international perpetual preferred listing, Strategy unveils its 10% euro-based Stream issue targeting institutional investors."
+  },
+  {
+    "title": "Berachain distributes hard fork binary to address Balancer V2 exploit",
+    "link": "https://www.theblock.co/post/377407/berachain-hard-fork-binary?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 02:42:47 -0500",
+    "source": "The Block",
+    "contentSnippet": "Validators halted the network on Monday as the exploit on Balancer V2 exposed vulnerabilities in Berachain's native decentralized exchange."
+  },
+  {
+    "title": "XRP Nears 'Death Cross'",
+    "link": "https://www.coindesk.com/markets/2025/11/04/xrp-nears-death-cross",
+    "pubDate": "Tue, 04 Nov 2025 07:30:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XRP's key averages are set to produce a death cross."
+  },
+  {
+    "title": "Stream Finance Faces $93 Million Loss, Launches Legal Investigation",
+    "link": "https://www.coindesk.com/markets/2025/11/04/stream-finance-faces-usd93-million-loss-launches-legal-investigation",
+    "pubDate": "Tue, 04 Nov 2025 06:25:46 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "DeFi platform Stream Finance is engaging law firm Perkins Coie LLP to lead investigation after an external fund manager disclosed a huge loss."
+  },
+  {
+    "title": "Solana's Bull Party Ends: Trendline Smashed, Fib Eyed",
+    "link": "https://www.coindesk.com/markets/2025/11/04/solana-s-bull-party-ends-trendline-smashed-fib-eyed",
+    "pubDate": "Tue, 04 Nov 2025 06:25:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The bearish momentum is increasing, according to key indicators."
+  },
+  {
+    "title": "Ether, Solana, XRP Drop 8% in Fresh Move Lower, But Bitcoin Could See a Bullish November",
+    "link": "https://www.coindesk.com/markets/2025/11/04/ether-solana-xrp-drop-8-in-fresh-move-lower-but-bitcoin-could-see-a-bullish-november",
+    "pubDate": "Tue, 04 Nov 2025 06:20:27 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Federal Reserve’s 25-basis-point cut last week was widely expected, but Chair Jerome Powell’s restrained tone dampened risk appetite after he hinted that December’s cut isn’t guaranteed."
+  },
+  {
     "title": "Bitcoin’s Last Support Before $100K Breaks as 'Mag 7' Skew Flips, Oracle CDS Surges",
     "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-s-last-support-before-usd100k-breaks-as-mag-7-skew-flips-oracle-cds-surges",
     "pubDate": "Tue, 04 Nov 2025 06:04:44 +0000",
@@ -63,32 +161,11 @@
     "contentSnippet": "Bullish, a crypto exchange backed by Peter Thiel, launched spot trading in the US last month after obtaining a key New York license."
   },
   {
-    "title": "Dogecoin Plunges 8% as Price Action Points to Brief Technical Bounces",
-    "link": "https://www.coindesk.com/markets/2025/11/04/dogecoin-plunges-8-as-price-action-points-to-brief-technical-bounces",
-    "pubDate": "Tue, 04 Nov 2025 02:18:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Analysts suggest stabilization above $0.165 is crucial for recovery, with a daily close above $0.18 needed to counter bearish momentum."
-  },
-  {
     "title": "Physics vs. Code: Why Google’s ‘Quantum Money’ Could Make Blockchain Obsolete",
     "link": "https://decrypt.co/347228/physics-code-googles-quantum-money-could-make-blockchain-obsolete",
     "pubDate": "Tue, 04 Nov 2025 02:17:58 +0000",
     "source": "Decrypt",
     "contentSnippet": "Google Quantum AI’s new research revisits a 1960s idea for unforgeable “quantum money,” exploring how physics, not code, could secure finance."
-  },
-  {
-    "title": "XRP Triangle Tightens as Token Falls 6%, Watch This Price Level For Further Breakdown",
-    "link": "https://www.coindesk.com/markets/2025/11/04/xrp-triangle-tightens-as-token-falls-6-watch-this-price-level-for-further-breakdown",
-    "pubDate": "Tue, 04 Nov 2025 02:08:57 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The move reflected cautious accumulation rather than broad conviction, as trading volumes remained below trend despite multiple volatility spikes during the session."
-  },
-  {
-    "title": "Asia Morning Briefing: BTC Tests Its Floor as Legacy Sellers Meet Macro Rotation",
-    "link": "https://www.coindesk.com/markets/2025/11/04/asia-morning-briefing-btc-tests-its-floor-as-legacy-sellers-meet-macro-rotation",
-    "pubDate": "Tue, 04 Nov 2025 02:02:50 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Market makers say liquidity is moving back into equities while crypto digests heavy profit-taking from long-term holders."
   },
   {
     "title": "Bitwise, Grayscale reveal fees for XRP and Dogecoin ETFs as firms push ahead to launch without SEC’s green light",
@@ -105,13 +182,6 @@
     "contentSnippet": "Evgeny Gaevoy said Wintermute will not sue Binance over losses incurred during the largest crypto liquidation event on Oct. 10."
   },
   {
-    "title": "Solana's SOL Bleeds Nearly 20% Since ETF Debut Despite 'Very Solid' Inflows",
-    "link": "https://www.coindesk.com/markets/2025/11/03/solana-s-sol-bleeds-nearly-20-since-etf-debut-despite-very-solid-inflows",
-    "pubDate": "Mon, 03 Nov 2025 22:48:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The weak action happened despite SOL exchange-traded products booking their second strongest weekly inflow on record driven by the new ETFs, CoinShares said."
-  },
-  {
     "title": "Hollywood.com Reveals Crypto-Powered Prediction Market for Movies, TV and More",
     "link": "https://decrypt.co/347220/hollywood-com-crypto-powered-prediction-market-movies-tv",
     "pubDate": "Mon, 03 Nov 2025 22:44:51 +0000",
@@ -126,13 +196,6 @@
     "contentSnippet": "A team at Shanghai AI Lab says most AI errors stem not from bad models but from thin prompts. Their solution—“context engineering”—shows that giving language models richer background information leads"
   },
   {
-    "title": "Ripple’s crypto investments hit $4 billion with acquisition of wallet tech firm Palisade",
-    "link": "https://www.theblock.co/post/377368/ripples-crypto-investments-hit-4-billion-with-acquisition-of-wallet-tech-firm-palisade?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 17:28:27 -0500",
-    "source": "The Block",
-    "contentSnippet": "The company has now racked up multiple acquisitions this year, including buying prime broker Hidden Road for $1.25 billion."
-  },
-  {
     "title": "Ripple Acquires Crypto Wallet and Custody Firm Palisade",
     "link": "https://decrypt.co/347216/ripple-acquires-crypto-wallet-custody-palisade",
     "pubDate": "Mon, 03 Nov 2025 22:16:29 +0000",
@@ -140,143 +203,10 @@
     "contentSnippet": "Fintech firm Ripple made another acquisition, this time snatching up wallet provider and custody firm Palisade on Monday."
   },
   {
-    "title": "Ethereum treasury firm BitMine falls 8% after adding another 82,353 ETH",
-    "link": "https://www.theblock.co/post/377367/ethereum-treasury-firm-bitmine-falls-8-after-adding-another-82353-eth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 16:52:13 -0500",
-    "source": "The Block",
-    "contentSnippet": "The second-largest digital asset treasury now holds nearly 3.4 million ETH, worth $12 billion, and 192 BTC, valued at about $20 million."
-  },
-  {
-    "title": "Ripple Acquires Crypto Wallet Firm Palisade to Expand Institutional Payments Business",
-    "link": "https://www.coindesk.com/business/2025/11/03/ripple-acquires-crypto-wallet-firm-palisade-to-expand-institutional-payments-business",
-    "pubDate": "Mon, 03 Nov 2025 21:02:29 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "With the acquisition, Ripple aims to provide quickly-deployable wallets to boost fintech and corporate crypto payments, president Monica Long said in an interview."
-  },
-  {
     "title": "AI Browsers Are Headed to Crypto—Donut Labs Just Raised $22 Million to Build It First",
     "link": "https://decrypt.co/347204/ai-browsers-headed-crypto-donut-labs-22-million-build-first",
     "pubDate": "Mon, 03 Nov 2025 21:00:40 +0000",
     "source": "Decrypt",
     "contentSnippet": "Donut Labs says its AI-powered browser can analyze markets and execute trades on its own."
-  },
-  {
-    "title": "FTSE Russell taps Chainlink to bring Russell 1000 and other index data onchain",
-    "link": "https://www.theblock.co/post/377357/ftse-russell-taps-chainlink-bring-russell-1000-other-index-data-onchain?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 15:44:48 -0500",
-    "source": "The Block",
-    "contentSnippet": "The tie-up will bring data for major global indices like the Russell 1000, Russell 2000, Russell 3000, and other FTSE products onchain."
-  },
-  {
-    "title": "Tharimmune raises $540 million from ARK Invest, DRW, Kraken and others to build Canton Coin treasury",
-    "link": "https://www.theblock.co/post/377347/tharimmune-canton-coin-treasury-blockchain?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 03 Nov 2025 15:42:57 -0500",
-    "source": "The Block",
-    "contentSnippet": "The raise continues a trend of small-cap firms reinventing themselves as digital-asset treasuries to gain market exposure to crypto."
-  },
-  {
-    "title": "ArXiv Blocks AI-Generated Survey Papers After 'Flood' of Trashy Submissions",
-    "link": "https://decrypt.co/347196/arxiv-blocks-ai-generated-survey-papers-flood-trashy-submissions",
-    "pubDate": "Mon, 03 Nov 2025 20:14:52 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Preprint repository ArXiv is cracking down on survey papers after AI tools make it easy to mass-produce low-quality submissions that overwhelm volunteer moderators."
-  },
-  {
-    "title": "Bitcoin Miners IREN, Cipher Rise After Multi-Billion-Dollar Microsoft, Amazon Deals",
-    "link": "https://decrypt.co/347193/bitcoin-miners-iren-cipher-rise-billion-dollar-microsoft-amazon",
-    "pubDate": "Mon, 03 Nov 2025 19:28:23 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The transactions are the latest between Magnificent Seven companies and Bitcoin miner and data center firms."
-  },
-  {
-    "title": "SUI Token Drops 9% as Institutional Selling Hits Harder Than Broader Crypto Market",
-    "link": "https://www.coindesk.com/markets/2025/11/03/sui-token-drops-9-as-institutional-selling-hits-harder-than-broader-crypto-market",
-    "pubDate": "Mon, 03 Nov 2025 19:08:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Volume jumped 628% as SUI sliced through key support, then bounced — without buyer conviction."
-  },
-  {
-    "title": "Chainlink Drops 10% Amid Crypto Selloff; New Rewards Program Unveiled",
-    "link": "https://www.coindesk.com/markets/2025/11/03/chainlink-drops-10-amid-crypto-selloff-new-rewards-program-unveiled",
-    "pubDate": "Mon, 03 Nov 2025 17:51:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The oracle network's token hit its weakest price since the October 10 crash, breaking key support levels after multiple failed breakout last week."
-  },
-  {
-    "title": "Stellar Holds the Line at $0.277 as Buyers Defend Key Support Zone",
-    "link": "https://www.coindesk.com/markets/2025/11/03/stellar-holds-the-line-at-usd0-277-as-buyers-defend-key-support-zone",
-    "pubDate": "Mon, 03 Nov 2025 16:59:50 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XLM steadies after a sharp 5.5% sell-off, with traders watching the $0.277 level as the critical line between recovery and renewed downside pressure."
-  },
-  {
-    "title": " Valve’s Counter-Strike 2 update crashes $5.8B economy, revives NFT debate ",
-    "link": "https://cointelegraph.com/news/counter-strike-s-cosmetic-market-collapse-shows-use-case-for-nfts-in-gaming?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 24 Oct 2025 14:28:43 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "A major update to Counter-Strike 2’s item mechanics wiped nearly $2 billion from its $5.8 billion skin market, igniting debate over central control in gaming."
-  },
-  {
-    "title": " Coinbase splashes $25M to revive a podcast from the last bull run ",
-    "link": "https://cointelegraph.com/news/coinbase-spends-25-million-nft-revive-uponly-crypto-podcast?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 21 Oct 2025 06:37:18 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Coinbase has paid $25 million for an NFT that compels the once popular crypto podcast UpOnly to restart. Bull market vibes anyone?"
-  },
-  {
-    "title": " OpenSea rejects pivot from NFTs, says it’s evolving to ‘trade everything’ ",
-    "link": "https://cointelegraph.com/news/opensea-rejects-pivot-from-nfts-trade-everything-onchain?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sat, 18 Oct 2025 12:47:45 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "OpenSea CEO Devin Finzer says the platform isn’t abandoning NFTs but expanding into a universal onchain trading hub."
-  },
-  {
-    "title": " Swiss regulator GESPA takes aim at FIFA’s NFT platform in formal complaint ",
-    "link": "https://cointelegraph.com/news/swiss-regulator-gespa-fifa-nft-platform-complaint?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 18:12:40 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Switzerland’s nationwide gambling authority said user rewards on the platform feature the element of chance, categorizing them as gambling."
-  },
-  {
-    "title": " Fear returns to the crypto market as $230B vanishes overnight ",
-    "link": "https://cointelegraph.com/news/crypto-fear-greed-index-falls-to-april-lows?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Fri, 17 Oct 2025 11:55:35 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Investor sentiment turned sharply bearish as crypto’s fear index plunged to 28, and $230 billion in value evaporated in a single day."
-  },
-  {
-    "title": " NFT markets rebound after $1.2B wipeout in Friday’s crypto crash ",
-    "link": "https://cointelegraph.com/news/nft-market-rebound-after-1-2b-wipeout-crypto-crash?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 15 Oct 2025 11:59:10 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Top Ethereum NFT collections like BAYC, Pudgy Penguins and CryptoPunks remain in the red despite a partial market recovery after Friday’s crypto market crash."
-  },
-  {
-    "title": " Sorare CEO still bullish on Ethereum despite ‘upgrading’ to Solana ",
-    "link": "https://cointelegraph.com/news/sorare-hypes-ethereum-despite-migrating-to-solana?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 15 Oct 2025 05:19:16 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Fantasy sports crypto platform Sorare is migrating from Ethereum to Solana, with its CEO saying it is a better fit for Sorare due to its scalability and focus on consumer applications."
-  },
-  {
-    "title": " How to use Google’s Gemini to research coins before you invest ",
-    "link": "https://cointelegraph.com/news/how-to-use-google-s-gemini-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 14 Oct 2025 07:34:58 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Google’s Gemini AI can help organize research, compare tokenomics and cut through noise. Here’s a workflow to analyze coins before you invest responsibly."
-  },
-  {
-    "title": " How to use ChatGPT to find hidden gems in the crypto market ",
-    "link": "https://cointelegraph.com/news/how-to-use-chatgpt-to-find-hidden-gems-in-the-crypto-market?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Sun, 12 Oct 2025 10:24:17 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Discover hidden crypto gems using ChatGPT: GPTs, sentiment insights and data-driven scanners for smarter research and trading."
-  },
-  {
-    "title": " Early crypto gems: How to discover them first ",
-    "link": "https://cointelegraph.com/news/early-crypto-gems-how-to-discover-them-first?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Tue, 07 Oct 2025 12:27:08 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Spot early crypto gems in 2025 with five key checks — builders, usage, liquidity, token design and security — to avoid exit liquidity traps."
   }
 ]
