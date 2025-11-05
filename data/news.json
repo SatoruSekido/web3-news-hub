@@ -1,17 +1,171 @@
 [
   {
+    "title": "Inside the Deposition That Showed How OpenAI Nearly Destroyed Itself",
+    "link": "https://decrypt.co/347349/inside-deposition-showed-openai-nearly-destroyed-itself",
+    "pubDate": "Tue, 04 Nov 2025 23:55:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A 10-hour sworn testimony from OpenAI co-founder Ilya Sutskever paints a picture of panic, unverified allegations, and governance failures."
+  },
+  {
+    "title": "US Treasury Sanctions Web of North Korean Bankers Tied to Global Crypto Crime Operation",
+    "link": "https://decrypt.co/347321/treasury-sanctions-web-north-korean-bankers-global-crypto-crime-operation",
+    "pubDate": "Tue, 04 Nov 2025 23:01:31 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The U.S. Treasury sanctioned eight bankers, two companies, and 53 crypto wallets for laundering stolen funds to back North Korea's weapons programs."
+  },
+  {
+    "title": "Amazon Sends Cease-and-Desist to Perplexity Over AI Agent Purchases",
+    "link": "https://decrypt.co/347325/amazon-sends-cease-desist-perplexity-ai-agent-purchases",
+    "pubDate": "Tue, 04 Nov 2025 22:55:32 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Amazon’s order to halt Perplexity's AI-powered web browser Comet marks the first major clash over shopping agents."
+  },
+  {
+    "title": "Ether's 20% Freefall Triggers $1B Liquidation Cascade as Crypto Losses Accelerate",
+    "link": "https://www.coindesk.com/markets/2025/11/04/ether-s-20-freefall-triggers-usd1b-liquidation-cascade-as-crypto-losses-accelerate",
+    "pubDate": "Tue, 04 Nov 2025 22:54:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The correction could have more room to run, with ETH potentially falling to as low as $2,700-$2,800, 10x Research's Markus Thielen warned."
+  },
+  {
+    "title": "Crypto Liquidations Top $2 Billion as Bitcoin Continues Slide, Ethereum Hits 4-Month Low",
+    "link": "https://decrypt.co/347341/crypto-liquidations-2-billion-bitcoin-slides-ethereum-4-month-low",
+    "pubDate": "Tue, 04 Nov 2025 22:38:40 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin fell even further below $100,000 and Ethereum plunged to its worst price in months, driving over $2 billion in rekt crypto bets."
+  },
+  {
+    "title": "Bitcoin Treasury Sequans Sells $100 Million in BTC to Pay Down Debt",
+    "link": "https://decrypt.co/347337/bitcoin-treasury-sequans-sells-100m-btc-pay-debt",
+    "pubDate": "Tue, 04 Nov 2025 22:33:21 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The French NYSE-listed firm started buying the largest cryptocurrency by market cap in July."
+  },
+  {
+    "title": "CryptoQuant says bitcoin could drop to $72,000 by year’s end if $100,000 level doesn’t hold",
+    "link": "https://www.theblock.co/post/377684/cryptoquant-says-bitcoin-could-drop-to-72000-by-years-end-if-100000-level-doesnt-hold?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 17:18:58 -0500",
+    "source": "The Block",
+    "contentSnippet": "CryptoQuant says bitcoin could fall to around $72,000 within one to two months if it fails to hold the $100,000 support level."
+  },
+  {
+    "title": "Appeals court judges question Sam Bankman-Fried’s claims over FTX solvency",
+    "link": "https://www.theblock.co/post/377660/appeals-court-judges-question-sam-bankman-frieds-claims-over-ftx-solvency?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 15:42:25 -0500",
+    "source": "The Block",
+    "contentSnippet": "Arguments made by former FTX CEO Sam Bankman-Fried's lawyer in a bid to get a new trial may not have been convincing, Sam Enzer says."
+  },
+  {
+    "title": "Sam Bankman-Fried Wants Another Trial, But His Lawyer Faces Skepticism",
+    "link": "https://decrypt.co/347324/sam-bankman-fried-wants-another-trial-lawyer-skepticism",
+    "pubDate": "Tue, 04 Nov 2025 20:29:29 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "An appeals court did not appear to embrace arguments made by Sam Bankman-Fried's lawyer as to why his 25-year sentence should be overturned."
+  },
+  {
+    "title": "Zcash Surging on 'Cypherpunk Principles' as Bitcoin Alternative: Galaxy Digital",
+    "link": "https://decrypt.co/347322/zcash-surging-cypherpunk-principles-bitcoin-galaxy-digital",
+    "pubDate": "Tue, 04 Nov 2025 20:29:14 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin’s creator was aware of its privacy limitations."
+  },
+  {
+    "title": "Ripple's Stablecoin Hits $1B Milestone; Company President Discusses M&A Strategy to Fuel Growth",
+    "link": "https://www.coindesk.com/markets/2025/11/04/ripple-s-stablecoin-hits-usd1b-milestone-as-president-discusses-m-and-a-strategy-to-fuel-growth",
+    "pubDate": "Tue, 04 Nov 2025 20:23:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The U.S. dollar stablecoin of the blockchain firm climbs the ranks faster than most, tapping into its global payments network to accelerate adoption."
+  },
+  {
+    "title": "Bitcoin Miner MARA Revenue Hit Record High in Q3",
+    "link": "https://decrypt.co/347314/bitcoin-miner-mara-revenue-record-high-q3",
+    "pubDate": "Tue, 04 Nov 2025 20:13:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The company’s CEO Fred Thiel said on an earnings call that it would be looking to expand its services in AI computing."
+  },
+  {
+    "title": "XRP Ledger’s Dual Utility Could Make It a Breakout ETF Play, Experts Argue",
+    "link": "https://www.coindesk.com/markets/2025/11/04/xrp-ledger-s-dual-utility-could-make-it-a-breakout-etf-play-experts-discuss",
+    "pubDate": "Tue, 04 Nov 2025 20:11:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Ripple’s unified system for payments and wealth storage may give XRP an edge with institutions eyeing real-world utility beyond speculation, said Bitnomial CEO Luke Hoersten."
+  },
+  {
+    "title": "SEC crypto treasury probe frozen by shutdown, but subpoenas could fly soon after government reopens",
+    "link": "https://www.theblock.co/post/377542/sec-crypto-treasury-probe-frozen-by-shutdown-but-subpoenas-could-fly-soon-after-government-reopens?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 15:06:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "Former SEC lawyers say the agency could advance the probe by issuing subpoenas within one to two months after the shutdown ends."
+  },
+  {
+    "title": "Esports Giant Ninjas in Pyjamas Expands Bitcoin Operation, Aims to Mine $16M in BTC Monthly",
+    "link": "https://decrypt.co/347309/esports-giant-ninjas-pyjamas-expands-bitcoin-operation",
+    "pubDate": "Tue, 04 Nov 2025 19:45:49 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ninjas in Pyjamas parent company NIP Group hopes to produce $16 million worth of Bitcoin each month by expanding its mining operation."
+  },
+  {
+    "title": "Bitcoin Plunges Below $100K for First Time Since June as Crypto Correction Worsens",
+    "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-plunges-below-usd100k-for-first-time-since-june-as-crypto-correction-worsens",
+    "pubDate": "Tue, 04 Nov 2025 19:07:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The largest crypto has now tumbled more than 20% since hitting a record high above $126,000 only one month ago."
+  },
+  {
+    "title": "Appeals Court Seems Unmoved by Sam Bankman-Fried’s Claims of an Unfair Trial",
+    "link": "https://www.coindesk.com/policy/2025/11/04/appeals-court-seems-unmoved-by-sam-bankman-fried-s-claims-of-an-unfair-trial",
+    "pubDate": "Tue, 04 Nov 2025 19:06:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The former FTX CEO, who is currently serving a 25-year sentence for fraud, has repeatedly claimed that the crypto exchange was solvent at the time of its bankruptcy."
+  },
+  {
+    "title": "Coinbase Faces Flak from Traditional Bankers on Its Push for Trust Bank Charter",
+    "link": "https://www.coindesk.com/policy/2025/11/04/coinbase-faces-flak-from-traditional-bankers-on-its-push-for-trust-bank-charter",
+    "pubDate": "Tue, 04 Nov 2025 19:02:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "One of the biggest advocacy groups for banking in the U.S. has asked the Office of the Comptroller of the Currency to dismiss Coinbase's licensing effort."
+  },
+  {
+    "title": "Bitcoin Crashes Under $100K for First Time Since May, Liquidations Hit $1.3 Billion",
+    "link": "https://decrypt.co/347305/bitcoin-crashes-under-100k-first-time-since-may-liquidations-hit-1-3-billion",
+    "pubDate": "Tue, 04 Nov 2025 18:57:33 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin just dropped below the $100,000 mark for the first time since May, with Ethereum, XRP, and other hit harder. Is the bull run over?"
+  },
+  {
+    "title": "The Daily: Stream Finance external fund manager discloses $93 million loss, Sequans dumps nearly a third of its bitcoin holdings, and more",
+    "link": "https://www.theblock.co/post/377629/the-daily-stream-finance-external-fund-manager-discloses-93-million-loss-sequans-dumps-nearly-third-bitcoin-holdings-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 13:57:14 -0500",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "ZKsync Proposal Aims to Tie $ZK Token to Network Revenue",
+    "link": "https://www.coindesk.com/business/2025/11/04/zksync-proposal-aims-to-tie-usdzk-token-to-network-revenue",
+    "pubDate": "Tue, 04 Nov 2025 18:43:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The creator behind the layer-2 has unveiled a proposal to transform its $ZK token from a governance instrument into a token with real economic utility."
+  },
+  {
+    "title": "Bitcoin teeters near $100,000, ether turns negative for the year amid crypto pullback",
+    "link": "https://www.theblock.co/post/377628/bitcoin-teeters-near-100000-ether-turns-negative-for-year-amid-crypto-pullback?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 04 Nov 2025 13:39:40 -0500",
+    "source": "The Block",
+    "contentSnippet": "Bitcoin hit a daily low of $100,050 while the largest smart contract platforms Ethereum, BNB Chain, and Solana are down over 7%."
+  },
+  {
+    "title": "Chainlink's LINK Tumbles 6% as Technical Breakdown Trumps UBS, FTSE Partnership",
+    "link": "https://www.coindesk.com/markets/2025/11/04/chainlink-s-link-tumbles-6-as-technical-breakdown-trumps-ubs-ftse-partnership",
+    "pubDate": "Tue, 04 Nov 2025 18:38:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "LINK risks falling to $14 as breakdown amid heavy volume confirmed the broader bearish structure."
+  },
+  {
     "title": "Perp DEX volumes hit record $1.2 trillion in October as incentives, liquidations drive surge",
     "link": "https://www.theblock.co/post/377319/perp-dex-volumes-hit-record-1-2-trillion-in-october-as-incentives-liquidations-drive-surge?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 04 Nov 2025 13:19:33 -0500",
     "source": "The Block",
     "contentSnippet": "Hyperliquid was the outlier among major perp DEXs as it ended the month about 16% below its peak two months prior."
-  },
-  {
-    "title": "Why Bernstein Just Boosted Its Price Target for Bitcoin Miner IREN",
-    "link": "https://decrypt.co/347288/why-bernstein-boosted-price-target-bitcoin-miner-iren",
-    "pubDate": "Tue, 04 Nov 2025 18:08:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "IREN this week signed a $9.7 billion cloud services agreement with Microsoft."
   },
   {
     "title": "DOGE Prints Lower-Low Sequence as $0.17 Resistance Locks In",
@@ -35,81 +189,11 @@
     "contentSnippet": "The move—paired with a 15% open-interest drop—keeps pressure on bulls ahead of a looming death-cross setup and a key $2.20 support retest."
   },
   {
-    "title": "Nasdaq CEO Adena Friedman Outlines 3 Ways Blockchain Can Fix Finance",
-    "link": "https://www.coindesk.com/markets/2025/11/04/nasdaq-ceo-outlines-3-ways-blockchain-can-fix-finance",
-    "pubDate": "Tue, 04 Nov 2025 17:26:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Friedman sees post-trade streamlining, collateral mobility and better payments as key blockchain breakthroughs."
-  },
-  {
-    "title": "Bitcoin Careens Toward $100K as Morning Bounce Fails",
-    "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-careens-toward-usd100k-as-morning-bounce-fails",
-    "pubDate": "Tue, 04 Nov 2025 17:10:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Ether, XRP, dogecoin and solana are all lower by 15%-20% over the past week."
-  },
-  {
-    "title": "Chainlink Introduces CRE to Fast-Track Institutional Tokenization",
-    "link": "https://www.coindesk.com/web3/2025/11/04/chainlink-introduces-cre-to-fast-track-institutional-tokenization",
-    "pubDate": "Tue, 04 Nov 2025 17:00:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "CRE enables smart contracts that work across blockchains and tap into legacy financial messaging standards, with access to Chainlink's services."
-  },
-  {
-    "title": "Olas Launches Pearl v1, the First 'AI Agent App Store'",
-    "link": "https://www.coindesk.com/tech/2025/11/04/olas-launches-pearl-v1-the-first-ai-agent-app-store",
-    "pubDate": "Tue, 04 Nov 2025 17:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The new platform lets users own and control autonomous artificial intelligence agents, aiming to shift power from centralized AI providers to individuals."
-  },
-  {
     "title": "Sequans dumps nearly a third of bitcoin holdings to pay down debt as BTC falls to four-month low",
     "link": "https://www.theblock.co/post/377595/sequans-dumps-third-bitcoin-holdings-pay-down-debt-btc-falls-four-month-low?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 04 Nov 2025 11:55:33 -0500",
     "source": "The Block",
     "contentSnippet": "Nasdaq-listed Sequans sold 970 bitcoins, cutting its bitcoin reserves to 2,264 BTC and halving its debt load."
-  },
-  {
-    "title": "HBAR Drops 4.2% to $0.173 as ETF Buzz Fades on Technical Selling",
-    "link": "https://www.coindesk.com/markets/2025/11/04/hbar-drops-4-2-to-usd0-173-as-etf-buzz-fades-on-technical-selling",
-    "pubDate": "Tue, 04 Nov 2025 16:50:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "HBAR slid 4.2% as heavy technical selling erased ETF-driven gains, with traders prioritizing short-term chart signals over long-term optimism."
-  },
-  {
-    "title": "Toncoin Falls Below $2 as Broader Market Conditions Weigh on Price",
-    "link": "https://www.coindesk.com/markets/2025/11/04/toncoin-falls-below-usd2-as-broader-market-conditions-weigh-on-price",
-    "pubDate": "Tue, 04 Nov 2025 16:43:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The selloff was driven by heavy volume and over $1.4 billion in long position liquidations, pushing TON through several support zones."
-  },
-  {
-    "title": "Stellar’s XLM Slides 7.7% as Key Support Break Sparks Heavy Sell-Off",
-    "link": "https://www.coindesk.com/markets/2025/11/04/stellar-s-xlm-slides-7-7-as-key-support-break-sparks-heavy-sell-off",
-    "pubDate": "Tue, 04 Nov 2025 16:42:19 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XLM plunged below critical $0.2800 support amid a 483% volume surge, reinforcing its short-term downtrend and exposing the next downside target near $0.2700."
-  },
-  {
-    "title": "U.S. Sanctions North Korean Bankers Over Crypto Laundering Tied to Cyberattacks",
-    "link": "https://www.coindesk.com/business/2025/11/04/u-s-sanctions-north-korean-bankers-over-crypto-laundering-tied-to-cyberattacks",
-    "pubDate": "Tue, 04 Nov 2025 16:28:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Treasury Department sanctioned eight individuals and two entities accused of using crypto and shell companies to funnel millions into Pyongyang’s weapons programs."
-  },
-  {
-    "title": "Crypto enters “Extreme Fear”! Crypto Falls 3-8%!",
-    "link": "https://decrypt.co/videos/interviews/6x1AcJH6/crypto-enters-extreme-fear-crypto-falls-3-8",
-    "pubDate": "Tue, 04 Nov 2025 16:16:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors continued their decline, dropping another 3–8% as the selloff persisted. Bitcoin (BTC) fell 3% to $104,500, Ethereum (ETH) dropped 5% to $3,520, Binance Coin (BNB) slid 6% to $955, and S"
-  },
-  {
-    "title": "Stream Finance Stablecoin Plunges 77% After Protocol's Fund Manager Loses $93 Million",
-    "link": "https://decrypt.co/347285/stream-finance-stablecoin-plunges-77-protocol-fund-manager-loses-93-million",
-    "pubDate": "Tue, 04 Nov 2025 16:05:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Stream's collapse shows operational risk extends beyond smart contracts to fund managers and custody, an expert told Decrypt."
   },
   {
     "title": "MARA posts record $123 million profit by pairing bitcoin operations with new power and AI assets",
@@ -124,89 +208,5 @@
     "pubDate": "Tue, 04 Nov 2025 09:59:09 -0500",
     "source": "The Block",
     "contentSnippet": "IREN's ownership of its 2.9 GW power portfolio gives it a cost and scalability advantage over rivals like CoreWeave, the analysts said."
-  },
-  {
-    "title": "MyPrize aims to put social spin on prediction markets with Crypto.com partnership",
-    "link": "https://www.theblock.co/post/377555/myprize-aims-social-spin-prediction-markets-crypto-com-partnership?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Nov 2025 09:41:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "Led by Polymarket and Kalshi, prediction markets have become a high-growth sector within digital assets as they let users wager on events."
-  },
-  {
-    "title": "Former FTX CEO Sam Bankman Fried returns to court seeking new trial after FTX fraud conviction",
-    "link": "https://www.theblock.co/post/377558/former-ftx-ceo-sam-bankman-fried-returns-to-court-seeking-new-trial-after-ftx-fraud-conviction?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Nov 2025 09:29:20 -0500",
-    "source": "The Block",
-    "contentSnippet": "Jailed former FTX CEO Sam Bankman-Fried is back in court as he looks to get a redo after being found guilty on multiple fraud charges."
-  },
-  {
-    "title": "Solana treasury firm Upexi’s holdings climb 4.4% to over 2.1 million SOL",
-    "link": "https://www.theblock.co/post/377536/solana-treasury-firm-upexi-2-1-million-sol?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Nov 2025 09:00:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "Upexi also reported an 82% increase in adjusted SOL per share and a 96% return for investors since its April private placement."
-  },
-  {
-    "title": "Stablecoin-enabled payments infrastructure platform Zynk raises $5 million from Coinbase Ventures and others",
-    "link": "https://www.theblock.co/post/377473/zynk-raises-5-million-usd?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Nov 2025 08:35:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Zynk raised $5 million in a seed round led by Hivemind Capital, with participation from Coinbase Ventures, among others."
-  },
-  {
-    "title": "Morning Minute: Crypto Slides into “Extreme Fear” as Bitcoin Tumbles",
-    "link": "https://decrypt.co/347272/morning-minute-crypto-slides-into-extreme-fear-as-bitcoin-tumbles",
-    "pubDate": "Tue, 04 Nov 2025 13:16:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "OG Bitcoin holders selling $40B in the past month certainly isn't helping sentiment, as most are wondering: where is the bottom?"
-  },
-  {
-    "title": "Ethereum Traders Buy the Dip Despite Third-Largest Spot Outflow Since October",
-    "link": "https://decrypt.co/347254/ethereum-traders-buy-the-dip-despite-third-largest-spot-outflow-since-october",
-    "pubDate": "Tue, 04 Nov 2025 12:43:46 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum's large spot outflow signals dip buying, with a potential bounce contingent on improving macro conditions, Decrypt was told."
-  },
-  {
-    "title": "Privacy Coins Post Double-Digit Gains, Defying Market Slump",
-    "link": "https://decrypt.co/347253/privacy-coins-post-double-digit-gains-defying-market-slump",
-    "pubDate": "Tue, 04 Nov 2025 12:23:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts say privacy tokens are rallying as investors seek anonymity from increasing Bitcoin scrutiny, with Dash seeing record whale accumulation."
-  },
-  {
-    "title": "Analysts map $285M in potential exposure across DeFi after Stream Finance’s $93M loss",
-    "link": "https://www.theblock.co/post/377491/analysts-map-285m-in-potential-exposure-across-defi-after-stream-finances-93m-loss?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 04 Nov 2025 06:49:26 -0500",
-    "source": "The Block",
-    "contentSnippet": "DeFi analysts claim there may be over $285 million in cross-protocol exposure tied to Stream Finance's $93 million loss."
-  },
-  {
-    "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
-    "link": "https://decrypt.co/347238/bitcoin-slips-below-104k-as-crypto-market-extends-losses",
-    "pubDate": "Tue, 04 Nov 2025 09:47:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts say a DeFi crisis and macro fears sparked a crypto sell-off, but the leverage flush may pave the way for a sustainable recovery."
-  },
-  {
-    "title": "US Prosecutors Seek Maximum Sentence for Samourai Wallet Developers",
-    "link": "https://decrypt.co/347236/us-prosecutors-seek-maximum-sentence-for-samourai-wallet-developers",
-    "pubDate": "Tue, 04 Nov 2025 04:56:36 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Prosecutors allege the developers weren't “mere bystanders,” but were instead actively soliciting criminals, while earning millions."
-  },
-  {
-    "title": "FTSE Russell Takes First Step Toward On-Chain Benchmark Data With Chainlink",
-    "link": "https://decrypt.co/347233/ftse-russell-first-step-on-chain-benchmark-data-chainlink",
-    "pubDate": "Tue, 04 Nov 2025 04:32:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The collab brings FTSE Russell’s benchmark indices to blockchain for the first time, linking regulated market data with on-chain finance."
-  },
-  {
-    "title": "Bitcoin Price Outlook: What's Next After Red October?",
-    "link": "https://decrypt.co/347231/bitcoin-price-outlook-whats-next-after-red-october",
-    "pubDate": "Tue, 04 Nov 2025 03:38:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin's \"Red October\" is a healthy correction that could fuel a bullish November, targeting up to $150K by year-end, Decrypt was told."
   }
 ]
