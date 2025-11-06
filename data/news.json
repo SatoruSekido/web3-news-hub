@@ -1,5 +1,68 @@
 [
   {
+    "title": "Strive to Raise Roughly $160 Million After Upsizing Preferred Stock Offering",
+    "link": "https://www.coindesk.com/markets/2025/11/06/strive-to-raise-roughly-usd160-million-after-upsizing-preferred-stock-offering",
+    "pubDate": "Thu, 06 Nov 2025 12:23:34 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Upsized 2 million-share SATA issuance priced at $80 includes a 12% dividend and potential bitcoin allocation."
+  },
+  {
+    "title": "Where's the Liquidity Gone?: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/06/where-s-the-liquidity-gone-crypto-daybook-americas",
+    "pubDate": "Thu, 06 Nov 2025 12:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 6, 2025"
+  },
+  {
+    "title": "Bitcoin Could Bounce, Headwinds Can Turn into Tailwinds: Tom Lee",
+    "link": "https://decrypt.co/347558/bitcoin-could-bounce-headwinds-can-turn-into-tailwinds-tom-lee",
+    "pubDate": "Thu, 06 Nov 2025 11:50:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fundstrat's Tom Lee says Bitcoin's slump was due to macro headwinds, but sees a potential reversal as pressures ease."
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Holds $103K as Altcoins Lag and Traders Hedge Downside",
+    "link": "https://www.coindesk.com/markets/2025/11/06/crypto-markets-today-bitcoin-holds-usd103k-as-altcoins-lag-and-traders-hedge-downside",
+    "pubDate": "Thu, 06 Nov 2025 11:45:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin steadies above $100,000 after a dip, while altcoins struggle and derivatives data show rising caution across the market."
+  },
+  {
+    "title": "Prediction markets are evolving into broader information trading venues: Bernstein",
+    "link": "https://www.theblock.co/post/377866/bernstein-prediction-markets-evolving-into-broader-information-venues-robinhood-kalshi-volumes-surge?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 06 Nov 2025 06:10:28 -0500",
+    "source": "The Block",
+    "contentSnippet": "Kalshi anchor partner Robinhood processed $2.5 billion in prediction-market volume in October — implying a $300 million annualized run rate."
+  },
+  {
+    "title": "Three Big Crypto Takeaways From Robinhood’s Quarterly Announcement",
+    "link": "https://decrypt.co/347550/three-big-crypto-takeaways-from-robinhoods-quarterly-announcement",
+    "pubDate": "Thu, 06 Nov 2025 11:07:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Robinhood executives said prediction markets are gaining traction and crypto trading remains strong, as the company looks to expand overseas."
+  },
+  {
+    "title": "Balancer identifies rounding error as root cause of multi-chain DeFi exploit",
+    "link": "https://www.theblock.co/post/377863/balancer-identifies-rounding-error-as-root-cause-of-multi-chain-defi-exploit?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 06 Nov 2025 05:51:49 -0500",
+    "source": "The Block",
+    "contentSnippet": "Balancer’s preliminary report says a rounding flaw in swap logic caused the recent exploit, with recovery efforts underway across affected chains and forks."
+  },
+  {
+    "title": "Another Piece of Michael Saylor’s Bitcoin Strategy May Be Falling Into Place",
+    "link": "https://www.coindesk.com/markets/2025/11/06/another-piece-of-michael-saylor-s-bitcoin-strategy-may-be-falling-into-place",
+    "pubDate": "Thu, 06 Nov 2025 09:59:58 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "With the perpetual preferred share STRC now trading at par, Strategy may unlock a new path to acquire bitcoin through its at-the-market program."
+  },
+  {
+    "title": "Franklin Templeton Debuts Tokenized Money Market Fund in Hong Kong ",
+    "link": "https://www.coindesk.com/business/2025/11/06/franklin-templeton-debuts-tokenized-money-market-fund-in-hong-kong",
+    "pubDate": "Thu, 06 Nov 2025 09:10:21 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Accredited investors in Hong Kong have access to the U.S. dollar, Luxembourg-registered, tokenized UCITS money-market product."
+  },
+  {
     "title": "Coinbase urges Treasury to keep GENIUS Act rules aligned with congressional intent",
     "link": "https://www.theblock.co/post/377861/coinbase-genius-act-rules?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 06 Nov 2025 00:53:30 -0500",
@@ -28,11 +91,11 @@
     "contentSnippet": "The USDC policy reversal on firearm purchases suggests that “stablecoins are at the whims of politicians,” an industry expert told Decrypt."
   },
   {
-    "title": "Trump Says He Wants U.S. To Be ‘The Bitcoin Superpower,’ Cites Competition From China",
+    "title": "Trump Says He Wants U.S. to Be ‘The Bitcoin Superpower,’ Cites Competition From China",
     "link": "https://www.coindesk.com/policy/2025/11/06/trump-says-he-wants-u-s-to-be-the-bitcoin-superpower-cites-competition-from-china",
     "pubDate": "Thu, 06 Nov 2025 05:19:49 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "At Miami’s America Business Forum, he said his orders ended a “war on crypto,” mentioned that crypto helps the dollar and warned China could gain if Washington stumbles."
+    "contentSnippet": "In a Miami speech, the U.S. president said his orders ended a “war on crypto,” mentioned that crypto helps the dollar and warned China could gain if Washington stumbles."
   },
   {
     "title": "Bitcoin’s Relief Rally Lifts Spirits: Is it Time to Buy the Dip?",
@@ -91,25 +154,11 @@
     "contentSnippet": "Robinhood's crypto revenue was up over 300% in Q3 to $268 million, helping to drive higher overall revenues of $1.27 billion."
   },
   {
-    "title": "U.S. Government Shutdown Stretches to Record 36 Days, Continues Risk of Derailing Crypto Bill",
-    "link": "https://www.coindesk.com/policy/2025/11/05/u-s-government-shutdown-stretches-to-record-36-days-continues-risk-of-derailing-crypto-bill",
-    "pubDate": "Wed, 05 Nov 2025 22:06:19 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Market structure legislation could still see movement this year, but likely won't become law before 2026."
-  },
-  {
     "title": "Robinhood Q3 Earnings Top Analysts' Expectations as Crypto Revenue Surges Over 300%",
     "link": "https://decrypt.co/347352/robinhood-q3-earnings-top-analysts-expectations-crypto-revenue-surges",
     "pubDate": "Wed, 05 Nov 2025 21:46:32 +0000",
     "source": "Decrypt",
     "contentSnippet": "Despite dipping the past five days, the company's share price has risen roughly 260% year-to-date."
-  },
-  {
-    "title": "Robinhood’s Crypto Trading Revenue Soared 339% in Q3 as Company Tops Street Earnings Estimates",
-    "link": "https://www.coindesk.com/markets/2025/11/05/robinhood-s-crypto-trading-revenue-soars-339-to-usd268m-in-q3",
-    "pubDate": "Wed, 05 Nov 2025 21:24:09 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The brokerage platform saw a record $80B in crypto trading volume; shares dipped in after hours action despite the earnings beat."
   },
   {
     "title": "Franklin Templeton debuts Hong Kong’s first tokenized fund under new AI-driven fintech plan",
@@ -133,46 +182,11 @@
     "contentSnippet": "Some were there to party. Others were focused on business."
   },
   {
-    "title": "Bitcoin Bounces Back: Can Bullish Momentum Hold or Has the Market Topped?",
-    "link": "https://decrypt.co/347468/bitcoin-bounces-bullish-momentum-hold-or-market-top",
-    "pubDate": "Wed, 05 Nov 2025 19:54:21 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin is bouncing, but only slightly, after falling to its lowest price in months. Is the bull run over or will traders defy historical trends?"
-  },
-  {
-    "title": "Citi and DTCC Say Tokenized Collateral Works and Now Regulators Must Keep Pace",
-    "link": "https://www.coindesk.com/markets/2025/11/05/citi-and-dtcc-say-tokenized-collateral-works-now-regulators-must-keep-pace",
-    "pubDate": "Wed, 05 Nov 2025 19:54:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "As financial giants test cross-asset collateral, they say legal gaps — not tech — are the biggest threat to scale."
-  },
-  {
-    "title": "Canada Begins March Toward Stablecoin Regulations ",
-    "link": "https://www.coindesk.com/policy/2025/11/05/canada-begins-march-toward-stablecoin-regulations",
-    "pubDate": "Wed, 05 Nov 2025 19:21:49 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "In the wake of the U.S. GENIUS Act, Canadian lawmakers are moving on Canadian-dollar-backed stablecoin legislation, which is being cheered by crypto interests."
-  },
-  {
-    "title": "Monad Reveals Mainnet and Token Launch Date Following Airdrop Claim",
-    "link": "https://decrypt.co/347450/monad-reveals-mainnet-token-launch-date-airdrop-claim",
-    "pubDate": "Wed, 05 Nov 2025 19:18:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Following its airdrop claim, the Monad Foundation said it launch the mainnet of its layer-1 network later this month alongside the MON token."
-  },
-  {
     "title": "Mastercard, Ripple and Gemini explore settling card transactions using XRPL",
     "link": "https://www.theblock.co/post/377833/mastercard-ripple-gemini-explore-settling-card-transactions-using-xrpl?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 05 Nov 2025 13:47:13 -0500",
     "source": "The Block",
     "contentSnippet": "Crypto platforms are hoping to generate more transaction revenue and add new clients by offering debit and credit cards."
-  },
-  {
-    "title": "The Protocol: ZKSync Aims to Revamp Its Tokenomics Model",
-    "link": "https://www.coindesk.com/tech/2025/11/05/the-protocol-zksync-aims-to-revamp-its-tokenomics-model",
-    "pubDate": "Wed, 05 Nov 2025 18:29:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Also: The First AI Agent App Store, ETH Devs Lock In Fusaka Mainnet Date and Edge & Node’s Ampersand."
   },
   {
     "title": "The Daily: Monad sets mainnet and airdrop for Nov. 24, Ripple raises $500M, Bitcoin’s ‘IPO moment,’ and more",
@@ -194,19 +208,5 @@
     "pubDate": "Wed, 05 Nov 2025 11:37:22 -0500",
     "source": "The Block",
     "contentSnippet": "The Chicago-based offshoot of CMT Group began raising capital for its fourth crypto fund in mid-2024, targeting $150 million."
-  },
-  {
-    "title": "Metaplanet borrows $100 million against its bitcoin holdings to buy the dip",
-    "link": "https://www.theblock.co/post/377816/metaplanet-borrows-100-million-against-bitcoin-holdings-buy-dip?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 05 Nov 2025 11:30:27 -0500",
-    "source": "The Block",
-    "contentSnippet": "The company’s bitcoin mNAV ratio has recovered slightly after dipping below parity last month, but shares remain down more than 80%."
-  },
-  {
-    "title": "Chainlink and Dinari bringing S&P crypto stock index onchain",
-    "link": "https://www.theblock.co/post/377812/chainlink-and-dinari-bringing-sp-crypto-stock-index-onchain?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 05 Nov 2025 10:26:16 -0500",
-    "source": "The Block",
-    "contentSnippet": "Chainlink said Monday it also partnered with FTSE Russell to bring its indices and market data onchain."
   }
 ]
