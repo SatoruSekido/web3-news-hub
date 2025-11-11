@@ -1,5 +1,82 @@
 [
   {
+    "title": "Bitcoin’s $588B Range Masks Market Vulnerabilities: 10x Research",
+    "link": "https://www.coindesk.com/markets/2025/11/11/bitcoin-s-usd588b-range-masks-market-vulnerabilities-10x-research",
+    "pubDate": "Tue, 11 Nov 2025 06:12:47 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin has been trading in a range above $100,000 since June, with significant market activity despite a lack of clear direction."
+  },
+  {
+    "title": "Ethereum Spot Order Activity Hints at Institutional Re-Entry, Analysts Claim",
+    "link": "https://decrypt.co/348073/ethereum-spot-order-activity-institutional-re-entry",
+    "pubDate": "Tue, 11 Nov 2025 06:01:05 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "On-chain data shows Ethereum whales are accumulating, signaling a potential local bottom as the Fusaka upgrade nears."
+  },
+  {
+    "title": "Brazil extends financial sector regulations to crypto service providers",
+    "link": "https://www.theblock.co/post/378295/brazil-crypto-new-rules?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 11 Nov 2025 00:32:09 -0500",
+    "source": "The Block",
+    "contentSnippet": "New rules from the central bank mandate that virtual asset service providers obtain the central bank's authorization to operate."
+  },
+  {
+    "title": "Bitcoin Traders Eye Seasonal 'Santa Rally' as Fed Moves Spur Volatility Hopes",
+    "link": "https://www.coindesk.com/markets/2025/11/11/bitcoin-traders-eye-seasonal-santa-rally-as-fed-moves-spur-volatility-hopes",
+    "pubDate": "Tue, 11 Nov 2025 05:20:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Strategic accumulation and potential liquidity easing measures could breed a Santa rally, according to analysts."
+  },
+  {
+    "title": "Senate Agriculture Leaders Push to Put Crypto Spot Trading Under CFTC Watch",
+    "link": "https://decrypt.co/348071/senate-proposal-cftc-reach-crypto-spot-markets",
+    "pubDate": "Tue, 11 Nov 2025 05:05:09 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bipartisan discussion draft mandates exchange oversight and wallet protections while deferring decisions on DeFi regulation."
+  },
+  {
+    "title": "DOGE Tests $0.18 Floor After Intraday Breakout Sparks Profit-Taking",
+    "link": "https://www.coindesk.com/markets/2025/11/11/doge-tests-usd0-18-floor-after-intraday-breakout-sparks-profit-taking",
+    "pubDate": "Tue, 11 Nov 2025 04:53:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The move created a lower high formation that signals a potential short-term shift in momentum."
+  },
+  {
+    "title": "XRP ETF Hopes Drive Ripple-Linked Token Bulls to Target $2.65",
+    "link": "https://www.coindesk.com/markets/2025/11/11/xrp-etf-hopes-drive-ripple-linked-token-bulls-to-target-usd2-65",
+    "pubDate": "Tue, 11 Nov 2025 04:38:56 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The breakout attempt at $2.57 met resistance as profit-taking emerged, though buyers held firm above the $2.52-$2.53 zone to confirm short-term support."
+  },
+  {
+    "title": "CleanSpark to raise $1 billion in convertible note offering to expand operations",
+    "link": "https://www.theblock.co/post/378291/cleanspark-convertible-note-offering?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 10 Nov 2025 23:06:59 -0500",
+    "source": "The Block",
+    "contentSnippet": "It intends to use the proceeds for share buybacks, data center expansion, debt repayment, and other corporate purposes."
+  },
+  {
+    "title": "Gemini Shares Drop in After-Hours Trading as First Earnings Since IPO Reveal Rising Costs",
+    "link": "https://decrypt.co/348060/gemini-shares-drop-after-hours-first-earnings-rising-costs",
+    "pubDate": "Tue, 11 Nov 2025 03:47:15 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "It wasn't all bad news, with the exchange reporting its strongest user-acquisition quarter in years, powered by surging credit-card activity."
+  },
+  {
+    "title": "Uniswap Token Soars Amid Fee Switch Proposal to ‘Align Incentives’",
+    "link": "https://decrypt.co/348061/uniswap-token-soars-amid-fee-switch-proposal-to-align-incentives",
+    "pubDate": "Tue, 11 Nov 2025 02:47:13 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Uniswap’s token spike follows the protocol’s unveiling of a sweeping overhaul, including fee activation and a perpetual token burn to boost liquidity."
+  },
+  {
+    "title": "Asia Morning Briefing: Hong Kong’s FinTech Week Belonged to Stablecoins, Not CBDCs",
+    "link": "https://www.coindesk.com/markets/2025/11/11/asia-morning-briefing-hong-kong-s-fintech-week-belonged-to-stablecoins-not-cbdcs",
+    "pubDate": "Tue, 11 Nov 2025 02:41:48 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Once the future of digital money, central bank digital currencies barely featured this year as Hong Kong’s focus shifted to stablecoins and Brazil’s Drex pause showed how even early adopters are rethi"
+  },
+  {
     "title": "Coinbase launches savings accounts in the UK, offering 3.75% interest and FSCS deposit protection",
     "link": "https://www.theblock.co/post/378172/coinbase-uk-savings-accounts?utm_source=rss&utm_medium=rss",
     "pubDate": "Mon, 10 Nov 2025 19:01:00 -0500",
@@ -131,82 +208,5 @@
     "pubDate": "Mon, 10 Nov 2025 13:58:30 -0500",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Chainlink Bounces 5%, But Breakout Falters at $16.50 Resistance",
-    "link": "https://www.coindesk.com/markets/2025/11/10/chainlink-bounces-5-but-breakout-falters-at-usd16-50-resistance",
-    "pubDate": "Mon, 10 Nov 2025 18:37:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Strong volume surge confirms the breakout above $16, though profit-taking near session highs introduces near-term uncertainty."
-  },
-  {
-    "title": "Bitcoin Miner Greenidge Settles New York Permit Dispute, Prompting Stock Spike",
-    "link": "https://decrypt.co/348020/bitcoin-miner-greenidge-settles-new-york-permit-dispute-stock-spike",
-    "pubDate": "Mon, 10 Nov 2025 18:24:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Greenidge earned a coveted five-year air permit in exchange for a commitment to lower its greenhouse gas emissions by 44% over the next four years."
-  },
-  {
-    "title": "Crypto Wallet Exodus Acquiring Grateful to Expand Stablecoin Payments in Latin America",
-    "link": "https://www.coindesk.com/business/2025/11/10/crypto-wallet-exodus-acquiring-grateful-to-expand-stablecoin-payments-in-latin-america",
-    "pubDate": "Mon, 10 Nov 2025 18:11:58 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The deal will add stablecoin-based payment tools for merchants and gig workers as crypto payments are rapidly growing."
-  },
-  {
-    "title": "Rumble to Acquire Northern Data as Tether Commits $150 Million to Power AI Push",
-    "link": "https://decrypt.co/347995/rumble-acquire-northern-data-tether-150-million-power-ai",
-    "pubDate": "Mon, 10 Nov 2025 17:57:42 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Stablecoin giant Tether backs YouTube rival Rumble and has a controlling stake in Northern Data."
-  },
-  {
-    "title": "Biotech firm Propanc lines up $100 million to fund crypto treasury and cancer therapy push",
-    "link": "https://www.theblock.co/post/378214/biotech-firm-propanc-100-million-fund-crypto-treasury-cancer-therapy?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 10 Nov 2025 12:51:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "At least 10 drug developers, including ETHZilla, Sonnet BioTherapeutics, and Sharps Technology, have unveiled similar crypto pivots."
-  },
-  {
-    "title": "Jack Dorsey's Block Enables Bitcoin Payments for Millions of Square Sellers",
-    "link": "https://decrypt.co/347998/jack-dorsey-block-enables-bitcoin-payments-millions-square-sellers",
-    "pubDate": "Mon, 10 Nov 2025 17:45:27 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Payments firm Block is enabling no-fee Bitcoin payments for sellers worldwide via Square's point-of-sale platform."
-  },
-  {
-    "title": "BitMine’s share of Ethereum supply hits 2.9% as firm’s ETH holdings pass 3.5 million",
-    "link": "https://www.theblock.co/post/378217/bitmines-share-of-ethereum-supply-hits-2-9-as-firms-eth-holdings-pass-3-5-million?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 10 Nov 2025 12:19:27 -0500",
-    "source": "The Block",
-    "contentSnippet": "The Tom Lee-backed digital asset treasury is more than halfway to meeting its goal of acquiring 5% of Ethereum's total supply."
-  },
-  {
-    "title": "Stellar’s XLM Rises 3.6%, Breaking Key Resistance Amid Bullish Signals",
-    "link": "https://www.coindesk.com/markets/2025/11/10/stellar-s-xlm-rises-3-6-breaking-key-resistance-amid-bullish-signals",
-    "pubDate": "Mon, 10 Nov 2025 16:54:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XLM surged past the $0.3020 resistance on strong institutional volume, outperforming the crypto market as analysts eye a possible seven-year triangle breakout targeting $1.52."
-  },
-  {
-    "title": "HBAR Surge Signals Institutional Momentum Despite Late-Session Pullback",
-    "link": "https://www.coindesk.com/markets/2025/11/10/hbar-surge-signals-institutional-momentum-despite-late-session-pullback",
-    "pubDate": "Mon, 10 Nov 2025 16:49:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token’s 4.62% rally and strong volume confirmed growing institutional interest, though a sharp end-of-session reversal highlighted emerging resistance and short-term volatility."
-  },
-  {
-    "title": "ICP Falls 11.2% to $6.69 After Losing Key $7.00 Support",
-    "link": "https://www.coindesk.com/markets/2025/11/10/icp-falls-11-2-to-usd6-69-after-losing-key-usd7-00-support",
-    "pubDate": "Mon, 10 Nov 2025 16:47:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Internet Computer (ICP) slides 11.2% to $6.69 after breaching key support at $7.00, with volume surging 94% above average amid heightened volatility."
-  },
-  {
-    "title": "Strategy Buys Bitcoin With Proceeds From Preferred Shares as Key Premium Evaporates",
-    "link": "https://decrypt.co/348000/strategy-buys-bitcoin-preferred-shares-key-premium-evaporates",
-    "pubDate": "Mon, 10 Nov 2025 16:45:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Jim Chanos said he has closed his bet against Strategy’s Bitcoin premium."
   }
 ]
