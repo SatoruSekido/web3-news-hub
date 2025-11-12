@@ -1,5 +1,75 @@
 [
   {
+    "title": "Why Bitcoin Traders Are Eyeing This Week's Upcoming US Inflation Print",
+    "link": "https://decrypt.co/348263/bitcoin-traders-upcoming-us-inflation-print",
+    "pubDate": "Wed, 12 Nov 2025 06:13:14 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin traders are bracing for fresh U.S. inflation data that could steer Federal Reserve policy and dictate the market’s next major move."
+  },
+  {
+    "title": "Coinbase Ends Acquisition Talks for U.K.-Based BVNK: Fortune",
+    "link": "https://www.coindesk.com/markets/2025/11/12/coinbase-ends-acquisition-talks-for-u-k-based-bvnk-fortune",
+    "pubDate": "Wed, 12 Nov 2025 05:55:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The negotiations, which began earlier this year and progressed to an exclusivity agreement in October, were expected to value BVNK between $1.5 billion and $2.5 billion."
+  },
+  {
+    "title": "VCI Global buys $100 million in OOB token; Tether becomes largest shareholder",
+    "link": "https://www.theblock.co/post/378485/vci-global-oob-token-tether?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 00:45:48 -0500",
+    "source": "The Block",
+    "contentSnippet": "Following the completion of the deal, Tether is expected to become the largest shareholder of VCI Global through its Oobit stake."
+  },
+  {
+    "title": "Dogecoin Near Make-or-Break Zone as Fresh Bitcoin Slide Pulls Down Majors by 5%",
+    "link": "https://www.coindesk.com/markets/2025/11/12/dogecoin-near-make-or-break-zone-as-fresh-bitcoin-slide-pulls-down-majors-by-5",
+    "pubDate": "Wed, 12 Nov 2025 05:30:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": ""
+  },
+  {
+    "title": "JPMorgan Rolls Out JPM Coin Leveraging Coinbase's Base: Report",
+    "link": "https://www.coindesk.com/markets/2025/11/12/jpmorgan-rolls-out-jpm-coin-leveraging-coinbase-s-base-report",
+    "pubDate": "Wed, 12 Nov 2025 05:27:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Unlike stablecoins, deposit tokens are digital claims on existing bank funds and can be interest-bearing, offering a new option for institutional investors."
+  },
+  {
+    "title": "XRP Faces Bearish Cross Risk, Sinks 5% Even as ETFs Move Further",
+    "link": "https://www.coindesk.com/markets/2025/11/12/xrp-faces-bearish-cross-risk-sinks-5-even-as-etfs-move-further",
+    "pubDate": "Wed, 12 Nov 2025 05:20:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The token's ability to defend the $2.39–$2.41 range will determine if it rebounds or faces further declines."
+  },
+  {
+    "title": "Bitcoin slides near $103,000 as December rate cut becomes more uncertain",
+    "link": "https://www.theblock.co/post/378480/bitcoin-drops-december-cut-more-uncertain?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 11 Nov 2025 23:38:56 -0500",
+    "source": "The Block",
+    "contentSnippet": "Hopes for a December interest rate cut have dwindled due to growing internal conflict among Federal Reserve officials over the decision."
+  },
+  {
+    "title": "DTCC lists Bitwise’s spot Chainlink ETF under ticker CLNK",
+    "link": "https://www.theblock.co/post/378475/dtcc-lists-bitwises-spot-chainlink-etf?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 11 Nov 2025 21:25:55 -0500",
+    "source": "The Block",
+    "contentSnippet": "Meanwhile, Canary Capital filed the 8-A form for its spot XRP ETF, setting expectations for an official launch later this week."
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin ETFs Pull In $300M as Traders Rush to Buy the Dip",
+    "link": "https://www.coindesk.com/markets/2025/11/12/asia-morning-briefing-bitcoin-etfs-see-usd300m-return-to-net-inflows-as-traders-buy-the-dip",
+    "pubDate": "Wed, 12 Nov 2025 02:23:11 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "After two weeks of heavy redemptions, U.S.-listed spot Bitcoin ETFs turned positive again, led by Fidelity and Ark, even as global fund flows remain uneven."
+  },
+  {
+    "title": "Canary XRP ETF Likely to Start Trading This Week After SEC Filing",
+    "link": "https://decrypt.co/348223/canary-xrp-etf-likely-start-trading-week-sec-filing",
+    "pubDate": "Wed, 12 Nov 2025 01:37:21 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The fund could begin trading as early as Thursday."
+  },
+  {
     "title": "Solana treasury Upexi posts record quarter powered by $78 million in unrealized SOL gains",
     "link": "https://www.theblock.co/post/378467/upexi-posts-record-quarter?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 11 Nov 2025 20:00:24 -0500",
@@ -105,20 +175,6 @@
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
-    "title": "Injective rolls out native EVM support on its high-performance Cosmos-based chain",
-    "link": "https://www.theblock.co/post/378418/injective-rolls-out-native-evm-support-on-its-high-performance-cosmos-based-chain?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 11 Nov 2025 14:00:56 -0500",
-    "source": "The Block",
-    "contentSnippet": "Tuesday marks a crucial step in Injective’s “MultiVM” roadmap to create a unified, composable environment for WASM and EVM apps."
-  },
-  {
-    "title": "Prosecutors seek new trial for MIT brothers after $25 million Ethereum fraud case ends in mistrial",
-    "link": "https://www.theblock.co/post/378414/prosecutors-seek-new-trial-mit-brothers-25-million-ethereum-fraud-case-ends-mistrial?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 11 Nov 2025 13:59:43 -0500",
-    "source": "The Block",
-    "contentSnippet": "New York prosecutors are calling for another round in court after two brothers were accused of orchestrating a $25 million fraud on Ethereum."
-  },
-  {
     "title": "SoFi Rolls Out Crypto Trading With Bitcoin, Ethereum, Solana and More",
     "link": "https://decrypt.co/348184/sofi-rolls-out-crypto-trading-bitcoin-ethereum-solana",
     "pubDate": "Tue, 11 Nov 2025 18:47:32 +0000",
@@ -140,20 +196,6 @@
     "contentSnippet": "Price action retreats from resistance as institutional selling emerges at key levels."
   },
   {
-    "title": "Bitcoin Miner CleanSpark Extends Stock Slump After Upsizing Notes Offering to $1.15 Billion",
-    "link": "https://decrypt.co/348182/bitcoin-miner-cleanspark-stock-slump-upsizing-notes-offering-1-15-billion",
-    "pubDate": "Tue, 11 Nov 2025 18:07:10 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "CleanSpark is raising over $1 billion with plans to buy back stock, though its share price is falling for the second straight day."
-  },
-  {
-    "title": "Record UK bitcoin haul nets 11-year sentence for Chinese national who lived lavishly on stolen funds",
-    "link": "https://www.theblock.co/post/378404/record-uk-bitcoin-haul-11-year-sentence-chinese-national-lived-lavishly-stolen-funds?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 11 Nov 2025 12:51:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Zhimin Qian was sentenced to 11 years in prison in what prosecutors are calling the largest seizure ever of bitcoin in the UK."
-  },
-  {
     "title": "Bitcoin Slips Toward $103K; Miners Tumble on AI Trade Cooling, SoftBank's Nvidia Exit",
     "link": "https://www.coindesk.com/markets/2025/11/11/bitcoin-slips-toward-usd103k-miners-tumble-on-ai-trade-cooling-softbank-s-nvidia-exit",
     "pubDate": "Tue, 11 Nov 2025 17:12:18 +0000",
@@ -161,52 +203,10 @@
     "contentSnippet": "Crypto traders are taking profits on the bounce in prices, a Wintermute strategist said in a note."
   },
   {
-    "title": "How Nobody Sausage is Bringing its 33 Million Followers to Web3",
-    "link": "https://decrypt.co/347783/how-nobody-sausage-is-bringing-its-33-million-followers-to-web3",
-    "pubDate": "Tue, 11 Nov 2025 17:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "To onboard millions of followers from TikTok, X and Instagram to its NOBODY token, the character brand is “making crypto invisible.”"
-  },
-  {
     "title": "Toncoin Drops to Key $2.07 Support Level as Selling Pressure Builds",
     "link": "https://www.coindesk.com/markets/2025/11/11/toncoin-drops-to-key-usd2-07-support-level-as-selling-pressure-builds",
     "pubDate": "Tue, 11 Nov 2025 16:39:34 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The token briefly rose to $2.16 before reversing, with high trading volume indicating strong resistance at that level."
-  },
-  {
-    "title": "ClearToken Wins UK Regulator Approval for Digital Asset Settlement Service",
-    "link": "https://www.coindesk.com/policy/2025/11/11/cleartoken-wins-uk-regulator-approval-for-digital-asset-settlement-service",
-    "pubDate": "Tue, 11 Nov 2025 16:29:40 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ClearToken won authorization from the U.K.’s FCA to roll out CT Settle, a delivery-versus-payment settlement system for crypto, stablecoins and fiat currency."
-  },
-  {
-    "title": "Lighter Raises $68M at $1.5B Valuation to Take on Decentralized Derivatives Rivals: Report",
-    "link": "https://www.coindesk.com/business/2025/11/11/lighter-raises-usd68m-at-usd1-5b-valuation-to-take-on-decentralized-derivatives-rivals",
-    "pubDate": "Tue, 11 Nov 2025 16:05:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Backed by Founders Fund, Haun Ventures and Robinhood, zk-rollup-powered Lighter plans to expand its institutional trading suite."
-  },
-  {
-    "title": "Stellar Blockchain to Power Turbo Energy’s Tokenized Clean Energy Financing Initiative",
-    "link": "https://www.coindesk.com/business/2025/11/11/stellar-blockchain-to-power-turbo-energy-s-tokenized-clean-energy-financing-initiative",
-    "pubDate": "Tue, 11 Nov 2025 15:53:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The solar energy storage firm has tapped Stellar and Taurus to tokenize debt to finance hybrid solar projects, starting with a pilot in Spain."
-  },
-  {
-    "title": "BNB Slips Below $1,000 as Selling Pressure Pushes Token Into Bearish Territory",
-    "link": "https://www.coindesk.com/markets/2025/11/11/bnb-slips-below-usd1-000-as-selling-pressure-pushes-token-into-bearish-territory",
-    "pubDate": "Tue, 11 Nov 2025 15:11:34 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token's decline continues a downward trend, with resistance at $1,000-$1,008 and support at $972.85."
-  },
-  {
-    "title": "Injective Launches Native EVM, Promising Faster and Cheaper DeFi",
-    "link": "https://www.coindesk.com/tech/2025/11/11/injective-launches-native-evm-promising-faster-cheaper-defi",
-    "pubDate": "Tue, 11 Nov 2025 15:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The upgrade aims to make Injective a go-to platform by combining Ethereum compatibility with Injective’s existing high-speed infrastructure."
   }
 ]
