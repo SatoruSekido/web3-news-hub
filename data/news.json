@@ -1,5 +1,173 @@
 [
   {
+    "title": "ChatGPT’s Use of Song Lyrics Violates Copyright, Munich Court Finds",
+    "link": "https://decrypt.co/348408/chatgpts-use-song-lyrics-violates-copyright-munich-court-finds",
+    "pubDate": "Thu, 13 Nov 2025 00:16:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The decision against OpenAI could become a key test case for how AI training is treated under EU copyright laws."
+  },
+  {
+    "title": "Brazil Targets Illegal Bitcoin, Stablecoin Use Through New Proposals",
+    "link": "https://decrypt.co/348351/brazil-targets-illegal-bitcoin-stablecoin-use-new-proposals",
+    "pubDate": "Wed, 12 Nov 2025 23:49:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Brazil's government and central bank are tightening rules on crypto use in targeting criminals."
+  },
+  {
+    "title": "‘Defi as a form of savings is finally viable’: Vitalik Buterin talks Ethereum scaling, financial freedom and protocol security",
+    "link": "https://www.theblock.co/post/378671/defi-as-savings-finally-viable-vitalik-buterin-talks-ethereum-scaling-financial-freedom-protocol-security?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 18:06:32 -0500",
+    "source": "The Block",
+    "contentSnippet": "Ethereum founder Vitalik Buterin said there is a \"night and day difference\" in the level of security DeFi users can expect today."
+  },
+  {
+    "title": "Bitcoin Q-Day on the Horizon? New IBM Quantum Chip Expected to Hit Another Milestone",
+    "link": "https://decrypt.co/348350/ibm-takes-next-step-to-quantum-advantage-with-new-nighthawk-chip",
+    "pubDate": "Wed, 12 Nov 2025 22:31:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "IBM said its new processors and software breakthroughs will speed its path toward fault-tolerant quantum computing by 2029."
+  },
+  {
+    "title": "Dubai Court Issues Worldwide Freeze of $456 Million Tied to Justin Sun's Stablecoin Bailout",
+    "link": "https://decrypt.co/348402/dubai-court-issues-worldwide-freeze-456-million-tied-justin-suns-stablecoin-bailout",
+    "pubDate": "Wed, 12 Nov 2025 22:15:00 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A judge ordered a freeze of $456 million in assets tied to a stablecoin reserve bailout that reportedly involved Tron founder Justin Sun."
+  },
+  {
+    "title": "Leap Therapeutics Surges 300% on $50M Winklevoss-Backed Zcash Bet",
+    "link": "https://www.coindesk.com/business/2025/11/12/leap-therapeutics-surges-300-on-usd50m-winklevoss-backed-zcash-bet",
+    "pubDate": "Wed, 12 Nov 2025 22:07:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company is also rebranding as Cypherpunk Technologies with ticker change to CYPH, effective Thursday."
+  },
+  {
+    "title": "Global funds network Calastone taps Polygon for tokenized asset distribution",
+    "link": "https://www.theblock.co/post/378463/global-funds-network-calastone-taps-polygon-tokenized-asset-distribution?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 16:58:05 -0500",
+    "source": "The Block",
+    "contentSnippet": "Starting Wednesday, Calastone’s Tokenized Fund Share Classes can now be moved onchain using Polygon’s rails, according to a spokesperson."
+  },
+  {
+    "title": "Zcash Drops, Then Pops as Bitcoin Billionaire Arthur Hayes Warns Holders to Remove ZEC From Exchanges",
+    "link": "https://decrypt.co/348377/zcash-drops-pops-bitcoin-billionaire-hayes-warns-zec-exchanges",
+    "pubDate": "Wed, 12 Nov 2025 21:30:35 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The privacy coin slid hard on Wednesday but then regained ground. Hayes has been outspoken on a range of digital asset topics."
+  },
+  {
+    "title": "Yahoo Finance Taps Polymarket as Exclusive Prediction Market Provider",
+    "link": "https://decrypt.co/348376/yahoo-finance-taps-polymarket-exclusive-prediction-market-provider",
+    "pubDate": "Wed, 12 Nov 2025 21:14:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Polymarket said data from its prediction market platform will be integrated into Yahoo Finance, expanding its product to more people."
+  },
+  {
+    "title": "South Korea’s NH NongHyup Bank pilots stablecoin-led tax refunds on Avalanche",
+    "link": "https://www.theblock.co/post/378286/nh-nonghyup-stablecoin-tax-refund-avalanche?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 16:00:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "NH NongHyup is initiating a PoC to test a system that streamlines VAT refunds for inbound tourists by utilizing stablecoins."
+  },
+  {
+    "title": "Canary Capital seeks regulator’s approval for an ETF tracking MOG",
+    "link": "https://www.theblock.co/post/378648/canary-capital-seeks-regulators-approval-etf-tracking-mog?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 15:50:58 -0500",
+    "source": "The Block",
+    "contentSnippet": "Canary Capital is looking for the SEC's nod for an ETF tracking the price of the lesser-known memecoin called MOG Coin."
+  },
+  {
+    "title": "Top Base DEX Aerodrome launches upgrade suite, expands to Ethereum and Circle’s Arc",
+    "link": "https://www.theblock.co/post/378634/aerodrome-upgrades-evm-extensions-circles-arc-metadex?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 15:35:02 -0500",
+    "source": "The Block",
+    "contentSnippet": "Dromos Labs unveiled a central liquidity hub called Aero to serve as a home base for additional EVM extensions beyond Base and Optimism."
+  },
+  {
+    "title": "Polymarket's Shayne Coplan: Blockchain Let Him Build a Global Force From His Bedroom",
+    "link": "https://www.coindesk.com/markets/2025/11/12/shayne-coplan-says-blockchain-let-him-build-a-global-market-from-his-bedroom",
+    "pubDate": "Wed, 12 Nov 2025 20:31:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The founder of the prediction marketplace spoke at Cantor Fitzgerald’s crypto, AI and blockchain conference in Miami."
+  },
+  {
+    "title": "Moon or Doom: Will Ethereum Defy Bitcoin Drop and Bearish Signals?",
+    "link": "https://decrypt.co/348356/moon-or-doom-ethereum-price-bearish-bitcoin-drop",
+    "pubDate": "Wed, 12 Nov 2025 20:15:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum is bouncing today, but ETH is still a long way off from its August high. Can bulls turn things around? Here's what the charts say."
+  },
+  {
+    "title": "Nasdaq-Traded Solana Company Plans to Tokenize Shares via Superstate",
+    "link": "https://decrypt.co/348352/nasdaq-traded-solana-company-plans-tokenize-shares",
+    "pubDate": "Wed, 12 Nov 2025 20:04:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Solana Company intends to tokenize shares on Superstate’s Opening Bell, a regulated platform enabling companies to move stocks on-chain."
+  },
+  {
+    "title": "Crypto Long & Short:  The Rise of Digital Asset Treasury Companies",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/11/12/crypto-long-and-short-the-rise-of-datcos",
+    "pubDate": "Wed, 12 Nov 2025 20:00:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In this week’s Crypto Long & Short Newsletter, Abdul Rafay Gadit writes about how DATCO’s are reshaping corporate finance. Then, we take a look back at crypto rates and a look ahead at signs of streng"
+  },
+  {
+    "title": "Hyperliquid Temporarily Paused Some Withdrawals as Popcat Trader Draws Scrutiny",
+    "link": "https://decrypt.co/348355/hyperliquid-paused-some-withdrawals-popcat-trader-scrutiny",
+    "pubDate": "Wed, 12 Nov 2025 19:55:08 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The exchange used an “EmergencyLock” function."
+  },
+  {
+    "title": "Bitcoin Slips 1.2% as Volume Thins Near $100K Support",
+    "link": "https://www.coindesk.com/markets/2025/11/12/bitcoin-slips-1-2-as-volume-thins-near-usd100k-support",
+    "pubDate": "Wed, 12 Nov 2025 19:53:54 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The flagship digital asset tests psychological threshold while institutional players build hedges through options positioning."
+  },
+  {
+    "title": "Crypto Investor Dan Tapiero Sees AI-Blockchain Crossover Fueling Next Big Wave",
+    "link": "https://www.coindesk.com/markets/2025/11/12/crypto-investor-dan-tapiero-sees-ai-blockchain-crossover-fueling-next-big-wave",
+    "pubDate": "Wed, 12 Nov 2025 19:52:04 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "‘Blockchain is the money of AI,’ said the 50T founder, who’s betting 20% of his next fund on startups that don’t yet exist."
+  },
+  {
+    "title": "OpenAI Unveils GPT-5.1, Making ChatGPT Smarter, Faster, and More 'Conversational'",
+    "link": "https://decrypt.co/348353/openai-unveils-gpt-5-1-making-chatgpt-smarter-faster-more-conversational",
+    "pubDate": "Wed, 12 Nov 2025 19:32:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "OpenAI’s GPT-5.1 adds Instant and Thinking models with adaptive reasoning, faster replies, and a more human conversational tone to ChatGPT."
+  },
+  {
+    "title": "LINK Drops 4% as Chainlink ETF News Fails to Push Break of Technical Resistance",
+    "link": "https://www.coindesk.com/markets/2025/11/12/link-drops-4-as-chainlink-etf-news-fails-to-push-break-of-technical-resistance",
+    "pubDate": "Wed, 12 Nov 2025 19:28:55 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The oracle token encountered selling pressure at $16.25 alongside a sizable decline in the broader crypto market."
+  },
+  {
+    "title": "Dubai Court Freezes $456M Linked to Justin Sun’s Bailout of TrueUSD Issuer Techteryx",
+    "link": "https://www.coindesk.com/policy/2025/11/12/dubai-court-freezes-usd456m-linked-to-justin-sun-s-bailout-of-trueusd-issuer-techteryx",
+    "pubDate": "Wed, 12 Nov 2025 19:20:09 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Dubai’s Digital Economy Court said there was compelling evidence of a breach of trust and ordered a worldwide freeze to protect the assets."
+  },
+  {
+    "title": "The Daily: SEC’s Paul Atkins unveils plan to clarify which tokens count as securities, Circle explores native Arc token, and more",
+    "link": "https://www.theblock.co/post/378629/the-daily-secs-paul-atkins-unveils-plan-to-clarify-which-tokens-count-as-securities-circle-explores-native-arc-token-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 13:46:01 -0500",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "Solana active addresses fall to 12-month low as memecoin frenzy fades",
+    "link": "https://www.theblock.co/post/378234/solana-active-addresses-fall-to-12-month-low-as-memecoin-frenzy-fades?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 12 Nov 2025 13:20:58 -0500",
+    "source": "The Block",
+    "contentSnippet": "The trajectory illustrates how quickly trends can shift in crypto markets and underscores the importance of ecosystem diversification."
+  },
+  {
     "title": "Seismic adds $10 million from a16z crypto to expand fintech privacy network",
     "link": "https://www.theblock.co/post/378610/seismic-adds-10-million-a16z-crypto-expand-fintech-privacy-network-fortune?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 12 Nov 2025 12:46:01 -0500",
@@ -35,178 +203,10 @@
     "contentSnippet": "XLM trades within tight $0.2810-$0.2950 corridor following volume surge that triggered key support breakdown earlier in session."
   },
   {
-    "title": "HBAR Drops 0.6% to $0.18 Amid Indecisive Trading Session",
-    "link": "https://www.coindesk.com/markets/2025/11/12/hbar-drops-0-6-to-usd0-18-amid-indecisive-trading-session",
-    "pubDate": "Wed, 12 Nov 2025 17:19:39 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera's native token breaks key support in final trading hour as institutional focus shifts to regulatory-friendly blockchain alternatives."
-  },
-  {
-    "title": "BONK Falls 5% to $0.00001223 After Rejection at Key Resistance",
-    "link": "https://www.coindesk.com/markets/2025/11/12/bonk-falls-5-to-usd0-00001223-after-rejection-at-key-resistance",
-    "pubDate": "Wed, 12 Nov 2025 17:08:39 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BONK slipped 5% to $0.00001223 after failing to break resistance near $0.0000130, with trading volume spiking nearly 50% above average during the pullback."
-  },
-  {
-    "title": "Sui Launches Native Stablecoin USDsui Using Bridge’s Open Issuance Platform",
-    "link": "https://www.coindesk.com/business/2025/11/12/sui-launches-native-stablecoin-usdsui-using-bridge-s-open-issuance-platform",
-    "pubDate": "Wed, 12 Nov 2025 17:06:14 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The new U.S.-compliant USDsui aims to link the blockchain’s $200bn monthly stablecoin volume to Bridge’s interoperable platform."
-  },
-  {
-    "title": "DOJ, FBI, Secret Service Unveil 'Strike Force' to Combat Crypto Scams Rooted in China",
-    "link": "https://decrypt.co/348333/doj-fbi-secret-service-unveil-strike-force-combat-crypto-scams-china",
-    "pubDate": "Wed, 12 Nov 2025 17:05:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Scam Center Strike Force will coordinate across federal agencies to target crypto scam operations the DOJ said lead back to “Chinese crime syndicates.”"
-  },
-  {
-    "title": "Toncoin Drops 2.4% as Post-Rally Selling Pressure Caps Gains",
-    "link": "https://www.coindesk.com/markets/2025/11/12/toncoin-drops-2-4-as-post-rally-selling-pressure-caps-gains",
-    "pubDate": "Wed, 12 Nov 2025 16:58:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token briefly rallied to $2.1165 on increased volume before heavy selling erased gains, pulling TON back to key support levels around $2.02."
-  },
-  {
-    "title": "Coinbase to Leave Delaware for Bitcoin-Friendly Texas",
-    "link": "https://decrypt.co/348324/coinbase-leave-delaware-bitcoin-friendly-texas",
-    "pubDate": "Wed, 12 Nov 2025 16:53:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "America's largest crypto exchange chooses the Lone Star State for its business-friendly regulation."
-  },
-  {
-    "title": "Brazil Proposes Selling Seized Bitcoin to Undercut Organized Crime Networks",
-    "link": "https://www.coindesk.com/policy/2025/11/12/brazil-proposes-selling-seized-bitcoin-to-undercut-organized-crime-networks",
-    "pubDate": "Wed, 12 Nov 2025 16:49:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The proposed law, part of the \"anti-faction bill\", would treat cryptocurrencies like foreign currencies and financial securities."
-  },
-  {
-    "title": "New Strike Force Set to Target Overseas 'Pig Butchering' as U.S. Hits Burma Operation ",
-    "link": "https://www.coindesk.com/policy/2025/11/12/new-strike-force-set-to-target-overseas-pig-butchering-as-u-s-hits-burma-operation",
-    "pubDate": "Wed, 12 Nov 2025 16:44:40 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "U.S. federal agencies are establishing a Scam Center Strike Force to counter the industrial-scale efforts to swindle money via crypto transactions."
-  },
-  {
-    "title": "Crypto Rebounds! Lighter $1.5B Valuation! Winklevoss Capital fund Zcash DAT! ",
-    "link": "https://decrypt.co/videos/interviews/nmG8YixT/crypto-rebounds-lighter-15b-valuation-winklevoss-capital-fund-zcash-dat",
-    "pubDate": "Wed, 12 Nov 2025 16:44:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are rebounding after Tuesday’s selloff, with Bitcoin (BTC) up 1% at $105,000, while Ethereum (ETH) remains even at $3,550, Binance Coin (BNB) steady at $978, and Solana (SOL) down 2% at "
-  },
-  {
-    "title": "The Protocol: Sweeping Uniswap Proposal ‘UNIfication’",
-    "link": "https://www.coindesk.com/tech/2025/11/12/the-protocol-sweeping-uniswap-proposal-unification",
-    "pubDate": "Wed, 12 Nov 2025 16:39:45 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Also: Monad Tokenomics Unveiled, Anchorage Dabbles in BTC DeFi and Injective’s Native EVM."
-  },
-  {
-    "title": "Bitdeer's New Bitcoin Mining Facility in Ohio Caught on Fire",
-    "link": "https://decrypt.co/348323/bitdeer-bitcoin-mining-facility-ohio-caught-fire",
-    "pubDate": "Wed, 12 Nov 2025 16:36:38 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A fire affected two buildings belonging to publicly traded Bitcoin miner Bitdeer in Massillon, Ohio on Tuesday."
-  },
-  {
     "title": "Polymarket becomes Yahoo Finance’s exclusive prediction market partner, eyes another record month",
     "link": "https://www.theblock.co/post/378600/polymarket-yahoo-finance-exclusive-prediction-partner-eyes-record-month?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 12 Nov 2025 11:16:56 -0500",
     "source": "The Block",
     "contentSnippet": "The news comes a week after Google said it will integrate predictions data from Polymarket and Kalshi directly into its search results."
-  },
-  {
-    "title": "Winklevoss-backed Cypherpunk targets 5% of Zcash supply with $58 million treasury seed",
-    "link": "https://www.theblock.co/post/378582/winklevoss-backed-cypherpunk-targets-5-zcash-supply-58-million-treasury-seed?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 10:53:43 -0500",
-    "source": "The Block",
-    "contentSnippet": "Winklevoss cast Zcash as a \"privacy hedge\" to bitcoin, part of a comeback narrative for privacy coins in 2025."
-  },
-  {
-    "title": "SEC Chair Paul Atkins unveils plan for ‘token taxonomy’ to redefine crypto regulation",
-    "link": "https://www.theblock.co/post/378590/sec-chair-paul-atkins-unveils-plan-token-taxonomy-redefine-crypto-regulation?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 10:46:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "SEC Chair Atkins is spearheading an effort to create a \"token taxonomy\" that looks to delineate between what crypto would be securities"
-  },
-  {
-    "title": "SEC Chair Paul Atkins Reveals Which Crypto Tokens He Thinks Are Securities",
-    "link": "https://decrypt.co/348319/sec-chair-paul-atkins-reveals-crypto-tokens-he-thinks-securities",
-    "pubDate": "Wed, 12 Nov 2025 15:45:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "In a speech Wednesday, Atkins gave his most explicit reasoning yet as to why most of the crypto industry should not be regulated by the SEC."
-  },
-  {
-    "title": "Sui launching USDsui stablecoin via Bridge amid growing adoption",
-    "link": "https://www.theblock.co/post/378583/sui-launching-usdsui-stablecoin-via-bridge-amid-growing-adoption?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 10:27:28 -0500",
-    "source": "The Block",
-    "contentSnippet": "The stablecoin is meant to comply with the GENIUS Act, the U.S. government's framework for stablecoins passed this year."
-  },
-  {
-    "title": "Visa Pilots USDC Payouts for Creators and Gig Workers",
-    "link": "https://decrypt.co/348315/visa-pilots-usdc-payouts-for-creators-and-gig-workers",
-    "pubDate": "Wed, 12 Nov 2025 15:21:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Visa expects the scheme, earmarked for creators and gig economy workers, to roll out to the public at some time in 2026."
-  },
-  {
-    "title": "Crypto’s ‘yield gap’ is closing fast as stablecoins and tokenized assets surge: RedStone",
-    "link": "https://www.theblock.co/post/378538/cryptos-yield-gap-is-closing-fast-as-stablecoins-and-tokenized-assets-surge-redstone?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 10:01:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "RedStone's latest report predicts that yield-bearing stablecoins, staking products, and tokenized assets will grow under the GENIUS Act."
-  },
-  {
-    "title": "Auradine unveils new Teraflux bitcoin mining ASICs, claiming 9.8 J/TH efficiency",
-    "link": "https://www.theblock.co/post/378333/auradine-next-gen-teraflux-bitcoin-miners?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 09:45:03 -0500",
-    "source": "The Block",
-    "contentSnippet": "The lineup spans air, hydro, and immersion models and is designed to cut power costs and improve fleet uptime for large operators."
-  },
-  {
-    "title": "Corporate Bitcoin Buying Slows as Total Holdings Reach Record High",
-    "link": "https://decrypt.co/348253/corporate-bitcoin-buying-slows-as-total-holdings-reach-record-high",
-    "pubDate": "Wed, 12 Nov 2025 14:31:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Companies are increasingly focused on defending existing positions rather than headline-grabbing buys as they navigate weaker sentiment."
-  },
-  {
-    "title": "‘Use this and you’re going to die’ — Kraken co-CEO slams cigarette box-style UK crypto promotion rules as overly restrictive: FT",
-    "link": "https://www.theblock.co/post/378556/kraken-co-ceo-slams-uk-crypto-promotion-rules-overly-restrictive-ft?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 09:30:32 -0500",
-    "source": "The Block",
-    "contentSnippet": "The FCA defended its framework, stating that the measures ensure investors understand risks before trading digital assets."
-  },
-  {
-    "title": "Fire breaks out at Bitdeer bitcoin mining facility in Ohio, no injuries reported",
-    "link": "https://www.theblock.co/post/378565/fire-bitdeer-bitcoin-mining-facility-ohio?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 12 Nov 2025 09:21:25 -0500",
-    "source": "The Block",
-    "contentSnippet": "The incident came as Bitdeer's shares fell more than 30% following its third-quarter earnings release on Tuesday."
-  },
-  {
-    "title": "Franklin Templeton Expands Tokenized Fund Platform to Canton Network",
-    "link": "https://decrypt.co/348256/franklin-templeton-tokenized-fund-platform-canton-network",
-    "pubDate": "Wed, 12 Nov 2025 14:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The asset manager’s Benji platform will now operate on Canton, a blockchain used for institutional settlement and collateral markets."
-  },
-  {
-    "title": "Morning Minute: SoFi Bank Launches Spot Crypto Trading",
-    "link": "https://decrypt.co/348294/morning-minute-sofi-bank-launches-spot-crypto-trading",
-    "pubDate": "Wed, 12 Nov 2025 13:31:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "It's a major first for banks and fintechs as access to crypto trading becomes easier and easier."
-  },
-  {
-    "title": "Crypto Markets In Short-Term Reprieve, Risks Remain: QCP",
-    "link": "https://decrypt.co/348295/crypto-markets-in-short-term-reprieve-risks-remain-qcp",
-    "pubDate": "Wed, 12 Nov 2025 13:10:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts say crypto's recent rebound is a short-term reprieve, with markets facing volatility from shutdown politics and key inflation data."
   }
 ]
