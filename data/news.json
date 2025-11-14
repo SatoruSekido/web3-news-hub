@@ -1,5 +1,61 @@
 [
   {
+    "title": "Running for the Exits: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/14/running-for-the-exits-crypto-daybook-americas",
+    "pubDate": "Fri, 14 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 14, 2025"
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Breaches $98K as Liquidations Top $1.1B",
+    "link": "https://www.coindesk.com/markets/2025/11/14/crypto-markets-today-bitcoin-breaches-usd98k-as-liquidations-top-usd1-1b",
+    "pubDate": "Fri, 14 Nov 2025 11:05:01 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A sharp liquidity crunch sent bitcoin and altcoins plunging, triggering over a billion dollars in derivatives liquidations as traders brace for a potential trend reversal."
+  },
+  {
+    "title": "Community Bankers Ask OCC to Block Sony's Crypto Bank Ambitions",
+    "link": "https://decrypt.co/348659/community-bankers-ask-occ-to-block-sonys-crypto-bank-ambitions",
+    "pubDate": "Fri, 14 Nov 2025 10:41:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The banking group warned that Sony's stablecoin charter could undermine consumer protections and bypass rules."
+  },
+  {
+    "title": "Uniswap launches ‘Continuous Clearing Auctions’ to improve token price discovery and liquidity in DeFi",
+    "link": "https://www.theblock.co/post/378864/uniswap-continuous-clearing-auctions?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 14 Nov 2025 05:04:57 -0500",
+    "source": "The Block",
+    "contentSnippet": "Uniswap has unveiled its Continuous Clearing Auction protocol for onchain token auctions with automatic liquidity seeding and optional ZK-based privacy."
+  },
+  {
+    "title": "Bitcoin, Ethereum ETFs Shed Over $1 Billion in Assets as XRP Fund Soars",
+    "link": "https://decrypt.co/348651/bitcoin-ethereum-etfs-shed-1-billion-assets-xrp-fund-soars",
+    "pubDate": "Fri, 14 Nov 2025 09:39:56 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BlackRock’s iShares Bitcoin Trust totaled more than a quarter billion in investments, in the worst day of Bitcoin ETF outflows since February."
+  },
+  {
+    "title": "3 Key Charts to Track as Ether Strengthens Against Bitcoin",
+    "link": "https://www.coindesk.com/markets/2025/11/14/3-key-charts-to-track-as-ether-strengthens-against-bitcoin",
+    "pubDate": "Fri, 14 Nov 2025 08:29:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Ether strengthens against bitcoin, raising hopes of a bullish breakout."
+  },
+  {
+    "title": "Ark Invest buys $15.6 million in Circle shares, adds BitMine and Bullish positions",
+    "link": "https://www.theblock.co/post/378856/ark-invest-buys-circle-shares-adds-bitmine-bullish?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 14 Nov 2025 02:28:17 -0500",
+    "source": "The Block",
+    "contentSnippet": "Cathie Wood's Ark Invest also bought $8.86 million worth of BitMine shares and $7.28 million worth of Bullish."
+  },
+  {
+    "title": "Spot bitcoin ETFs see $869 million in outflows, marking second-largest exit on record",
+    "link": "https://www.theblock.co/post/378853/spot-bitcoin-etfs-see-second-largest-outflows?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 14 Nov 2025 01:35:55 -0500",
+    "source": "The Block",
+    "contentSnippet": "The outflows on Thursday coincided with a broader crypto market sell-off, with BTC falling below $97,000 as of 2:30 a.m. ET Friday."
+  },
+  {
     "title": "Bitcoin Spot ETFs See $869M Outflow, Second-Largest on Record",
     "link": "https://www.coindesk.com/markets/2025/11/14/bitcoin-spot-etfs-see-usd869m-outflow-second-largest-on-record",
     "pubDate": "Fri, 14 Nov 2025 06:04:06 +0000",
@@ -7,7 +63,7 @@
     "contentSnippet": "Investors have pulled out $2.64 billion over three weeks"
   },
   {
-    "title": "Tether Dominance Surges to Highest Since April. What Does it Mean?",
+    "title": "Tether Dominance Surges to Highest Since April. What Does It Mean?",
     "link": "https://www.coindesk.com/markets/2025/11/14/tether-dominance-surges-to-highest-since-april",
     "pubDate": "Fri, 14 Nov 2025 05:21:33 +0000",
     "source": "CoinDesk DeFi",
@@ -21,7 +77,7 @@
     "contentSnippet": "Brutal selloff breaks psychological $2.30 floor, erasing recent gains as distribution overwhelms historic XRPC debut."
   },
   {
-    "title": "Bitcoin Plunges Under $98,000, ETH, SOL, ADA Down 8% as $880M in Bullish Bets Liquidated",
+    "title": "Bitcoin Plunges Under $97,000, ETH, SOL, ADA Down 8% as $880M in Bullish Bets Liquidated",
     "link": "https://www.coindesk.com/markets/2025/11/14/bitcoin-plunges-under-usd98-000-eth-sol-ada-down-8-as-usd880m-in-bullish-bets-liquidated",
     "pubDate": "Fri, 14 Nov 2025 05:00:02 +0000",
     "source": "CoinDesk DeFi",
@@ -78,7 +134,7 @@
   },
   {
     "title": "R25 launches yield-bearing RWA stablecoin protocol on Polygon",
-    "link": "https://www.theblock.co/post/378646/ant-financial-backed-r25-launches-yield-bearing-rwa-stablecoin-protocol-polygon?utm_source=rss&utm_medium=rss",
+    "link": "https://www.theblock.co/post/378646/r25-launches-yield-bearing-rwa-stablecoin-protocol-polygon?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 13 Nov 2025 21:00:00 -0500",
     "source": "The Block",
     "contentSnippet": "R25’s launch points to accelerating demand for compliant, asset-backed stablecoins amid institutional interest in onchain yield."
@@ -126,20 +182,6 @@
     "contentSnippet": "Brock Pierce spoke about Bitcoin with Larry Summers at Jeffrey Epstein’s Manhattan townhouse, emails from the financier’s estate indicate."
   },
   {
-    "title": "Myriad Moves: Traders Flip on Gold vs Ethereum, Solana Sentiment Sinks",
-    "link": "https://decrypt.co/348583/myriad-moves-traders-flip-gold-ethereum-solana-sentiment-sinks",
-    "pubDate": "Thu, 13 Nov 2025 22:18:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Top markets on Myriad this week include predictions on gold and ETH racing to $5,000, a new Solana all-time high, and whether the Fed will cut rates again this year."
-  },
-  {
-    "title": "Dogecoin Treasury Firm CleanCore's Stock Hits New Low as DOGE Dives",
-    "link": "https://decrypt.co/348589/dogecoin-treasury-firm-cleancore-stock-new-low-doge-dives",
-    "pubDate": "Thu, 13 Nov 2025 21:55:28 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "CleanCore Solutions has amassed 733 Million Dogecoin, but the firm’s stock is plunging, hitting a new bottom on Thursday."
-  },
-  {
     "title": "Jack Dorsey’s Cash App enables Bitcoin Lightning and stablecoin payments",
     "link": "https://www.theblock.co/post/378837/jack-dorseys-cash-app-enables-bitcoin-lightning-and-stablecoin-payments?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 13 Nov 2025 16:39:13 -0500",
@@ -154,27 +196,6 @@
     "contentSnippet": "The previous high for 2025 launches was held by Bitwise's Solana ETF, which did about $57 million in day-one volume."
   },
   {
-    "title": "Solana Slides 5% to $145 as Technical Breakdown Overshadows ETF Momentum",
-    "link": "https://www.coindesk.com/markets/2025/11/13/solana-slides-5-to-usd145-as-technical-breakdown-overshadows-etf-momentum",
-    "pubDate": "Thu, 13 Nov 2025 20:27:31 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token fell through key support despite elevated trading volume and continued institutional inflows into spot ETFs."
-  },
-  {
-    "title": "Strategy Plunges to Weakest in 13 Months, but Still Trades at Premium to Bitcoin Holdings",
-    "link": "https://www.coindesk.com/markets/2025/11/13/strategy-plunges-to-weakest-in-13-months-but-still-trades-at-premium-to-bitcoin-holdings",
-    "pubDate": "Thu, 13 Nov 2025 19:34:10 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Alongside bitcoin's tumble back to $98,000, MSTR is lower by another 6.6% on Thursday, bringing its year-to-date decline to 30%."
-  },
-  {
-    "title": "Retail Mood Sours Amid Crypto Selloff, Flashing Short-Term Bottom Signals for BTC, ETH, XRP ",
-    "link": "https://www.coindesk.com/markets/2025/11/13/retail-mood-sours-amid-crypto-selloff-flashing-short-term-bottom-signals-for-btc-eth-xrp",
-    "pubDate": "Thu, 13 Nov 2025 19:06:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A fresh wave of pessimism is sweeping across crypto markets, but the mood shift may be doing more good than harm."
-  },
-  {
     "title": "The Daily: Canary Capital launches spot XRP ETF, JPMorgan sees bitcoin support at $94K, Polymarket quietly relaunches in US, and more",
     "link": "https://www.theblock.co/post/378821/the-daily-canary-capital-launches-spot-xrp-etf-jpmorgan-sees-bitcoin-support-at-94k-polymarket-quietly-relaunches-in-us-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 13 Nov 2025 14:02:02 -0500",
@@ -187,26 +208,5 @@
     "pubDate": "Thu, 13 Nov 2025 13:47:41 -0500",
     "source": "The Block",
     "contentSnippet": "CoinGlass data shows that of the total liquidations across digital assets, $342 million came from long positions."
-  },
-  {
-    "title": "Dogecoin treasury firm CleanCore stock slides as losses mount, DOGE value drops",
-    "link": "https://www.theblock.co/post/378807/dogecoin-treasury-firm-cleancore-stock-slides-as-losses-mount-doge-value-drops?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 13 Nov 2025 13:12:13 -0500",
-    "source": "The Block",
-    "contentSnippet": "The company said it has closed its $175 million private placement meant to fund the formation of the official DOGE treasury strategy"
-  },
-  {
-    "title": "OKX launches in-wallet DEX trading, tapping Base, Solana and X Layer",
-    "link": "https://www.theblock.co/post/378808/okx-launches-in-wallet-dex-trading-tapping-base-solana-and-x-layer?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 13 Nov 2025 12:56:45 -0500",
-    "source": "The Block",
-    "contentSnippet": "OKX is following competitors like Coinbase by integrating DeFi trading directly into their core self-custody wallet product."
-  },
-  {
-    "title": "Solana DAT firm Upexi latest crypto treasury to launch stock buyback program",
-    "link": "https://www.theblock.co/post/378805/solana-dat-firm-upexi-latest-crypto-treasury-to-launch-stock-buyback-program?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 13 Nov 2025 12:52:39 -0500",
-    "source": "The Block",
-    "contentSnippet": "Upexi's board of directors approved $50 million for an open-ended stock repurchase program, intended to boost shareholder value."
   }
 ]
