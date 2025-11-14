@@ -1,5 +1,89 @@
 [
   {
+    "title": "Bitcoin Spot ETFs See $869M Outflow, Second-Largest on Record",
+    "link": "https://www.coindesk.com/markets/2025/11/14/bitcoin-spot-etfs-see-usd869m-outflow-second-largest-on-record",
+    "pubDate": "Fri, 14 Nov 2025 06:04:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Investors have pulled out $2.64 billion over three weeks"
+  },
+  {
+    "title": "Tether Dominance Surges to Highest Since April. What Does it Mean?",
+    "link": "https://www.coindesk.com/markets/2025/11/14/tether-dominance-surges-to-highest-since-april",
+    "pubDate": "Fri, 14 Nov 2025 05:21:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Tether becomes more dominance as BTC loses ground."
+  },
+  {
+    "title": "XRP ETF Fails to Bump Bulls as Ripple-Linked Token Plunges 7.3% Amid BTC Selloff",
+    "link": "https://www.coindesk.com/markets/2025/11/14/xrp-etf-fails-to-bump-bulls-as-ripple-linked-token-plunges-7-3-amid-btc-selloff",
+    "pubDate": "Fri, 14 Nov 2025 05:06:01 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Brutal selloff breaks psychological $2.30 floor, erasing recent gains as distribution overwhelms historic XRPC debut."
+  },
+  {
+    "title": "Bitcoin Plunges Under $98,000, ETH, SOL, ADA Down 8% as $880M in Bullish Bets Liquidated",
+    "link": "https://www.coindesk.com/markets/2025/11/14/bitcoin-plunges-under-usd98-000-eth-sol-ada-down-8-as-usd880m-in-bullish-bets-liquidated",
+    "pubDate": "Fri, 14 Nov 2025 05:00:02 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "China’s latest dataset showed economic activity cooling far more than expected, creating selling in Asian stocks in Friday trading hours."
+  },
+  {
+    "title": "Judge Denies Apple, OpenAI Bid to Dismiss Elon Musk’s Antitrust Lawsuit",
+    "link": "https://decrypt.co/348648/judge-denies-apple-openai-dismiss-elon-musks-antitrust-lawsuit",
+    "pubDate": "Fri, 14 Nov 2025 04:44:44 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The case will hinge on evidence of whether competitors are truly blocked from Apple's iOS ecosystem, a legal expert told Decrypt."
+  },
+  {
+    "title": "Canary's XRP ETF Tops 2025 Debuts with $58M Day-One Volume",
+    "link": "https://www.coindesk.com/markets/2025/11/14/canary-s-xrp-etf-tops-2025-debuts-with-usd58m-day-one-volume",
+    "pubDate": "Fri, 14 Nov 2025 04:38:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The XRPC ETF narrowly surpassed Bitwise’s Solana ETF in first-day trading volume."
+  },
+  {
+    "title": "CleanSpark completes upsized $1.15 billion convertible notes offering to support expansion",
+    "link": "https://www.theblock.co/post/378850/cleanspark-completes-upsized-convertible-notes-offering?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 13 Nov 2025 23:17:39 -0500",
+    "source": "The Block",
+    "contentSnippet": "As part of the offering, CleanSpark repurchased 30.6 million shares, about 10.9% of its outstanding common stock, for roughly $460 million."
+  },
+  {
+    "title": "What’s Driving Bitcoin’s Dip Below $100,000?",
+    "link": "https://decrypt.co/348645/whats-driving-bitcoins-dip-below-100000",
+    "pubDate": "Fri, 14 Nov 2025 04:11:07 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Investors retreated across risk assets on Thursday as Bitcoin’s slide hints at fading demand and heavier long-term holder selling."
+  },
+  {
+    "title": "Why Bitcoin, XRP, Solana, and Ether Slide as Gold and Silver Soar? ",
+    "link": "https://www.coindesk.com/markets/2025/11/14/why-bitcoin-xrp-sol-and-eth-slide-as-gold-and-silver-soar",
+    "pubDate": "Fri, 14 Nov 2025 02:56:52 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Major cryptocurrencies and gold and silver have been on diverging trends despite the pause in the dollar rally."
+  },
+  {
+    "title": "XRP ETF Posts Year’s Strongest Debut With $58 Million in First-Day Trading",
+    "link": "https://decrypt.co/348641/xrp-etf-years-strongest-debut-58-million-first-day-trading",
+    "pubDate": "Fri, 14 Nov 2025 02:40:01 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Canary's XRP fund opened with record activity for the year despite a broader market pullback that has weighed on crypto prices."
+  },
+  {
+    "title": "Bitfarms Will 'Wind Down' Bitcoin Mining and Pivot to AI After $46 Million Loss",
+    "link": "https://decrypt.co/348573/bitfarms-wind-down-bitcoin-mining-pivot-ai-after-46-million-loss",
+    "pubDate": "Fri, 14 Nov 2025 02:13:55 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin miner Bitfarms will end its Bitcoin operations in the coming years, shifting focus to providing infrastructure for growing AI demand."
+  },
+  {
+    "title": "R25 launches yield-bearing RWA stablecoin protocol on Polygon",
+    "link": "https://www.theblock.co/post/378646/ant-financial-backed-r25-launches-yield-bearing-rwa-stablecoin-protocol-polygon?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 13 Nov 2025 21:00:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "R25’s launch points to accelerating demand for compliant, asset-backed stablecoins amid institutional interest in onchain yield."
+  },
+  {
     "title": "Nearly 25% of Adults With Internet Access in Asia Might Own Crypto, Report Says",
     "link": "https://www.coindesk.com/markets/2025/11/13/nearly-25-of-adults-with-internet-access-in-asia-might-own-crypto-report-says",
     "pubDate": "Fri, 14 Nov 2025 01:00:48 +0000",
@@ -70,39 +154,11 @@
     "contentSnippet": "The previous high for 2025 launches was held by Bitwise's Solana ETF, which did about $57 million in day-one volume."
   },
   {
-    "title": "Bitcoin Maxi Jack Dorsey Embraces Stablecoin Payments in Cash App—On Solana",
-    "link": "https://decrypt.co/348580/bitcoin-maxi-jack-dorsey-stablecoin-payments-cash-app-solana",
-    "pubDate": "Thu, 13 Nov 2025 21:06:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The payments entrepreneur's app will allow customers to send digital dollars by using \"multiple stablecoins and networks.\""
-  },
-  {
     "title": "Solana Slides 5% to $145 as Technical Breakdown Overshadows ETF Momentum",
     "link": "https://www.coindesk.com/markets/2025/11/13/solana-slides-5-to-usd145-as-technical-breakdown-overshadows-etf-momentum",
     "pubDate": "Thu, 13 Nov 2025 20:27:31 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The token fell through key support despite elevated trading volume and continued institutional inflows into spot ETFs."
-  },
-  {
-    "title": "Bitcoin Miners Lead Crypto Stock Losses Amid Wider Market Dip—With BTC Falling",
-    "link": "https://decrypt.co/348543/bitcoin-miners-lead-crypto-stock-losses-market-dip-btc-falling",
-    "pubDate": "Thu, 13 Nov 2025 20:15:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin miners and other crypto-focused stocks plummeted on Thursday amid a wider downturn in crypto markets and other risk-on assets."
-  },
-  {
-    "title": "Czech Republic Invests in Crypto, With Eye on Eventual Bitcoin Reserve",
-    "link": "https://decrypt.co/348571/czech-republic-invests-crypto-eye-bitcoin-reserve",
-    "pubDate": "Thu, 13 Nov 2025 19:36:39 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The nation’s central bank has unveiled a pilot investment in Bitcoin, stablecoins, and tokenized deposits to better understand how to adopt digital assets."
-  },
-  {
-    "title": "This One Weird Trick Defeats AI Safety Features in 99% of Cases",
-    "link": "https://decrypt.co/348552/one-weird-trick-defeats-ai-safety-features-99-percent",
-    "pubDate": "Thu, 13 Nov 2025 19:35:18 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "New research shows that AI's extended reasoning creates a security vulnerability, with extremely high attack success rates across major models including GPT, Claude, and Gemini."
   },
   {
     "title": "Strategy Plunges to Weakest in 13 Months, but Still Trades at Premium to Bitcoin Holdings",
@@ -124,13 +180,6 @@
     "pubDate": "Thu, 13 Nov 2025 14:02:02 -0500",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Chainlink Breaks Below $14.50 Amid Broader Selloff; Reserve Adds 74K LINK Despite Losses",
-    "link": "https://www.coindesk.com/markets/2025/11/13/chainlink-breaks-below-usd14-50-amid-broader-selloff-reserve-adds-74k-link-despite-losses",
-    "pubDate": "Thu, 13 Nov 2025 18:55:03 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Technical breakdown occurred despite positive institutional developments as volume surged during selloff"
   },
   {
     "title": "Bitcoin slips below $100,000 as total crypto liquidations hit $463 million",
@@ -159,54 +208,5 @@
     "pubDate": "Thu, 13 Nov 2025 12:52:39 -0500",
     "source": "The Block",
     "contentSnippet": "Upexi's board of directors approved $50 million for an open-ended stock repurchase program, intended to boost shareholder value."
-  },
-  {
-    "title": "Stellar Tumbles Below Key $0.285 Support as Bears Take Over",
-    "link": "https://www.coindesk.com/markets/2025/11/13/stellar-tumbles-below-key-usd0-285-support-as-bears-take-over",
-    "pubDate": "Thu, 13 Nov 2025 17:21:25 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XLM retreated to $0.281 as selling pressure intensified during afternoon trading, with volume surging amid failed resistance test."
-  },
-  {
-    "title": "Bitcoin Crumbles Below $100K, Crypto Stocks Eviscerated as Liquidity Crunch Hammers Risk Markets",
-    "link": "https://www.coindesk.com/markets/2025/11/13/bitcoin-slides-to-usd100k-crypto-stocks-eviscerated-as-liquidity-crunch-hammers-risk-markets",
-    "pubDate": "Thu, 13 Nov 2025 17:15:02 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Crypto’s U.S. trading-hour weakness continues as hopes for a new 2025 BTC high fade, a market strategist said."
-  },
-  {
-    "title": "mXRP, a yield-bearing tokenized XRP product, expands to BNB Chain via Lista DAO",
-    "link": "https://www.theblock.co/post/378798/mxrp-tokenized-xrp-bnb-chain-lista-dao?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 13 Nov 2025 12:03:35 -0500",
-    "source": "The Block",
-    "contentSnippet": "The expansion gives XRP holders access to BNB Chain DeFi, allowing them to earn additional yield on top of mXRP’s base strategy returns."
-  },
-  {
-    "title": "HBAR Drops 3.5% Breaking Support as ETF Inflows Hit $68 Million",
-    "link": "https://www.coindesk.com/markets/2025/11/13/hbar-drops-3-5-breaking-support-as-etf-inflows-hit-usd68-million",
-    "pubDate": "Thu, 13 Nov 2025 16:49:40 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera's native token retreats from $0.1817 to $0.1754 despite institutional accumulation."
-  },
-  {
-    "title": "ICP Advances as Consolidation Holds Below $6.66 Resistance Price",
-    "link": "https://www.coindesk.com/markets/2025/11/13/icp-advances-as-consolidation-holds-below-usd6-66-resistance-price",
-    "pubDate": "Thu, 13 Nov 2025 16:40:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Internet Computer trades within a narrow range after an early-volume breakout attempt stalled, keeping the token pinned between key support at $6.05 and $6.66."
-  },
-  {
-    "title": "Bitfarms stock tumbles as miner posts $46 million loss, plans AI/HPC pivot with Washington site",
-    "link": "https://www.theblock.co/post/378784/bitfarms-stock-tumbles-bitcoin-miner-ai-hpc-pivot-washington?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 13 Nov 2025 11:33:34 -0500",
-    "source": "The Block",
-    "contentSnippet": "Bitfarms reported revenue of $69 million, which was up 156% year over year but missed most estimates by around 15%."
-  },
-  {
-    "title": "Solana-Focused Upexi Approves $50M Share Buyback as Digital Asset Treasuries Turn to Repurchases",
-    "link": "https://www.coindesk.com/business/2025/11/13/solana-focused-upexi-approves-usd50m-share-buyback-as-digital-asset-treasuries-turn-to-repurchases",
-    "pubDate": "Thu, 13 Nov 2025 16:31:22 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Solana-centric company is joining a growing list of crypto treasury companies opting to buy back shares as investor appetite for DATs vane."
   }
 ]
