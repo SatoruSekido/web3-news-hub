@@ -1,5 +1,40 @@
 [
   {
+    "title": "Arca CIO Jeff Dorman Rejects Claims Saylor’s Strategy (MSTR) Faces Forced Bitcoin-Sale Risk",
+    "link": "https://www.coindesk.com/markets/2025/11/16/arca-cio-jeff-dorman-rejects-claims-saylor-s-strategy-mstr-faces-forced-bitcoin-sale-risk",
+    "pubDate": "Sun, 16 Nov 2025 23:52:58 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Dorman says fears that Strategy will be forced to sell bitcoin are misplaced, citing the firm’s balance sheet, governance and cash flow."
+  },
+  {
+    "title": "Ether Dips Below $3,100; Investment Manager Says Market Views ETH as 'More Risky' Than BTC",
+    "link": "https://www.coindesk.com/markets/2025/11/16/ether-dips-below-usd3-100-investment-manager-says-market-views-eth-as-more-risky-than-btc",
+    "pubDate": "Sun, 16 Nov 2025 22:09:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Timothy Peterson says ether ETFs have lost about 7% of cost-basis capital over five weeks, versus 4% for bitcoin ETFs."
+  },
+  {
+    "title": "Bitfinex Bitcoin Hack Money Launderer Razzlekhan Set to Release New Music",
+    "link": "https://decrypt.co/348727/bitfinex-bitcoin-hack-money-launderer-razzlekhan-release-new-music",
+    "pubDate": "Sun, 16 Nov 2025 20:48:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Heather \"Razzlekhan\" Morgan will release a new track featuring her in an Ottoman helmet rapping about baklava, as she nears the end of her jail sentence."
+  },
+  {
+    "title": "Judge Should Not Acquit Tornado Cash Dev Roman Storm, Prosecutors Argue",
+    "link": "https://www.coindesk.com/policy/2025/11/16/judge-should-not-acquit-tornado-cash-dev-roman-storm-prosecutors-argue",
+    "pubDate": "Sun, 16 Nov 2025 19:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The DOJ filed its own post-trial motion last week, pushing back against Storm's motion for acquittal."
+  },
+  {
+    "title": "Bitcoin Falls Below $94,000 for First Time Since May Amid 'Extreme Fear' Sentiment",
+    "link": "https://www.coindesk.com/markets/2025/11/16/bitcoin-falls-below-usd94-000-for-first-time-since-may-amid-extreme-fear-sentiment",
+    "pubDate": "Sun, 16 Nov 2025 18:49:34 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Analysts highlighted retail distress, rare social-dominance surges and warnings of a possible deeper pullback as several major tokens remained under pressure."
+  },
+  {
     "title": "Bitcoin Approaches 'Death Cross' as Market Tests Major Historical Pattern",
     "link": "https://www.coindesk.com/markets/2025/11/16/bitcoin-approaches-death-cross-as-market-tests-major-historical-pattern",
     "pubDate": "Sun, 16 Nov 2025 17:39:04 +0000",
@@ -70,25 +105,11 @@
     "contentSnippet": "The investment, which accounts for 20% of Harvard's reported U.S.-listed public equity holdings, is notable."
   },
   {
-    "title": "Alibaba to Use JPMorgan’s Blockchain for Tokenized Dollar and Euro Payments: CNBC",
-    "link": "https://www.coindesk.com/business/2025/11/15/alibaba-to-use-jpmorgan-s-blockchain-for-tokenized-dollar-and-euro-payments-cnbc",
-    "pubDate": "Sat, 15 Nov 2025 20:00:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The technology aims to expedite transactions and eliminate intermediaries, enabling the direct transfer of digital currencies over a blockchain-based system."
-  },
-  {
     "title": "Ethereum Holders Are More Willing Than Bitcoin Investors to Part With Coins: Glassnode",
     "link": "https://decrypt.co/348827/ethereum-holders-more-willing-bitcoin-investors-part-coins-report",
     "pubDate": "Sat, 15 Nov 2025 19:05:59 +0000",
     "source": "Decrypt",
     "contentSnippet": "Ethereum holders move and sell their coins far more than Bitcoin holders, according to a new report from Glassnode."
-  },
-  {
-    "title": "State of Crypto: What's In the New Crypto Market Structure Draft?",
-    "link": "https://www.coindesk.com/policy/2025/11/15/state-of-crypto-what-s-in-the-new-crypto-market-structure-draft",
-    "pubDate": "Sat, 15 Nov 2025 19:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Senate Agriculture Committee released a draft text for its version of market structure legislation."
   },
   {
     "title": "Harvard triples down on bitcoin bet with spot ETF buys from world’s largest academic endowment",
@@ -98,25 +119,11 @@
     "contentSnippet": "Emory University and an Abu Dhabi sovereign wealth fund also added to their spot bitcoin ETF holdings in the third quarter of 2025."
   },
   {
-    "title": "Crypto Market Slips Into ‘Extreme Fear’ After Bitcoin Fails to Hold $100,000 Level",
-    "link": "https://www.coindesk.com/markets/2025/11/15/crypto-market-slips-into-extreme-fear-after-bitcoin-fails-to-hold-usd100-000-level",
-    "pubDate": "Sat, 15 Nov 2025 17:17:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The sell-off is attributed to a combination of factors, including profit-taking, institutional outflows, macro uncertainty, and low liquidity."
-  },
-  {
     "title": "Running Your Own Local Open-Source AI Model Is Easy—Here's How",
     "link": "https://decrypt.co/348129/running-your-own-local-open-source-ai-model-easy-heres-how",
     "pubDate": "Sat, 15 Nov 2025 17:01:02 +0000",
     "source": "Decrypt",
     "contentSnippet": "Local AI models offer privacy and zero subscription costs, letting you run powerful models completely offline. Here's how to start."
-  },
-  {
-    "title": "'Negative Skew': What It Is, Why It's Frustrating Bitcoin Bulls, and Why It Might Mean a Bottom is Near",
-    "link": "https://www.coindesk.com/markets/2025/11/15/negative-skew-what-it-is-why-it-s-frustrating-bitcoin-bulls-and-why-it-might-mean-a-bottom-is-near",
-    "pubDate": "Sat, 15 Nov 2025 17:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "If it seems like bitcoin prices react particularly negatively to falling stocks, but don't do a whole lot when stocks fly higher, you're not imagining it."
   },
   {
     "title": "Harvard Triples Its Bitcoin Position as Emory Expands BTC ETF Holdings",
@@ -173,13 +180,6 @@
     "pubDate": "Fri, 14 Nov 2025 13:04:53 -0500",
     "source": "The Block",
     "contentSnippet": "Leading Ethereum treasury firm BitMine (BMNR) has appointed a new chief executive and three independent directors."
-  },
-  {
-    "title": "Michael Saylor Denies Bitcoin Sale Rumors, Says Strategy's BTC Buys Are 'Accelerating'",
-    "link": "https://decrypt.co/348737/michael-saylor-denies-bitcoin-sale-rumors-strategy-btc-buys-accelerating",
-    "pubDate": "Fri, 14 Nov 2025 17:45:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Strategy's co-founder and executive chairman described the company's hunger for Bitcoin as insatiable, while denying rumors of a recent sale."
   },
   {
     "title": "‘We are buying’: Michael Saylor says ‘no truth’ to rumor that Strategy sold 47,000 bitcoin",
