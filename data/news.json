@@ -1,5 +1,159 @@
 [
   {
+    "title": "Asia Morning Briefing: Even Prediction Markets Didn’t See Bitcoin’s Selloff Coming",
+    "link": "https://www.coindesk.com/markets/2025/11/18/asia-morning-briefing-even-prediction-markets-didn-t-see-bitcoin-s-selloff-coming",
+    "pubDate": "Tue, 18 Nov 2025 00:46:43 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A fast reset in downside odds mirrors QCP’s warning of flat-footed pro desks, with Glassnode highlighting oversold momentum and moderating ETF outflows."
+  },
+  {
+    "title": "Bitcoin, Ethereum Dive Deeper Amid AI and Macro Angst",
+    "link": "https://decrypt.co/348973/bitcoin-ethereum-dive-ai-macro-angst",
+    "pubDate": "Mon, 17 Nov 2025 23:26:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin dropped to its lowest level in six months. Ethereum dipped below $3,000, its lowest point since mid summer."
+  },
+  {
+    "title": "Google Unveils New AI Weather Model With Faster, More Accurate Forecasts",
+    "link": "https://decrypt.co/348969/google-new-ai-weather-model-faster-accurate-forecasts",
+    "pubDate": "Mon, 17 Nov 2025 23:13:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Google WeatherNext 2 AI-powered Forecasts now support Search, Gemini, Pixel Weather, and Maps weather tools."
+  },
+  {
+    "title": "Coinbase’s Monad public token sale starts hot and then fizzles",
+    "link": "https://www.theblock.co/post/379128/coinbases-monad-public-token-sale-starts-hot-and-then-fizzles?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 18:05:47 -0500",
+    "source": "The Block",
+    "contentSnippet": "The much-anticipated public offering of Monad's native token via Coinbase generated about $43 million within the first half hour."
+  },
+  {
+    "title": "Survey of AI Founders Predicts Perplexity is the AI Giant Most Likely to Fail",
+    "link": "https://decrypt.co/348999/survey-ai-founders-perplexity-ai-giant-most-likely-to-fail",
+    "pubDate": "Mon, 17 Nov 2025 22:57:15 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Perplexity’s growing stack of lawsuits and scraping allegations added fuel to the skepticism voiced by founders and investors last week."
+  },
+  {
+    "title": "Bitcoin Miner Hive's Stock Rises After Record Q2 Revenue, AI Deal",
+    "link": "https://decrypt.co/348992/bitcoin-miner-hive-stock-rises-record-q2-revenue-ai-deal",
+    "pubDate": "Mon, 17 Nov 2025 22:51:49 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Hive Digital Technologies began rebounding Monday after an earnings win and Dell deal to power the Bitcoin miner’s growing AI ambitions."
+  },
+  {
+    "title": "Ethereum Is the Opposite of Sam Bankman-Fried's FTX, Says Vitalik Buterin",
+    "link": "https://decrypt.co/348991/ethereum-opposite-sam-bankman-fried-ftx-vitalik-buterin-says",
+    "pubDate": "Mon, 17 Nov 2025 22:38:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum is decentralized, \"can’t be evil,\" and is a community—everything that FTX wasn’t, ETH founder Vitalik Buterin said Monday."
+  },
+  {
+    "title": "Blockchain.com names co-CEO as it opens a new US headquarters in Dallas",
+    "link": "https://www.theblock.co/post/379157/blockchain-com-names-co-ceo-as-it-opens-a-new-us-headquarters-in-dallas?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 17:21:32 -0500",
+    "source": "The Block",
+    "contentSnippet": "Blockchain.com, one of the oldest surviving crypto companies, has appointed a new co-CEO to run its U.S. wing."
+  },
+  {
+    "title": "Man behind Barack Obama and Jeff Bezos Twitter hacks to repay over $5 million in stolen bitcoin",
+    "link": "https://www.theblock.co/post/379155/man-behind-barack-obama-and-jeff-bezos-twitter-hacks-to-repay-over-5-million-in-stolen-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 17:16:48 -0500",
+    "source": "The Block",
+    "contentSnippet": "In 2023, O'Connor, 26, pleaded guilty in the U.S. on multiple charges and was later sentenced to five years in prison."
+  },
+  {
+    "title": "DappRadar Shuts Down, Citing ‘Financially Unsustainable’ Market",
+    "link": "https://www.coindesk.com/business/2025/11/17/E",
+    "pubDate": "Mon, 17 Nov 2025 21:56:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Launched in 2018, the platform had grown into one of the most prominent analytics hubs for on-chain activity."
+  },
+  {
+    "title": "Bitcoin Treasury KindlyMD Extends Stock Collapse After Earnings Delay",
+    "link": "https://decrypt.co/348979/bitcoin-treasury-kindlymd-extends-stock-collapse-earnings-delay",
+    "pubDate": "Mon, 17 Nov 2025 21:43:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "KindlyMD shares dropped another 10% after missing its Q3 earnings deadline, with the company citing merger accounting complexity and warning of major losses ahead."
+  },
+  {
+    "title": "Vitalik Buterin unveils Kohaku, a privacy-focused framework for Ethereum",
+    "link": "https://www.theblock.co/post/379149/vitalik-buterin-unveils-kohaku-privacy-focused-framework-ethereum?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 16:26:28 -0500",
+    "source": "The Block",
+    "contentSnippet": "Kohaku is a suite of privacy-preserving crypto tools to enhance privacy and security in the Ethereum ecosystem."
+  },
+  {
+    "title": "Grayscale Poised to Debut Dogecoin ETF as VanEck's Solana Fund Starts Trading",
+    "link": "https://decrypt.co/348935/grayscale-debut-dogecoin-etf-vaneck-solana-fund-starts-trading",
+    "pubDate": "Mon, 17 Nov 2025 20:54:55 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A Grayscale ETF tracking popular meme coin Dogecoin could list next next week, while a VanEck Solana fund debuted Monday."
+  },
+  {
+    "title": "Trump International Maldives Hotel Will Offer Tokenized Real Estate Investments",
+    "link": "https://decrypt.co/348957/trump-international-maldives-hotel-tokenized-real-estate-investments",
+    "pubDate": "Mon, 17 Nov 2025 20:14:13 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The Trump Organization is tokenizing the development of its latest real estate venture, a collection of luxury villas in the Maldives."
+  },
+  {
+    "title": "Bitcoin Just Erased All of Its 2025 Gains—And the 'Picture Remains Fragile', Says Analyst",
+    "link": "https://decrypt.co/348954/bitcoin-erased-2025-gains-picture-remains-fragile-analyst",
+    "pubDate": "Mon, 17 Nov 2025 19:28:50 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin dropped below $93,000 on Monday, wiping out 2025 gains as analysts warn of breaking key support levels amid delayed cycle concerns."
+  },
+  {
+    "title": "The 5 Biggest 'Tells' That Something Was Written By AI",
+    "link": "https://decrypt.co/348923/5-biggest-tells-something-written-ai",
+    "pubDate": "Mon, 17 Nov 2025 18:59:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A growing body of recent research shows that AI writing carries its own fingerprints, from structural tics to shifting vocabulary trends. Here’s how to spot them."
+  },
+  {
+    "title": "Bitcoin Slips Below $93K as Crypto Weakness Worsens, but Local Bottom Could Be Near, Analysts Say",
+    "link": "https://www.coindesk.com/markets/2025/11/17/bitcoin-slips-below-usd93k-as-crypto-weakness-worsens-but-local-bottom-could-be-near-analysts-say",
+    "pubDate": "Mon, 17 Nov 2025 18:59:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "BTC has erased all year-to-date gains with the Monday decline, while crypto-related stocks like COIN, CRCL, MSTR, GLXY also plunged."
+  },
+  {
+    "title": "The Daily: Bitcoin hits six-month low amid cycle peak fears, Strategy’s ‘big week,’ and more",
+    "link": "https://www.theblock.co/post/379133/the-daily-bitcoin-hits-six-month-low-amid-cycle-peak-fears-strategys-big-week-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 13:55:47 -0500",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "What Next For Dogecoin as Bitcoin 'Death Cross' Puts Major Memecoin in Crosshairs",
+    "link": "https://www.coindesk.com/markets/2025/11/18/what-next-for-dogecoin-as-bitcoin-death-cross-puts-major-memecoin-in-crosshairs",
+    "pubDate": "Mon, 17 Nov 2025 18:54:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin's Death Cross, a bearish signal, occurred as the 50-day moving average fell below the 200-day moving average."
+  },
+  {
+    "title": "TD Cowen sees 170% upside for Strategy shares despite mNAV dip, bitcoin battering",
+    "link": "https://www.theblock.co/post/379127/td-cowen-sees-strategy-upside-despite-bitcoin-battering?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 13:47:43 -0500",
+    "source": "The Block",
+    "contentSnippet": "TD Cowen analysts said potential catalysts like possible S&P 500 inclusion and clearer U.S. bitcoin rules could help steady investor demand."
+  },
+  {
+    "title": "XRP Slumps 5% as Bitcoin's Break Under $93,000 Leads to Bearish Outlook For Majors",
+    "link": "https://www.coindesk.com/markets/2025/11/18/xrp-slumps-5-as-bitcoin-s-break-under-usd93-000-leads-to-bearish-outlook-for-majors",
+    "pubDate": "Mon, 17 Nov 2025 18:43:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Broader crypto markets are pressured by weak risk sentiment and technical trading patterns."
+  },
+  {
+    "title": "White House moves closer to allowing IRS to surveil international crypto transactions",
+    "link": "https://www.theblock.co/post/379131/white-house-moves-closer-to-allowing-irs-to-surveil-international-crypto-transactions?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 13:38:15 -0500",
+    "source": "The Block",
+    "contentSnippet": "The White House is reviewing a rule that would grant the IRS access to information on taxpayers’ crypto transactions conducted globally."
+  },
+  {
     "title": "Kindly MD Delays Earnings Report Filing as Merger Losses Mount; Shares Drop",
     "link": "https://www.coindesk.com/markets/2025/11/17/kindly-md-delays-earnings-report-filing-as-merger-losses-mount-shares-drop",
     "pubDate": "Mon, 17 Nov 2025 18:18:42 +0000",
@@ -12,27 +166,6 @@
     "pubDate": "Mon, 17 Nov 2025 17:39:36 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Analysts cited Figure’s shift to ‘capital-light’ model and stablecoin launch on the Provenance blockchain."
-  },
-  {
-    "title": "Almost Perpetual? CBOE to Offer 'Continuous' Bitcoin, Ethereum Futures",
-    "link": "https://decrypt.co/348937/almost-perpetual-cboe-continuous-bitcoin-ethereum-futures",
-    "pubDate": "Mon, 17 Nov 2025 17:38:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The products are expected to debut next month."
-  },
-  {
-    "title": "Global Probe Finds Illicit Crypto Moving in Patterns Across Major Exchanges",
-    "link": "https://decrypt.co/348932/global-probe-finds-illicit-crypto-moving-in-patterns-across-major-exchanges",
-    "pubDate": "Mon, 17 Nov 2025 17:29:24 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The ICIJ has outlined how criminals blend on-exchange activity with brokers and storefronts that remain difficult for regulators to monitor."
-  },
-  {
-    "title": "Tom Lee Calls for 100x Ethereum 'Supercycle' Like Bitcoin as BitMine Adds More ETH",
-    "link": "https://decrypt.co/348921/tom-lee-100x-ethereum-supercycle-bitcoin-bitmine-adds-eth",
-    "pubDate": "Mon, 17 Nov 2025 17:14:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum treasury firm BitMine Immersion Technologies keeps adding to its stash, grabbing another $170 million worth of ETH last week."
   },
   {
     "title": "Trump’s Maldives Hotel Will Be a Tokenized Real Estate Project",
@@ -70,143 +203,10 @@
     "contentSnippet": "Cboe is set to debut bitcoin and ether “continuous” futures on Dec. 15, offering perpetual-style exposure on a U.S.-regulated exchange."
   },
   {
-    "title": "White House Reviews Proposed IRS Rule to Tax Americans' Foreign Crypto Accounts",
-    "link": "https://decrypt.co/348926/white-house-reviews-proposed-irs-rule-tax-americans-foreign-crypto",
-    "pubDate": "Mon, 17 Nov 2025 16:39:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Trump administration has advocated for joining CARF, a global tax-reporting agreement that would allow the IRS to better identify Americans’ foreign crypto holdings."
-  },
-  {
     "title": "Stellar Slips as Key Support Breaks, Signaling Mounting Bearish Momentum",
     "link": "https://www.coindesk.com/markets/2025/11/17/stellar-slips-as-key-support-breaks-signaling-mounting-bearish-momentum",
     "pubDate": "Mon, 17 Nov 2025 16:38:51 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "A sharp volume-driven breakdown below XLM’s ascending trendline and critical support at $0.2527 has shifted the market structure bearish, setting sights on the $0.2500 zone"
-  },
-  {
-    "title": "High-Stakes Gambler Liquidated for $168M After Shorting the Bottom of Crypto Plunge",
-    "link": "https://www.coindesk.com/markets/2025/11/17/high-stakes-gambler-liquidated-for-usd168m-after-shorting-the-bottom-of-crypto-plunge",
-    "pubDate": "Mon, 17 Nov 2025 16:38:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A high-stakes crypto trader was wiped out on HyperLiquid before immediately piling back into massive leveraged shorts on GMX — echoing past blow-ups from reckless market punters."
-  },
-  {
-    "title": "SEC Chair Atkins enters crucial 12-month crypto and regulatory push post shutdown, says TD Cowen",
-    "link": "https://www.theblock.co/post/379105/sec-chair-atkins-crucial-12-month-crypto-post-shutdown-td-cowen?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 11:33:13 -0500",
-    "source": "The Block",
-    "contentSnippet": "The next 12 months will be pivotal for the SEC following the reopening of the government, said an analyst at investment bank TD Cowen."
-  },
-  {
-    "title": "BlackRock's Bitcoin ETF Sheds Record $463M as Crypto Funds See Worst Week Since February",
-    "link": "https://decrypt.co/348928/blackrocks-bitcoin-etf-sheds-record-463m-as-crypto-funds-see-worst-week-since-february",
-    "pubDate": "Mon, 17 Nov 2025 16:32:52 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Digital asset investment products shed $2 billion last week amid monetary-policy uncertainty and accelerating risk-off sentiment."
-  },
-  {
-    "title": "HBAR Breaks Key Support as Bearish Sentiment Overpowers DeFi Momentum",
-    "link": "https://www.coindesk.com/markets/2025/11/17/hbar-breaks-key-support-as-bearish-sentiment-overpowers-defi-momentum",
-    "pubDate": "Mon, 17 Nov 2025 16:30:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Technical breakdown accelerated as selling pressure peaked during final hours of trading session."
-  },
-  {
-    "title": "Sharps Technology stock sinks to record low after debut Solana-treasury quarterly filing",
-    "link": "https://www.theblock.co/post/379081/sharps-technology-stock-sinks-record-low-solana-treasury?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 11:18:17 -0500",
-    "source": "The Block",
-    "contentSnippet": "Sharps’ market value has collapsed to a record low, leaving the company trading well below the current implied worth of its Solana treasury."
-  },
-  {
-    "title": "ZEC Bounced over $700! Crypto still in Extreme Fear! Harvard buys $350M Bitcoin! ",
-    "link": "https://decrypt.co/videos/interviews/1sEmGlV4/zec-bounced-over-700-crypto-still-in-extreme-fear-harvard-buys-350m-bitcoin",
-    "pubDate": "Mon, 17 Nov 2025 16:12:32 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors were mostly flat over the weekend after Bitcoin briefly dipped below $94,000 before recovering to $95,400. ETH gained 1% to trade near $3,180, BNB remained steady at $930, and SOL rose 2"
-  },
-  {
-    "title": "Bitcoin miner HIVE reports ‘record’ revenue as BTC production jumps",
-    "link": "https://www.theblock.co/post/379079/bitcoin-miner-hive-reports-record-revenue-as-btc-production-jumps?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 11:09:30 -0500",
-    "source": "The Block",
-    "contentSnippet": "The bitcoin miner said production also rose despite an \"increase in network difficulty\" to 717 BTC, currently worth about $67.5 million."
-  },
-  {
-    "title": "Strategy Shares Dip Despite $835 Million Bitcoin Purchase—Its Largest in 4 Months",
-    "link": "https://decrypt.co/348920/strategy-shares-dip-835-million-bitcoin-purchase-largest-5-months",
-    "pubDate": "Mon, 17 Nov 2025 15:58:07 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Strategy’s euro-denominated preferred shares debuted earlier this month."
-  },
-  {
-    "title": "Bitcoin Accumulation Amid Market Weakness? Sharp Rise in 1K BTC Holders Suggests So",
-    "link": "https://www.coindesk.com/markets/2025/11/17/bitcoin-accumulation-amid-market-weakness-sharp-rise-in-1k-btc-holders-suggests-so",
-    "pubDate": "Mon, 17 Nov 2025 15:53:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Rising whale activity hints at strategic positioning during bitcoin’s downturn."
-  },
-  {
-    "title": "Internet Computer Slides as Break Below $5.00 Reinforces Bearish Technical Shift",
-    "link": "https://www.coindesk.com/markets/2025/11/17/internet-computer-slides-as-break-below-usd5-00-reinforces-bearish-technical-shift",
-    "pubDate": "Mon, 17 Nov 2025 15:51:21 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ICP extended its pullback from November highs after rejecting key resistance levels, with elevated volume underscoring the market’s focus on support near $4.70."
-  },
-  {
-    "title": "Aave Labs to launch high-yield savings app with ‘insurance-backed protection’ for deposits up to $1 million",
-    "link": "https://www.theblock.co/post/379080/aave-labs-high-yield-savings-app-insurance-backed-protection-deposits-1-million?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 10:43:15 -0500",
-    "source": "The Block",
-    "contentSnippet": "The Aave App will support deposits and withdrawals to over 12,000 banks and debit cards as well as unlimited stablecoin transfers."
-  },
-  {
-    "title": "Figment, OpenTrade and Crypto.com Offer 15% Stablecoin Yield Product for Institutions",
-    "link": "https://www.coindesk.com/markets/2025/11/17/figment-opentrade-and-crypto-com-launch-15-stablecoin-yield-product-for-institutions",
-    "pubDate": "Mon, 17 Nov 2025 15:30:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The new offering uses SOL staking and futures to deliver returns without price exposure, targeting compliance-minded investors."
-  },
-  {
-    "title": "Bitcoin’s mined supply crosses 95% of 21 million cap with more than a century of issuance left",
-    "link": "https://www.theblock.co/post/379061/bitcoins-mined-supply-95-per-cent-21-million-cap-more-century-issuance-left?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 09:58:11 -0500",
-    "source": "The Block",
-    "contentSnippet": "Issuance will continue to decline through each Bitcoin halving cycle, with the final fractions expected to be mined around 2140."
-  },
-  {
-    "title": "Morning Minute: The DAT Meltdown Is On",
-    "link": "https://decrypt.co/348904/morning-minute-the-dat-meltdown-is-on",
-    "pubDate": "Mon, 17 Nov 2025 14:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "There's no way to sugarcoat it—the DAT trade has been a terrible one, with leaders down 50-80% from recent peaks. Is it over?"
-  },
-  {
-    "title": "Infura launches DIN AVS to bring decentralized RPC and API marketplace to EigenLayer",
-    "link": "https://www.theblock.co/post/379022/infura-din-avs-eigenlayer?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 09:00:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "The AVS launch enables permissionless participation from node operators, watchers, and restakers, backed by stETH."
-  },
-  {
-    "title": "Binance Founder CZ Addresses 'Delicate Question' of $4.3B Fine Following Trump Pardon",
-    "link": "https://decrypt.co/348905/binance-founder-cz-addresses-delicate-question-of-4-3b-fine-following-trump-pardon",
-    "pubDate": "Mon, 17 Nov 2025 13:45:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Changpeng Zhao, who no longer holds an executive role at Binance, said any refund would be invested in America \"to show our appreciation.\""
-  },
-  {
-    "title": "SOL Strategies to provide staking services for VanEck’s Solana ETF",
-    "link": "https://www.theblock.co/post/378985/sol-strategies-staking-vaneck-solana-etf?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 08:45:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "The staking of ETF holdings will be made through SOL Strategies' Orangefin validator that it acquired last December."
-  },
-  {
-    "title": "Bitcoin’s Weekend Dip to $93K Sparks Volatility, ‘Extreme Fear’: What’s Next?",
-    "link": "https://decrypt.co/348901/bitcoins-weekend-dip-to-93k-sparks-volatility-extreme-fear-whats-next",
-    "pubDate": "Mon, 17 Nov 2025 11:56:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts forecast volatile consolidation after Bitcoin dropped to $93K Sunday, triggering 'Extreme Fear' and a Death Cross signal."
   }
 ]
