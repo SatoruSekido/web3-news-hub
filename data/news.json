@@ -1,5 +1,82 @@
 [
   {
+    "title": "Mt. Gox Moves $956M Worth of BTC As Prices Tank",
+    "link": "https://www.coindesk.com/markets/2025/11/18/mt-gox-moves-usd956m-worth-of-btc-as-prices-tank",
+    "pubDate": "Tue, 18 Nov 2025 05:59:57 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The latest on-chain move comes as BTC's spot price continues to slide."
+  },
+  {
+    "title": "Mt. Gox moves $956 million worth of bitcoin to unmarked wallet address: Arkham",
+    "link": "https://www.theblock.co/post/379197/mt-gox-956-million-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 18 Nov 2025 00:44:35 -0500",
+    "source": "The Block",
+    "contentSnippet": "While the motive behind the bitcoin transfer remains unclear, such transactions have typically preceded repayments from the defunct exchange."
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest purchases $10 million worth of Bullish shares",
+    "link": "https://www.theblock.co/post/379196/ark-invest-purchases-bullish-shares?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 18 Nov 2025 00:38:15 -0500",
+    "source": "The Block",
+    "contentSnippet": "Ark's latest purchases came as Bullish's stock slid on the New York Stock Exchange, closing down 4.5% at $36.75 on Monday."
+  },
+  {
+    "title": "Bitcoin dips below $90,000, marking ‘significant’ psychological break: analysts",
+    "link": "https://www.theblock.co/post/379190/bitcoin-dips-under-90000?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 18 Nov 2025 00:01:53 -0500",
+    "source": "The Block",
+    "contentSnippet": "One analyst noted $80,000 as a critical threshold, where a break below could lead to lows of around $74,000 seen in February."
+  },
+  {
+    "title": "What Next For Bitcoin as BTC RSI Flashes Oversold Signal?",
+    "link": "https://www.coindesk.com/markets/2025/11/18/what-next-for-bitcoin-as-btc-rsi-flashes-oversold-signal",
+    "pubDate": "Tue, 18 Nov 2025 04:36:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "BTC looks oversold, according to the 14-day RSI indicator."
+  },
+  {
+    "title": "Two Technical Signals Hinting at a Bitcoin Bear Market",
+    "link": "https://decrypt.co/349034/two-technical-signals-hinting-at-a-bitcoin-bear-market",
+    "pubDate": "Tue, 18 Nov 2025 04:10:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin's bear market outlook firms as 80% of key on-chain metrics flash red, with derivatives and options traders betting on more downside."
+  },
+  {
+    "title": "TD Cowen Says Strategy's Bitcoin-Buying Engine Remains Intact Despite Market Volatility",
+    "link": "https://decrypt.co/349032/td-cowen-strategys-bitcoin-buying-engine-remains-intact",
+    "pubDate": "Tue, 18 Nov 2025 04:00:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "TD Cowen kept its $535 target, citing strong preferred-share demand and rising Bitcoin per share despite a narrowing NAV premium."
+  },
+  {
+    "title": "El Salvador discloses largest single-day BTC purchase of $100 million as bitcoin dips lower",
+    "link": "https://www.theblock.co/post/379176/el-salvador-100-million-bitcoin-purchase?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 22:47:47 -0500",
+    "source": "The Block",
+    "contentSnippet": "However, it is unclear whether El Salvador actually bought 1,090 BTC, as its deal with the IMF required the country to cease new purchases."
+  },
+  {
+    "title": "Bitcoin Crashes Under $90K as Death Cross Creates 'Extreme Fear' Sentiment",
+    "link": "https://www.coindesk.com/markets/2025/11/18/bitcoin-crashes-under-usd90k-as-death-cross-creates-extreme-fear-sentiment",
+    "pubDate": "Tue, 18 Nov 2025 03:44:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The drop to $89,420 — its lowest level since February — comes just six weeks after prices topped out at a record $126,250, marking a sharp reversal."
+  },
+  {
+    "title": "The Funding: Why Coinbase launched an ICO platform — and how its rivals are reacting",
+    "link": "https://www.theblock.co/post/379180/coinbase-ico-platform-rivals-reacting?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 17 Nov 2025 22:29:01 -0500",
+    "source": "The Block",
+    "contentSnippet": "Coinbase is entering the token launch space, a marked shift in business strategy — could the move usher in a new ICO wave?"
+  },
+  {
+    "title": "FDT Welcomes Dubai’s $456M Freeze as Techteryx Seeks to Recover TrueUSD Reserves from Aria",
+    "link": "https://www.coindesk.com/markets/2025/11/18/fdt-welcomes-dubai-s-usd456m-freeze-as-techteryx-seeks-to-recover-trueusd-reserves-from-aria",
+    "pubDate": "Tue, 18 Nov 2025 00:49:24 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In a statement to CoinDesk, FDT's Vincent Chok said his company \"welcomes any steps that assist Techteryx in pursuing recovery of its funds from the Aria entities.\""
+  },
+  {
     "title": "Asia Morning Briefing: Even Prediction Markets Didn’t See Bitcoin’s Selloff Coming",
     "link": "https://www.coindesk.com/markets/2025/11/18/asia-morning-briefing-even-prediction-markets-didn-t-see-bitcoin-s-selloff-coming",
     "pubDate": "Tue, 18 Nov 2025 00:46:43 +0000",
@@ -98,20 +175,6 @@
     "contentSnippet": "The Trump Organization is tokenizing the development of its latest real estate venture, a collection of luxury villas in the Maldives."
   },
   {
-    "title": "Bitcoin Just Erased All of Its 2025 Gains—And the 'Picture Remains Fragile', Says Analyst",
-    "link": "https://decrypt.co/348954/bitcoin-erased-2025-gains-picture-remains-fragile-analyst",
-    "pubDate": "Mon, 17 Nov 2025 19:28:50 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin dropped below $93,000 on Monday, wiping out 2025 gains as analysts warn of breaking key support levels amid delayed cycle concerns."
-  },
-  {
-    "title": "The 5 Biggest 'Tells' That Something Was Written By AI",
-    "link": "https://decrypt.co/348923/5-biggest-tells-something-written-ai",
-    "pubDate": "Mon, 17 Nov 2025 18:59:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A growing body of recent research shows that AI writing carries its own fingerprints, from structural tics to shifting vocabulary trends. Here’s how to spot them."
-  },
-  {
     "title": "Bitcoin Slips Below $93K as Crypto Weakness Worsens, but Local Bottom Could Be Near, Analysts Say",
     "link": "https://www.coindesk.com/markets/2025/11/17/bitcoin-slips-below-usd93k-as-crypto-weakness-worsens-but-local-bottom-could-be-near-analysts-say",
     "pubDate": "Mon, 17 Nov 2025 18:59:08 +0000",
@@ -133,13 +196,6 @@
     "contentSnippet": "Bitcoin's Death Cross, a bearish signal, occurred as the 50-day moving average fell below the 200-day moving average."
   },
   {
-    "title": "TD Cowen sees 170% upside for Strategy shares despite mNAV dip, bitcoin battering",
-    "link": "https://www.theblock.co/post/379127/td-cowen-sees-strategy-upside-despite-bitcoin-battering?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 13:47:43 -0500",
-    "source": "The Block",
-    "contentSnippet": "TD Cowen analysts said potential catalysts like possible S&P 500 inclusion and clearer U.S. bitcoin rules could help steady investor demand."
-  },
-  {
     "title": "XRP Slumps 5% as Bitcoin's Break Under $93,000 Leads to Bearish Outlook For Majors",
     "link": "https://www.coindesk.com/markets/2025/11/18/xrp-slumps-5-as-bitcoin-s-break-under-usd93-000-leads-to-bearish-outlook-for-majors",
     "pubDate": "Mon, 17 Nov 2025 18:43:32 +0000",
@@ -147,66 +203,10 @@
     "contentSnippet": "Broader crypto markets are pressured by weak risk sentiment and technical trading patterns."
   },
   {
-    "title": "White House moves closer to allowing IRS to surveil international crypto transactions",
-    "link": "https://www.theblock.co/post/379131/white-house-moves-closer-to-allowing-irs-to-surveil-international-crypto-transactions?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 13:38:15 -0500",
-    "source": "The Block",
-    "contentSnippet": "The White House is reviewing a rule that would grant the IRS access to information on taxpayers’ crypto transactions conducted globally."
-  },
-  {
     "title": "Kindly MD Delays Earnings Report Filing as Merger Losses Mount; Shares Drop",
     "link": "https://www.coindesk.com/markets/2025/11/17/kindly-md-delays-earnings-report-filing-as-merger-losses-mount-shares-drop",
     "pubDate": "Mon, 17 Nov 2025 18:18:42 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Complex post-merger accounting prompts a late filing while losses mount and the shares slip further."
-  },
-  {
-    "title": "Figure Stock Jumps as Druckenmiller Invests $77M, Analysts Raise Price Targets",
-    "link": "https://www.coindesk.com/markets/2025/11/17/figure-stock-jumps-as-druckenmiller-invests-usd77m-analysts-raise-price-targets",
-    "pubDate": "Mon, 17 Nov 2025 17:39:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Analysts cited Figure’s shift to ‘capital-light’ model and stablecoin launch on the Provenance blockchain."
-  },
-  {
-    "title": "Trump’s Maldives Hotel Will Be a Tokenized Real Estate Project",
-    "link": "https://www.coindesk.com/business/2025/11/17/trump-s-maldives-hotel-will-be-a-tokenized-real-estate-project",
-    "pubDate": "Mon, 17 Nov 2025 17:12:22 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Trump International Hotel Maldives, developed with Dar Global, will be tokenized to allow investors to buy digital shares in the development."
-  },
-  {
-    "title": "Cboe to Debut Bitcoin, Ether ‘Perpetual-Style’ Crypto Futures on Dec. 15",
-    "link": "https://www.coindesk.com/markets/2025/11/17/cboe-to-debut-bitcoin-ether-perpetual-style-crypto-futures-on-dec-15",
-    "pubDate": "Mon, 17 Nov 2025 17:11:16 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The contracts will offer long-term crypto exposure without rollovers, tailored for institutions avoiding offshore risk."
-  },
-  {
-    "title": "Joe Lubin and SharpLink discuss Linea token launch and Ethereum treasury companies",
-    "link": "https://www.theblock.co/post/379112/joe-lubin-sharplink-linea-metamask-token-ethereum-treasury-companies?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 12:10:09 -0500",
-    "source": "The Block",
-    "contentSnippet": "Consensys founder Joseph Lubin and SharpLink co-CEO Joseph Chalom discuss ETH treasury companies and Ethereum's future growth."
-  },
-  {
-    "title": "The Digital Chamber ramps up state-level influence ahead of midterms with launch of State Network",
-    "link": "https://www.theblock.co/post/378944/the-digital-chamber-ramps-up-state-level-influence-ahead-of-midterms-with-launch-of-state-network?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 12:05:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Crypto advocacy group The Digital Chamber is expanding its efforts to the state level as midterms approach in 2026."
-  },
-  {
-    "title": "Cboe to launch perpetual-style bitcoin and ether futures on Dec. 15",
-    "link": "https://www.theblock.co/post/379103/cboe-perpetual-style-bitcoin-ether-futures-dec-15?utm_source=rss&utm_medium=rss",
-    "pubDate": "Mon, 17 Nov 2025 11:47:51 -0500",
-    "source": "The Block",
-    "contentSnippet": "Cboe is set to debut bitcoin and ether “continuous” futures on Dec. 15, offering perpetual-style exposure on a U.S.-regulated exchange."
-  },
-  {
-    "title": "Stellar Slips as Key Support Breaks, Signaling Mounting Bearish Momentum",
-    "link": "https://www.coindesk.com/markets/2025/11/17/stellar-slips-as-key-support-breaks-signaling-mounting-bearish-momentum",
-    "pubDate": "Mon, 17 Nov 2025 16:38:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A sharp volume-driven breakdown below XLM’s ascending trendline and critical support at $0.2527 has shifted the market structure bearish, setting sights on the $0.2500 zone"
   }
 ]
