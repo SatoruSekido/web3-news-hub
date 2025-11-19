@@ -1,5 +1,33 @@
 [
   {
+    "title": "From $140K Call to $80K Put: Bitcoin (BTC) Positioning Reverses Completely",
+    "link": "https://www.coindesk.com/markets/2025/11/19/from-usd140k-call-to-usd80k-put-bitcoin-btc-positioning-reverses-completely",
+    "pubDate": "Wed, 19 Nov 2025 06:02:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The price of bitcoin has dropped over 25% to $91,000 since Oct. 8."
+  },
+  {
+    "title": "Asia Morning Briefing: BTC Market Stress Reveals a New Crypto Order",
+    "link": "https://www.coindesk.com/markets/2025/11/19/asia-morning-briefing-btc-market-stress-reveals-a-new-crypto-order",
+    "pubDate": "Wed, 19 Nov 2025 02:42:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Market observers note stable XRP/BTC and ETH/BTC ranges and an unusually balanced top-20 ranking, signaling fundamentals-driven dispersion rather than a broad alt season."
+  },
+  {
+    "title": "US Senate banking chair eyes vote on crypto market bill next month",
+    "link": "https://www.theblock.co/post/379422/scott-crypto-market-bill-next-month?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 18 Nov 2025 21:37:34 -0500",
+    "source": "The Block",
+    "contentSnippet": "Senate Banking Chair Tim Scott said he hopes to get the bill to the Senate floor in early 2026 for President Trump's sign-off."
+  },
+  {
+    "title": "Cathie Wood’s Ark Invest stocks up on Coinbase, Circle and Bullish shares",
+    "link": "https://www.theblock.co/post/379423/cathie-woods-ark-invest-buys-coinbase-circle?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 18 Nov 2025 21:22:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "Ark Invest purchased $3 million worth of Coinbase shares and $3.1 million worth of Circle across two of its ETFs on Tuesday."
+  },
+  {
     "title": "Trump Congressional Ally Discloses Latest Six-Figure Bitcoin Purchase",
     "link": "https://decrypt.co/349120/trump-congressional-ally-reveals-six-figure-bitcoin-purchase",
     "pubDate": "Wed, 19 Nov 2025 00:28:13 +0000",
@@ -119,13 +147,6 @@
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
-    "title": "Uniswap weighs protocol burns as its 2025 fee haul approaches $1 billion",
-    "link": "https://www.theblock.co/post/379288/1-billion-2025-fees-uniswap-eyes-governance-shift-protocol-burns?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 13:51:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Uniswap has generated over $985 million in fees year-to-date, averaging close to $93 million per month from January to October."
-  },
-  {
     "title": "Canada Approves Budget That Advances Policy for Stablecoins",
     "link": "https://www.coindesk.com/policy/2025/11/18/canada-approves-budget-that-advances-policy-for-stablecoins",
     "pubDate": "Tue, 18 Nov 2025 18:36:12 +0000",
@@ -145,13 +166,6 @@
     "pubDate": "Tue, 18 Nov 2025 18:27:29 +0000",
     "source": "Decrypt",
     "contentSnippet": "The IMF has insisted that past increases were internal transfers."
-  },
-  {
-    "title": "Ethereum Foundation reveals latest work on ‘Interop Layer’ to make L2 ecosystem ‘feel like one chain’",
-    "link": "https://www.theblock.co/post/379355/ethereum-foundation-interop-layer-l2-ecosystem-feel-like-one-chain?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 13:19:46 -0500",
-    "source": "The Block",
-    "contentSnippet": "The Ethereum Foundation published a blog post outlining the goals for the upcoming Ethereum Interop Layer, now open for testing."
   },
   {
     "title": "Chainlink's LINK Bounces 4% to Near $14 as Cryptos Rebound",
@@ -194,20 +208,6 @@
     "pubDate": "Tue, 18 Nov 2025 16:42:15 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "After plunging below $90,000 overnight, BTC has regained the $93,000 level in U.S. morning action."
-  },
-  {
-    "title": "U.S. Regulator OCC Clarifies How Banks Can Handle Network 'Gas Fees'",
-    "link": "https://www.coindesk.com/policy/2025/11/18/u-s-regulator-occ-clarifies-how-banks-can-handle-network-gas-fees",
-    "pubDate": "Tue, 18 Nov 2025 16:38:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The U.S. Office of the Comptroller of the Currency explained to the national banks it oversees how they can hold crypto for paying gas fees."
-  },
-  {
-    "title": "Société Générale’s SG-FORGE Issues First Tokenized Bond in U.S.",
-    "link": "https://www.coindesk.com/business/2025/11/18/societe-generale-s-sg-forge-issues-first-tokenized-bond-in-u-s",
-    "pubDate": "Tue, 18 Nov 2025 16:25:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The bond uses Broadridge Financial Solutions' tokenization technology and runs on the Canton Network, a privacy-enabled blockchain infrastructure."
   },
   {
     "title": "NFT and memecoin markets recover after month-long crypto slump",
