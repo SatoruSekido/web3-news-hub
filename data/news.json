@@ -1,6 +1,83 @@
 [
   {
-    "title": "From $140K Call to $80K Put: Bitcoin (BTC) Positioning Reverses Completely",
+    "title": "Bitcoin Market Watch: Nvidia Earnings, Fed Minutes and Payrolls to Set The Tone",
+    "link": "https://www.coindesk.com/markets/2025/11/19/bitcoin-market-watch-nvidia-earnings-fed-minutes-and-payrolls-to-set-the-tone",
+    "pubDate": "Wed, 19 Nov 2025 12:15:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Investors navigate AI driven volatility, rate cut uncertainty and critical economic data releases."
+  },
+  {
+    "title": "Hanging in There: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/19/hanging-in-there-crypto-daybook-americas",
+    "pubDate": "Wed, 19 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 19, 2025"
+  },
+  {
+    "title": "Bitcoin remains above $90,000 as retail selling deepens, year-end risks spur downside hedging",
+    "link": "https://www.theblock.co/post/379454/bitcoin-remains-above-90000-as-retail-selling-deepens-year-end-risks-spur-downside-hedging?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 06:40:17 -0500",
+    "source": "The Block",
+    "contentSnippet": "Analysts say bitcoin's drawdown resembles a short-term reset rather than a cycle-ending shift."
+  },
+  {
+    "title": "Crypto Markets Today: Altcoins Show Signs of Life as Bitcoin Holds Key Support Above $88K",
+    "link": "https://www.coindesk.com/markets/2025/11/19/crypto-markets-today-altcoins-show-signs-of-life-as-bitcoin-holds-key-support-above-usd88k",
+    "pubDate": "Wed, 19 Nov 2025 11:30:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "With bitcoin stabilizing near critical support, traders shifted into altcoins, sparking sharp rebounds across a market still gripped by extreme fear."
+  },
+  {
+    "title": "Bitwise CIO pushes back on bear market fears, says institutions want Bitcoin’s value as a ‘service’",
+    "link": "https://www.theblock.co/post/379449/bitwise-bear-market-fears-bitcoin-value-service?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 05:42:57 -0500",
+    "source": "The Block",
+    "contentSnippet": "Hougan argues that rising institutional demand for that service underpins Bitcoin's long-term trajectory despite market pullback concerns."
+  },
+  {
+    "title": "Malaysia uncovers $1 billion in power theft losses from illegal crypto mining",
+    "link": "https://www.theblock.co/post/379443/malaysia-power-theft-crypto-mining?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 04:36:59 -0500",
+    "source": "The Block",
+    "contentSnippet": "Malaysia's national utility firm has identified 13,827 premises that illegally siphoned power to mine crypto between 2020 and August 2025."
+  },
+  {
+    "title": "BlackRock's Bitcoin ETF, IBIT, Posts Record One-Day Outflow of $523.2 Million",
+    "link": "https://www.coindesk.com/markets/2025/11/19/blackrock-s-bitcoin-etf-ibit-posts-record-one-day-outflow-of-usd523-2-million",
+    "pubDate": "Wed, 19 Nov 2025 09:14:18 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The average spot bitcoin ETF buyer sits near a $90,000 cost basis, leaving most investors roughly flat."
+  },
+  {
+    "title": "Taurus adds Kaiko pricing and liquidity feeds as it expands infrastructure for global banks",
+    "link": "https://www.theblock.co/post/379414/taurus-adds-kaiko-pricing-liquidity-feeds?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 03:30:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "Taurus provides digital asset infrastructure to banks like Deutsche Bank and recently opened its first US office."
+  },
+  {
+    "title": "BlackRock’s bitcoin ETF posts record-setting outflows worth $523 million",
+    "link": "https://www.theblock.co/post/379437/blackrock-bitcoin-etf-record-outflows?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 03:17:45 -0500",
+    "source": "The Block",
+    "contentSnippet": "Meanwhile, spot Solana ETFs extended their positive flow streak to 16 days, accumulating $420 million in inflows."
+  },
+  {
+    "title": "Hyperliquid Unveils HIP-3 Growth Mode, Slashing Fees by 90% to Boost New Markets",
+    "link": "https://www.coindesk.com/markets/2025/11/19/hyperliquid-unveils-hip-3-growth-mode-slashing-fees-by-90-to-boost-new-markets",
+    "pubDate": "Wed, 19 Nov 2025 08:04:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hyperliquid has launched HIP-3 growth mode, allowing permissionless market deployment with significantly reduced fees to enhance liquidity."
+  },
+  {
+    "title": "Saudi real estate firm to tokenize Maldives Trump hotel; targets US investors: report",
+    "link": "https://www.theblock.co/post/379431/saudi-tokenize-trump-hotel?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 02:14:08 -0500",
+    "source": "The Block",
+    "contentSnippet": "Dar Global is seeking to tokenize up to 70% of the development of its Trump hotel in the Maldives, Reuters reported."
+  },
+  {
+    "title": "From $140K Call to $85K Put: Bitcoin Positioning Reverses Completely",
     "link": "https://www.coindesk.com/markets/2025/11/19/from-usd140k-call-to-usd80k-put-bitcoin-btc-positioning-reverses-completely",
     "pubDate": "Wed, 19 Nov 2025 06:02:28 +0000",
     "source": "CoinDesk DeFi",
@@ -63,13 +140,6 @@
     "contentSnippet": "Kraken just raised $800 million, including $200 million from Ken Griffin’s Citadel Securities, ahead of a potential IPO."
   },
   {
-    "title": "Monad addresses Coinbase token sale slowdown as risk of undersubscription grows",
-    "link": "https://www.theblock.co/post/379354/monad-addresses-coinbase-token-sale-slowdown-risk-undersubscription-grows?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 17:13:29 -0500",
-    "source": "The Block",
-    "contentSnippet": "If the Monad token sale is not completely sold by the closing date, unsold tokens will be reallocated to Ecosystem Development."
-  },
-  {
     "title": "Bitcoin Billionaire Arthur Hayes Blames Crypto Plunge on 'Contraction in Dollar Liquidity'",
     "link": "https://decrypt.co/349143/bitcoin-billionaire-arthur-hayes-blames-crypto-plunge-contraction-dollar-liquidity",
     "pubDate": "Tue, 18 Nov 2025 21:52:59 +0000",
@@ -82,20 +152,6 @@
     "pubDate": "Tue, 18 Nov 2025 21:34:49 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Robinhood is working on infrastructure developments, said Offchain Labs' A.J. Warner, including 24/7 trading, and leveraging technologies like Arbitrum Stylus for compatibility."
-  },
-  {
-    "title": "0xbow raises $3.5 million seed round for Ethereum Foundation-backed Privacy Pools project",
-    "link": "https://www.theblock.co/post/379395/0xbow-raises-3-5-million-seed-round-ethereum-foundation-backed-privacy-pools?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 16:31:41 -0500",
-    "source": "The Block",
-    "contentSnippet": "Privacy Pools, based on research by Ethereum founder Vitalik Buterin, is a keystone part of the Ethereum Foundation's Kohaku iniative."
-  },
-  {
-    "title": "Sky authorizes up to $2.5 billion to back Obex-incubated crypto yield projects",
-    "link": "https://www.theblock.co/post/379390/sky-authorizes-2-5-billion-back-obex-incubated-crypto-yield-projects?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 16:12:48 -0500",
-    "source": "The Block",
-    "contentSnippet": "Framework Ventures is leading a $37 million funding round into the Obex incubator and will administer the project."
   },
   {
     "title": "Hawk Tuah Girl Added to Solana Meme Coin Lawsuit—After She Cooperated With Law Firm",
@@ -112,20 +168,6 @@
     "contentSnippet": "Authorities say stolen money was spent on luxury goods and exotic cars."
   },
   {
-    "title": "OCC says banks can hold certain cryptocurrencies to pay gas fees in latest guidance",
-    "link": "https://www.theblock.co/post/379383/occ-banks-can-hold-cryptocurrencies-pay-gas-fees-latest-guidance?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 15:43:25 -0500",
-    "source": "The Block",
-    "contentSnippet": "Banks can pay gas fees and hold cryptocurrency needed to pay those network fees, the OCC said in a new letter."
-  },
-  {
-    "title": "Block positioned to ride rising demand for on-demand liquidity in fintech apps: analysts",
-    "link": "https://www.theblock.co/post/379356/block-positioned-ride-rising-demand-demand-liquidity-fintech-apps-analysts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 14:51:13 -0500",
-    "source": "The Block",
-    "contentSnippet": "Square is showing early signs of recovery as new lending models and wider distribution help close the gap between payment volume and profit."
-  },
-  {
     "title": "Bitcoin ATM Company Founder Charged in Alleged $10 Million Money Laundering Scheme",
     "link": "https://decrypt.co/349117/bitcoin-atm-company-founder-charged-alleged-10-million-money-laundering",
     "pubDate": "Tue, 18 Nov 2025 19:26:47 +0000",
@@ -138,13 +180,6 @@
     "pubDate": "Tue, 18 Nov 2025 19:08:53 +0000",
     "source": "Decrypt",
     "contentSnippet": "National banks can now officially hold crypto to pay for network gas fees and engage in other crypto-related experiments, the OCC said Tuesday."
-  },
-  {
-    "title": "The Daily: Bitcoin briefly dips below $90K, Mt. Gox moves nearly $1B in BTC, Cloudflare outage hits crypto sites, and more",
-    "link": "https://www.theblock.co/post/379362/the-daily-bitcoin-briefly-dips-below-90k-mt-gox-moves-nearly-1b-in-btc-cloudflare-outage-hits-crypto-sites-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 18 Nov 2025 14:02:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
     "title": "Canada Approves Budget That Advances Policy for Stablecoins",
@@ -168,46 +203,11 @@
     "contentSnippet": "The IMF has insisted that past increases were internal transfers."
   },
   {
-    "title": "Chainlink's LINK Bounces 4% to Near $14 as Cryptos Rebound",
-    "link": "https://www.coindesk.com/markets/2025/11/18/chainlink-s-link-bounces-4-to-near-usd14-as-cryptos-rebound",
-    "pubDate": "Tue, 18 Nov 2025 18:18:02 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "LINK could target $14.50 if momentum sustains, CoinDesk Research's analysis tool suggested."
-  },
-  {
-    "title": "Bitcoin Backwardation Returns, a Pattern That Often Marks Market Bottoms",
-    "link": "https://www.coindesk.com/markets/2025/11/18/bitcoin-backwardation-returns-a-pattern-that-often-marks-market-bottoms",
-    "pubDate": "Tue, 18 Nov 2025 18:15:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Futures prices for BTC are trading below spot prices, signaling \"extreme fear,\" which can sometimes be read as a contrarian buy signal."
-  },
-  {
-    "title": "Sen. Warren Keeps Pressure on Trump Crypto Ties as Market Structure Bill Negotiated",
-    "link": "https://www.coindesk.com/policy/2025/11/18/sen-warren-keeps-pressure-on-trump-crypto-ties-as-market-structure-bill-negotiated",
-    "pubDate": "Tue, 18 Nov 2025 18:14:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Senator Elizabeth Warren is maintaining political heat on President Trump's World Liberty Financial business interests in a letter to the Treasury and DOJ."
-  },
-  {
     "title": "Google Releases Its Most Powerful AI Model, Gemini 3—Here's What You Need to Know",
     "link": "https://decrypt.co/349087/google-releases-most-powerful-ai-model-gemini-3",
     "pubDate": "Tue, 18 Nov 2025 18:00:48 +0000",
     "source": "Decrypt",
     "contentSnippet": "Google's Gemini 3 Pro outperforms previous models across reasoning and multimodal benchmarks. It's available on AI Studio, but not the consumer Gemini app."
-  },
-  {
-    "title": "Cloudflare Outage Sends Shockwaves Through Crypto, Renewing Push for DePIN",
-    "link": "https://www.coindesk.com/tech/2025/11/18/cloudflare-outage-sends-shockwaves-through-crypto-renewing-push-for-depin",
-    "pubDate": "Tue, 18 Nov 2025 16:46:41 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Some in the crypto world have called for DePIN to be more widely adopted to combat internet outage issues."
-  },
-  {
-    "title": "Bitcoin Gains Tuesday as Traditional Markets Slump in Rare Occurrence of Crypto Outperformance",
-    "link": "https://www.coindesk.com/markets/2025/11/18/bitcoin-gains-tuesday-as-traditional-markets-slump-in-rare-occurrence-of-crypto-outperformance",
-    "pubDate": "Tue, 18 Nov 2025 16:42:15 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "After plunging below $90,000 overnight, BTC has regained the $93,000 level in U.S. morning action."
   },
   {
     "title": "NFT and memecoin markets recover after month-long crypto slump",
