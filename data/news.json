@@ -1,17 +1,122 @@
 [
   {
+    "title": "Bitcoin ETF Flows Turn Positive, But Experts Warn of Defensive Shift",
+    "link": "https://decrypt.co/349357/bitcoin-etf-flows-turn-positive-but-experts-warn-of-defensive-shift",
+    "pubDate": "Thu, 20 Nov 2025 12:26:20 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin ETFs saw inflows of $75 million, ending a five-day rout as experts see institutions defensively repositioning amid a market retreat."
+  },
+  {
+    "title": "Bitcoin Core’s first public third-party audit finds no major vulnerabilities",
+    "link": "https://www.theblock.co/post/379656/bitcoin-core-audit?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 20 Nov 2025 07:15:26 -0500",
+    "source": "The Block",
+    "contentSnippet": "Cybersecurity firm Quarkslab has completed the first public, third-party security audit of the Bitcoin Core codebase."
+  },
+  {
+    "title": "Seller Fatigue?: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/20/seller-fatigue-crypto-daybook-americas",
+    "pubDate": "Thu, 20 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 20, 2025"
+  },
+  {
+    "title": "AI and HPC Bitcoin Miners Surge Pre Market Following Stellar NVIDIA Earnings",
+    "link": "https://www.coindesk.com/markets/2025/11/20/ai-and-hpc-bitcoin-miners-surge-pre-market-following-stellar-nvidia-earnings",
+    "pubDate": "Thu, 20 Nov 2025 12:13:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Strong NVIDIA guidance lifts pre market sentiment across bitcoin miners while NAKA delivers delayed Q3 losses."
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Holds Steady Amid Wave of Sell Pressure as Altcoins Slide",
+    "link": "https://www.coindesk.com/markets/2025/11/20/crypto-markets-today-bitcoin-holds-steady-amid-wave-of-sell-pressure-as-altcoins-slide",
+    "pubDate": "Thu, 20 Nov 2025 11:30:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A long-term BTC holder moved hundreds of millions to exchanges, but the market absorbed the supply shock as altcoins suffered broad declines."
+  },
+  {
+    "title": "Abu Dhabi Investment Tripled IBIT Holdings in Q3 as Bitcoin Headed to Record High",
+    "link": "https://www.coindesk.com/business/2025/11/20/abu-dhabi-investment-tripled-ibit-holdings-in-q3-as-bitcoin-headed-to-record-high",
+    "pubDate": "Thu, 20 Nov 2025 10:59:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company sees bitcoin as a store of value, similar to gold, a spokesperson told Bloomberg."
+  },
+  {
+    "title": "RippleX engineer explores potential for native XRP staking as David Schwartz weighs in on future XRPL design",
+    "link": "https://www.theblock.co/post/379627/ripplex-native-xrp-staking-david-schwartz-xrpl-design?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 20 Nov 2025 05:41:39 -0500",
+    "source": "The Block",
+    "contentSnippet": "RippleX developer J. Ayo Akinyele and outgoing Ripple CTO David Schwartz outlined how native staking could work on XRPL."
+  },
+  {
+    "title": "Markets in Late-Cycle Phase, Not Recessionary: QCP",
+    "link": "https://decrypt.co/349348/markets-in-late-cycle-phase-not-recessionary-qcp",
+    "pubDate": "Thu, 20 Nov 2025 10:39:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "With the broader market “firmly past the early-cycle phase,” analysts see a bottoming process underway for Bitcoin."
+  },
+  {
+    "title": "Ark Invest Buys the Slide, Adds Almost $40M of Crypto Stocks, as Market Drops",
+    "link": "https://www.coindesk.com/markets/2025/11/20/ark-invest-buys-the-slide-adds-almost-usd40m-of-crypto-stocks-as-market-drops",
+    "pubDate": "Thu, 20 Nov 2025 10:03:40 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Cathie Wood's investment manager added to its holdings of Bullish (BLSH), Circle Internet (CRCL) and Bitmine (BMNR) as all three companies' stock prices fell."
+  },
+  {
+    "title": "GANA Payment exploited for over $3.1 million on BNB Smart Chain: ZachXBT",
+    "link": "https://www.theblock.co/post/379619/gana-payment-exploit?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 20 Nov 2025 04:36:36 -0500",
+    "source": "The Block",
+    "contentSnippet": "GANA crashed over 90% after hackers reportedly stole $3.1 million from the BNB Smart Chain-based protocol."
+  },
+  {
+    "title": "Spot bitcoin ETFs return to positive flows, BTC recovers above $92,000",
+    "link": "https://www.theblock.co/post/379613/spot-bitcoin-etf-return-positive?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 20 Nov 2025 04:35:23 -0500",
+    "source": "The Block",
+    "contentSnippet": "Notably, BlackRock's IBIT saw $60.61 million in positive flows, after recording $523 million in net outflows on Tuesday."
+  },
+  {
+    "title": "Ark Invest buys more Circle, Bullish and BitMine as stocks fall sharply",
+    "link": "https://www.theblock.co/post/379608/ark-invest-buys-circle-bullish-bitmine?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 20 Nov 2025 03:06:56 -0500",
+    "source": "The Block",
+    "contentSnippet": "The drop in crypto-related stocks coincided with a broader crypto market pullback, with bitcoin currently trading at $91,795."
+  },
+  {
+    "title": " BlackRock Takes First Step Toward a Staked Ether ETF",
+    "link": "https://www.coindesk.com/markets/2025/11/20/blackrock-takes-first-step-toward-a-staked-eth-etf",
+    "pubDate": "Thu, 20 Nov 2025 07:37:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A new Delaware filing for the iShares Staked Ethereum Trust signals BlackRock’s intent to enter the yield-bearing ether market as issuers wait for SEC clarity on staking."
+  },
+  {
+    "title": "Fed December Rate Cut Odds Collapse to 30%",
+    "link": "https://www.coindesk.com/markets/2025/11/20/fed-december-rate-cut-odds-collapse-to-30",
+    "pubDate": "Thu, 20 Nov 2025 07:25:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The probability of the Federal Reserve cutting interest rates has decreased significantly, now standing at 30%."
+  },
+  {
+    "title": "Privacy-Focused Aztec Network's Ignition Chain Lights Up on Ethereum",
+    "link": "https://www.coindesk.com/markets/2025/11/20/privacy-focused-aztec-network-s-ignition-chain-lights-up-on-ethereum",
+    "pubDate": "Thu, 20 Nov 2025 06:45:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Aztec Network launched its Ignition Chain, becoming the first fully decentralized Layer 2 protocol on Ethereum's mainnet."
+  },
+  {
+    "title": "India's Debt-Backed ARC Token Eyes Tentative Q1 2026 Debut, Sources Say",
+    "link": "https://www.coindesk.com/markets/2025/11/20/india-s-debt-backed-arc-token-eyes-tentative-january-2026-debut-sources-say",
+    "pubDate": "Thu, 20 Nov 2025 06:23:01 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The ARC will operate within a two-tier framework, complementing the RBI's Central Bank Digital Currency."
+  },
+  {
     "title": "Dogecoin Hits Multi-Month Lows as Exchange Flows Turn Bullish for First Time in 6 Months",
     "link": "https://www.coindesk.com/markets/2025/11/20/dogecoin-hits-multi-month-lows-as-exchange-flows-turn-bullish-for-first-time-in-6-months",
     "pubDate": "Thu, 20 Nov 2025 06:08:32 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": ""
-  },
-  {
-    "title": "XRP Slumps as $2.15 Level Collapses, Bearish Structure Deepens",
-    "link": "https://www.coindesk.com/markets/2025/11/20/xrp-slumps-as-usd2-15-level-collapses-bearish-structure-deepens",
-    "pubDate": "Thu, 20 Nov 2025 06:01:23 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Despite no major catalysts, broader crypto market weakness and Bitcoin's 'Death Cross' contributed to XRP's decline."
   },
   {
     "title": "Core Foundation secures injunction blocking Maple Finance’s rival bitcoin yield product",
@@ -40,13 +145,6 @@
     "pubDate": "Wed, 19 Nov 2025 22:00:40 -0500",
     "source": "The Block",
     "contentSnippet": "Aztec says Ignition Chain, which enables programmable privacy, is the first fully decentralized Layer 2 network on Ethereum."
-  },
-  {
-    "title": "Asia Morning Briefing: Market Turns Defensive as Bitcoin Loses Its Bid",
-    "link": "https://www.coindesk.com/markets/2025/11/20/asia-morning-briefing-market-turns-defensive-as-bitcoin-loses-its-bid",
-    "pubDate": "Thu, 20 Nov 2025 02:15:07 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "With CryptoQuant flagging an exhausted demand wave and Polymarket traders clustering around an 85,000 retest, the market is trading without the catalysts that drove last year’s gains."
   },
   {
     "title": "Samourai Wallet CTO William Hill Sentenced to Four Years in Prison",
@@ -91,32 +189,11 @@
     "contentSnippet": "Nvidia reported Q3 earnings and guidance above expectations, sending both the price of Bitcoin and mining stocks higher late Wednesday."
   },
   {
-    "title": "Stablecoin Spending Goes Mainstream With Opera MiniPay’s LatAm Integration",
-    "link": "https://www.coindesk.com/business/2025/11/19/stablecoin-spending-goes-mainstream-with-opera-minipay-s-latam-integration",
-    "pubDate": "Wed, 19 Nov 2025 23:43:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The feature connects USDT balances to PIX and Mercado Pago, enabling users to pay with QR codes and converting to local currency instantly."
-  },
-  {
     "title": "BlackRock files Delaware name registration for iShares Staked Ethereum ETF",
     "link": "https://www.theblock.co/post/379567/blackrock-files-delaware-name-registration-for-ishares-staked-ethereum-etf?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 19 Nov 2025 18:28:33 -0500",
     "source": "The Block",
     "contentSnippet": "A Delaware name registration is one of the first public signals that a new exchange-traded fund is in the works."
-  },
-  {
-    "title": "Samourai Wallet co-founder William Lonergan Hill sentenced to four years in crypto mixing service case",
-    "link": "https://www.theblock.co/post/379568/samourai-wallet-co-founder-william-lonergan-hill-sentenced-to-four-years-in-crypto-mixing-service-case?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 18:25:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Samourai Wallet co-founder William Lonergan Hill was sentenced to four years in prison for his role in operating a crypto mixing service."
-  },
-  {
-    "title": "With major crypto bills pending, lawmakers press CFTC Chair pick Selig on agency independence and digital asset oversight",
-    "link": "https://www.theblock.co/post/379565/lawmakers-press-cftc-chair-pick-selig-crypto-rules-agency-independence?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 18:13:50 -0500",
-    "source": "The Block",
-    "contentSnippet": "President Donald Trump's pick to lead the CFTC, Michael Selig, faced questions from lawmakers on a range of issues."
   },
   {
     "title": "Pro-Crypto CFTC Chair Nominee Won’t Commit to More Agency Resources or Dem Commissioners",
@@ -131,83 +208,6 @@
     "pubDate": "Wed, 19 Nov 2025 23:05:02 +0000",
     "source": "Decrypt",
     "contentSnippet": "New ETFs separately tracking XRP and Dogecoin could debut in the next three trading days, according to analysts."
-  },
-  {
-    "title": "Samourai Wallet Co-Founder Bill Hill Sentenced to 4 Years in Prison for Unlicensed Money Transmitting",
-    "link": "https://www.coindesk.com/policy/2025/11/19/samourai-wallet-co-founder-bill-hill-sentenced-to-4-years-in-prison-for-unlicensed-money-transmitting",
-    "pubDate": "Wed, 19 Nov 2025 22:53:07 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The 67-year-old Hill’s recent autism diagnosis, as well as his advanced age, seemed to serve as mitigating factors for the sentencing judge."
-  },
-  {
-    "title": "Trump-backed World Liberty Financial reallocates funds following ‘third-party security lapses’",
-    "link": "https://www.theblock.co/post/379561/trump-backed-world-liberty-financial-reallocates-funds-following-third-party-security-lapses?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 17:34:37 -0500",
-    "source": "The Block",
-    "contentSnippet": "World Liberty is beginning to reallocate funds to secure wallets after some users were impacted by \"third-party security lapses.\""
-  },
-  {
-    "title": "Cancer Diagnosis Helps Keep Jack Abramoff Out of Prison for 'AML Bitcoin' Fraud Scheme",
-    "link": "https://decrypt.co/349254/cancer-diagnosis-jack-abramoff-prison-aml-bitcoin-fraud-scheme",
-    "pubDate": "Wed, 19 Nov 2025 22:25:10 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Disgraced lobbyist Jack Abramoff gets probation for crypto fraud, but must repay $2.2 million to victims of his bogus AML Bitcoin scheme."
-  },
-  {
-    "title": "Block shares jump after new three-year outlook calls for accelerating growth, expanded buyback",
-    "link": "https://www.theblock.co/post/379556/block-shares-jump-three-year-outlook-accelerating-growth-expanded-buyback?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 16:55:35 -0500",
-    "source": "The Block",
-    "contentSnippet": "Analysts say growing adoption of Cash App credit features and early improvements at Square could help support the company’s forecast."
-  },
-  {
-    "title": "Nvidia Earnings Beat, Strong Outlook Calm Jittery Markets; Bitcoin Re-Takes $90K",
-    "link": "https://www.coindesk.com/markets/2025/11/19/nvidia-earnings-beat-strong-outlook-calms-jittery-markets-bitcoin-re-takes-usd90k",
-    "pubDate": "Wed, 19 Nov 2025 21:39:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "\"Blackwell sales are off the charts, and cloud GPUs are sold out,\" said Nvidia CEO Jensen Huang."
-  },
-  {
-    "title": "Coinbase Teases 'New Era' Amid Prediction Market, Stock Trading Leaks",
-    "link": "https://decrypt.co/349256/coinbase-teases-new-era-amid-prediction-market-stock-trading-leaks",
-    "pubDate": "Wed, 19 Nov 2025 21:38:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Coinbase did not deny leaks of a future prediction market integration and stock trading feature, teasing a \"new era\" for the crypto platform."
-  },
-  {
-    "title": "DeFi Giant Spark Shelves Crypto App Plans to Focus on Institutional Infrastructure",
-    "link": "https://www.coindesk.com/web3/2025/11/19/defi-giant-spark-shelves-crypto-app-plans-to-focus-on-institutional-infrastructure",
-    "pubDate": "Wed, 19 Nov 2025 21:34:41 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The protocol will instead focus on \"liquidity infrastructure and deals\" such as its recent $1 billion investment into PayPal's PYUSD."
-  },
-  {
-    "title": "Trump's Pick to Run CFTC, Selig, Tells Senators Crypto a 'Critical Mission' at Agency",
-    "link": "https://www.coindesk.com/policy/2025/11/19/trump-s-pick-to-run-cftc-selig-tells-senators-crypto-a-critical-mission-at-agency",
-    "pubDate": "Wed, 19 Nov 2025 21:17:42 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Mike Selig, the nominee to be the next chairman of the Commodity Futures Trading Commission, testified at his confirmation hearing in the Senate."
-  },
-  {
-    "title": "Bitcoin extends losses below $89,000 as Fed minutes outline two-sided risks, no preset path for rate cuts",
-    "link": "https://www.theblock.co/post/379548/bitcoin-extends-losses-fed-minutes-no-path-rate-cuts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 15:51:26 -0500",
-    "source": "The Block",
-    "contentSnippet": "Bitcoin sits roughly 5% below its 2025 open, and analysts say market positioning points to further downside."
-  },
-  {
-    "title": "Fed Rate Cut Odds Plunge Further on Jobs Data Delays",
-    "link": "https://www.coindesk.com/markets/2025/11/19/fed-rate-cut-odds-drop-as-missing-jobs-data-clouds-december-outlook",
-    "pubDate": "Wed, 19 Nov 2025 20:04:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Traders slash chances of a December cut to 33% as the Fed loses a key data point ahead of its final 2025 meeting."
-  },
-  {
-    "title": "New Hampshire Awaits Bitcoin Bond Buyer to Get First State Effort Rolling",
-    "link": "https://www.coindesk.com/policy/2025/11/19/new-hampshire-awaits-bitcoin-bond-buyer-to-get-first-state-effort-rolling",
-    "pubDate": "Wed, 19 Nov 2025 19:26:45 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The New Hampshire Business Finance Authority took the opening steps toward shepherding a potential $100 million private-sector bitcoin bond."
   },
   {
     "title": "NFT and memecoin markets recover after month-long crypto slump",
