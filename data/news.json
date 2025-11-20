@@ -1,5 +1,89 @@
 [
   {
+    "title": "Dogecoin Hits Multi-Month Lows as Exchange Flows Turn Bullish for First Time in 6 Months",
+    "link": "https://www.coindesk.com/markets/2025/11/20/dogecoin-hits-multi-month-lows-as-exchange-flows-turn-bullish-for-first-time-in-6-months",
+    "pubDate": "Thu, 20 Nov 2025 06:08:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": ""
+  },
+  {
+    "title": "XRP Slumps as $2.15 Level Collapses, Bearish Structure Deepens",
+    "link": "https://www.coindesk.com/markets/2025/11/20/xrp-slumps-as-usd2-15-level-collapses-bearish-structure-deepens",
+    "pubDate": "Thu, 20 Nov 2025 06:01:23 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Despite no major catalysts, broader crypto market weakness and Bitcoin's 'Death Cross' contributed to XRP's decline."
+  },
+  {
+    "title": "Core Foundation secures injunction blocking Maple Finance’s rival bitcoin yield product",
+    "link": "https://www.theblock.co/post/379601/core-foundation-maple-finance-injunction?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 20 Nov 2025 00:47:52 -0500",
+    "source": "The Block",
+    "contentSnippet": "Core claims that Maple used confidential information in their partnership to develop a competing product, violating the exclusivity clause."
+  },
+  {
+    "title": "Trump Eyes Executive Order to Rein In Patchwork State AI Policies",
+    "link": "https://decrypt.co/349339/trump-executive-order-rein-in-patchwork-state-ai-policies",
+    "pubDate": "Thu, 20 Nov 2025 05:41:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The White House is pushing for a federal framework as Hill Republicans explore attaching a moratorium to the defense bill."
+  },
+  {
+    "title": "Ripple Weighs Staking Overhaul to Expand XRP’s Role in DeFi",
+    "link": "https://decrypt.co/349313/ripple-weighs-staking-overhaul-xrp-role-defi",
+    "pubDate": "Thu, 20 Nov 2025 03:22:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ripple is exploring whether native staking could enhance the XRP Ledger’s security and utility without compromising its core consensus model."
+  },
+  {
+    "title": "Aztec launches privacy-focused L2 Ignition Chain on mainnet following token sale",
+    "link": "https://www.theblock.co/post/379592/aztec-launches-ignition-chain-mainnet?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 22:00:40 -0500",
+    "source": "The Block",
+    "contentSnippet": "Aztec says Ignition Chain, which enables programmable privacy, is the first fully decentralized Layer 2 network on Ethereum."
+  },
+  {
+    "title": "Asia Morning Briefing: Market Turns Defensive as Bitcoin Loses Its Bid",
+    "link": "https://www.coindesk.com/markets/2025/11/20/asia-morning-briefing-market-turns-defensive-as-bitcoin-loses-its-bid",
+    "pubDate": "Thu, 20 Nov 2025 02:15:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "With CryptoQuant flagging an exhausted demand wave and Polymarket traders clustering around an 85,000 retest, the market is trading without the catalysts that drove last year’s gains."
+  },
+  {
+    "title": "Samourai Wallet CTO William Hill Sentenced to Four Years in Prison",
+    "link": "https://decrypt.co/349305/samourai-wallet-cto-william-hill-sentenced-four-years-prison",
+    "pubDate": "Thu, 20 Nov 2025 01:52:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The developer will serve 48 months for running an unlicensed money transmitter, after his co-founder received five years earlier this month."
+  },
+  {
+    "title": "Bitwise spot XRP ETF launches Thursday amid altcoin fund rush",
+    "link": "https://www.theblock.co/post/379587/bitwise-xrp-etf-thursday?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 19 Nov 2025 20:48:45 -0500",
+    "source": "The Block",
+    "contentSnippet": "The rush of new altcoin ETFs in the U.S. came after the SEC clarified procedures for firms seeking to roll out crypto ETFs."
+  },
+  {
+    "title": "Circle, Bitcoin Treasuries Lead Crypto Stock Losses Amid Bitcoin Headwinds",
+    "link": "https://decrypt.co/349285/circle-bitcoin-treasuries-lead-stock-losses-bitcoin",
+    "pubDate": "Thu, 20 Nov 2025 01:39:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Digital asset-focused stocks fell on Wednesday as Bitcoin and other major cryptocurrencies extended losses, even as tech stocks steadied."
+  },
+  {
+    "title": "NASA Insists Interstellar Visitor Is ‘Just a Comet’ as Public Speculation Lingers",
+    "link": "https://decrypt.co/349294/nasa-insists-interstellar-visitor-comet-public-speculation-persists",
+    "pubDate": "Thu, 20 Nov 2025 01:30:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Agency officials said data showed nothing unusual about Comet 3I Atlas despite weeks of speculation."
+  },
+  {
+    "title": "BlackRock Forms New Trust Amid Early Uptake of Staking-Focused Ethereum ETFs",
+    "link": "https://decrypt.co/349301/blackrock-registers-staked-ethereum-trust-etf-delaware",
+    "pubDate": "Thu, 20 Nov 2025 01:23:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BlackRock’s new trust adds momentum to a growing push among issuers to bring staking-enabled Ethereum products into U.S. markets."
+  },
+  {
     "title": "Cipher, IREN and more bitcoin mining stocks get after-hours boost on Nvidia’s blowout Q3 earnings",
     "link": "https://www.theblock.co/post/379581/cipher-iren-and-more-bitcoin-mining-stocks-get-after-hours-boost-on-nvidias-blowout-q3-earnings?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 19 Nov 2025 19:12:06 -0500",
@@ -91,25 +175,11 @@
     "contentSnippet": "Coinbase did not deny leaks of a future prediction market integration and stock trading feature, teasing a \"new era\" for the crypto platform."
   },
   {
-    "title": "Bitcoin Enters Death Cross—And Ethereum Isn’t Far Behind: Analysis",
-    "link": "https://decrypt.co/349257/bitcoin-ethereum-death-cross-price-analysis",
-    "pubDate": "Wed, 19 Nov 2025 21:37:07 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A Bitcoin bounce or more pain to come? The technical picture is turning ugly as BTC forms a classic bearish pattern."
-  },
-  {
     "title": "DeFi Giant Spark Shelves Crypto App Plans to Focus on Institutional Infrastructure",
     "link": "https://www.coindesk.com/web3/2025/11/19/defi-giant-spark-shelves-crypto-app-plans-to-focus-on-institutional-infrastructure",
     "pubDate": "Wed, 19 Nov 2025 21:34:41 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The protocol will instead focus on \"liquidity infrastructure and deals\" such as its recent $1 billion investment into PayPal's PYUSD."
-  },
-  {
-    "title": "Crypto Miners in Malaysia Stole $1 Billion in Power Over Five Years",
-    "link": "https://decrypt.co/349255/malaysia-1-billion-crypto-mining-power-theft",
-    "pubDate": "Wed, 19 Nov 2025 21:22:55 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A new parliamentary tally shows power theft tied to crypto mining accelerating sharply since May’s warnings of rising illicit activity."
   },
   {
     "title": "Trump's Pick to Run CFTC, Selig, Tells Senators Crypto a 'Critical Mission' at Agency",
@@ -133,81 +203,11 @@
     "contentSnippet": "Traders slash chances of a December cut to 33% as the Fed loses a key data point ahead of its final 2025 meeting."
   },
   {
-    "title": "Zcash Keeps Rising as Bitcoin Falls—And This Treasury Firm Just Bought More ZEC",
-    "link": "https://decrypt.co/349250/zcash-keeps-rising-bitcoin-falls-treasury-firm-bought-more-zec",
-    "pubDate": "Wed, 19 Nov 2025 19:59:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Winklevoss-backed Cypherpunk Technologies just topped up its Zcash treasury, with the privacy coin rising another 31% in the last week."
-  },
-  {
-    "title": "'Modern-Day Pablo Escobar': Treasury Sanctions Ex-Olympian Over Alleged Crypto-Fueled Crime Empire",
-    "link": "https://decrypt.co/349242/modern-day-pablo-escobar-treasury-sanctions-ex-olympian-crypto-crime-empire",
-    "pubDate": "Wed, 19 Nov 2025 19:34:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A former Olympic snowboarder turned \"drug kingpin\" is now facing U.S. sanctions as the FBI attempts to track him down in Mexico."
-  },
-  {
     "title": "New Hampshire Awaits Bitcoin Bond Buyer to Get First State Effort Rolling",
     "link": "https://www.coindesk.com/policy/2025/11/19/new-hampshire-awaits-bitcoin-bond-buyer-to-get-first-state-effort-rolling",
     "pubDate": "Wed, 19 Nov 2025 19:26:45 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The New Hampshire Business Finance Authority took the opening steps toward shepherding a potential $100 million private-sector bitcoin bond."
-  },
-  {
-    "title": "Crypto Leverage Hits Record High in Q3 as DeFi Dominance Reshapes Market Structure: Galaxy",
-    "link": "https://www.coindesk.com/markets/2025/11/19/crypto-leverage-hits-record-high-in-q3-as-defi-dominance-reshapes-market-structure-galaxy",
-    "pubDate": "Wed, 19 Nov 2025 19:15:08 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Onchain lending drove crypto-collateralized debt to a new peak in last quarter, but the leverage underpinning the market is now better collateralized than during the previous cycle."
-  },
-  {
-    "title": "The Daily: BlackRock’s bitcoin ETF posts record outflows, derivatives market forming ‘dangerous’ setup, and more",
-    "link": "https://www.theblock.co/post/379534/the-daily-blackrocks-bitcoin-etf-posts-record-outflows-derivatives-market-forming-dangerous-setup-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 14:07:51 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "BNB treasury adds over $13 million of token as crypto market retreats",
-    "link": "https://www.theblock.co/post/379518/bnb-treasury-adds-over-13-million-of-token-as-crypto-market-retreats?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 14:06:55 -0500",
-    "source": "The Block",
-    "contentSnippet": "CEA Industries previously raised $500 million through a private placement to buy BNB as its primary treasury reserve asset."
-  },
-  {
-    "title": "New Hampshire Unveils $100 Million Bitcoin Collateralized Municipal Bond",
-    "link": "https://decrypt.co/349240/new-hampshire-100-million-municipal-bond-collateralized-bitcoin",
-    "pubDate": "Wed, 19 Nov 2025 19:05:30 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The bond requires overcollateralization by 160%, and will result in liquidation if the value of Bitcoin collateral falls below 130% of the bond’s value."
-  },
-  {
-    "title": "BlackRock Bitcoin ETF Posts Record $523 Million Daily Loss as BTC Price Slump Worsens",
-    "link": "https://decrypt.co/349230/blackrock-bitcoin-etf-record-523-million-daily-loss-btc-price-slump-worsens",
-    "pubDate": "Wed, 19 Nov 2025 18:05:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "BlackRock's iShares Bitcoin Trust (IBIT) shed a daily record $523 million in investments on Tuesday, extending a five-day streak of outflows."
-  },
-  {
-    "title": "Coinbase app code appears to include early prediction market and stock-trading modules",
-    "link": "https://www.theblock.co/post/379516/coinbase-app-code-include-early-prediction-market-stock-trading-modules?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 19 Nov 2025 13:03:01 -0500",
-    "source": "The Block",
-    "contentSnippet": "The timing of the interfaces aligns with Coinbase’s Dec. 17 event, where the exchange says it will unveil new products and business updates."
-  },
-  {
-    "title": "AI Agents Need Identity and Zero-Knowledge Proofs Are the Solution",
-    "link": "https://www.coindesk.com/opinion/2025/11/19/ai-agents-need-identity-and-zero-knowledge-proofs-are-the-solution",
-    "pubDate": "Wed, 19 Nov 2025 18:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ZKPs could become the backbone of a new era of trusted AI and digital identity, giving individuals and organizations a way to interact safely and transparently across platforms and borders, argues Evi"
-  },
-  {
-    "title": "Bitcoin Slips Back Below $90K — Crypto Correction Now Ranks Among Worst Since 2017, K33 Says",
-    "link": "https://www.coindesk.com/markets/2025/11/19/bitcoin-slips-back-below-usd90k-crypto-correction-now-ranks-among-worst-since-2017-k33-says",
-    "pubDate": "Wed, 19 Nov 2025 17:12:41 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "After a rare spot of outperformance on Tuesday, bitcoin has resumed sliding, with one analyst eyeing $84,000–$86,000 as potential local bottom."
   },
   {
     "title": "NFT and memecoin markets recover after month-long crypto slump",
