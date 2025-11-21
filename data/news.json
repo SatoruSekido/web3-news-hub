@@ -1,24 +1,178 @@
 [
   {
-    "title": "The Canary in the Coalmine: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/11/21/the-canary-in-the-coalmine-crypto-daybook-americas",
-    "pubDate": "Fri, 21 Nov 2025 12:15:00 +0000",
+    "title": "Cathie Wood Buys the Dip as Ark Invest Loads Up on Coinbase, BitMine and Circle Stock",
+    "link": "https://decrypt.co/349612/cathie-wood-buys-dip-ark-invest-loads-up-coinbase-bitmine-circle-stock",
+    "pubDate": "Fri, 21 Nov 2025 18:18:06 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Cathie Wood's investment firm continues to buy the dip on crypto related equities, adding shares in Coinbase, BitMine, and Circle."
+  },
+  {
+    "title": "BitMine Immersion Sitting on $4B Loss on Ether Bet as Analyst Warns of Structural issues",
+    "link": "https://www.coindesk.com/business/2025/11/21/bitmine-immersion-sitting-on-usd4b-unrealized-loss-on-ether-bet-as-analyst-warns-of-structural-issues",
+    "pubDate": "Fri, 21 Nov 2025 18:06:51 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Nov. 21, 2025"
+    "contentSnippet": "Tom Lee's company could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
   },
   {
-    "title": "Philippines Bets on Sui's Move Language as Education System Struggles With Basics",
-    "link": "https://decrypt.co/349531/philippines-bets-on-suis-move-language-as-education-system-struggles-with-basics",
-    "pubDate": "Fri, 21 Nov 2025 12:09:41 +0000",
+    "title": "Nvidia's Stellar Quarter Fails to Quell Bears as AI Valuation Fears Deepen on Wall Street",
+    "link": "https://decrypt.co/349562/nvidias-quarter-fails-quell-bears-ai-valuation-fears-deepen",
+    "pubDate": "Fri, 21 Nov 2025 17:54:18 +0000",
     "source": "Decrypt",
-    "contentSnippet": "A crypto industry-backed developer program is giving students in a remote province their first exposure to on-chain building."
+    "contentSnippet": "The chipmaker’s blockbuster earnings offered a brief reprieve, but a rapid reversal in trading cemented investor worries about the sustainability of the AI boom."
   },
   {
-    "title": "Indonesia Detains Hacker Tied to Markets.com Crypto Theft After $398K Loss",
-    "link": "https://decrypt.co/349528/indonesia-detains-hacker-tied-to-markets-com-crypto-theft-after-398k-loss",
-    "pubDate": "Fri, 21 Nov 2025 11:29:40 +0000",
+    "title": "UK Operation to Hit Russian Sanctions Evasion Arrests 128, Seizes $32.6M in Crypto and Cash",
+    "link": "https://decrypt.co/349613/uk-operation-to-hit-russian-sanctions-evasion-arrests-128-seizes-32-6m-in-crypto-and-cash",
+    "pubDate": "Fri, 21 Nov 2025 17:31:20 +0000",
     "source": "Decrypt",
-    "contentSnippet": "Authorities say the suspect exploited weak backend validation to manipulate USDT balances on the trading platform."
+    "contentSnippet": "Operation Destabilise has established that one money laundering network operating in the UK was involved in buying a bank in Kyrgyzstan."
+  },
+  {
+    "title": "Coinbase to acquire Vector.fun, the Tensor-built Solana trading platform, to advance ‘everything exchange’ vision",
+    "link": "https://www.theblock.co/post/379964/coinbase-vector-fun-tensor-solana-everything-exchange-vision?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 21 Nov 2025 12:23:56 -0500",
+    "source": "The Block",
+    "contentSnippet": "Vector’s tech will plug into Coinbase’s DEX integration, while Tensor Labs shifts its NFT marketplace and TNSR token to Tensor Foundation."
+  },
+  {
+    "title": "Japanese Bitcoin Treasury Firms Keep Beating BTC. Tax Policy Makes Outperforming U.S. Peers the Easy Part",
+    "link": "https://www.coindesk.com/business/2025/11/21/japanese-bitcoin-treasury-firms-keep-beating-btc-tax-policy-makes-outperforming-u-s-peers-the-easy-part",
+    "pubDate": "Fri, 21 Nov 2025 16:55:48 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "While U.S.-listed bitcoin treasury firms struggle to outperform ETFs, Japan’s harsh crypto tax code sends investors into DAT stocks, making outperformance easy."
+  },
+  {
+    "title": "‘Conviction in Bitcoin is unwavering’: Saylor rebuts MSCI removal risk amid Strategy stock selloff",
+    "link": "https://www.theblock.co/post/379955/conviction-bitcoin-unwavering-saylor-pushes-back-msci-threat-strategy-shares-slide?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 21 Nov 2025 11:49:38 -0500",
+    "source": "The Block",
+    "contentSnippet": "Strategy, the Bitcoin treasury pioneer (ticker MSTR) is currently included in major indices such as the Nasdaq-100, MSCI USA, and MSCI World."
+  },
+  {
+    "title": "HBAR Crashes 11.5% Breaking Below Key Support Levels",
+    "link": "https://www.coindesk.com/markets/2025/11/21/hbar-crashes-11-5-breaking-below-key-support-levels",
+    "pubDate": "Fri, 21 Nov 2025 16:46:34 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Trading volume explodes 98% above average as institutional sellers drive Hedera token through critical technical barriers."
+  },
+  {
+    "title": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
+    "link": "https://decrypt.co/349563/bitmine-tumble-earnings-ethereum-price-falls-treasury-hype-fades",
+    "pubDate": "Fri, 21 Nov 2025 16:41:16 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The company is valued at a discount to its Ethereum holdings"
+  },
+  {
+    "title": "Borrowing Against Your Tesla Stock to Buy a Car Is the Future of DeFi: Robert Leshner",
+    "link": "https://decrypt.co/349399/borrowing-against-tesla-stock-buy-car-defi-robert-leshner",
+    "pubDate": "Fri, 21 Nov 2025 16:31:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Tokenizing stocks and physical assets could let investors self-custody, borrow in DeFi, and easily transfer ownership, says Superstate CEO."
+  },
+  {
+    "title": "Coinbase Acquires Solana Meme Coin Social Trading App Vector",
+    "link": "https://decrypt.co/349594/coinbase-acquires-solana-meme-coin-social-trading-app-vector",
+    "pubDate": "Fri, 21 Nov 2025 16:23:59 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto exchange Coinbase is acquiring Solana meme coin application Vector to improve its on-chain trading experience."
+  },
+  {
+    "title": "Bitcoin Plummets 11%! Crypto in Free-Fall! Guests: OSF & Wizard Of SoHo ",
+    "link": "https://decrypt.co/videos/interviews/feVCIfte/bitcoin-plummets-11-crypto-in-free-fall-guests-osf-wizard-of-soho",
+    "pubDate": "Fri, 21 Nov 2025 16:23:07 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Btc: 81.6k (-11%) | btc.D: 58.8% (-0.5%). Eth: 2665 (-12%) | bnb: 800 (-11%) | sol: 123 (-13%). Bitcoin and Ethereum ETFs saw significant outflows, with broader crypto markets falling sharply as stron"
+  },
+  {
+    "title": "Michael Saylor Speaks Out Again as MSCI Concerns Mount",
+    "link": "https://www.coindesk.com/markets/2025/11/21/michael-saylor-speaks-out-again-as-msci-concerns-mount",
+    "pubDate": "Fri, 21 Nov 2025 16:10:31 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "JPMorgan warning on potential MSCI exclusion sparks fresh pressure, prompting another public response from the executive chairman."
+  },
+  {
+    "title": "LeverageShares to debut first 3x bitcoin and ether ETFs in Europe amid retail-led crypto selloff",
+    "link": "https://www.theblock.co/post/379948/leverageshares-debut-first-3x-bitcoin-ether-etfs-europe-retail-crypto-selloff?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 21 Nov 2025 11:04:49 -0500",
+    "source": "The Block",
+    "contentSnippet": "The launch lands amid steep drawdowns in bitcoin and ether, adding risk around timing for highly leveraged ETPs."
+  },
+  {
+    "title": "U.S. House Bill Would Allow Federal Taxes in BTC While Aiding U.S. Reserve",
+    "link": "https://www.coindesk.com/policy/2025/11/21/u-s-house-bill-would-allow-federal-taxes-in-btc-while-aiding-u-s-reserve",
+    "pubDate": "Fri, 21 Nov 2025 15:53:49 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Rep. Warren Davidson introduced legislation that allows bitcoin tax payments without incurring capital gains to beef up the U.S. Strategic Bitcoin Reserve."
+  },
+  {
+    "title": "Bitcoin, XRP and Dogecoin Pummeled as Crypto Liquidations Top $2.2 Billion",
+    "link": "https://decrypt.co/349559/bitcoin-xrp-dogecoin-pummeled-crypto-liquidations-top-2-2-billion",
+    "pubDate": "Fri, 21 Nov 2025 15:33:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin is starting to recover after sliding to $81,000 earlier Friday, while coins like Ethereum and XRP have fallen harder on the day."
+  },
+  {
+    "title": "Fanatics Enters Prediction Markets via Crypto.com Partnership",
+    "link": "https://www.coindesk.com/markets/2025/11/21/fanatics-enters-prediction-markets-via-crypto-com-partnership",
+    "pubDate": "Fri, 21 Nov 2025 15:25:49 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The product is set to launch in the next couple weeks, Fanatics CEO Michael Rubin said on CNBC."
+  },
+  {
+    "title": "Coinbase to Snap Up Solana-Based DEX Vector as Acquisition Spree Continues",
+    "link": "https://www.coindesk.com/business/2025/11/21/coinbase-to-snap-up-solana-based-dex-vector-as-acquisition-spree-continues",
+    "pubDate": "Fri, 21 Nov 2025 14:30:25 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The exchange’s latest deal folds Solana-native Vector into its consumer trading arm, extending a rapid M&A streak."
+  },
+  {
+    "title": "BTC Traders Brace for Price Crash to $75K; No Bottom Seen: Research Firm",
+    "link": "https://www.coindesk.com/markets/2025/11/21/btc-traders-brace-for-crash-to-usd75k-no-bottom-seen-research-firm",
+    "pubDate": "Fri, 21 Nov 2025 14:29:49 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Put options have dominated trading activity over the past week."
+  },
+  {
+    "title": "Crypto treasury firms buckle as crash erodes nearly half of combined market caps",
+    "link": "https://www.theblock.co/post/379913/corporate-crypto-treasuries-market-crash?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 21 Nov 2025 09:26:25 -0500",
+    "source": "The Block",
+    "contentSnippet": "DATs have taken a significant hit in the latest market selloff, with both the value of their crypto holdings and stock prices collapsing."
+  },
+  {
+    "title": "CoinDesk 20 Performance Update:  Bitcoin (BTC) Price Falls 3.3% as Index Declines",
+    "link": "https://www.coindesk.com/coindesk-indices/2025/11/21/coindesk-20-performance-update-bitcoin-btc-price-falls-3-3-as-index-declines",
+    "pubDate": "Fri, 21 Nov 2025 14:19:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin Cash (BCH) was also trading lower, down 2.3% from Thursday."
+  },
+  {
+    "title": "GSR Expands Institutional Platform to Raise Transparency, Control in Crypto Trading",
+    "link": "https://www.coindesk.com/business/2025/11/21/gsr-expands-institutional-platform-to-raise-transparency-control-in-crypto-trading",
+    "pubDate": "Fri, 21 Nov 2025 13:59:02 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "GSR upgraded GSR One, unifying market making, over-the-counter trading and treasury services as demand for institutional-grade crypto infrastructure increases."
+  },
+  {
+    "title": "Prediction Market Kalshi’s Valuation Jumps to $11B After Reported $1B Raise",
+    "link": "https://decrypt.co/349549/prediction-market-kalshis-valuation-jumps-to-11b-after-reported-1b-raise",
+    "pubDate": "Fri, 21 Nov 2025 13:04:34 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The surge follows months of rapid trading growth and key regulatory shifts reshaping the U.S. prediction market space."
+  },
+  {
+    "title": "US probes Chinese bitcoin-mining machine giant Bitmain over national security concerns: Bloomberg",
+    "link": "https://www.theblock.co/post/379914/us-probes-chinese-bitcoin-mining-machine-giant-bitmain-over-national-security-concerns-bloomberg?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 21 Nov 2025 07:47:33 -0500",
+    "source": "The Block",
+    "contentSnippet": "The Department of Homeland Security-led \"Operation Red Sunset\" examined whether Bitmain's machines could enable espionage or grid sabotage."
+  },
+  {
+    "title": "Here's How Digital Asset Treasuries are Holding Up as Prices Trend South",
+    "link": "https://decrypt.co/349540/heres-how-digital-asset-treasuries-are-holding-up-as-prices-trend-south",
+    "pubDate": "Fri, 21 Nov 2025 12:46:13 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Major crypto treasuries face billions in paper losses amid a sustained market slump, raising concerns of forced selling."
   },
   {
     "title": "Memecoin market sinks to 2025 low as $5B wiped out in a day",
@@ -28,67 +182,11 @@
     "contentSnippet": "Both memecoins and NFTs have plunged to their weakest levels since early 2025, with traders pulling back from speculative assets across the board."
   },
   {
-    "title": "Snipers Made $1.3M on Jesse Pollak’s Creator-Coin Debut on Base",
-    "link": "https://www.coindesk.com/business/2025/11/21/snipers-made-usd1-3m-on-jesse-pollak-s-creator-coin-debut-on-base",
-    "pubDate": "Fri, 21 Nov 2025 11:11:49 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Two traders captured more than $1.3 million in profits by exploiting Base’s new “flashblocks” system during the debut of the network founder’s creator coin."
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin, Ether Slide as Liquidity Crisis Fuels Heavy Sell-Off",
-    "link": "https://www.coindesk.com/markets/2025/11/21/crypto-markets-today-bitcoin-ether-slide-as-liquidity-crisis-fuels-heavy-sell-off",
-    "pubDate": "Fri, 21 Nov 2025 10:42:10 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Crypto markets plunged toward April lows on Friday as a lingering liquidity crunch amplified price swings. Bitcoin and ether fell more than 10%."
-  },
-  {
-    "title": "Ark Invest Adds Nearly $40M of Crypto Equities for Second Day as Sell-Off Continues",
-    "link": "https://www.coindesk.com/markets/2025/11/21/ark-invest-adds-nearly-usd40m-of-crypto-equities-for-second-day-as-sell-off-continues",
-    "pubDate": "Fri, 21 Nov 2025 10:33:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The St. Petersburg, Florida-based investment manager added to its holdings in Coinbase, Bitmine Immersion Technologies, Circle Internet and Bullish."
-  },
-  {
     "title": "Crypto liquidations near $2 billion as bitcoin rout deepens",
     "link": "https://www.theblock.co/post/379902/crypto-liquidations-bitcoin-rout?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 21 Nov 2025 05:13:36 -0500",
     "source": "The Block",
     "contentSnippet": "Analysts warn structural support is weakening as ETF outflows accelerate, pushing bitcoin to $82,000 and the total crypto market cap below $2.9 trillion."
-  },
-  {
-    "title": "Nearly $1B Liquidated In an Hour as Bitcoin Plunges Below $82K",
-    "link": "https://decrypt.co/349514/nearly-1b-liquidated-in-an-hour-as-bitcoin-plunges-below-82k",
-    "pubDate": "Fri, 21 Nov 2025 10:12:15 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A leverage-driven crash liquidated nearly $1B in an hour as Bitcoin continued its slide, pushing the total crypto market cap under $3T."
-  },
-  {
-    "title": "Exactly One Year After Strategy’s All Time High, the Bitcoin-Linked Slide Intensifies",
-    "link": "https://www.coindesk.com/markets/2025/11/21/exactly-one-year-after-strategy-s-all-time-high-the-bitcoin-linked-slide-intensifies",
-    "pubDate": "Fri, 21 Nov 2025 09:54:44 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Strategy's stock price has fallen sharply alongside bitcoin, marking one of its worst drawdowns since it adopted a bitcoin treasury strategy in 2020."
-  },
-  {
-    "title": "Bitcoin Suffers Flash Crash to $80K on Hyperliquid Amid Market Volatility",
-    "link": "https://www.coindesk.com/markets/2025/11/21/bitcoin-suffers-flash-crash-to-usd80k-on-hyperliquid-amid-market-volatility",
-    "pubDate": "Fri, 21 Nov 2025 09:41:14 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC dropped by $3K within a minute on Hyperliquid."
-  },
-  {
-    "title": "DOGE Chart Turns Fully Bearish After Multi-Level Support Failure",
-    "link": "https://www.coindesk.com/markets/2025/11/21/doge-chart-turns-fully-bearish-after-multi-level-support-failure",
-    "pubDate": "Fri, 21 Nov 2025 09:23:13 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Technical indicators show Dogecoin is deeply oversold, trading below its 50-day and 200-day moving averages, signaling continued trend weakness."
-  },
-  {
-    "title": "Crypto Bulls See $1.7B Liquidations as Bitcoin Swiftly Nears $80K",
-    "link": "https://www.coindesk.com/markets/2025/11/21/crypto-bulls-see-usd1-7b-liquidations-as-bitcoin-swiftly-nears-usd80k",
-    "pubDate": "Fri, 21 Nov 2025 08:48:50 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Crypto Fear & Greed Index fell to 11 on Monday — deep within “extreme fear” territory and its lowest reading since late 2022."
   },
   {
     "title": "Spot bitcoin ETFs see near-record outflows of $903 million",
@@ -98,39 +196,11 @@
     "contentSnippet": "Spot bitcoin exchange-traded funds in the U.S. posted their second-largest daily outflow since their inception."
   },
   {
-    "title": "Bitcoin ETFs Have Bled a Record $3.79B in November",
-    "link": "https://www.coindesk.com/markets/2025/11/21/bitcoin-etfs-have-bled-a-record-usd3-79-billion-in-november",
-    "pubDate": "Fri, 21 Nov 2025 07:43:38 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "U.S.-listed spot BTC and ETH ETFs see record outflows."
-  },
-  {
-    "title": "Yen Slump Is Bullish for BTC and Risk Assets. Or Is It? ",
-    "link": "https://www.coindesk.com/markets/2025/11/21/yen-slump-is-bullish-for-btc-and-risk-assets-or-is-it",
-    "pubDate": "Fri, 21 Nov 2025 06:48:20 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Historically, yen weakness has been linked to risk-on sentiment. However, this narrative now appears challenged against the backdrop of Japan’s mounting fiscal strains."
-  },
-  {
     "title": "Bitcoin plunges below $86,000 as US jobs data dampens rate cut hopes",
     "link": "https://www.theblock.co/post/379862/bitcoin-plunges-below-86000?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 21 Nov 2025 01:25:01 -0500",
     "source": "The Block",
     "contentSnippet": "Bitcoin fell below $86,000 after the delayed US jobs data pointed to persistent inflation, chipping away hopes for a December rate cut."
-  },
-  {
-    "title": "Crypto Firms Push Trump to Direct Agencies on Stalled Regulatory Guidance",
-    "link": "https://decrypt.co/349511/crypto-firms-push-trump-direct-agencies-stalled-regulatory-guidance",
-    "pubDate": "Fri, 21 Nov 2025 05:57:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Industry groups have urged Trump to use executive authority to speed crypto rules, saying agencies can offer clarity without Congress."
-  },
-  {
-    "title": "Crypto Sentiment Hits 'Extreme Fear' Amid $2.7 Trillion S&#038;P 500 Wipeout",
-    "link": "https://decrypt.co/349508/crypto-sentiment-hits-extreme-fear-amid-2-7-trillion-sp-500-wipeout",
-    "pubDate": "Fri, 21 Nov 2025 04:45:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Widening U.S. credit spreads, overextended market gains, and an uncertain macro landscape are being blamed for Thursday's wipeout."
   },
   {
     "title": "Ark Invest scoops up Coinbase, BitMine, Circle and Bullish shares in week’s biggest move",
@@ -145,76 +215,6 @@
     "pubDate": "Thu, 20 Nov 2025 21:53:33 -0500",
     "source": "The Block",
     "contentSnippet": "Investors participating in the round include Sequoia, CapitalG, a16z, Paradigm, Anthos Capital, and Neo, according to TechCrunch."
-  },
-  {
-    "title": "JPMorgan maintains ‘Neutral’ rating on Bullish, lowers 2026 price target to $45",
-    "link": "https://www.theblock.co/post/379845/jpmorgan-bullish-lowers-2026-target?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 20 Nov 2025 20:53:31 -0500",
-    "source": "The Block",
-    "contentSnippet": "JPMorgan analysts said fourth-quarter trends look strong, setting grounds for a 'much more constructive' trading environment for Bullish."
-  },
-  {
-    "title": "UK Fraud Office Probes $28M Crypto Fund Collapse, Two Arrested",
-    "link": "https://decrypt.co/349506/uk-fraud-office-probes-28m-crypto-fund-collapse-two-arrested",
-    "pubDate": "Fri, 21 Nov 2025 01:25:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The office has begun probing Basis Markets, a defunct crypto project accused of misappropriating investor funds."
-  },
-  {
-    "title": "Google Sparks Backlash After Gmail Setting Lets Gemini Peek Inside Inboxes",
-    "link": "https://decrypt.co/349491/google-backlash-gmail-setting-gemini-peek-inside-inboxes",
-    "pubDate": "Fri, 21 Nov 2025 00:45:29 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Google has faced criticism after a buried setting allowed Gemini to scan inboxes and calendars without clear notice to users."
-  },
-  {
-    "title": "Bitcoin Giant Strategy Could Shed Billions If Removed From Stock Indices: JPMorgan",
-    "link": "https://decrypt.co/349464/bitcoin-giant-strategy-shed-billions-removed-stock-indices-jpmorgan",
-    "pubDate": "Fri, 21 Nov 2025 00:36:41 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts from the investment banking giant wrote in a note Thursday that removal from MSCI indices could lead to $2.8 billion in outflows."
-  },
-  {
-    "title": "JPMorgan says crypto market correction appears driven by retail selling of bitcoin and ether ETFs",
-    "link": "https://www.theblock.co/post/379840/jpmorgan-crypto-market-correction-retail-selling-bitcoin-ether-etfs?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 20 Nov 2025 17:44:32 -0500",
-    "source": "The Block",
-    "contentSnippet": "Retail investors have sold about $4 billion of spot BTC and ETH ETFs in November — the main driver of the latest crypto market correction."
-  },
-  {
-    "title": "America's Open Source AI Gambit: Two Labs, One Question—Can the US Compete?",
-    "link": "https://decrypt.co/349466/americas-open-source-ai-gambit-two-labs-one-question-can-the-us-compete",
-    "pubDate": "Thu, 20 Nov 2025 22:38:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Deep Cogito's model builds on Chinese foundations while Allen Institute starts from scratch. Both aim to counter China's dominance in open AI."
-  },
-  {
-    "title": "Myriad Moves: Markets Grow Bearish on Bitcoin and Ethereum as Rate Cut Odds Tumble",
-    "link": "https://decrypt.co/349481/myriad-moves-markets-grow-bearish-bitcoin-ethereum-rate-cut-odds-tumble",
-    "pubDate": "Thu, 20 Nov 2025 22:29:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus if the Fed will cut rates again this year."
-  },
-  {
-    "title": "Block’s faster innovation and improving Cash App credit metrics draw analyst optimism",
-    "link": "https://www.theblock.co/post/379821/blocks-faster-innovation-improving-cash-app-credit-metrics-draw-analyst-optimism?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 20 Nov 2025 17:11:41 -0500",
-    "source": "The Block",
-    "contentSnippet": "Square is beginning to reaccelerate as refreshed merchant tools and a tighter sales push improve traction across key verticals."
-  },
-  {
-    "title": "VerifiedX taps Crypto.com for custody, OTC services supporting $1.5 billion in assets",
-    "link": "https://www.theblock.co/post/379822/verifiedx-taps-crypto-com-for-custody-otc-services-supporting-1-5-billion-in-assets?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 20 Nov 2025 16:21:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "The price of VFX, the network's native token, has jumped by over 69% following the announcement of a second partnership with Crypto.com."
-  },
-  {
-    "title": "Argentina’s Milei provided ‘essential collaboration’ for Libra project, congressional report finds",
-    "link": "https://www.theblock.co/post/379796/argentinas-milei-provided-essential-collaboration-libra-project-congressional-report-finds?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 20 Nov 2025 15:11:23 -0500",
-    "source": "The Block",
-    "contentSnippet": "An Argentine congressional committee released a 200-page report finding a pattern of misconduct in President Javier Milei's Libra crypto promotions."
   },
   {
     "title": "NFT and memecoin markets recover after month-long crypto slump",
