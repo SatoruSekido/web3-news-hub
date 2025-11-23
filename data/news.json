@@ -1,5 +1,96 @@
 [
   {
+    "title": "Chainlink Is ‘Essential Infrastructure’ for Tokenized Finance, Says Grayscale Research",
+    "link": "https://www.coindesk.com/business/2025/11/21/chainlink-is-essential-infrastructure-for-tokenized-finance-says-grayscale-research",
+    "pubDate": "Sun, 23 Nov 2025 00:00:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Grayscale's report comes shortly after it filed to convert its Chainlink Trust into an exchange-traded fund (ETF) that would trade on NYSE Arca."
+  },
+  {
+    "title": "Crypto ATM operator considers $100 million sale, days after founder’s $10 million money laundering charge",
+    "link": "https://www.theblock.co/post/380046/crypto-atm-operator-considers-100-million-sale-days-after-founders-10-million-money-laundering-charge?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 22 Nov 2025 18:10:31 -0500",
+    "source": "The Block",
+    "contentSnippet": "The company had previously pivoted to software offerings in the face of \"rising fraud exposure, regulatory pressure, and compliance demands.\""
+  },
+  {
+    "title": "Bitcoin ATM Firm Weighing $100 Million Sale Following Money Laundering Charges",
+    "link": "https://decrypt.co/349639/bitcoin-atm-firm-weighing-100-million-sale-money-laundering-charges",
+    "pubDate": "Sat, 22 Nov 2025 22:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Chicago-based Crypto Dispensers says it’s considering a $100 million sale, just days after the firm and its founder were hit with money laundering charges."
+  },
+  {
+    "title": "Bitcoin's Plunge Brings Strategy's Holdings to Near Breakeven, but Key Test Lies 18 Months Ahead",
+    "link": "https://www.coindesk.com/markets/2025/11/21/bitcoin-s-plunge-brings-strategy-s-holdings-to-near-breakeven-but-key-test-lies-18-months-ahead",
+    "pubDate": "Sat, 22 Nov 2025 21:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Michael Saylor's company's balance sheet isn't at imminent risk of collapse, but further capital-raising efforts could surely be hindered unless conditions improve."
+  },
+  {
+    "title": "Monad token sale defies ‘fizzle’ fears, will end oversubscribed on Coinbase",
+    "link": "https://www.theblock.co/post/380040/monad-token-sale-defies-fizzle-fears-will-end-oversubscribed-on-coinbase?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 22 Nov 2025 15:56:51 -0500",
+    "source": "The Block",
+    "contentSnippet": "Monad's co-founder had predicted that the sale's mechanics could lead to a last-minute surge in buys, which appears to have taken place."
+  },
+  {
+    "title": "Group Asks Federal Agency to Halt Use of Elon Musk's Grok AI Amid Racism Concerns",
+    "link": "https://decrypt.co/349700/group-asks-federal-agency-halt-use-elon-musk-grok-ai-racism",
+    "pubDate": "Sat, 22 Nov 2025 20:31:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysis showed Grok citing extremist sites as credible sources, raising another red flag after the AI's earlier \"MechaHitler\" incident."
+  },
+  {
+    "title": "XRP Drops With Market as Bitcoin Weakness Pulls Altcoins Into Oversold Territory",
+    "link": "https://www.coindesk.com/markets/2025/11/23/xrp-drops-with-market-as-bitcoin-weakness-pulls-altcoins-into-oversold-territory",
+    "pubDate": "Sat, 22 Nov 2025 19:26:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Technical indicators suggest oversold conditions, but a break above $1.96 is needed to reverse the current downward trend."
+  },
+  {
+    "title": "Crypto Treasuries Are Fading—And Staking ETFs Will 'Eat Their Lunch': SOL Strategies CEO",
+    "link": "https://decrypt.co/349729/crypto-treasuries-fading-staking-etfs-eat-their-lunch-sol-strategies-ceo",
+    "pubDate": "Sat, 22 Nov 2025 19:01:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "SOL Strategies Interim CEO Michael Hubbard believes that there's \"there's no sustainable market\" for pure crypto treasuries. Here's why."
+  },
+  {
+    "title": "As DATs Face Pressure, Institutions Could Soon Look to BTCFi for Their Next Strategic Shift",
+    "link": "https://www.coindesk.com/tech/2025/11/21/as-dats-face-pressure-institutions-could-soon-look-to-btcfi-for-their-next-strategic-shift",
+    "pubDate": "Sat, 22 Nov 2025 19:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Institutional BTC investors may explore whether bitcoin-native yield, collateral and liquidity opportunities could offer the next stage of strategic deployment."
+  },
+  {
+    "title": "Top DEXs Aerodrome, Velodrome hit with front-end compromise, urge users to avoid main domains",
+    "link": "https://www.theblock.co/post/380037/top-dexs-aerodrome-velodrome-hit-with-front-end-compromise-urge-users-to-avoid-main-domains?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sat, 22 Nov 2025 13:57:17 -0500",
+    "source": "The Block",
+    "contentSnippet": "The compromise comes nearly two years to the day after a similar attack took down their front-ends in November, 2023."
+  },
+  {
+    "title": "Coinbase to Add 24/7 Trading for SHIB, Bitcoin Cash, Dogecoin, and Others",
+    "link": "https://www.coindesk.com/markets/2025/11/23/coinbase-derivatives-to-add-24-7-trading-for-shib-bitcoin-cash-dogecoin-and-others",
+    "pubDate": "Sat, 22 Nov 2025 18:47:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The exchange plans to introduce U.S. perpetual-style futures for altcoins, settling on a five-year expiry."
+  },
+  {
+    "title": "Hobbyist Miner Beats \"1 in 180 Million Odds\" to Win $265K Bitcoin Block Using Just One Old ASIC",
+    "link": "https://www.coindesk.com/markets/2025/11/23/hobbyist-miner-wins-usd265k-bitcoin-block-using-just-one-old-asic",
+    "pubDate": "Sat, 22 Nov 2025 18:36:04 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The winning miner controls just 0.0000007% of Bitcoin’s total network hashpower, which recently hit a record 855.7 exahashes per second."
+  },
+  {
+    "title": "Bitcoin ETFs Just Had One of Their Worst Weeks on Record, Bleeding $1.2 Billion",
+    "link": "https://decrypt.co/349681/bitcoin-etfs-worst-weeks-bleeding-1-2-billion",
+    "pubDate": "Sat, 22 Nov 2025 18:26:17 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Spot Bitcoin funds are closing in on $4 billion of outflows so far in November, with investors cashing out as the price of BTC dives."
+  },
+  {
     "title": "Is Strategy Stock the Preferred Hedge Against Crypto Losses? Tom Lee Thinks So",
     "link": "https://www.coindesk.com/markets/2025/11/22/is-strategy-stock-the-preferred-hedge-against-crypto-losses-tom-lee-thinks-so",
     "pubDate": "Sat, 22 Nov 2025 17:00:00 +0000",
@@ -33,34 +124,6 @@
     "pubDate": "Sat, 22 Nov 2025 15:32:03 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "A billion-pound laundering network spread across the UK used cryptocurrency to move criminal proceeds and help Russian interests evade sanctions, according to the NCA."
-  },
-  {
-    "title": "Aerodrome Finance Hit by 'Front-End' Attack, Users Urged to Avoid Main Domain",
-    "link": "https://www.coindesk.com/web3/2025/11/22/aerodrome-finance-hit-by-front-end-attack-users-urged-to-avoid-main-domain",
-    "pubDate": "Sat, 22 Nov 2025 15:28:46 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The attack did not compromise the underlying smart contracts, but users are advised to avoid the compromised domains and instead use decentralized ENS domains."
-  },
-  {
-    "title": "Turning ‘$11K to Half a Billion Dollars From Trading Memecoins’: Tales From a Crypto Wealth Manager",
-    "link": "https://www.coindesk.com/business/2025/11/22/turning-usd11k-to-half-a-billion-dollars-from-trading-memecoins-tales-from-a-crypto-wealth-manager",
-    "pubDate": "Sat, 22 Nov 2025 15:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The chief of crypto-focused multi-family office Digital Ascension Group talks about his VIP services for wealthy holders of digital assets."
-  },
-  {
-    "title": "Bitcoin Treasuries to Move Beyond HODL to Yield, Hedging and Share Buybacks as NAV Discount Bites",
-    "link": "https://www.coindesk.com/business/2025/11/14/bitcoin-treasuries-to-move-beyond-hodl-to-yield-hedging-and-share-buybacks-as-nav-discount-bites",
-    "pubDate": "Sat, 22 Nov 2025 13:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "As the bitcoin treasury frenzy fades, the HODL pitch isn't completely dead, but firm should consider active reserve management to stand out, analysts say."
-  },
-  {
-    "title": "Bitcoin Greed & Fear Index Shows Extreme Pessimism, Tactical Bottom May Be Near: Analyst",
-    "link": "https://www.coindesk.com/markets/2025/11/22/bitcoin-greed-and-fear-index-shows-extreme-pessimism-tactical-bottom-may-be-near",
-    "pubDate": "Sat, 22 Nov 2025 03:57:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Peak fear suggests a tactical low may be near."
   },
   {
     "title": "Cardano Network Disrupted by 'Poisoned' Transaction Attack",
@@ -140,74 +203,11 @@
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
-    "title": "Grayscale's DOGE, XRP ETFs to Go Live on NYSE Monday",
-    "link": "https://www.coindesk.com/markets/2025/11/21/grayscale-s-doge-xrp-etfs-to-go-live-on-nyse-monday",
-    "pubDate": "Fri, 21 Nov 2025 18:43:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Rival crypto asset manager Bitwise launched its XRP ETF earlier this week."
-  },
-  {
-    "title": "ICP Breaks Major Support as Volume Spike Confirms Accelerated Downtrend",
-    "link": "https://www.coindesk.com/markets/2025/11/21/icp-breaks-major-support-as-volume-spike-confirms-accelerated-downtrend",
-    "pubDate": "Fri, 21 Nov 2025 18:21:23 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A steep selloff pushed ICP below the $4.33 floor, with exceptional volume marking the session’s decisive breakdown."
-  },
-  {
-    "title": "Cathie Wood Buys the Dip as Ark Invest Loads Up on Coinbase, BitMine and Circle Stock",
-    "link": "https://decrypt.co/349612/cathie-wood-buys-dip-ark-invest-loads-up-coinbase-bitmine-circle-stock",
-    "pubDate": "Fri, 21 Nov 2025 18:18:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Cathie Wood's investment firm continues to buy the dip on crypto related equities, adding shares in Coinbase, BitMine, and Circle."
-  },
-  {
-    "title": "Nvidia's Stellar Quarter Fails to Quell Bears as AI Valuation Fears Deepen on Wall Street",
-    "link": "https://decrypt.co/349562/nvidias-quarter-fails-quell-bears-ai-valuation-fears-deepen",
-    "pubDate": "Fri, 21 Nov 2025 17:54:18 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The chipmaker’s blockbuster earnings offered a brief reprieve, but a rapid reversal in trading cemented investor worries about the sustainability of the AI boom."
-  },
-  {
-    "title": "UK Operation to Hit Russian Sanctions Evasion Arrests 128, Seizes $32.6M in Crypto and Cash",
-    "link": "https://decrypt.co/349613/uk-operation-to-hit-russian-sanctions-evasion-arrests-128-seizes-32-6m-in-crypto-and-cash",
-    "pubDate": "Fri, 21 Nov 2025 17:31:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Operation Destabilise has established that one money laundering network operating in the UK was involved in buying a bank in Kyrgyzstan."
-  },
-  {
     "title": "Coinbase to acquire Vector.fun, the Tensor-built Solana trading platform, to advance ‘everything exchange’ vision",
     "link": "https://www.theblock.co/post/379964/coinbase-vector-fun-tensor-solana-everything-exchange-vision?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 21 Nov 2025 12:23:56 -0500",
     "source": "The Block",
     "contentSnippet": "Vector’s tech will plug into Coinbase’s DEX integration, while Tensor Labs shifts its NFT marketplace and TNSR token to Tensor Foundation."
-  },
-  {
-    "title": "‘Conviction in Bitcoin is unwavering’: Saylor rebuts MSCI removal risk amid Strategy stock selloff",
-    "link": "https://www.theblock.co/post/379955/conviction-bitcoin-unwavering-saylor-pushes-back-msci-threat-strategy-shares-slide?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 21 Nov 2025 11:49:38 -0500",
-    "source": "The Block",
-    "contentSnippet": "Strategy, the Bitcoin treasury pioneer (ticker MSTR) is currently included in major indices such as the Nasdaq-100, MSCI USA, and MSCI World."
-  },
-  {
-    "title": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
-    "link": "https://decrypt.co/349563/bitmine-tumble-earnings-ethereum-price-falls-treasury-hype-fades",
-    "pubDate": "Fri, 21 Nov 2025 16:41:16 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company is valued at a discount to its Ethereum holdings"
-  },
-  {
-    "title": "LeverageShares to debut first 3x bitcoin and ether ETFs in Europe amid retail-led crypto selloff",
-    "link": "https://www.theblock.co/post/379948/leverageshares-debut-first-3x-bitcoin-ether-etfs-europe-retail-crypto-selloff?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 21 Nov 2025 11:04:49 -0500",
-    "source": "The Block",
-    "contentSnippet": "The launch lands amid steep drawdowns in bitcoin and ether, adding risk around timing for highly leveraged ETPs."
-  },
-  {
-    "title": "Crypto treasury firms buckle as crash erodes nearly half of combined market caps",
-    "link": "https://www.theblock.co/post/379913/corporate-crypto-treasuries-market-crash?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 21 Nov 2025 09:26:25 -0500",
-    "source": "The Block",
-    "contentSnippet": "DATs have taken a significant hit in the latest market selloff, with both the value of their crypto holdings and stock prices collapsing."
   },
   {
     "title": "Memecoin market sinks to 2025 low as $5B wiped out in a day",
