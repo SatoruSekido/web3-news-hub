@@ -1,5 +1,47 @@
 [
   {
+    "title": "Why This Billionaire Collector Continues to Buy NFTs in 2025",
+    "link": "https://decrypt.co/349746/why-billionaire-collector-continues-buy-nfts-2025",
+    "pubDate": "Sun, 23 Nov 2025 22:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Businessman Adam Weitsman recently doubled down on NFTs with a record Meebits purchase, and says he’s never sold an NFT—and doesn’t plan to."
+  },
+  {
+    "title": "ETF Outflows, Stablecoin Flows and DAT Reversals Signal Crypto Capital Flight: NYDIG",
+    "link": "https://www.coindesk.com/markets/2025/11/23/etf-outflows-stablecoin-flows-and-dat-reversals-signal-crypto-capital-flight-nydig",
+    "pubDate": "Sun, 23 Nov 2025 21:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Spot bitcoin ETFs have seen persistent outflows ($3.55 billion in November), and stablecoin supply has declined, indicating capital is leaving the market, NYDIG Said."
+  },
+  {
+    "title": "Offchain Labs challenges Vitalik’s RISC-V proposal, says WASM better for Ethereum L1",
+    "link": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 23 Nov 2025 15:55:35 -0500",
+    "source": "The Block",
+    "contentSnippet": "The researchers argue WASM, which has been battle-tested across billions of execution environments, is a better long-term bet than RISC-V."
+  },
+  {
+    "title": "Satoshi Nakamoto's Bitcoin Wealth Falls By $41 Billion, Now Poorer Than Bill Gates",
+    "link": "https://decrypt.co/349658/satoshi-nakamoto-bitcoin-wealth-falls-41-billion-poorer-bill-gates",
+    "pubDate": "Sun, 23 Nov 2025 20:33:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Satoshi Nakamoto's Bitcoin-based net worth took a heavy hit as BTC dropped more than 30% from its all-time high set in October."
+  },
+  {
+    "title": "Hoskinson involves FBI after developer’s ‘careless’ experiment splits Cardano blockchain",
+    "link": "https://www.theblock.co/post/380056/hoskinson-involves-fbi-after-developers-careless-experiment-splits-cardano-blockchain?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 23 Nov 2025 14:10:20 -0500",
+    "source": "The Block",
+    "contentSnippet": "An IOG employee resigned after Hoskinson involved the FBI to investigate the incident, concerned that development mistakes could lead to legal consequences."
+  },
+  {
+    "title": "State of Crypto: What Congress Has Left to Do This Year",
+    "link": "https://www.coindesk.com/policy/2025/11/23/state-of-crypto-what-congress-has-left-to-do-this-year",
+    "pubDate": "Sun, 23 Nov 2025 19:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "There is not a lot of time left for Congress to make meaningful progress this year on crypto issues."
+  },
+  {
     "title": "What Is a Layer-1 Blockchain? The Base Layer Powering Bitcoin and Crypto",
     "link": "https://decrypt.co/resources/what-is-layer-1-blockchain-base-layer-powering-bitcoin-crypto",
     "pubDate": "Sun, 23 Nov 2025 17:47:36 +0000",
@@ -105,25 +147,11 @@
     "contentSnippet": "Analysis showed Grok citing extremist sites as credible sources, raising another red flag after the AI's earlier \"MechaHitler\" incident."
   },
   {
-    "title": "XRP Drops With Market as Bitcoin Weakness Pulls Altcoins Into Oversold Territory",
-    "link": "https://www.coindesk.com/markets/2025/11/23/xrp-drops-with-market-as-bitcoin-weakness-pulls-altcoins-into-oversold-territory",
-    "pubDate": "Sat, 22 Nov 2025 19:26:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Technical indicators suggest oversold conditions, but a break above $1.96 is needed to reverse the current downward trend."
-  },
-  {
     "title": "Crypto Treasuries Are Fading—And Staking ETFs Will 'Eat Their Lunch': SOL Strategies CEO",
     "link": "https://decrypt.co/349729/crypto-treasuries-fading-staking-etfs-eat-their-lunch-sol-strategies-ceo",
     "pubDate": "Sat, 22 Nov 2025 19:01:12 +0000",
     "source": "Decrypt",
     "contentSnippet": "SOL Strategies Interim CEO Michael Hubbard believes that there's \"there's no sustainable market\" for pure crypto treasuries. Here's why."
-  },
-  {
-    "title": "As DATs Face Pressure, Institutions Could Soon Look to BTCFi for Their Next Strategic Shift",
-    "link": "https://www.coindesk.com/tech/2025/11/21/as-dats-face-pressure-institutions-could-soon-look-to-btcfi-for-their-next-strategic-shift",
-    "pubDate": "Sat, 22 Nov 2025 19:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Institutional BTC investors may explore whether bitcoin-native yield, collateral and liquidity opportunities could offer the next stage of strategic deployment."
   },
   {
     "title": "Top DEXs Aerodrome, Velodrome hit with front-end compromise, urge users to avoid main domains",
@@ -161,13 +189,6 @@
     "contentSnippet": "Coinbase's CFTC-regulated derivatives arm plans to launch 24/7 trading and \"perp-style\" futures for nearly a dozen altcoins."
   },
   {
-    "title": "Solo Bitcoin Miner Hits the Jackpot, Winning $266K BTC Reward",
-    "link": "https://decrypt.co/349689/solo-bitcoin-miner-hits-jackpot-winning-266k-btc-reward",
-    "pubDate": "Fri, 21 Nov 2025 23:04:36 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A solo miner earned a Bitcoin bounty for mining the network’s 924,569th block, securing $266,000 worth of the asset against incredible odds."
-  },
-  {
     "title": "Grayscale’s Dogecoin and XRP ETFs tee up to launch on Monday following NYSE approvals",
     "link": "https://www.theblock.co/post/380019/grayscales-dogecoin-and-xrp-etfs-teed-up-to-launch-on-monday-following-nyse-approvals?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 21 Nov 2025 17:01:44 -0500",
@@ -182,32 +203,11 @@
     "contentSnippet": "A Solo CKpool miner contributing approximately 0.0000007% of the total Bitcoin network hashpower discovered a block on Friday."
   },
   {
-    "title": "Crypto Industry Makes Tax Policy Push With Private Dinner for Lawmakers",
-    "link": "https://decrypt.co/349645/crypto-industry-tax-policy-private-dinner-lawmakers",
-    "pubDate": "Fri, 21 Nov 2025 21:10:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A powerful nonprofit hosted a dinner with lawmakers this week focused on crypto taxes, while groups backing the nonprofit pushed the Trump administration on related policies."
-  },
-  {
     "title": "Institutional buyers ‘nibbling’ as crypto selloff widens, but analysts warn final shakeout may not be done",
     "link": "https://www.theblock.co/post/379978/institutional-buyers-nibbling-crypto-selloff-analysts-warn-final-shakeout-not-done?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 21 Nov 2025 14:22:23 -0500",
     "source": "The Block",
     "contentSnippet": "Analysts say Fed easing and renewed liquidity in 2026 could be key to reversing the crypto market downturn."
-  },
-  {
-    "title": "Tom Lee’s BitMine to begin offering annual dividend as ETH treasury mNAV dips",
-    "link": "https://www.theblock.co/post/379984/tom-lees-bitmine-to-begin-offering-annual-dividend-as-eth-treasury-mnav-dips?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 21 Nov 2025 14:03:39 -0500",
-    "source": "The Block",
-    "contentSnippet": "ETH is trading around $2,730 on Friday, indicating BitMine’s multiple to Net Asset Value has fallen below 1.0x."
-  },
-  {
-    "title": "The Daily: Crypto selloff deepens, JPMorgan blames retail BTC and ETH ETF outflows, 24-hour liquidations top $2 billion, and more",
-    "link": "https://www.theblock.co/post/379981/the-daily-crypto-selloff-jpmorgan-blames-retail-btc-eth-etf-outflows-liquidations?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 21 Nov 2025 14:00:58 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
     "title": "Memecoin market sinks to 2025 low as $5B wiped out in a day",
