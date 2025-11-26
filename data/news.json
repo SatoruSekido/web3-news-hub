@@ -1,5 +1,82 @@
 [
   {
+    "title": "XRP Tests Crucial $2.20 Pivot After $164M ETF Debut Fails to Offset Liquidations",
+    "link": "https://www.coindesk.com/markets/2025/11/26/xrp-tests-crucial-usd2-20-pivot-after-usd164m-etf-debut-fails-to-offset-liquidations",
+    "pubDate": "Wed, 26 Nov 2025 06:06:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Traders should watch for ETF inflows and whale distributions to determine if the $2.20 support will hold."
+  },
+  {
+    "title": "Grayscale’s GDOG Debuts Quietly While DOGE Builds Higher Lows",
+    "link": "https://www.coindesk.com/markets/2025/11/26/grayscale-s-gdog-debuts-quietly-while-doge-builds-higher-lows",
+    "pubDate": "Wed, 26 Nov 2025 05:59:22 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "DOGE is in a bullish consolidation phase, with technical indicators suggesting potential for upward movement if resistance at $0.154 is surpassed."
+  },
+  {
+    "title": "Essential Bitcoin Price Points Traders Should Track Now",
+    "link": "https://www.coindesk.com/markets/2025/11/26/essential-bitcoin-price-points-traders-should-track-now",
+    "pubDate": "Wed, 26 Nov 2025 05:26:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Major moving averages on price charts are likely to act as key battlegrounds where bulls and bears fight for control."
+  },
+  {
+    "title": "South Korea’s KakaoBank advances stablecoin initiative to development stage: report",
+    "link": "https://www.theblock.co/post/380493/kakaobank-advances-stablecoin-initiative?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 26 Nov 2025 00:14:57 -0500",
+    "source": "The Block",
+    "contentSnippet": "Rivaling IT giant Naver is in the process of a merger with Upbit, South Korea's largest cryptocurrency exchange."
+  },
+  {
+    "title": "Nevada Just Shattered Prediction Markets’ Favorite Theory in Kalshi Ruling",
+    "link": "https://www.coindesk.com/policy/2025/11/26/nevada-just-shattered-prediction-markets-favorite-theory-in-kalshi-ruling",
+    "pubDate": "Wed, 26 Nov 2025 04:40:47 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Nevada’s ruling says sports outcome contracts on a federally regulated exchange are not swaps, opening the door for state gambling laws to apply."
+  },
+  {
+    "title": "Robinhood to launch new derivatives exchange for prediction markets push",
+    "link": "https://www.theblock.co/post/380487/robinhood-derivatives-exchange-prediction-markets?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 25 Nov 2025 23:24:02 -0500",
+    "source": "The Block",
+    "contentSnippet": "Robinhood is deepening its foray into prediction markets with plans to launch a derivatives exchange through a new JV with Susquehanna."
+  },
+  {
+    "title": "Three Signals Bitcoin Options Traders Are Looking For to Time a 'Genuine Low'",
+    "link": "https://decrypt.co/350056/three-signals-bitcoin-options-traders-time-genuine-low",
+    "pubDate": "Wed, 26 Nov 2025 04:19:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Options traders are signaling a capped Bitcoin rebound, with volatility gauges pointing to a range-bound 2025 rather than a year-end surge."
+  },
+  {
+    "title": "Ark Invest buys the dip on Block, Circle and other crypto stocks",
+    "link": "https://www.theblock.co/post/380482/ark-invest-block-circle?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 25 Nov 2025 22:17:47 -0500",
+    "source": "The Block",
+    "contentSnippet": "Ark Invest bought $13.5 million worth of Block. Inc shares, $7.6 million worth of Circle Internet Group and $3.86 million worth of Coinbase."
+  },
+  {
+    "title": "Monad Hit With Spoofed Token Transfers Days After Mainnet Launch",
+    "link": "https://decrypt.co/350053/monad-hit-spoofed-token-transfers-days-after-mainnet-launch",
+    "pubDate": "Wed, 26 Nov 2025 02:52:31 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fake ERC-20 transfers appeared within 48 hours of MON’s debut as attackers targeted users during the network’s first wave of activity."
+  },
+  {
+    "title": "JPMorgan's Bitcoin Structured Notes Offer Potentially Massive Returns—If BTC Surges by 2028",
+    "link": "https://decrypt.co/350018/jpmorgan-bitcoin-structured-notes-potentially-massive-returns-btc-surges-2028",
+    "pubDate": "Wed, 26 Nov 2025 02:05:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The bank has an idea for a product that would allow investors to make big gains if the leading cryptocurrency soars."
+  },
+  {
+    "title": "Asia Morning Briefing: Asia Wakes Up to an AI BTC-Nvidia Tailwind That’s Already Starting to Sputter",
+    "link": "https://www.coindesk.com/markets/2025/11/26/asia-morning-briefing-asia-wakes-up-to-an-ai-btc-nvidia-tailwind-that-s-already-starting-to-sputter",
+    "pubDate": "Wed, 26 Nov 2025 02:04:21 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Yesterday’s Amazon-driven risk rally is colliding with a sharp wobble in Nvidia, putting the AI-BTC-beta trade that lifted crypto back under scrutiny."
+  },
+  {
     "title": "Yield compression triggers 50% TVL drop in USDe despite rising onchain usage",
     "link": "https://www.theblock.co/post/380210/yield-compression-triggers-50-tvl-drop-in-usde-despite-rising-onchain-usage?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 25 Nov 2025 18:26:02 -0500",
@@ -98,13 +175,6 @@
     "contentSnippet": "The bank's push into stablecoins puts it among many other traditional financial institutions, like Bank of America and Citi."
   },
   {
-    "title": "The Daily: Polymarket allowed to resume US operations, Grayscale and Franklin XRP ETFs each clock over $60M in debut inflows, and more",
-    "link": "https://www.theblock.co/post/380428/the-daily-polymarket-allowed-to-resume-us-operations-grayscale-and-franklin-xrp-etfs-each-clock-over-60m-in-debut-inflows-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 25 Nov 2025 14:46:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
     "title": "Polymarket Set for US Return Following Approval From CFTC",
     "link": "https://decrypt.co/350003/polymarket-set-us-return-following-approval-cftc",
     "pubDate": "Tue, 25 Nov 2025 19:34:07 +0000",
@@ -112,32 +182,11 @@
     "contentSnippet": "The popular prediction market says it now has permission to directly onboard U.S. customers, brokerages, and market intermediaries."
   },
   {
-    "title": "Tether-pegged USDT0 omnichain stablecoin passes $50 billion in cumulative transfers",
-    "link": "https://www.theblock.co/post/380434/tether-pegged-usdt0-omnichain-stablecoin-passes-50-billion-in-cumulative-transfers?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 25 Nov 2025 14:31:20 -0500",
-    "source": "The Block",
-    "contentSnippet": "USDT0 launched in January using LayerZero's Omnichain Fungible Token standard, enabling it to extend to 15 blockchains."
-  },
-  {
-    "title": "JPMorgan Chase shuts ShapeShift employee’s business account, says his personal account will be next",
-    "link": "https://www.theblock.co/post/380419/jpmorgan-chase-shuts-shapeshift-crypto-business-account-personal-next?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 25 Nov 2025 14:06:48 -0500",
-    "source": "The Block",
-    "contentSnippet": "ShapeShift’s Houston Morgan told The Block that JPMorgan Chase abruptly closed his business bank account last Friday."
-  },
-  {
     "title": "Stellar Rallies 2.3% Breaking Key Resistance on Volume Surge",
     "link": "https://www.coindesk.com/markets/2025/11/25/stellar-rallies-2-3-breaking-key-resistance-on-volume-surge",
     "pubDate": "Tue, 25 Nov 2025 19:00:48 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Stellar breaks through critical $0.2460 level as institutional flows drive measured accumulation above seven-day averages."
-  },
-  {
-    "title": "Metaplanet Reveals Yet Another Move to Add to $2.7 Billion Bitcoin Stash, Taking $130M Loan",
-    "link": "https://decrypt.co/349997/metaplanet-reveals-move-buy-bitcoin-130-million-loan",
-    "pubDate": "Tue, 25 Nov 2025 18:55:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin treasury Metaplanet has announced a new plan to buy more BTC: Use its holdings as collateral to take a $130 million loan."
   },
   {
     "title": "U.S. Crypto Regulator, CFTC, Seeking Names for New 'CEO Innovation Council' ",
@@ -159,55 +208,6 @@
     "pubDate": "Tue, 25 Nov 2025 18:29:53 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "The nation's fifth-largest commercial bank explores how a bank can issue stablecoins on a public blockchain."
-  },
-  {
-    "title": "Is the Bull Market over? The AI Manhattan Project! Monad Launch Reaction!",
-    "link": "https://decrypt.co/videos/interviews/fw2vHNRd/is-the-bull-market-over-the-ai-manhattan-project-monad-launch-reaction",
-    "pubDate": "Tue, 25 Nov 2025 18:17:10 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors rallied alongside a broad market surge, with BTC up 2% to $87,400, ETH up 4% to $2,920, BNB up 1% to $850, and SOL up 5% to $136, while KAS (+22%), ENA (+13%), and SUI (+11%) led the day"
-  },
-  {
-    "title": "TON Pulls Back After Ecosystem-Driven Rally as Traders Eye Key Support Near $1.50",
-    "link": "https://www.coindesk.com/markets/2025/11/25/ton-pulls-back-after-ecosystem-driven-rally-as-traders-eye-key-support-near-usd1-50",
-    "pubDate": "Tue, 25 Nov 2025 17:56:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token's price action points to fading buyer interest, with initial strong trading activity giving way to a sharp decline in participation."
-  },
-  {
-    "title": "Oct. 7 Hamas Attack Victims Sue Binance for Damages",
-    "link": "https://www.coindesk.com/business/2025/11/25/oct-7-hamas-attack-victims-sue-binance-for-damages",
-    "pubDate": "Tue, 25 Nov 2025 17:24:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Binance allegedly facilitated the transfer of over $1 billion to sanctioned entities including Hamas and Iran's Revolutionary Guard Corps, a lawsuit said."
-  },
-  {
-    "title": "Anthropic Completes AI Model Upgrades With Claude Opus 4.5—And Slashes Prices",
-    "link": "https://decrypt.co/349986/anthropic-completes-ai-model-upgrades-claude-opus-4-5-slashes-prices",
-    "pubDate": "Tue, 25 Nov 2025 17:04:33 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Anthropic released Claude Opus 4.5, completing its three-model lineup upgrade with benchmark-topping coding performance and a dramatic 67% price cut."
-  },
-  {
-    "title": "ICP Clears Key Technical Barrier as Breakout Volume Confirms Upward Momentum",
-    "link": "https://www.coindesk.com/markets/2025/11/25/icp-clears-key-technical-barrier-as-breakout-volume-confirms-upward-momentum",
-    "pubDate": "Tue, 25 Nov 2025 16:51:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Internet Computer climbed through the crucial $4.20 resistance level on elevated volume before late-session consolidation narrowed gains."
-  },
-  {
-    "title": "BONK Breaks Through Overhead Resistance as Volume Jumps 85% Above Average",
-    "link": "https://www.coindesk.com/markets/2025/11/25/bonk-breaks-through-overhead-resistance-as-volume-jumps-85-above-average",
-    "pubDate": "Tue, 25 Nov 2025 16:46:45 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Increased trading volume carried BONK through a major resistance threshold before late pullbacks shaped a new support band."
-  },
-  {
-    "title": "Why Bitcoin Is Underperforming Equities Despite Bullish Catalysts",
-    "link": "https://www.coindesk.com/markets/2025/11/20/why-bitcoin-is-underperforming-equities-despite-bullish-catalysts",
-    "pubDate": "Tue, 25 Nov 2025 16:18:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Gains in AI-fueled stocks and heavy crypto leverage have widened the gap between bitcoin and equities."
   },
   {
     "title": "Memecoin market sinks to 2025 low as $5B wiped out in a day",
