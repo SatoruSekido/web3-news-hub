@@ -1,5 +1,96 @@
 [
   {
+    "title": "Out of Breadth: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/11/28/out-of-breadth-crypto-daybook-americas",
+    "pubDate": "Fri, 28 Nov 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Nov. 28, 2025"
+  },
+  {
+    "title": "Upbit says emergency audit of $30M hack uncovered internal wallet flaw that could let attackers derive private keys",
+    "link": "https://www.theblock.co/post/380764/upbit-says-emergency-audit-of-30m-hack-uncovered-flaw-that-could-expose-private-keys?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 28 Nov 2025 06:29:01 -0500",
+    "source": "The Block",
+    "contentSnippet": "Upbit said it discovered a vulnerability that could have allowed attackers to infer private keys from onchain wallet data."
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Rebounds, but Downtrend Still Looms",
+    "link": "https://www.coindesk.com/markets/2025/11/28/crypto-markets-today-bitcoin-rebounds-but-downtrend-still-looms",
+    "pubDate": "Fri, 28 Nov 2025 11:28:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin crept back toward $92,000 as markets slowly recovered from last week’s heavy sell-off, but mounting resistance threatens to keep the broader downtrend intact."
+  },
+  {
+    "title": "BlackRock’s Own Income Fund Boosts Bitcoin ETF Holdings 14% ",
+    "link": "https://www.coindesk.com/markets/2025/11/28/blackrock-s-own-income-fund-boosts-bitcoin-etf-holdings-14",
+    "pubDate": "Fri, 28 Nov 2025 11:08:53 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Strategic Income Opportunities Portfolio expands its allocation to the iShares Bitcoin Trust amid rising institutional demand."
+  },
+  {
+    "title": "Trump White House ‘World’s Most Corrupt Crypto Startup Operation’: House Democrats",
+    "link": "https://decrypt.co/350315/trump-white-house-worlds-most-corrupt-crypto-startup-operation-house-democrats",
+    "pubDate": "Fri, 28 Nov 2025 10:45:23 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "President Trump and his family made $800 million from sales of cryptocurrencies in the first half of the year, according to a new report."
+  },
+  {
+    "title": "Crypto Exchange KuCoin's European Arm Wins MiCA License in Austria",
+    "link": "https://www.coindesk.com/policy/2025/11/28/crypto-exchange-kucoin-s-european-arm-wins-mica-license-in-austria",
+    "pubDate": "Fri, 28 Nov 2025 10:22:05 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "KuCoin EU obtained a Markets in Crypto Assets (MiCA) regulation license in Austria, allowing it to offer regulated services across the EEA."
+  },
+  {
+    "title": "Upbit Reveals 5.9B-Won Corporate Loss in Latest Hack, Fully Reimburses Users",
+    "link": "https://www.coindesk.com/markets/2025/11/28/upbit-reveals-5-9b-won-corporate-loss-in-latest-hack-fully-reimburses-users",
+    "pubDate": "Fri, 28 Nov 2025 10:01:11 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Upbit said it reimbursed all 38.6 billion won in member assets from its reserves."
+  },
+  {
+    "title": "Animoca Brands to focus on stablecoin, RWA in 2026 amid US IPO efforts",
+    "link": "https://www.theblock.co/post/380756/animoca-brands-stablecoin-rwa-2026?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 28 Nov 2025 04:30:14 -0500",
+    "source": "The Block",
+    "contentSnippet": "Animoca is planning to go public on the Nasdaq next year through a reverse-merger with Singapore-based Currenc Group."
+  },
+  {
+    "title": "Balancer plans to distribute $8 million in recovered funds from $128 million exploit",
+    "link": "https://www.theblock.co/post/380751/balancer-recovered-funds-distribution?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 28 Nov 2025 03:44:45 -0500",
+    "source": "The Block",
+    "contentSnippet": "Six white hat actors recovered $3.86 million during the attack, but some declined to receive bounties as they do not want to be identified."
+  },
+  {
+    "title": "South Korean Police Officers Indicted in $186 Million Crypto-Laundering Case",
+    "link": "https://decrypt.co/350312/south-korean-police-officers-indicted-186-million-crypto-laundering-case",
+    "pubDate": "Fri, 28 Nov 2025 06:42:50 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The two officers have been stripped of their positions following their arrest in connection with the crypto money-laundering scheme."
+  },
+  {
+    "title": "Balancer Outlines Reimbursement Plan Following $128M Exploit",
+    "link": "https://decrypt.co/350310/balancer-outlines-reimbursement-plan-following-128m-exploit",
+    "pubDate": "Fri, 28 Nov 2025 06:29:38 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Balancer has identified six whitehat actors who recovered approximately $3.9 million across multiple networks during the exploit."
+  },
+  {
+    "title": "Bitcoin and S&P 500 Year-End Bull Run Loading? Vol Metrics Say Yes",
+    "link": "https://www.coindesk.com/markets/2025/11/28/bitcoin-and-s-and-p-500-year-end-bull-run-loading-vol-metrics-say-yes",
+    "pubDate": "Fri, 28 Nov 2025 06:24:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Implied volatility indices tied to bitcoin and the S&P 500 have erased the recent spike, offering bullish price signals."
+  },
+  {
+    "title": "Cryptos Steady as BTC Hits Key Fib Level, Traders See Room for $100K but Little Beyond",
+    "link": "https://www.coindesk.com/markets/2025/11/28/bitcoin-volatility-steadies-as-some-predict-move-to-usd100k-zec-rally-sees-profit-taking",
+    "pubDate": "Fri, 28 Nov 2025 05:42:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Traders have quickly re-priced the macro backdrop as the probability of a 25 bps cut at the upcoming FOMC meeting has surged from 39% to almost 87% in a matter of days."
+  },
+  {
     "title": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
     "link": "https://www.theblock.co/post/380746/bitmine-buys-44-million-ethereum?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 28 Nov 2025 00:37:17 -0500",
@@ -49,20 +140,6 @@
     "contentSnippet": "Upbit initially reported a loss of 54 billion won ($36.8 million) but later revised the figure down to 44.5 billion won ($30.4 million)."
   },
   {
-    "title": "XRP Faces Downside Risk as Historical Patterns Point to $1.50",
-    "link": "https://www.coindesk.com/markets/2025/11/28/xrp-faces-downside-risk-as-historical-patterns-point-to-usd1-50",
-    "pubDate": "Fri, 28 Nov 2025 03:50:41 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "XRP needs to reclaim $2.20 and break $2.23–$2.24 to regain upward momentum, as technical indicators remain bearish."
-  },
-  {
-    "title": "MegaETH’s $500M Pre-Deposit Turns Into a Full Rewind After Missteps Pile Up",
-    "link": "https://www.coindesk.com/markets/2025/11/28/megaeth-s-usd500m-pre-deposit-turns-into-a-full-rewind-after-missteps-pile-up",
-    "pubDate": "Fri, 28 Nov 2025 03:30:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The issues began immediately at launch, when transactions failed because the contract contained an incorrect SaleUUID, requiring a 4-of-6 multisig update."
-  },
-  {
     "title": "Do Kwon requests 5-year prison term cap in $40 billion Terra fraud case",
     "link": "https://www.theblock.co/post/380739/do-kwon-5-year-prison-term?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 27 Nov 2025 22:15:27 -0500",
@@ -84,39 +161,11 @@
     "contentSnippet": "Tuesday's pre-deposit event faced outages, changes in deposit cap, and a misconfigured multisig transaction."
   },
   {
-    "title": "Asia Morning Briefing: Bitcoin Steadies Near $90,000 Even as ETF Outflows Cap Upside",
-    "link": "https://www.coindesk.com/markets/2025/11/28/asia-morning-briefing-bitcoin-steadies-near-usd90-000-even-as-etf-outflows-cap-upside",
-    "pubDate": "Fri, 28 Nov 2025 02:24:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Flowdesk and QCP see short covering and dip buying supporting BTC around $90,000, while prediction markets assign low odds of a push toward $96,000."
-  },
-  {
     "title": "Interpol Elevates Scam-Compound Network to Global Threat as Crypto Fraud Spreads",
     "link": "https://decrypt.co/350295/interpol-scam-compound-network-global-threat-crypto-fraud",
     "pubDate": "Fri, 28 Nov 2025 00:11:45 +0000",
     "source": "Decrypt",
     "contentSnippet": "The aim is to confront global scam center systems that traffic workers, run large-scale online fraud, and channel billions through crypto."
-  },
-  {
-    "title": "Balancer DAO Starts Discussing $8M Recovery Plan After $110M Exploit Cut TVL by Two-Thirds",
-    "link": "https://www.coindesk.com/web3/2025/11/27/balancer-dao-starts-discussing-usd8m-recovery-plan-after-usd110m-exploit-cut-tvl-by-two-thirds",
-    "pubDate": "Thu, 27 Nov 2025 21:39:14 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The recovered tokens, spanning multiple networks and assets, will be paid out in the same tokens as originally provided, with a claim mechanism being developed."
-  },
-  {
-    "title": "Toncoin Lags Broader Crypto Rebound as Derivatives Data Shows Cautious Optimism",
-    "link": "https://www.coindesk.com/markets/2025/11/27/toncoin-lags-broader-crypto-rebound-as-derivatives-data-shows-cautious-optimism",
-    "pubDate": "Thu, 27 Nov 2025 20:11:39 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Altcoin funding rates, including for TON, have turned positive, indicating renewed confidence among traders, but overall market participation remains muted."
-  },
-  {
-    "title": "Trump Family-Linked Alt5 Sigma Ousts Top Execs After CEO Suspension Shakes Up Leadership",
-    "link": "https://www.coindesk.com/business/2025/11/27/trump-family-linked-alt5-sigma-ousts-top-execs-after-ceo-suspension-shakes-up-leadership",
-    "pubDate": "Thu, 27 Nov 2025 20:08:37 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The company is on its third CEO in six weeks, with Tony Isaac appointed as Acting CEO, and has named Steven Plumb as its new CFO."
   },
   {
     "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
@@ -140,13 +189,6 @@
     "contentSnippet": "The U.S. is probing how Chinese operators used AI in a cyber-espionage campaign as experts warn similar tools could hit on-chain finance."
   },
   {
-    "title": "Avalanche ETF Race Heats Up as Bitwise Becomes First to Add Staking",
-    "link": "https://www.coindesk.com/business/2025/11/27/avalanche-etf-race-heats-up-as-bitwise-becomes-first-to-add-staking",
-    "pubDate": "Thu, 27 Nov 2025 17:49:40 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitwise moves its Avalanche ETF closer to market with updated SEC filing and becomes first issuer to include staking."
-  },
-  {
     "title": "Kalshi doubles valuation in weeks amid prediction market duopoly bet with Polymarket",
     "link": "https://www.theblock.co/post/380216/kalshi-doubles-valuation-in-weeks-amid-prediction-market-duopoly-bet-with-polymarket?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 27 Nov 2025 12:31:03 -0500",
@@ -168,53 +210,11 @@
     "contentSnippet": "At a loss for what to buy the crypto fan in your life this festive season? Look no further than Decrypt’s holiday gift guide."
   },
   {
-    "title": "Spot Solana ETFs Post First Red Day Since Launch",
-    "link": "https://decrypt.co/350250/spot-solana-etfs-post-first-red-day-since-launch",
-    "pubDate": "Thu, 27 Nov 2025 15:31:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Solana ETFs recorded their first-ever outflow of $8.1M amid a broader crypto market recovery, breaking a three-week streak of inflows."
-  },
-  {
-    "title": "Bonk Teams Up With Bitcoin Capital to Launch ETP in Europe",
-    "link": "https://decrypt.co/350215/bonk-teams-up-with-bitcoin-capital-to-launch-etp-in-europe",
-    "pubDate": "Thu, 27 Nov 2025 14:39:04 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Investors can now trade Solana meme coin BONK as a regulated product on Switzerland's largest stock exchange."
-  },
-  {
     "title": "Inside Infinex: Kain Warwick on building a ‘superapp’ to solve crypto’s UX problems",
     "link": "https://www.theblock.co/post/380710/inside-infinex-kain-warwick-on-building-a-superapp-to-solve-cryptos-ux-problems?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 27 Nov 2025 09:07:14 -0500",
     "source": "The Block",
     "contentSnippet": "Infinex founder Kain Warwick joined The Big Brain Podcast to discuss tackling crypto's UX problems, fundraising, Crypto Twitter dynamics, and building a \"superapp.\""
-  },
-  {
-    "title": "Kain Warwick’s Infinex builds on $67.7 million Patron NFT round with Sonar sale ahead of INX’s 2026 TGE",
-    "link": "https://www.theblock.co/post/380545/kain-warwicks-infinex-builds-on-67-7m-patron-nft-round-with-sonar-sale-ahead-of-inxs-2026-tge?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 27 Nov 2025 09:05:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Infinex has unveiled its Sonar token sale ahead of a January Token Generation Event, expanding access to INX beyond its $67.7 million Patron NFT sale."
-  },
-  {
-    "title": "Ethereum raises block gas limit to 60M as ecosystem throughput hits new records ahead of Fusaka upgrade",
-    "link": "https://www.theblock.co/post/380687/ethereum-block-gas-limit-fusaka?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 27 Nov 2025 06:35:25 -0500",
-    "source": "The Block",
-    "contentSnippet": "Ethereum increased its block gas limit to 60 million after securing majority validator support days before the Fusaka upgrade."
-  },
-  {
-    "title": "‘A rainy island with a hostile tax system is a hard sell’: Crypto industry reacts to UK Chancellor’s budget statement",
-    "link": "https://www.theblock.co/post/380688/crypto-industry-uk-budget-statement?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 27 Nov 2025 06:30:20 -0500",
-    "source": "The Block",
-    "contentSnippet": "Crypto industry figures welcomed pro-entrepreneur measures but warned that wider tax and regulatory pressures could hurt UK competitiveness."
-  },
-  {
-    "title": "'Improving Risk Sentiment' Driving Bitcoin's $90K Retest: QCP",
-    "link": "https://decrypt.co/350210/improving-risk-sentiment-driving-bitcoins-90k-retest-qcp",
-    "pubDate": "Thu, 27 Nov 2025 11:09:55 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts remain cautiously optimistic, with Bitcoin reclaiming $90K as the chances of a December rate cut hit 85%."
   },
   {
     "title": "Conor McGregor calls out Khabib over NFTs, gets shut down by ZachXBT",
