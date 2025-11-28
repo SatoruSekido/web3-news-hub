@@ -1,5 +1,47 @@
 [
   {
+    "title": "Interpol Elevates Scam-Compound Network to Global Threat as Crypto Fraud Spreads",
+    "link": "https://decrypt.co/350295/interpol-scam-compound-network-global-threat-crypto-fraud",
+    "pubDate": "Fri, 28 Nov 2025 00:11:45 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The aim is to confront global scam center systems that traffic workers, run large-scale online fraud, and channel billions through crypto."
+  },
+  {
+    "title": "Balancer DAO Starts Discussing $8M Recovery Plan After $110M Exploit Cut TVL by Two-Thirds",
+    "link": "https://www.coindesk.com/web3/2025/11/27/balancer-dao-starts-discussing-usd8m-recovery-plan-after-usd110m-exploit-cut-tvl-by-two-thirds",
+    "pubDate": "Thu, 27 Nov 2025 21:39:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The recovered tokens, spanning multiple networks and assets, will be paid out in the same tokens as originally provided, with a claim mechanism being developed."
+  },
+  {
+    "title": "Toncoin Lags Broader Crypto Rebound as Derivatives Data Shows Cautious Optimism",
+    "link": "https://www.coindesk.com/markets/2025/11/27/toncoin-lags-broader-crypto-rebound-as-derivatives-data-shows-cautious-optimism",
+    "pubDate": "Thu, 27 Nov 2025 20:11:39 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Altcoin funding rates, including for TON, have turned positive, indicating renewed confidence among traders, but overall market participation remains muted."
+  },
+  {
+    "title": "Trump Family-Linked Alt5 Sigma Ousts Top Execs After CEO Suspension Shakes Up Leadership",
+    "link": "https://www.coindesk.com/business/2025/11/27/trump-family-linked-alt5-sigma-ousts-top-execs-after-ceo-suspension-shakes-up-leadership",
+    "pubDate": "Thu, 27 Nov 2025 20:08:37 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company is on its third CEO in six weeks, with Tony Isaac appointed as Acting CEO, and has named Steven Plumb as its new CFO."
+  },
+  {
+    "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
+    "link": "https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months",
+    "pubDate": "Thu, 27 Nov 2025 20:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Cybersecurity firm Socket warns the extension masks a second transaction instruction that quietly skims SOL from routine swaps."
+  },
+  {
+    "title": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
+    "link": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
+    "pubDate": "Thu, 27 Nov 2025 19:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
+  },
+  {
     "title": "US AI and Data Firms to Testify in Chinese AI Espionage Probe",
     "link": "https://decrypt.co/350213/us-ai-and-data-firms-to-testify-in-chinese-ai-espionage-probe",
     "pubDate": "Thu, 27 Nov 2025 18:00:02 +0000",
@@ -105,13 +147,6 @@
     "contentSnippet": "Price action remains stable, consolidating below $900, amid tension between weak fundamentals and upcoming upgrades."
   },
   {
-    "title": "Australia’s New Digital Assets Bill Seeks to Prevent Past Crypto Failures ",
-    "link": "https://www.coindesk.com/policy/2025/11/27/australia-s-new-digital-assets-bill-seeks-to-prevent-past-crypto-failures",
-    "pubDate": "Thu, 27 Nov 2025 11:44:25 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Australian government introduced digital assets legislation to modernize its financial system and safeguard consumers."
-  },
-  {
     "title": "Ethereum raises block gas limit to 60M as ecosystem throughput hits new records ahead of Fusaka upgrade",
     "link": "https://www.theblock.co/post/380687/ethereum-block-gas-limit-fusaka?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 27 Nov 2025 06:35:25 -0500",
@@ -126,25 +161,11 @@
     "contentSnippet": "Crypto industry figures welcomed pro-entrepreneur measures but warned that wider tax and regulatory pressures could hurt UK competitiveness."
   },
   {
-    "title": "Crypto Markets Today: Bitcoin Leads Broad Recovery as Traders Eye Possible Santa Rally",
-    "link": "https://www.coindesk.com/markets/2025/11/27/crypto-markets-today-bitcoin-leads-broad-recovery-as-traders-eye-possible-santa-rally",
-    "pubDate": "Thu, 27 Nov 2025 11:30:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin and ether surged following Wednesday's tech-led equities rebound, while derivatives flows signal growing optimism for a year-end push."
-  },
-  {
     "title": "'Improving Risk Sentiment' Driving Bitcoin's $90K Retest: QCP",
     "link": "https://decrypt.co/350210/improving-risk-sentiment-driving-bitcoins-90k-retest-qcp",
     "pubDate": "Thu, 27 Nov 2025 11:09:55 +0000",
     "source": "Decrypt",
     "contentSnippet": "Analysts remain cautiously optimistic, with Bitcoin reclaiming $90K as the chances of a December rate cut hit 85%."
-  },
-  {
-    "title": "Ark Invest Buys $16.5M of Coinbase Stock, Largest Purchase Since Aug. 1",
-    "link": "https://www.coindesk.com/markets/2025/11/27/ark-invest-buys-usd16-5m-of-coinbase-stock-largest-purchase-since-aug-1",
-    "pubDate": "Thu, 27 Nov 2025 10:30:41 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "COIN closed at $264.97, 4.27% higher on the day, accompanying a relative recovery in the crypto market, which saw bitcoin gain over 3.3% to reclaim $90,000."
   },
   {
     "title": "Australia moves to fold crypto platforms into financial licensing regime",
@@ -175,13 +196,6 @@
     "contentSnippet": "The new framework subjects exchanges and custody providers to financial services laws with ASIC as the primary regulator."
   },
   {
-    "title": "Nasdaq ISE Seeks to Quadruple Trading Limits on BlackRock's Bitcoin ETF Options",
-    "link": "https://decrypt.co/350191/nasdaq-ise-seeks-quadruple-trading-limits-blackrocks-bitcoin-etf",
-    "pubDate": "Thu, 27 Nov 2025 04:21:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The move marks a shift that would bring Bitcoin derivatives in line with major equities and deepen institutional access to the market."
-  },
-  {
     "title": "Naver and Upbit to pour $7 billion into AI, blockchain following mega-merger: reports",
     "link": "https://www.theblock.co/post/380662/naver-upbit-ai-blockchain?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 26 Nov 2025 23:18:20 -0500",
@@ -196,25 +210,11 @@
     "contentSnippet": "Upbit identified 540 billion won worth of abnormal withdrawal of various assets on the Solana network from the platform."
   },
   {
-    "title": "Global Exchanges Urge SEC to Curb Broad Crypto Exemptions, Warn on Tokenized Stock Risks",
-    "link": "https://decrypt.co/350189/global-exchanges-urge-sec-curb-broad-crypto-exemptions",
-    "pubDate": "Thu, 27 Nov 2025 01:08:44 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The SEC is being warned not to let crypto firms bypass investor protection rules as it considers exemptive relief for tokenized stocks."
-  },
-  {
     "title": "Conor McGregor calls out Khabib over NFTs, gets shut down by ZachXBT",
     "link": "https://cointelegraph.com/news/conor-mcgregor-khabib-nft-shut-down-zachxbt?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "pubDate": "Wed, 26 Nov 2025 22:06:16 +0000",
     "source": "Cointelegraph NFT",
     "contentSnippet": "The former UFC champion tried to launch his own celebrity memecoin, REAL, in April, but the project failed to gain traction."
-  },
-  {
-    "title": "Why Is Bitcoin Down? Blame Trump, Says Economist Paul Krugman",
-    "link": "https://decrypt.co/350175/why-bitcoin-down-blame-trump-says-economist-paul-krugman",
-    "pubDate": "Wed, 26 Nov 2025 21:59:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin critic Krugman says it's no coincidence that BTC is down, just as crypto-friendly President Trump stumbles in the polls."
   },
   {
     "title": "Memecoin market sinks to 2025 low as $5B wiped out in a day",
