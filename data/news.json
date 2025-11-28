@@ -1,5 +1,96 @@
 [
   {
+    "title": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
+    "link": "https://www.theblock.co/post/380746/bitmine-buys-44-million-ethereum?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 28 Nov 2025 00:37:17 -0500",
+    "source": "The Block",
+    "contentSnippet": "BitMine Chair Tom Lee said Ethereum could possibly trade between $7,000 and $9,000 by the end of January 2026."
+  },
+  {
+    "title": "South Korea Suspects North Korea-Linked Lazarus Behind $36M Upbit Hack",
+    "link": "https://www.coindesk.com/markets/2025/11/28/south-korea-suspects-north-korea-linked-lazarus-behind-usd36m-upbit-hack",
+    "pubDate": "Fri, 28 Nov 2025 05:18:56 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "On Thursday, South Korea's largest digital asset exchange, Upbit, suspended deposits and withdrawals after detecting unusual activity in the Solana network tokens."
+  },
+  {
+    "title": "Monad Token Extends Slide Amid Profit-Taking, Spoofed Transaction Concerns",
+    "link": "https://decrypt.co/350306/monad-token-extends-slide-profit-taking-spoofed-transactions",
+    "pubDate": "Fri, 28 Nov 2025 05:18:21 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Monad’s token slipped on Thursday as possible profit-taking and a recent spoofing issue pressured prices despite brisk on-chain activity."
+  },
+  {
+    "title": "Solana Traders Hit by Months-Long Browser Malware That Skimmed Every Swap",
+    "link": "https://www.coindesk.com/markets/2025/11/28/solana-traders-hit-by-months-long-browser-malware-that-skimmed-every-swap",
+    "pubDate": "Fri, 28 Nov 2025 05:03:13 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Wallet interfaces typically summarize instructions as a single swap, and the bundled transaction executes atomically—meaning users unknowingly sign off on both."
+  },
+  {
+    "title": "Upbit Hack Attributed to North Korea's Lazarus as Seoul Opens Probe: Report",
+    "link": "https://decrypt.co/350303/upbit-hack-north-koreas-lazarus-seoul-opens-probe",
+    "pubDate": "Fri, 28 Nov 2025 04:41:22 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The breach has prompted a formal review of Upbit’s systems as regulators examine the Solana hot-wallet theft."
+  },
+  {
+    "title": "DOGE Underperforms Majors as Support Failure Confirms Bearish Shift",
+    "link": "https://www.coindesk.com/markets/2025/11/28/doge-underperforms-majors-as-support-failure-confirms-bearish-shift",
+    "pubDate": "Fri, 28 Nov 2025 04:24:52 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The $0.150 level is now a critical support point, with further declines likely if it is breached."
+  },
+  {
+    "title": "North Korea’s Lazarus Group suspected in $30 million Upbit hack: report",
+    "link": "https://www.theblock.co/post/380743/lazarus-group-suspected-upbit-hack?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 27 Nov 2025 22:51:28 -0500",
+    "source": "The Block",
+    "contentSnippet": "Upbit initially reported a loss of 54 billion won ($36.8 million) but later revised the figure down to 44.5 billion won ($30.4 million)."
+  },
+  {
+    "title": "XRP Faces Downside Risk as Historical Patterns Point to $1.50",
+    "link": "https://www.coindesk.com/markets/2025/11/28/xrp-faces-downside-risk-as-historical-patterns-point-to-usd1-50",
+    "pubDate": "Fri, 28 Nov 2025 03:50:41 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XRP needs to reclaim $2.20 and break $2.23–$2.24 to regain upward momentum, as technical indicators remain bearish."
+  },
+  {
+    "title": "MegaETH’s $500M Pre-Deposit Turns Into a Full Rewind After Missteps Pile Up",
+    "link": "https://www.coindesk.com/markets/2025/11/28/megaeth-s-usd500m-pre-deposit-turns-into-a-full-rewind-after-missteps-pile-up",
+    "pubDate": "Fri, 28 Nov 2025 03:30:28 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The issues began immediately at launch, when transactions failed because the contract contained an incorrect SaleUUID, requiring a 4-of-6 multisig update."
+  },
+  {
+    "title": "Do Kwon requests 5-year prison term cap in $40 billion Terra fraud case",
+    "link": "https://www.theblock.co/post/380739/do-kwon-5-year-prison-term?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 27 Nov 2025 22:15:27 -0500",
+    "source": "The Block",
+    "contentSnippet": "In August, Kwon pleaded guilty to fraud charges stemming from the May 2022 collapse of Terraform Labs' Terra ecosystem."
+  },
+  {
+    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
+    "link": "https://cointelegraph.com/news/animoca-brands-gaming-stablecoins-ai-depin-investments?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "pubDate": "Fri, 28 Nov 2025 02:55:14 +0000",
+    "source": "Cointelegraph NFT",
+    "contentSnippet": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI."
+  },
+  {
+    "title": "MegaETH to return all funds from pre-deposit bridge, citing ‘sloppy’ execution",
+    "link": "https://www.theblock.co/post/380735/megaeth-refund-pre-deposit-funds?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 27 Nov 2025 21:33:56 -0500",
+    "source": "The Block",
+    "contentSnippet": "Tuesday's pre-deposit event faced outages, changes in deposit cap, and a misconfigured multisig transaction."
+  },
+  {
+    "title": "Asia Morning Briefing: Bitcoin Steadies Near $90,000 Even as ETF Outflows Cap Upside",
+    "link": "https://www.coindesk.com/markets/2025/11/28/asia-morning-briefing-bitcoin-steadies-near-usd90-000-even-as-etf-outflows-cap-upside",
+    "pubDate": "Fri, 28 Nov 2025 02:24:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Flowdesk and QCP see short covering and dip buying supporting BTC around $90,000, while prediction markets assign low odds of a push toward $96,000."
+  },
+  {
     "title": "Interpol Elevates Scam-Compound Network to Global Threat as Crypto Fraud Spreads",
     "link": "https://decrypt.co/350295/interpol-scam-compound-network-global-threat-crypto-fraud",
     "pubDate": "Fri, 28 Nov 2025 00:11:45 +0000",
@@ -77,46 +168,11 @@
     "contentSnippet": "At a loss for what to buy the crypto fan in your life this festive season? Look no further than Decrypt’s holiday gift guide."
   },
   {
-    "title": "Hash Ribbon Flashes Signal That Often Marks Cyclical Bottoms for Bitcoin Price",
-    "link": "https://www.coindesk.com/markets/2025/11/27/hash-ribbon-flashes-signal-that-often-marks-cyclical-bottoms-for-bitcoin-price",
-    "pubDate": "Thu, 27 Nov 2025 16:12:08 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A historically reliable bottom signal appears after bitcoin’s 35% correction."
-  },
-  {
-    "title": "Crypto for Advisors: Crypto’s Role in Portfolios\t",
-    "link": "https://www.coindesk.com/coindesk-indices/2025/11/26/crypto-for-advisors-crypto-s-role-in-portfolios",
-    "pubDate": "Thu, 27 Nov 2025 16:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Crypto's role in diversified portfolios: managing volatility, setting clear mandates, risk discipline, and the case for active investing and broader diversification."
-  },
-  {
-    "title": "UK Proposes ‘No Gain, No Loss’ Tax Rule for DeFi in 'Major Win' for Users",
-    "link": "https://www.coindesk.com/policy/2025/11/27/uk-proposes-no-gain-no-loss-tax-rule-for-defi-in-major-win-for-users",
-    "pubDate": "Thu, 27 Nov 2025 15:49:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The proposal, with input from major industry players, aims to bring tax rules in line with how DeFi works, reducing outcomes that don't reflect reality."
-  },
-  {
     "title": "Spot Solana ETFs Post First Red Day Since Launch",
     "link": "https://decrypt.co/350250/spot-solana-etfs-post-first-red-day-since-launch",
     "pubDate": "Thu, 27 Nov 2025 15:31:12 +0000",
     "source": "Decrypt",
     "contentSnippet": "Solana ETFs recorded their first-ever outflow of $8.1M amid a broader crypto market recovery, breaking a three-week streak of inflows."
-  },
-  {
-    "title": "Justin Sun Doubles Down on First Digital Trust Fraud Allegations, Urges H.K. Regulators to Act  ",
-    "link": "https://www.coindesk.com/policy/2025/11/27/justin-sun-doubles-down-on-first-digital-trust-fraud-allegations-urges-h-k-regulators-to-act",
-    "pubDate": "Thu, 27 Nov 2025 15:15:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Sun accused FDT of exploiting gaps in Hong Kong’s trust company regime and urged regulators to act after a Dubai court froze assets linked to the alleged misappropriation."
-  },
-  {
-    "title": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
-    "link": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
-    "pubDate": "Thu, 27 Nov 2025 15:14:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Large holders return to buying after months of distribution, signalling renewed confidence at key support levels."
   },
   {
     "title": "Bonk Teams Up With Bitcoin Capital to Launch ETP in Europe",
@@ -140,13 +196,6 @@
     "contentSnippet": "Infinex has unveiled its Sonar token sale ahead of a January Token Generation Event, expanding access to INX beyond its $67.7 million Patron NFT sale."
   },
   {
-    "title": "BNB Holds Below $900 Level as Onchain Activity Slumps, Network Updrages Loom",
-    "link": "https://www.coindesk.com/markets/2025/11/27/bnb-holds-below-usd900-level-as-onchain-activity-slumps-network-updrages-loom",
-    "pubDate": "Thu, 27 Nov 2025 13:09:43 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Price action remains stable, consolidating below $900, amid tension between weak fundamentals and upcoming upgrades."
-  },
-  {
     "title": "Ethereum raises block gas limit to 60M as ecosystem throughput hits new records ahead of Fusaka upgrade",
     "link": "https://www.theblock.co/post/380687/ethereum-block-gas-limit-fusaka?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 27 Nov 2025 06:35:25 -0500",
@@ -166,48 +215,6 @@
     "pubDate": "Thu, 27 Nov 2025 11:09:55 +0000",
     "source": "Decrypt",
     "contentSnippet": "Analysts remain cautiously optimistic, with Bitcoin reclaiming $90K as the chances of a December rate cut hit 85%."
-  },
-  {
-    "title": "Australia moves to fold crypto platforms into financial licensing regime",
-    "link": "https://www.theblock.co/post/380674/australia-proposes-crypto-platforms-license?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 27 Nov 2025 03:38:26 -0500",
-    "source": "The Block",
-    "contentSnippet": "Australia's Treasury submitted a new bill to parliament on Wednesday, seeking to require financial licenses for certain crypto platforms."
-  },
-  {
-    "title": "Ark Invest loads up on Coinbase as Cathie Wood predicts ‘real break’ in inflation",
-    "link": "https://www.theblock.co/post/380673/ark-invest-coinbase-cathie-wood-inflation?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 27 Nov 2025 03:34:55 -0500",
-    "source": "The Block",
-    "contentSnippet": "Cathie Wood forecasted that the current liquidity squeeze will reverse in the near term, and said inflation may end next year."
-  },
-  {
-    "title": "South Korea’s Upbit Reports $36 Million Loss in Solana Hot-Wallet Breach",
-    "link": "https://decrypt.co/350196/south-koreas-upbit-36-million-loss-solana-hot-wallet-breach",
-    "pubDate": "Thu, 27 Nov 2025 06:28:06 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "South Korea’s largest crypto exchange halted services and shifted assets to cold storage after detecting unauthorized withdrawals."
-  },
-  {
-    "title": "Australia Moves to Regulate Crypto Platforms Under New Consumer-Protection Law",
-    "link": "https://decrypt.co/350192/australia-regulate-crypto-platforms-new-consumer-protection-law",
-    "pubDate": "Thu, 27 Nov 2025 05:06:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The new framework subjects exchanges and custody providers to financial services laws with ASIC as the primary regulator."
-  },
-  {
-    "title": "Naver and Upbit to pour $7 billion into AI, blockchain following mega-merger: reports",
-    "link": "https://www.theblock.co/post/380662/naver-upbit-ai-blockchain?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 26 Nov 2025 23:18:20 -0500",
-    "source": "The Block",
-    "contentSnippet": "Naver and Upbit plan to build a financial infrastructure that builds on top of AI and blockchain, according to multiple local reports."
-  },
-  {
-    "title": "Upbit suffers $37 million hack on Solana assets, halts withdrawals",
-    "link": "https://www.theblock.co/post/380664/upbit-suffers-37-million-hack?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 26 Nov 2025 23:08:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Upbit identified 540 billion won worth of abnormal withdrawal of various assets on the Solana network from the platform."
   },
   {
     "title": "Conor McGregor calls out Khabib over NFTs, gets shut down by ZachXBT",
@@ -271,12 +278,5 @@
     "pubDate": "Fri, 17 Oct 2025 11:55:35 +0100",
     "source": "Cointelegraph NFT",
     "contentSnippet": "Investor sentiment turned sharply bearish as crypto’s fear index plunged to 28, and $230 billion in value evaporated in a single day."
-  },
-  {
-    "title": "NFT markets rebound after $1.2B wipeout in Friday’s crypto crash",
-    "link": "https://cointelegraph.com/news/nft-market-rebound-after-1-2b-wipeout-crypto-crash?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "pubDate": "Wed, 15 Oct 2025 11:59:10 +0100",
-    "source": "Cointelegraph NFT",
-    "contentSnippet": "Top Ethereum NFT collections like BAYC, Pudgy Penguins and CryptoPunks remain in the red despite a partial market recovery after Friday’s crypto market crash."
   }
 ]
