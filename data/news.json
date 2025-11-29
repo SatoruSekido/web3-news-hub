@@ -1,5 +1,54 @@
 [
   {
+    "title": "Tether Shuts Down Uruguay Mining Operations Over Energy Tariffs",
+    "link": "https://www.coindesk.com/business/2025/11/28/tether-shuts-down-uruguay-mining-operations-over-energy-tariffs",
+    "pubDate": "Fri, 28 Nov 2025 22:38:31 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company had planned to invest up to $500 million in Uruguay, but cited high energy prices and regulatory hurdles as reasons for its pullout."
+  },
+  {
+    "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",
+    "link": "https://decrypt.co/350376/openai-confirms-data-breach-heres-whos-impacted",
+    "pubDate": "Fri, 28 Nov 2025 21:04:34 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "OpenAI said a Mixpanel breach exposed API user metadata—and urged customers to watch for phishing attacks."
+  },
+  {
+    "title": "Brazil’s Economic Center São Paulo to Pilot Blockchain-Based Microloans for Farmers",
+    "link": "https://www.coindesk.com/business/2025/11/28/brazil-s-economic-center-sao-paulo-to-pilot-blockchain-based-microloans-for-farmers",
+    "pubDate": "Fri, 28 Nov 2025 20:46:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The project utilizes a blockchain infrastructure developed with Tanssi's technology, enabling predictable transaction fees and reliability, rather than relying on public blockchains."
+  },
+  {
+    "title": "European Asset Manager Amundi Debuts Tokenized Share Class on Ethereum",
+    "link": "https://www.coindesk.com/markets/2025/11/28/european-asset-manager-amundi-debuts-tokenized-share-class-on-ethereum",
+    "pubDate": "Fri, 28 Nov 2025 20:41:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The tokenized share class provides investors with blockchain-based access to Amundi’s euro cash fund, enabling faster, round-the-clock trading."
+  },
+  {
+    "title": "'Bad Joke': FC Barcelona Criticized for $22 Million Deal with Samoan Crypto Firm ZKP",
+    "link": "https://decrypt.co/350359/bad-joke-fc-barcelona-criticized-22-million-deal-samoan-crypto-firm-zkp",
+    "pubDate": "Fri, 28 Nov 2025 20:03:58 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A former FC Barcelona board member hit out at the deal with ZKP on social media, highlighting the firm's “unknown” ownership."
+  },
+  {
+    "title": "Stablecoin Giant Tether to Shutter Uruguay Bitcoin Mining Operation",
+    "link": "https://decrypt.co/350360/stablecoin-giant-tether-shutter-uruguay-bitcoin-mining-operation",
+    "pubDate": "Fri, 28 Nov 2025 19:07:34 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "USDT stablecoin issuer Tether is halting its Bitcoin mining operations in Uruguay due to high energy costs, local media has reported."
+  },
+  {
+    "title": "BitMine and Bitcoin Miners' Stocks Surge as BTC, Ethereum Recover",
+    "link": "https://decrypt.co/350363/bitmine-bitcoin-miners-stock-surges-btc-ethereum-recover",
+    "pubDate": "Fri, 28 Nov 2025 18:27:58 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto-related equities like BitMine and leading Bitcoin mining stocks are jumping as Bitcoin and Ethereum regain key levels."
+  },
+  {
     "title": "Myriad Moves: Predictors Turn Bullish on Bitcoin Rebounding to $100K",
     "link": "https://decrypt.co/350357/myriad-moves-predictors-turn-bullish-bitcoin-rebounding-100k",
     "pubDate": "Fri, 28 Nov 2025 17:56:41 +0000",
@@ -98,20 +147,6 @@
     "contentSnippet": "President Trump and his family made $800 million from sales of cryptocurrencies in the first half of the year, according to a new report."
   },
   {
-    "title": "Crypto Exchange KuCoin's European Arm Wins MiCA License in Austria",
-    "link": "https://www.coindesk.com/policy/2025/11/28/crypto-exchange-kucoin-s-european-arm-wins-mica-license-in-austria",
-    "pubDate": "Fri, 28 Nov 2025 10:22:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "KuCoin EU obtained a Markets in Crypto Assets (MiCA) regulation license in Austria, allowing it to offer regulated services across the EEA."
-  },
-  {
-    "title": "Upbit Reveals 5.9B-Won Corporate Loss in Latest Hack, Fully Reimburses Users",
-    "link": "https://www.coindesk.com/markets/2025/11/28/upbit-reveals-5-9b-won-corporate-loss-in-latest-hack-fully-reimburses-users",
-    "pubDate": "Fri, 28 Nov 2025 10:01:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Upbit said it reimbursed all 38.6 billion won in member assets from its reserves."
-  },
-  {
     "title": "Animoca Brands to focus on stablecoin, RWA in 2026 amid US IPO efforts",
     "link": "https://www.theblock.co/post/380756/animoca-brands-stablecoin-rwa-2026?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 28 Nov 2025 04:30:14 -0500",
@@ -140,13 +175,6 @@
     "contentSnippet": "Balancer has identified six whitehat actors who recovered approximately $3.9 million across multiple networks during the exploit."
   },
   {
-    "title": "Bitcoin and S&P 500 Year-End Bull Run Loading? Vol Metrics Say Yes",
-    "link": "https://www.coindesk.com/markets/2025/11/28/bitcoin-and-s-and-p-500-year-end-bull-run-loading-vol-metrics-say-yes",
-    "pubDate": "Fri, 28 Nov 2025 06:24:35 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Implied volatility indices tied to bitcoin and the S&P 500 have erased the recent spike, offering bullish price signals."
-  },
-  {
     "title": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
     "link": "https://www.theblock.co/post/380746/bitmine-buys-44-million-ethereum?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 28 Nov 2025 00:37:17 -0500",
@@ -159,13 +187,6 @@
     "pubDate": "Fri, 28 Nov 2025 05:18:21 +0000",
     "source": "Decrypt",
     "contentSnippet": "Monad’s token slipped on Thursday as possible profit-taking and a recent spoofing issue pressured prices despite brisk on-chain activity."
-  },
-  {
-    "title": "Upbit Hack Attributed to North Korea's Lazarus as Seoul Opens Probe: Report",
-    "link": "https://decrypt.co/350303/upbit-hack-north-koreas-lazarus-seoul-opens-probe",
-    "pubDate": "Fri, 28 Nov 2025 04:41:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The breach has prompted a formal review of Upbit’s systems as regulators examine the Solana hot-wallet theft."
   },
   {
     "title": "North Korea’s Lazarus Group suspected in $30 million Upbit hack: report",
@@ -194,27 +215,6 @@
     "pubDate": "Thu, 27 Nov 2025 21:33:56 -0500",
     "source": "The Block",
     "contentSnippet": "Tuesday's pre-deposit event faced outages, changes in deposit cap, and a misconfigured multisig transaction."
-  },
-  {
-    "title": "Interpol Elevates Scam-Compound Network to Global Threat as Crypto Fraud Spreads",
-    "link": "https://decrypt.co/350295/interpol-scam-compound-network-global-threat-crypto-fraud",
-    "pubDate": "Fri, 28 Nov 2025 00:11:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The aim is to confront global scam center systems that traffic workers, run large-scale online fraud, and channel billions through crypto."
-  },
-  {
-    "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
-    "link": "https://decrypt.co/350240/malware-chrome-extension-secretly-siphoned-fees-from-solana-traders-for-months",
-    "pubDate": "Thu, 27 Nov 2025 20:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Cybersecurity firm Socket warns the extension masks a second transaction instruction that quietly skims SOL from routine swaps."
-  },
-  {
-    "title": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
-    "link": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
-    "pubDate": "Thu, 27 Nov 2025 19:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
   },
   {
     "title": "Conor McGregor calls out Khabib over NFTs, gets shut down by ZachXBT",
