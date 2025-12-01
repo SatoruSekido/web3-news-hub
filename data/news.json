@@ -1,5 +1,47 @@
 [
   {
+    "title": "Bitcoin, Ether, XRP Slide as December Begins With 'Yearn Incident'",
+    "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
+    "pubDate": "Mon, 01 Dec 2025 01:17:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Major cryptocurrencies traded lower in early Asia as DeFi platform Yearn noted at \"incident\" in its yETH pool."
+  },
+  {
+    "title": "$3 million in ETH sent to Tornado Cash following apparent attack on Yearn’s yETH",
+    "link": "https://www.theblock.co/post/380822/3-million-in-eth-sent-to-tornado-cash-following-apparent-attack-on-yearns-yeth?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 30 Nov 2025 17:50:37 -0500",
+    "source": "The Block",
+    "contentSnippet": "The complex attack took place in a single transaction, and appears to have involved liquid staking tokens from across the Ethereum ecosystem."
+  },
+  {
+    "title": "What 'mNAV' Really Means for Bitcoin Treasury Companies — and Where It Falls Short",
+    "link": "https://www.coindesk.com/business/2025/11/30/what-mnav-really-tells-you-about-bitcoin-treasury-companies-and-where-it-falls-short",
+    "pubDate": "Sun, 30 Nov 2025 21:45:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "NYDIG’s research head questions how mNAV is used to assess bitcoin treasuries, arguing it masks key risks tied to capital structure and equity dilution."
+  },
+  {
+    "title": "CoinShares withdraws US spot ETF filings for XRP, Solana and Litecoin ahead of Nasdaq listing",
+    "link": "https://www.theblock.co/post/380818/coinshares-withdraws-us-spot-etf-filings-for-xrp-solana-and-litecoin-ahead-of-nasdaq-listing?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 30 Nov 2025 16:40:57 -0500",
+    "source": "The Block",
+    "contentSnippet": "The withdrawals come ahead of CoinShares' planned U.S. public listing via a $1.2 billion SPAC merger with Vine Hill Capital."
+  },
+  {
+    "title": "Ethena-incubated DEX Terminal Finance abandons launch after Converge chain fails to materialize",
+    "link": "https://www.theblock.co/post/380815/ethena-incubated-dex-terminal-finance-abandons-launch-after-converge-chain-fails-to-materialize?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 30 Nov 2025 15:04:27 -0500",
+    "source": "The Block",
+    "contentSnippet": "The Converge blockchain was scheduled to launch in the second quarter of 2025, but its launch \"doesn't appear to be planned for the near future.\""
+  },
+  {
+    "title": "Priced at Zero: How Brazil’s Méliuz Turned to Bitcoin to Escape a Treasury Trap",
+    "link": "https://www.coindesk.com/business/2025/11/30/priced-at-zero-how-brazil-s-meliuz-turned-to-bitcoin-to-escape-a-treasury-trap",
+    "pubDate": "Sun, 30 Nov 2025 19:00:29 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company adopted a bitcoin treasury plan by deploying a strategy inspired by Metaplanet, with 66% shareholder approval, to mitigate negative returns from government bonds."
+  },
+  {
     "title": "The Biggest Games Releasing in December 2025",
     "link": "https://decrypt.co/350400/biggest-games-releasing-december-2025",
     "pubDate": "Sun, 30 Nov 2025 18:01:02 +0000",
@@ -84,32 +126,11 @@
     "contentSnippet": "Phong Le says Strategy has no near-term debt maturity risk and plans to continue using convertibles and equity to grow its bitcoin position over time."
   },
   {
-    "title": "Stablecoins Drive 90% of Brazil’s Crypto Volume, Tax Authority Data Shows",
-    "link": "https://www.coindesk.com/policy/2025/11/30/stablecoins-drive-90-of-brazil-s-crypto-volume-tax-authority-data-shows",
-    "pubDate": "Sat, 29 Nov 2025 17:00:33 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A new reporting system, DeCripto, will be introduced in July 2025 to track crypto transactions."
-  },
-  {
-    "title": "Crypto Payments Firm Truther to Launch Non-Custodial USDT Visa Card in El Salvador",
-    "link": "https://www.coindesk.com/business/2025/11/29/crypto-payments-firm-truther-to-launch-non-custodial-usdt-visa-card-in-el-salvador",
-    "pubDate": "Sat, 29 Nov 2025 16:42:07 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The card doesn't require preloading funds or custodial services, and carries a 2% fee on currency conversions, with no IOF tax for Brazilian users."
-  },
-  {
     "title": "UK Budget Confirms New Crypto Reporting Rules from January 1",
     "link": "https://decrypt.co/350341/uk-budget-confirms-new-crypto-reporting-rules-from-january-1",
     "pubDate": "Sat, 29 Nov 2025 15:01:13 +0000",
     "source": "Decrypt",
     "contentSnippet": "The UK government expects to raise $417 million in extra tax as UK-registered crypto exchanges are required to record customer details."
-  },
-  {
-    "title": "State of Crypto: Kalshi and Prediction Markets Face a Setback",
-    "link": "https://www.coindesk.com/policy/2025/11/29/state-of-crypto-kalshi-and-prediction-markets-face-a-setback",
-    "pubDate": "Sat, 29 Nov 2025 15:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The court cases will continue for the moment."
   },
   {
     "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",
@@ -187,27 +208,6 @@
     "pubDate": "Fri, 28 Nov 2025 10:45:23 +0000",
     "source": "Decrypt",
     "contentSnippet": "President Trump and his family made $800 million from sales of cryptocurrencies in the first half of the year, according to a new report."
-  },
-  {
-    "title": "Animoca Brands to focus on stablecoin, RWA in 2026 amid US IPO efforts",
-    "link": "https://www.theblock.co/post/380756/animoca-brands-stablecoin-rwa-2026?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 28 Nov 2025 04:30:14 -0500",
-    "source": "The Block",
-    "contentSnippet": "Animoca is planning to go public on the Nasdaq next year through a reverse-merger with Singapore-based Currenc Group."
-  },
-  {
-    "title": "Balancer plans to distribute $8 million in recovered funds from $128 million exploit",
-    "link": "https://www.theblock.co/post/380751/balancer-recovered-funds-distribution?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 28 Nov 2025 03:44:45 -0500",
-    "source": "The Block",
-    "contentSnippet": "Six white hat actors recovered $3.86 million during the attack, but some declined to receive bounties as they do not want to be identified."
-  },
-  {
-    "title": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
-    "link": "https://www.theblock.co/post/380746/bitmine-buys-44-million-ethereum?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 28 Nov 2025 00:37:17 -0500",
-    "source": "The Block",
-    "contentSnippet": "BitMine Chair Tom Lee said Ethereum could possibly trade between $7,000 and $9,000 by the end of January 2026."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
