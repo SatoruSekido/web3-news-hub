@@ -1,5 +1,103 @@
 [
   {
+    "title": "This Bitcoin-Led, Institutionally Anchored Cycle Shows the Three-Month Drop Isn’t a Winter: Glassnode",
+    "link": "https://www.coindesk.com/markets/2025/12/03/this-bitcoin-led-institutionally-anchored-cycle-shows-the-three-month-drop-isn-t-a-winter-glassnode",
+    "pubDate": "Wed, 03 Dec 2025 06:15:18 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Glassnode and Fasanara’s year-end report shows record inflows, rising realized cap, and falling volatility, suggesting the latest pullback is a mid-cycle reset rather than the start of a long downturn"
+  },
+  {
+    "title": "Dogecoin Posts Strongest Move in Weeks. Is $0.15 the Next Target?",
+    "link": "https://www.coindesk.com/markets/2025/12/03/dogecoin-posts-strongest-move-in-weeks-is-usd0-15-the-next-target",
+    "pubDate": "Wed, 03 Dec 2025 06:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Key resistance levels were tested, with momentum indicators supporting continued bullish movement."
+  },
+  {
+    "title": "$6.5K Ether Bets Dominate Deribit Open Interest",
+    "link": "https://www.coindesk.com/markets/2025/12/03/usd6-5k-ether-bets-dominate-deribit-open-interest",
+    "pubDate": "Wed, 03 Dec 2025 05:52:54 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The $6,500 call option on Deribit is the most popular, with a notional open interest of over $380 million."
+  },
+  {
+    "title": "Gunmen Steal $85,800 in Trinidad Crypto Ambush as Attacks on Holders Rise",
+    "link": "https://decrypt.co/350733/gunmen-steal-trinidad-crypto-ambush-attacks-on-holders-rise",
+    "pubDate": "Wed, 03 Dec 2025 05:25:13 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Armed robberies of crypto buyers are rising globally as criminals abandon digital hacks for brutal in-person confrontations."
+  },
+  {
+    "title": "SOL, ADA, XRP Zoom 12% as Bitcoin Bounces Above $93K. But Will The Rally Last?",
+    "link": "https://www.coindesk.com/markets/2025/12/03/sol-ada-xrp-zoom-12-as-bitcoin-bounces-above-usd93k-but-will-the-rally-last",
+    "pubDate": "Wed, 03 Dec 2025 05:20:08 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The recovery followed a washout in derivatives markets, where roughly $457 million in short positions were liquidated in the past 24 hours."
+  },
+  {
+    "title": "Anthropic Starts Early IPO Prep Ahead of Possible 2026 Debut: Report",
+    "link": "https://decrypt.co/350731/anthropic-starts-early-ipo-prep-possible-2026-debut-report",
+    "pubDate": "Wed, 03 Dec 2025 05:01:14 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Anthropic is reportedly exploring a public market debut while chasing a new funding round that could push its valuation past $300 billion."
+  },
+  {
+    "title": "XRP Surges 8% as Ascending Triangle and Bullish RSI Cross Trigger Fresh Rally",
+    "link": "https://www.coindesk.com/markets/2025/12/03/xrp-surges-8-as-ascending-triangle-and-bullish-rsi-cross-trigger-fresh-rally",
+    "pubDate": "Wed, 03 Dec 2025 04:57:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "XRP Ledger network activity surged to multi-year highs, with 40,000 account set operations"
+  },
+  {
+    "title": "Ether 'Bear Trap' Confirmed as Bitcoin Probes $93K, XRP Eyes $2.30 Hurdle",
+    "link": "https://www.coindesk.com/markets/2025/12/03/ether-bear-trap-confirmed-as-bitcoin-probes-friday-high-xrp-eyes-usd2-30-hurdle",
+    "pubDate": "Wed, 03 Dec 2025 04:55:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Ether looks north after a confirmed bear trap."
+  },
+  {
+    "title": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
+    "link": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
+    "pubDate": "Wed, 03 Dec 2025 04:10:59 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday’s wipeout."
+  },
+  {
+    "title": "Bitfinex-backed Layer 1 Stable unveils tokenomics; mainnet launching next week",
+    "link": "https://www.theblock.co/post/381171/stable-unveils-tokenomics?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 22:54:11 -0500",
+    "source": "The Block",
+    "contentSnippet": "With a total supply of 100 billion, the token is designed to support the network's governance and security."
+  },
+  {
+    "title": "CNN to Use Kalshi Prediction Markets Across Its News Coverage",
+    "link": "https://www.coindesk.com/markets/2025/12/02/cnn-to-use-kalshi-prediction-markets-across-its-news-coverage",
+    "pubDate": "Wed, 03 Dec 2025 03:35:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The deal brings market-implied probabilities into CNN’s newsroom and introduces a Kalshi-powered ticker for segments that rely on event contracts."
+  },
+  {
+    "title": "Justice Department Seizes Domain Linked to Burma-Based Crypto Scam Compound",
+    "link": "https://decrypt.co/350719/justice-department-seizes-domain-burma-based-crypto-scam-compound",
+    "pubDate": "Wed, 03 Dec 2025 02:30:05 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The U.S. seizure comes a day after a sanctioned Cambodian group shut branches and froze withdrawals under regulatory pressure."
+  },
+  {
+    "title": "Kalshi becomes CNN’s official partner, integrating prediction market data into programming",
+    "link": "https://www.theblock.co/post/381164/kalshi-cnn-partner?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 20:40:02 -0500",
+    "source": "The Block",
+    "contentSnippet": "Kalshi data will be integrated across CNN programming, and will be used by its newsroom, data and production team."
+  },
+  {
+    "title": "Grayscale Launches First US Chainlink ETF on NYSE Arca",
+    "link": "https://decrypt.co/350711/grayscale-launches-first-us-chainlink-etf-on-nyse-arca",
+    "pubDate": "Wed, 03 Dec 2025 01:28:32 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The product saw strong first-day trading after a shutdown-enabled filing path and updated SEC listing standards opened the way for its launch."
+  },
+  {
     "title": "Aave DAO mulls pulling back ‘multichain strategy,’ deprecating zkSync, Metis and Soneium instances",
     "link": "https://www.theblock.co/post/381157/aave-dao-multichain-strategy-deprecating-zksync-metis-soneium?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 02 Dec 2025 19:34:39 -0500",
@@ -84,13 +182,6 @@
     "contentSnippet": "The DeFi lender's native token broke above key resistance level, eyeing $190 as the next target level."
   },
   {
-    "title": "Why The Market Crashed On October 10, And Why It’s Struggling to Bounce",
-    "link": "https://www.coindesk.com/opinion/2025/12/02/why-the-market-crashed-on-october-10-and-why-it-s-struggling-to-bounce",
-    "pubDate": "Tue, 02 Dec 2025 19:57:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "MSCI’s proposed reclassification and potential index exclusion of Digital Asset Treasury (DAT) companies now looms over the market as a major structural overhang, says Dr. Avtar Sehra, founder and CEO"
-  },
-  {
     "title": "Vanguard Crypto ETFs, Coinbase Lawsuit & Strategy's $1.44B Reserve - Daily Crypto Recap",
     "link": "https://decrypt.co/videos/interviews/DBFV5WgA/vanguard-crypto-etfs-coinbase-lawsuit-strategys-144b-reserve-daily-crypto-recap",
     "pubDate": "Tue, 02 Dec 2025 19:48:34 +0000",
@@ -105,13 +196,6 @@
     "contentSnippet": "Ethereum’s latest major network upgrade is coming Wednesday. Here’s what users can expect."
   },
   {
-    "title": "Amazon Enters AI Arms Race as Crypto and Risk Asset Fears Mount",
-    "link": "https://www.coindesk.com/markets/2025/12/02/amazon-enters-ai-arms-race-as-crypto-and-risk-asset-fears-mount",
-    "pubDate": "Tue, 02 Dec 2025 18:56:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The pivot to AI comes with risks, including heavy borrowing and concerns about sustainability, with potential shortfalls if demand for AI slows."
-  },
-  {
     "title": "The Daily: Grayscale predicts new bitcoin highs in 2026, ‘Vanguard effect’ lifts crypto markets, Chainlink ETF debuts, and more",
     "link": "https://www.theblock.co/post/381114/the-daily-grayscale-predicts-new-bitcoin-highs-in-2026-vanguard-effect-lifts-crypto-markets-chainlink-etf-debuts-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 02 Dec 2025 13:55:17 -0500",
@@ -119,95 +203,11 @@
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
-    "title": "XRP and Solana Are Jumping. They Just Got 2 Leveraged ETFs.",
-    "link": "https://decrypt.co/350660/xrp-solana-jumping-they-got-2-leveraged-etfs",
-    "pubDate": "Tue, 02 Dec 2025 18:31:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "XRP and Solana rose on Tuesday, regaining ground lost in crypto markets’ recent slump."
-  },
-  {
-    "title": "The BIG Crypto Fake-Out! Saylor & Tether FUD! Vanguard Crypto ETFs!",
-    "link": "https://decrypt.co/videos/interviews/KenRTGb5/the-big-crypto-fake-out-saylor-tether-fud-vanguard-crypto-etfs",
-    "pubDate": "Tue, 02 Dec 2025 18:07:27 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are green and reversing yesterday’s selloff, with BTC up 2% at $87,400, ETH flat at $2,820, BNB up 2% at $842, and SOL up 2% at $129. Among top movers, Fartcoin (+14%), SPX (+12%), and P"
-  },
-  {
-    "title": "Bank of America Endorses Up to 4% Allocation of Wealth Management Portfolios to Crypto: Report",
-    "link": "https://decrypt.co/350653/bank-america-endorses-4-allocation-wealth-management-portfolios-crypto-report",
-    "pubDate": "Tue, 02 Dec 2025 17:54:38 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The bank joined a growing list of traditional finance firms that have increased their embrace of digital asset investment strategies."
-  },
-  {
-    "title": "Trump-Backed American Bitcoin Plunges 40% on Heavy Volume, Dragging Hut 8 Lower by 12% ",
-    "link": "https://www.coindesk.com/markets/2025/12/02/trump-associated-american-bitcoin-plunges-40-on-heavy-volume-dragging-hut-8-lower-by-12",
-    "pubDate": "Tue, 02 Dec 2025 17:51:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The collapse marks yet another disappointing Trump family crypto-related investment."
-  },
-  {
-    "title": "Bitcoin Volatility Breaks Out Vs VIX, Setting Up Possible Pair Trade Opportunity",
-    "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-volatility-breaks-out-vs-vix-setting-up-possible-pair-trade-opportunity",
-    "pubDate": "Tue, 02 Dec 2025 17:47:39 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The spread between BTC and S&P 500 implied volatility indices is widening again."
-  },
-  {
-    "title": "AI Investment to Drive Global Growth Through 2026, BofA Says",
-    "link": "https://www.coindesk.com/markets/2025/12/02/ai-investment-to-drive-global-growth-through-2026-bofa-says",
-    "pubDate": "Tue, 02 Dec 2025 17:35:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin miners have been among those riding the AI boom, with IREN and Cipher Mining up over 300% in 2025."
-  },
-  {
-    "title": "Why Coinbase Shares Still Have 90% Upside Despite Crypto Pullback, According to Wall Street Analyst",
-    "link": "https://www.coindesk.com/markets/2025/12/02/why-coinbase-shares-still-have-90-upside-despite-crypto-pullback-according-to-wall-street-analyst",
-    "pubDate": "Tue, 02 Dec 2025 17:22:40 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bernstein kept its Street-high $510 price target on Coinbase, citing strong fundamentals and product expansion."
-  },
-  {
-    "title": "Brazil Sentences 14 for Using Crypto, Shell Firms in $95M Drug Money Laundering Case",
-    "link": "https://www.coindesk.com/business/2025/12/02/brazil-sentences-14-for-using-crypto-shell-firms-in-usd95m-drug-money-laundering-case",
-    "pubDate": "Tue, 02 Dec 2025 17:13:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The defendants were found to have used fake companies and cryptocurrency transactions to conceal the origin of the illicit funds."
-  },
-  {
     "title": "Crypto market rebounds above $3 trillion as ‘Vanguard effect’ jolts ETF flows and Fed cut odds jump",
     "link": "https://www.theblock.co/post/381098/crypto-market-rebound-3-trillion-vanguard-effect-jolts-etf-flows-fed-cut-odds?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 02 Dec 2025 12:08:27 -0500",
     "source": "The Block",
     "contentSnippet": "Vanguard lifted its ban on crypto ETFs, and Bank of America is giving 15,000+ advisers the green light to recommend allocations of 1%–4%."
-  },
-  {
-    "title": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
-    "link": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
-    "pubDate": "Tue, 02 Dec 2025 16:42:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin surges past $90,000 in biggest rally since May as crypto markets rebound with strong ETF inflows."
-  },
-  {
-    "title": "Kraken to buy Backed Finance in tokenization push ahead of IPO",
-    "link": "https://www.theblock.co/post/381095/kraken-to-buy-backed-finance-in-tokenization-push-ahead-of-ipo?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 11:36:53 -0500",
-    "source": "The Block",
-    "contentSnippet": "Kraken has acquired Backed Finance, the tokenized-asset issuer behind its xStocks products, as the exchange pushes deeper into RWAs."
-  },
-  {
-    "title": "Strategy announces $1.44B reserve to cover debt! Vanguard Crypto ETFs! Myriad partners with Trust Wallet!",
-    "link": "https://decrypt.co/videos/interviews/LTeJZrra/strategy-announces-144b-reserve-to-cover-debt-vanguard-crypto-etfs-myriad-partners-with-trust-wallet",
-    "pubDate": "Tue, 02 Dec 2025 16:15:23 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are green and reversing yesterday’s selloff, with BTC up 2% at $87,400, ETH flat at $2,820, BNB up 2% at $842, and SOL up 2% at $129. Among top movers, Fartcoin (+14%), SPX (+12%), and P"
-  },
-  {
-    "title": "35 key crypto hires, moves and exits: November 2025",
-    "link": "https://www.theblock.co/post/381089/35-key-crypto-hires-moves-and-exits-november-2025?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 11:05:12 -0500",
-    "source": "The Block",
-    "contentSnippet": "Crypto hiring centered on senior product, legal and BD roles across companies with promotions at a16z, Blockchain.com and the CFTC."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
