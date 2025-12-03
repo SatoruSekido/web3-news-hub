@@ -1,17 +1,157 @@
 [
   {
-    "title": "Spot XRP ETFs Outpace Market With 12-Day Inflow Streak Nearing $1B Mark",
-    "link": "https://www.coindesk.com/markets/2025/12/03/spot-xrp-etfs-outpace-market-with-12-day-inflow-streak-nearing-usd1b-mark",
-    "pubDate": "Wed, 03 Dec 2025 12:30:02 +0000",
+    "title": "Filecoin Gains 2% Alongside Crypto Rally",
+    "link": "https://www.coindesk.com/markets/2025/12/03/filecoin-gains-2-alongside-crypto-rally",
+    "pubDate": "Wed, 03 Dec 2025 17:38:53 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "The sustained accumulation of capital by spot XRP ETFs is establishing XRP as the fastest-growing major crypto-asset vehicle."
+    "contentSnippet": "The token tracked broader crypto sentiment on below-average volume, establishing an ascending trend."
   },
   {
-    "title": "Uneasy Stability: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/12/03/uneasy-stability-crypto-daybook-americas",
-    "pubDate": "Wed, 03 Dec 2025 12:15:00 +0000",
+    "title": "Ethereum's 'Fusaka' Upgrade Cements Network's Role as On-Chain Finance Settlement Layer: Bitwise",
+    "link": "https://www.coindesk.com/tech/2025/12/03/fusaka-cementing-ethereum-s-role-as-on-chain-finance-settlement-layer-bitwise",
+    "pubDate": "Wed, 03 Dec 2025 17:23:45 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Dec. 3, 2025"
+    "contentSnippet": "The upgrade will boost throughput, keep validators efficient and, most importantly, strengthen Ethereum's value capture by putting a floor under blob fees."
+  },
+  {
+    "title": "IREN refuels balance sheet with $3.6 billion financing as AI-cloud buildout accelerates",
+    "link": "https://www.theblock.co/post/381250/iren-refuels-balance-sheet-3-6-billion-financing-ai-cloud-buildout?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 03 Dec 2025 12:04:58 -0500",
+    "source": "The Block",
+    "contentSnippet": "The refinancing removes a major dilution overhang for IREN by canceling older notes that converted at prices far below current levels."
+  },
+  {
+    "title": "Polymarket begins opening US app to users on the waitlist",
+    "link": "https://www.theblock.co/post/381253/polymarket-begins-opening-us-app-to-users-on-waitlist?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 03 Dec 2025 12:03:35 -0500",
+    "source": "The Block",
+    "contentSnippet": "The CFTC banned Polymarket from operating in the U.S. in 2022 for operating an unregistered derivatives exchange."
+  },
+  {
+    "title": "The Protocol: Ethereum Preps For Upcoming Fusaka Upgrade ",
+    "link": "https://www.coindesk.com/tech/2025/12/03/the-protocol-ethereum-preps-for-upcoming-fusaka-upgrade",
+    "pubDate": "Wed, 03 Dec 2025 16:59:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Also: Anthropic On DeFi AI Agents, ETH Devs Push ZK Protocol, and Bitnomial"
+  },
+  {
+    "title": "Trump's CFTC, FDIC Picks Closer to Taking Over Agencies as They Advance in Senate ",
+    "link": "https://www.coindesk.com/policy/2025/12/03/trump-s-cftc-fdic-picks-closer-to-taking-over-agencies-as-they-advance-in-senate",
+    "pubDate": "Wed, 03 Dec 2025 16:59:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Senate's process is inching forward on a mass-confirmation that would include two nominations with major crypto implications."
+  },
+  {
+    "title": "Bitcoin Futures Return to Deepest 'Backwardation' Since FTX Collapse Hinting Possible Bottom",
+    "link": "https://www.coindesk.com/markets/2025/12/03/bitcoin-futures-return-to-deepest-backwardation-since-ftx-collapse",
+    "pubDate": "Wed, 03 Dec 2025 16:54:01 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "So-called \"backwardation\" — a futures price curve moving lower in value as time gets further out — can be read as a measure of stress in the market."
+  },
+  {
+    "title": "Firelight Introduces XRP Staking for DeFi Insurance Layer Against Exploits",
+    "link": "https://www.coindesk.com/tech/2025/12/03/firelight-introduces-xrp-staking-for-defi-insurance-layer-against-exploits",
+    "pubDate": "Wed, 03 Dec 2025 16:52:48 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The new protocol, developed by Sentora and Flare Network, aims to combine XRP yield opportunity with offering protection against DeFi hacks."
+  },
+  {
+    "title": "ETHZilla Buys 20% of AI Lending Platform Karus in $10M Deal to Tokenize Auto Loans",
+    "link": "https://www.coindesk.com/business/2025/12/03/ethzilla-buys-20-of-ai-lending-platform-karus-in-usd10m-deal-to-tokenize-auto-loans",
+    "pubDate": "Wed, 03 Dec 2025 16:45:31 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The companies plan to tokenize auto loans, with the first portfolios expected to be available by early 2026."
+  },
+  {
+    "title": "Stellar Climbs 2% as Volume Spikes Signal Institutional Interest",
+    "link": "https://www.coindesk.com/markets/2025/12/03/stellar-climbs-2-as-volume-spikes-signal-institutional-interest",
+    "pubDate": "Wed, 03 Dec 2025 16:44:39 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Trading activity jumps 37% above weekly average despite modest price gains."
+  },
+  {
+    "title": "Ostium Raises $20M Series A Led by General Catalyst, Jump Crypto to Put TradFi Perps Onchain",
+    "link": "https://www.coindesk.com/business/2025/12/03/ostium-raises-usd20m-series-a-led-by-general-catalyst-jump-crypto-to-put-tradfi-perps-onchain",
+    "pubDate": "Wed, 03 Dec 2025 16:38:16 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Built on Arbitrum, the perpetuals protocol has processed $25 billion in trading volume by offering self-custodial bets on gold, FX and other real-world markets."
+  },
+  {
+    "title": "HBAR Edges Higher as Vanguard ETF Access Expands Institutional Appeal",
+    "link": "https://www.coindesk.com/markets/2025/12/03/hbar-edges-higher-as-vanguard-etf-access-expands-institutional-appeal",
+    "pubDate": "Wed, 03 Dec 2025 16:36:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hedera gains on elevated volume while establishing support above $0.1427 during measured advance that coincides with significant institutional developments."
+  },
+  {
+    "title": "Eric Trump’s American Bitcoin Steadies After ‘First Major Unlock' of Shares",
+    "link": "https://decrypt.co/350775/eric-trumps-american-bitcoin-steadies-unlock",
+    "pubDate": "Wed, 03 Dec 2025 16:24:12 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The stock was volatile after insiders took profits."
+  },
+  {
+    "title": "Harvard alumni-founded Ostium lands $24 million in fresh funding to scale onchain perpetuals for RWAs",
+    "link": "https://www.theblock.co/post/381241/harvard-alumni-founded-ostium-lands-24-million-in-fresh-funding-to-scale-onchain-perpetuals-for-rwas?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 03 Dec 2025 10:43:08 -0500",
+    "source": "The Block",
+    "contentSnippet": "RWA-focused protocol Ostium has raised $24 million to scale its decentralized perpetuals exchange beyond U.S. markets."
+  },
+  {
+    "title": "Bitcoin market fears are overblown as policy shifts open medium-term upside, K33 says",
+    "link": "https://www.theblock.co/post/381231/bitcoin-market-fears-overblown-policy-shifts-medium-term-upside-k33?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 03 Dec 2025 09:56:20 -0500",
+    "source": "The Block",
+    "contentSnippet": "Upcoming U.S. policy changes, 401(k) access, and pro-crypto regulatory momentum create a stronger medium-term backdrop for bitcoin, K33 said."
+  },
+  {
+    "title": "Bitcoin back above $92K, BlackRock bullish on a tokenized future, Kalshi raise $11B - Daily Crypto Recap",
+    "link": "https://decrypt.co/videos/interviews/ImN1EVr6/bitcoin-back-above-92k-blackrock-bullish-on-a-tokenized-future-kalshi-raise-11b-daily-crypto-recap",
+    "pubDate": "Wed, 03 Dec 2025 14:32:33 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Your Decrypt daily recap with @tyler_did_it for December 3rd 2025\n\nToday’s headlines: BTC jumps back above $92K, BlackRock bullish on tokenized assets, Kalshi raise $11B, & more"
+  },
+  {
+    "title": "Opera, Celo Scale Up Partnership to 'Make Stablecoins Useful' For Millions of Users",
+    "link": "https://decrypt.co/350750/opera-celo-scale-up-partnership-to-make-stablecoins-useful-for-millions-of-users",
+    "pubDate": "Wed, 03 Dec 2025 14:31:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The two firms are extending their partnership with new features and an expansion into global markets amid rising stablecoin use on MiniPay."
+  },
+  {
+    "title": "Sony's Blockchain Partner Launches Institutional-Grade Stablecoin for Soneium",
+    "link": "https://decrypt.co/350757/sonys-blockchain-partner-launches-institutional-grade-stablecoin-for-soneium",
+    "pubDate": "Wed, 03 Dec 2025 14:01:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Institutional-grade dollar stablecoin USDSC has gone live on Soneium, as Japan advances yen stablecoin trials."
+  },
+  {
+    "title": "Morning Minute: Bank of America Recommends up to 4% Crypto Portfolio Allocation",
+    "link": "https://decrypt.co/350756/morning-minute-bank-of-america-recommends-up-to-4-crypto-portfolio-allocation",
+    "pubDate": "Wed, 03 Dec 2025 13:31:21 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The crypto market liked the news, with majors jumping 7-10% on the back of Bank of America's new guidance plus Vanguard's crypto ETF debut."
+  },
+  {
+    "title": "Firelight launches XRP staking protocol on Flare, with stXRP planned to earn rewards through DeFi insurance",
+    "link": "https://www.theblock.co/post/381210/firelight-xrp-staking-flare-stxrp-defi-insurance?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 03 Dec 2025 08:00:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "This is Phase 1 of the rollout, so staking rewards aren’t live yet; they are expected to begin in Phase 2, early next year."
+  },
+  {
+    "title": "Axis raises $5 million in round led by Galaxy Ventures to launch onchain yield protocol for USD, bitcoin and gold",
+    "link": "https://www.theblock.co/post/381215/axis-5-million-usd-round-galaxy-ventures-onchain-yield-protocol-usd-bitcoin-gold?utm_source=rss&utm_medium=rss",
+    "pubDate": "Wed, 03 Dec 2025 08:00:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "Axis said it has also deployed $100 million in private capital through its closed beta to stress-test its delta-neutral arbitrage engine."
+  },
+  {
+    "title": "UK Passes Digital Assets Bill Recognizing Crypto as Property",
+    "link": "https://decrypt.co/350747/uk-passes-digital-assets-bill-recognizing-crypto-as-property",
+    "pubDate": "Wed, 03 Dec 2025 12:38:14 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The law gives crypto legal status as property, bolstering protections for users and advancing the UK’s bid to become a digital finance hub."
   },
   {
     "title": "Bitcoin jumps back above $93K as short liquidations and fresh institutional interest help fuel rebound ahead of Fed meeting",
@@ -19,13 +159,6 @@
     "pubDate": "Wed, 03 Dec 2025 06:56:50 -0500",
     "source": "The Block",
     "contentSnippet": "Bitcoin has surged back above $93,000 as traders brace for next week’s Federal Reserve decision amid lingering macro uncertainty."
-  },
-  {
-    "title": "Crypto Markets Today: Bitcoin Reclaims $93K as Altcoins Stage Rebound",
-    "link": "https://www.coindesk.com/markets/2025/12/03/crypto-markets-today-bitcoin-reclaims-usd93k-as-altcoins-stage-rebound",
-    "pubDate": "Wed, 03 Dec 2025 11:49:08 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A broad rally lifted major tokens on Wednesday, with bitcoin and ether bouncing and the majority of altcoins surging, even as ZEC extended a weekly slide."
   },
   {
     "title": "Australian Bitcoin Group Challenges ABC News Over 'Misleading' Coverage",
@@ -42,25 +175,11 @@
     "contentSnippet": "Yi He will lead the company alongside previous solo CEO Richard Teng, the exec announced during Binance Blockchain Week."
   },
   {
-    "title": "UK Passes Law Formally Recognizing Crypto as Property",
-    "link": "https://www.coindesk.com/policy/2025/12/03/uk-passes-law-formally-recognizing-crypto-as-property",
-    "pubDate": "Wed, 03 Dec 2025 10:55:31 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Property (Digital Assets etc) Act received Royal Assent on Tuesday, the final step of an act becoming law after being passed by the U.K. Parliament."
-  },
-  {
     "title": "Cathie Wood’s Ark Invest stocks up on more Coinbase, Bullish and Robinhood shares",
     "link": "https://www.theblock.co/post/381192/cathie-woods-ark-invest-buys-more-coinbase-bullish-robinhood-shares?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 03 Dec 2025 05:40:08 -0500",
     "source": "The Block",
     "contentSnippet": "Ark Invest bought another 28,315 Coinbase shares on Tuesday, worth around $7.5 million, as it continued to rebalance its fund weightings."
-  },
-  {
-    "title": "Strategy Faces Possible MSCI Index Removal, Threatening Billions in Outflows: Reuters",
-    "link": "https://www.coindesk.com/markets/2025/12/03/strategy-faces-possible-msci-index-removal-threatening-billions-in-outflows",
-    "pubDate": "Wed, 03 Dec 2025 10:37:02 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A removal could lead to outflows of up to $8.8 billion if other index providers follow suit because the stock is part of many passive investment products."
   },
   {
     "title": "Bitcoin Short-Term Holder Shakeout Could Accelerate Recovery Above Key Level",
@@ -70,60 +189,11 @@
     "contentSnippet": "A breakout above $93,000 could trigger a short squeeze, analysts say—accelerating Bitcoin’s recovery amid short-term holder capitulation."
   },
   {
-    "title": "Babylon’s Trustless Vaults to Add Native Bitcoin-Backed Lending Through Aave",
-    "link": "https://www.coindesk.com/business/2025/12/02/babylon-s-trustless-vaults-to-add-native-bitcoin-backed-lending-through-aave",
-    "pubDate": "Wed, 03 Dec 2025 10:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Babylon is also planning to introduce Bitcoin-backed DeFi insurance, letting BTC holders earn yield while underwriting risk against hacks and exploits."
-  },
-  {
     "title": "Investigating DeFi hacks with ‘Code is Law’ co-director James Craig and Wildcat Finance co-founder Laurence Day",
     "link": "https://www.theblock.co/post/381179/investigating-defi-hacks-with-code-is-law-co-director-james-craig-and-wildcat-finance-co-founder-laurence-day?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 03 Dec 2025 04:46:34 -0500",
     "source": "The Block",
     "contentSnippet": "\"Code is Law\" co-director James Craig and Wildcat Finance co-founder Lawrence Day discuss their experiences with, and the consequences of, major DeFi hacks."
-  },
-  {
-    "title": "UK passes law officially recognizing crypto as third kind of property",
-    "link": "https://www.theblock.co/post/381181/uk-new-law-crypto-property?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 03 Dec 2025 04:36:26 -0500",
-    "source": "The Block",
-    "contentSnippet": "Local industry body CryptoUK said this gives crypto a \"clearer legal footing\" in related crimes or litigation."
-  },
-  {
-    "title": "Taiwan Authorities Say Island's First Regulated Stablecoin Will Debut Next Year",
-    "link": "https://www.coindesk.com/policy/2025/12/03/taiwan-authorities-say-island-s-first-regulated-stablecoin-will-launch-next-year",
-    "pubDate": "Wed, 03 Dec 2025 09:09:25 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Regulators have not decided whether the token will be tied to the Taiwan dollar or the U.S. dollar, a choice that will determine how deeply it tests the island’s currency controls."
-  },
-  {
-    "title": "Eric Trump’s American Bitcoin dips 40% after token lockup expires",
-    "link": "https://www.theblock.co/post/381173/american-bitcoin-dips-40-eric-trump?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 03 Dec 2025 03:10:34 -0500",
-    "source": "The Block",
-    "contentSnippet": "American Bitcoin co-founder Eric Trump said volatility was expected from the expiration and that he will hold onto his shares."
-  },
-  {
-    "title": "BlackRock's Spot Bitcoin ETF Options Secure U.S. Top 10 Ranking With 7.7M Active Contracts",
-    "link": "https://www.coindesk.com/markets/2025/12/03/blackrock-s-spot-bitcoin-etf-secures-top-10-spot-in-u-s-options-universe-with-7-7m-ibit-active-contracts",
-    "pubDate": "Wed, 03 Dec 2025 07:13:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "IBIT options are the ninth largest in the U.S."
-  },
-  {
-    "title": "Yi He, Arguably Crypto's Most Powerful Woman, Becomes Binance’s New Co-CEO ",
-    "link": "https://www.coindesk.com/business/2025/12/03/yi-he-arguably-crypto-s-most-powerful-woman-becomes-binance-s-new-co-ceo",
-    "pubDate": "Wed, 03 Dec 2025 06:26:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The new leadership role was announced by the current Binance CEO Richard Teng at Binance Blockchain Week in Dubai."
-  },
-  {
-    "title": "This Bitcoin-Led, Institutionally Anchored Cycle Shows the Three-Month Drop Isn’t a Winter: Glassnode",
-    "link": "https://www.coindesk.com/markets/2025/12/03/this-bitcoin-led-institutionally-anchored-cycle-shows-the-three-month-drop-isn-t-a-winter-glassnode",
-    "pubDate": "Wed, 03 Dec 2025 06:15:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Glassnode and Fasanara’s year-end report shows record inflows, rising realized cap, and falling volatility, suggesting the latest pullback is a mid-cycle reset rather than the start of a long downturn"
   },
   {
     "title": "Gunmen Steal $85,800 in Trinidad Crypto Ambush as Attacks on Holders Rise",
@@ -138,76 +208,6 @@
     "pubDate": "Wed, 03 Dec 2025 05:01:14 +0000",
     "source": "Decrypt",
     "contentSnippet": "Anthropic is reportedly exploring a public market debut while chasing a new funding round that could push its valuation past $300 billion."
-  },
-  {
-    "title": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
-    "link": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
-    "pubDate": "Wed, 03 Dec 2025 04:10:59 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday’s wipeout."
-  },
-  {
-    "title": "Bitfinex-backed Layer 1 Stable unveils tokenomics; mainnet launching next week",
-    "link": "https://www.theblock.co/post/381171/stable-unveils-tokenomics?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 22:54:11 -0500",
-    "source": "The Block",
-    "contentSnippet": "With a total supply of 100 billion, the token is designed to support the network's governance and security."
-  },
-  {
-    "title": "Justice Department Seizes Domain Linked to Burma-Based Crypto Scam Compound",
-    "link": "https://decrypt.co/350719/justice-department-seizes-domain-burma-based-crypto-scam-compound",
-    "pubDate": "Wed, 03 Dec 2025 02:30:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The U.S. seizure comes a day after a sanctioned Cambodian group shut branches and froze withdrawals under regulatory pressure."
-  },
-  {
-    "title": "Kalshi becomes CNN’s official partner, integrating prediction market data into programming",
-    "link": "https://www.theblock.co/post/381164/kalshi-cnn-partner?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 20:40:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Kalshi data will be integrated across CNN programming, and will be used by its newsroom, data and production team."
-  },
-  {
-    "title": "Grayscale Launches First US Chainlink ETF on NYSE Arca",
-    "link": "https://decrypt.co/350711/grayscale-launches-first-us-chainlink-etf-on-nyse-arca",
-    "pubDate": "Wed, 03 Dec 2025 01:28:32 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The product saw strong first-day trading after a shutdown-enabled filing path and updated SEC listing standards opened the way for its launch."
-  },
-  {
-    "title": "Aave DAO mulls pulling back ‘multichain strategy,’ deprecating zkSync, Metis and Soneium instances",
-    "link": "https://www.theblock.co/post/381157/aave-dao-multichain-strategy-deprecating-zksync-metis-soneium?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 19:34:39 -0500",
-    "source": "The Block",
-    "contentSnippet": "Aave, the largest decentralized lending protocol, has historically taken a maximalist approach towards deploying on new blockchains."
-  },
-  {
-    "title": "Kraken to Acquire Tokenization Platform Backed Finance as Crypto Exchange Extends Buying Spree",
-    "link": "https://decrypt.co/350707/kraken-acquire-tokenization-platform-backed-crypto-exchange-buying-spree",
-    "pubDate": "Tue, 02 Dec 2025 22:48:43 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The company said that the transaction would \"accelerate the global adoption of xStocks.\""
-  },
-  {
-    "title": "Crypto Winter Is Not Coming, Myriad Users Say",
-    "link": "https://decrypt.co/350679/crypto-winter-not-coming-myriad-users",
-    "pubDate": "Tue, 02 Dec 2025 22:27:21 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "In a Myriad prediction market, just 9% of respondents expected a crypto winter."
-  },
-  {
-    "title": "‘Get these done on time:’ Rep. Steil presses regulators on stablecoin law ahead of July 2026 deadline",
-    "link": "https://www.theblock.co/post/381148/get-done-on-time-rep-steil-presses-regulators-stablecoin-law-july-2026-deadline?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 17:14:18 -0500",
-    "source": "The Block",
-    "contentSnippet": "After passing a major stablecoin bill into law, Congress is racing to write the rules, with one lawmaker urging them to move quickly."
-  },
-  {
-    "title": "Rizzmas is Back? Christmas Solana Meme Coin Wakes From Hibernation",
-    "link": "https://decrypt.co/350678/rizzmas-christmas-solana-meme-coin-wakes-hibernation",
-    "pubDate": "Tue, 02 Dec 2025 21:23:07 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "As December starts, meme coin traders are decorating their Christmas trees and buying up Rizzmas tokens."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
