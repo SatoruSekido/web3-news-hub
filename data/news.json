@@ -1,5 +1,138 @@
 [
   {
+    "title": "Aave DAO mulls pulling back ‘multichain strategy,’ deprecating zkSync, Metis and Soneium instances",
+    "link": "https://www.theblock.co/post/381157/aave-dao-multichain-strategy-deprecating-zksync-metis-soneium?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 19:34:39 -0500",
+    "source": "The Block",
+    "contentSnippet": "Aave, the largest decentralized lending protocol, has historically taken a maximalist approach towards deploying on new blockchains."
+  },
+  {
+    "title": "Kraken to Acquire Tokenization Platform Backed Finance as Crypto Exchange Extends Buying Spree",
+    "link": "https://decrypt.co/350707/kraken-acquire-tokenization-platform-backed-crypto-exchange-buying-spree",
+    "pubDate": "Tue, 02 Dec 2025 22:48:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The company said that the transaction would \"accelerate the global adoption of xStocks.\""
+  },
+  {
+    "title": "Crypto Winter Is Not Coming, Myriad Users Say",
+    "link": "https://decrypt.co/350679/crypto-winter-not-coming-myriad-users",
+    "pubDate": "Tue, 02 Dec 2025 22:27:21 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "In a Myriad prediction market, just 9% of respondents expected a crypto winter."
+  },
+  {
+    "title": "‘Get these done on time:’ Rep. Steil presses regulators on stablecoin law ahead of July 2026 deadline",
+    "link": "https://www.theblock.co/post/381148/get-done-on-time-rep-steil-presses-regulators-stablecoin-law-july-2026-deadline?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 17:14:18 -0500",
+    "source": "The Block",
+    "contentSnippet": "After passing a major stablecoin bill into law, Congress is racing to write the rules, with one lawmaker urging them to move quickly."
+  },
+  {
+    "title": "IBIT Among Most-Traded ETFs as Bitcoin Surges; Mining Stocks Sink",
+    "link": "https://www.coindesk.com/markets/2025/12/02/ibit-among-most-traded-etfs-as-bitcoin-surges-mining-stocks-sink",
+    "pubDate": "Tue, 02 Dec 2025 22:10:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A 6% rally in bitcoin helped push IBIT ahead of major funds like VOO, but crypto miners including IREN and CIFR posted steep losses."
+  },
+  {
+    "title": "Celestia-based Astria Network sunsets its shared sequencer network after raising $18 million",
+    "link": "https://www.theblock.co/post/381138/celestia-based-astria-network-sunsets-sequencer-network-after-raising-18-million?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 16:51:45 -0500",
+    "source": "The Block",
+    "contentSnippet": "The Astria Network was “intentionally halted” at block number 15,360,577, according to the team and blockchain data on Monday."
+  },
+  {
+    "title": "Former FTX CEO Sam Bankman-Fried praises Trump’s pardon of ex-Honduran president as he seeks clemency",
+    "link": "https://www.theblock.co/post/381133/former-ftx-sam-bankman-fried-praises-trump-pardon-ex-honduran-president-seeks-clemency?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 16:28:52 -0500",
+    "source": "The Block",
+    "contentSnippet": "SBF took to social media again on Tuesday to react to Trump's pardoning of former Honduran President Juan Orlando Hernández."
+  },
+  {
+    "title": "Rizzmas is Back? Christmas Solana Meme Coin Wakes From Hibernation",
+    "link": "https://decrypt.co/350678/rizzmas-christmas-solana-meme-coin-wakes-hibernation",
+    "pubDate": "Tue, 02 Dec 2025 21:23:07 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "As December starts, meme coin traders are decorating their Christmas trees and buying up Rizzmas tokens."
+  },
+  {
+    "title": "Bitcoin Dipped Below 'Fair Value' for First Time in 2 Years, History Says 132% Gains Next 12 Months",
+    "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-dipped-below-fair-value-for-first-time-in-2-years-history-says-132-gains-next-12-months",
+    "pubDate": "Tue, 02 Dec 2025 21:10:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Network reset complete: leverage flushed, LTHs accumulating and price back above fair value."
+  },
+  {
+    "title": "Elon Musk’s X Money searches for ‘payments platform’ tech lead and Solana is eager to help",
+    "link": "https://www.theblock.co/post/381113/elon-musks-x-money-searches-payments-platform-tech-lead-solana-eager-help?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 16:04:20 -0500",
+    "source": "The Block",
+    "contentSnippet": "The job listing calls for an engineering lead able to design a payments platform “from the ground up” rather than relying on third parties."
+  },
+  {
+    "title": "Taurus taps Everstake to expand crypto staking options for banks and institutions",
+    "link": "https://www.theblock.co/post/381119/taurus-everstake-expand-crypto-staking-options-banks-institutions?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 15:26:44 -0500",
+    "source": "The Block",
+    "contentSnippet": "The deal folds Everstake’s validator operations into Taurus’ regulated custody stack, giving banks a way to stake without shifting assets."
+  },
+  {
+    "title": "AAVE Rallies 14% as Bybit, Mantle Integration Connects DeFi Lender to 70M Users",
+    "link": "https://www.coindesk.com/markets/2025/12/02/aave-rallies-14-as-bybit-mantle-integration-connects-defi-lender-to-70m-users",
+    "pubDate": "Tue, 02 Dec 2025 20:16:45 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The DeFi lender's native token broke above key resistance level, eyeing $190 as the next target level."
+  },
+  {
+    "title": "Why The Market Crashed On October 10, And Why It’s Struggling to Bounce",
+    "link": "https://www.coindesk.com/opinion/2025/12/02/why-the-market-crashed-on-october-10-and-why-it-s-struggling-to-bounce",
+    "pubDate": "Tue, 02 Dec 2025 19:57:53 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "MSCI’s proposed reclassification and potential index exclusion of Digital Asset Treasury (DAT) companies now looms over the market as a major structural overhang, says Dr. Avtar Sehra, founder and CEO"
+  },
+  {
+    "title": "Vanguard Crypto ETFs, Coinbase Lawsuit & Strategy's $1.44B Reserve - Daily Crypto Recap",
+    "link": "https://decrypt.co/videos/interviews/DBFV5WgA/vanguard-crypto-etfs-coinbase-lawsuit-strategys-144b-reserve-daily-crypto-recap",
+    "pubDate": "Tue, 02 Dec 2025 19:48:34 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Today’s headlines: The latest on Vanguard ETFs, Coinbase lawsuit, Strategy $1.44B reserve, & more. This is Decrypt's Daily Recap with host @Tyler_Did_It. Your crypto round-up for December 2nd 2025"
+  },
+  {
+    "title": "What to Expect From Ethereum’s Fusaka Upgrade?",
+    "link": "https://decrypt.co/350667/what-expect-ethereums-fusaka-upgrade",
+    "pubDate": "Tue, 02 Dec 2025 19:41:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Ethereum’s latest major network upgrade is coming Wednesday. Here’s what users can expect."
+  },
+  {
+    "title": "Amazon Enters AI Arms Race as Crypto and Risk Asset Fears Mount",
+    "link": "https://www.coindesk.com/markets/2025/12/02/amazon-enters-ai-arms-race-as-crypto-and-risk-asset-fears-mount",
+    "pubDate": "Tue, 02 Dec 2025 18:56:04 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The pivot to AI comes with risks, including heavy borrowing and concerns about sustainability, with potential shortfalls if demand for AI slows."
+  },
+  {
+    "title": "The Daily: Grayscale predicts new bitcoin highs in 2026, ‘Vanguard effect’ lifts crypto markets, Chainlink ETF debuts, and more",
+    "link": "https://www.theblock.co/post/381114/the-daily-grayscale-predicts-new-bitcoin-highs-in-2026-vanguard-effect-lifts-crypto-markets-chainlink-etf-debuts-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 02 Dec 2025 13:55:17 -0500",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "XRP and Solana Are Jumping. They Just Got 2 Leveraged ETFs.",
+    "link": "https://decrypt.co/350660/xrp-solana-jumping-they-got-2-leveraged-etfs",
+    "pubDate": "Tue, 02 Dec 2025 18:31:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "XRP and Solana rose on Tuesday, regaining ground lost in crypto markets’ recent slump."
+  },
+  {
+    "title": "The BIG Crypto Fake-Out! Saylor & Tether FUD! Vanguard Crypto ETFs!",
+    "link": "https://decrypt.co/videos/interviews/KenRTGb5/the-big-crypto-fake-out-saylor-tether-fud-vanguard-crypto-etfs",
+    "pubDate": "Tue, 02 Dec 2025 18:07:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto majors are green and reversing yesterday’s selloff, with BTC up 2% at $87,400, ETH flat at $2,820, BNB up 2% at $842, and SOL up 2% at $129. Among top movers, Fartcoin (+14%), SPX (+12%), and P"
+  },
+  {
     "title": "Bank of America Endorses Up to 4% Allocation of Wealth Management Portfolios to Crypto: Report",
     "link": "https://decrypt.co/350653/bank-america-endorses-4-allocation-wealth-management-portfolios-crypto-report",
     "pubDate": "Tue, 02 Dec 2025 17:54:38 +0000",
@@ -7,7 +140,7 @@
     "contentSnippet": "The bank joined a growing list of traditional finance firms that have increased their embrace of digital asset investment strategies."
   },
   {
-    "title": "Trump-Associated American Bitcoin Plunges 40% on Heavy Volume, Dragging Hut 8 Lower by 12% ",
+    "title": "Trump-Backed American Bitcoin Plunges 40% on Heavy Volume, Dragging Hut 8 Lower by 12% ",
     "link": "https://www.coindesk.com/markets/2025/12/02/trump-associated-american-bitcoin-plunges-40-on-heavy-volume-dragging-hut-8-lower-by-12",
     "pubDate": "Tue, 02 Dec 2025 17:51:59 +0000",
     "source": "CoinDesk DeFi",
@@ -49,20 +182,6 @@
     "contentSnippet": "Vanguard lifted its ban on crypto ETFs, and Bank of America is giving 15,000+ advisers the green light to recommend allocations of 1%–4%."
   },
   {
-    "title": "Polkadot Surges 13% After Breaking Above Key Resistance",
-    "link": "https://www.coindesk.com/markets/2025/12/02/polkadot-surges-13-after-breaking-above-key-resistance",
-    "pubDate": "Tue, 02 Dec 2025 16:58:30 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token outpaced broader crypto markets as volume spiked 34% above weekly averages."
-  },
-  {
-    "title": "Iren Plans to Sell Up to $2.3 Billion of Convertible Notes, Shares Drop",
-    "link": "https://www.coindesk.com/markets/2025/12/02/iren-plans-to-sell-up-to-usd2-3-billion-of-convertible-notes-shares-drop",
-    "pubDate": "Tue, 02 Dec 2025 16:45:52 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The company also plans to sell shares to fund the repurchase of existing debt."
-  },
-  {
     "title": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
     "link": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
     "pubDate": "Tue, 02 Dec 2025 16:42:56 +0000",
@@ -84,130 +203,11 @@
     "contentSnippet": "Crypto majors are green and reversing yesterday’s selloff, with BTC up 2% at $87,400, ETH flat at $2,820, BNB up 2% at $842, and SOL up 2% at $129. Among top movers, Fartcoin (+14%), SPX (+12%), and P"
   },
   {
-    "title": "SOL Bulls Take a Breather After Pumping Millions Into ETFs",
-    "link": "https://www.coindesk.com/markets/2025/12/02/sol-bulls-take-a-breather-after-pumping-millions-into-etfs",
-    "pubDate": "Tue, 02 Dec 2025 16:11:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Solana exchange-traded funds debuted on Oct. 28 and performed flawlessly with inflows 21 consecutive days until the day before Thanksgiving."
-  },
-  {
     "title": "35 key crypto hires, moves and exits: November 2025",
     "link": "https://www.theblock.co/post/381089/35-key-crypto-hires-moves-and-exits-november-2025?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 02 Dec 2025 11:05:12 -0500",
     "source": "The Block",
     "contentSnippet": "Crypto hiring centered on senior product, legal and BD roles across companies with promotions at a16z, Blockchain.com and the CFTC."
-  },
-  {
-    "title": "Kraken Agrees to Buy Tokenization Specialist Backed Finance as RWA Trend Accelerates",
-    "link": "https://www.coindesk.com/business/2025/12/02/kraken-agrees-to-buy-tokenization-specialist-backed-finance-as-rwa-trend-accelerates",
-    "pubDate": "Tue, 02 Dec 2025 16:03:46 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The exchange has already teamed up with the Switzerland-based firm for its tokenized equity offering, xStocks."
-  },
-  {
-    "title": "Bitcoin Surges Back Above $91K as Support Builds in $80K-$85K Area",
-    "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-surges-back-above-usd91k-as-support-builds-in-usd80k-usd85k-area",
-    "pubDate": "Tue, 02 Dec 2025 16:01:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Helping the mood in crypto were moves by institutional giants Vanguard and Bank of America to open up digital assets to their clients."
-  },
-  {
-    "title": "White-Collar Fraudster Jailed in UK After Converting $650K in Company Funds to Crypto",
-    "link": "https://decrypt.co/350649/white-collar-fraudster-jailed-in-uk-after-converting-650k-in-company-funds-to-crypto",
-    "pubDate": "Tue, 02 Dec 2025 15:49:26 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts suggest that crypto-related white-collar crime could be on the rise, with many firms unprepared for a growth in such crime."
-  },
-  {
-    "title": "Sonnet shareholders approve merger for potential $1 billion HYPE crypto treasury",
-    "link": "https://www.theblock.co/post/381076/sonnet-shareholders-approve-merger-for-1-billion-hype-crypto-treasury?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 10:26:12 -0500",
-    "source": "The Block",
-    "contentSnippet": "The Hyperliquid digital asset treasury told the SEC in October it wants to raise up to $1 billion to fund its HYPE accumulation strategy."
-  },
-  {
-    "title": "Sanctioned Lender Huione Shuts Phnom Penh Branches, Halts Withdrawals",
-    "link": "https://decrypt.co/350632/sanctioned-lender-huione-shuts-phnom-penh-branches-halts-withdrawals",
-    "pubDate": "Tue, 02 Dec 2025 14:56:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Cambodian finance giant has closed its doors amid mounting international pressure including U.S. and UK sanctions."
-  },
-  {
-    "title": "PlayStation Goes Crypto? Sony Stablecoin Could Be Used for Gaming Payments: Nikkei",
-    "link": "https://decrypt.co/350630/playstation-goes-crypto-sony-stablecoin-gaming-payments-nikkei",
-    "pubDate": "Tue, 02 Dec 2025 14:08:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Sony Group plans for U.S. customers to pay for video game subscriptions and other content using its own stablecoin."
-  },
-  {
-    "title": "Bank of America backs 4% crypto allocation cap, ending adviser restrictions and adding bitcoin ETF coverage: report",
-    "link": "https://www.theblock.co/post/381067/bank-of-america-backs-4-crypto-allocation-cap-ending-adviser-restrictions-and-adding-bitcoin-etf-coverage-report?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 09:03:33 -0500",
-    "source": "The Block",
-    "contentSnippet": "BofA is recommending that wealth clients allocate up to 4% of their portfolios to crypto and will begin CIO coverage of four bitcoin ETFs in early 2026."
-  },
-  {
-    "title": "Chainlink gets its first ETF as Grayscale’s GLNK set to begin trading",
-    "link": "https://www.theblock.co/post/380978/chainlink-first-etf-grayscales-glnk-set-begin-trading?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 08:31:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "The first exchange-traded fund tracking the value of Chainlink has begun trading on the New York Stock Exchange."
-  },
-  {
-    "title": "Morning Minute: Vanguard Finally Lets Investors Buy Crypto",
-    "link": "https://decrypt.co/350622/morning-minute-vanguard-finally-lets-investors-buy-crypto",
-    "pubDate": "Tue, 02 Dec 2025 13:19:17 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "It's a major reversal from one of the longest standing anti-crypto giants, and a major signal that crypto is now mainstream."
-  },
-  {
-    "title": "Bitcoin miners face worst profitability crunch on record, analyst says",
-    "link": "https://www.theblock.co/post/381049/bitcoin-miners-profitability-crunch?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 07:59:34 -0500",
-    "source": "The Block",
-    "contentSnippet": "While BTC has rebounded above $87,000 after a harsh selloff, analysts say liquidity has returned without momentum."
-  },
-  {
-    "title": "Privacy Coins Lose Steam as ZCash, Monero, and Dash Follow Crypto Market Pullback",
-    "link": "https://decrypt.co/350598/privacy-coins-lose-steam-as-zcash-monero-and-dash-follow-crypto-market-pullback",
-    "pubDate": "Tue, 02 Dec 2025 12:25:44 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Privacy coins like ZCash and Monero dropped as analysts say the \"safe haven\" narrative has broken, tying their fate to Bitcoin's cycles."
-  },
-  {
-    "title": "Cango posts 60% Q3 revenue jump as bitcoin mining output climbs",
-    "link": "https://www.theblock.co/post/381055/cango-posts-q3-revenue-jump-as-bitcoin-mining-output-climbs?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 07:20:09 -0500",
-    "source": "The Block",
-    "contentSnippet": "The company's pivot into bitcoin mining and its new AI compute roadmap reflect a year of operational restructuring."
-  },
-  {
-    "title": "Myriad Partners With Trust Wallet to Launch First In-Wallet Prediction Markets",
-    "link": "https://decrypt.co/350590/myriad-partners-with-trust-wallet-to-launch-first-in-wallet-prediction-markets",
-    "pubDate": "Tue, 02 Dec 2025 11:48:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Trust Wallet’s self-custody Web3 wallet is the first to natively integrate prediction markets in a “single, streamlined experience.”"
-  },
-  {
-    "title": "BlackRock’s Larry Fink and Rob Goldstein say tokenization could do for finance what the early internet did for information",
-    "link": "https://www.theblock.co/post/381046/blackrock-larry-fink-rob-goldstein-tokenization?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 06:00:16 -0500",
-    "source": "The Block",
-    "contentSnippet": "The executives pointed to a 300% surge in real-world asset tokenization over 20 months as evidence that the shift is already accelerating."
-  },
-  {
-    "title": "AI agents pose immediate threat to smart contract security, Anthropic says",
-    "link": "https://www.theblock.co/post/381035/ai-agent-smart-contract-anthropic?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 02 Dec 2025 03:37:49 -0500",
-    "source": "The Block",
-    "contentSnippet": "AI company Anthropic reported that automated AI agents successfully exploited a large portion of smart contracts in a mock set-up."
-  },
-  {
-    "title": "BlackRock's Fink and Goldstein Say Tokenization Could Redraw Market Plumbing",
-    "link": "https://decrypt.co/350582/blackrocks-fink-goldstein-tokenization-market-plumbing",
-    "pubDate": "Tue, 02 Dec 2025 06:40:51 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "BlackRock execs say tokenization, once tangled in the crypto frenzy, is accelerating toward a major rebuild of global market infrastructure."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
