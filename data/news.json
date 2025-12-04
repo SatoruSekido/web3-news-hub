@@ -1,5 +1,82 @@
 [
   {
+    "title": "ADA, ETH, XRP Climb as Bitcoin Zooms Above $93K, But Traders Warn of ‘Fakeout Rally’",
+    "link": "https://www.coindesk.com/markets/2025/12/04/ada-eth-xrp-climb-as-bitcoin-zooms-above-usd93k-but-traders-warn-of-fakeout-rally",
+    "pubDate": "Thu, 04 Dec 2025 06:12:54 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "“The short-term setup has shifted into a choppy pullback, with markets watching whether BTC can stabilize within the $90,000–$91,000 support zone,” one trader said."
+  },
+  {
+    "title": "Ripple CEO's Bold Call: Bitcoin to Hit $180K by End of 2026",
+    "link": "https://www.coindesk.com/markets/2025/12/04/ripple-ceo-s-bold-call-bitcoin-to-hit-usd180k-by-end-of-2026",
+    "pubDate": "Thu, 04 Dec 2025 06:11:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Ripple CEO Brad Garlinghouse predicts bitcoin will reach $180,000 by the end of 2026."
+  },
+  {
+    "title": "Ukrainian Police Arrest Two in Alleged Crypto Extortion Murder",
+    "link": "https://decrypt.co/350885/ukrainian-police-arrest-two-in-alleged-crypto-extortion-murder",
+    "pubDate": "Thu, 04 Dec 2025 05:41:19 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Europe accounts for over 30% of nearly 70 wrench attacks documented this year as crypto-fueled violence surges across the continent."
+  },
+  {
+    "title": "Ethereum Price Swells as Fusaka Upgrade Goes Live",
+    "link": "https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live",
+    "pubDate": "Thu, 04 Dec 2025 05:10:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade."
+  },
+  {
+    "title": "BTC at $100K Back on Table as Volatility Shatters Uptrend, Ether Bulls Grow Bolder",
+    "link": "https://www.coindesk.com/markets/2025/12/04/btc-at-usd100k-back-on-table-as-volatility-shatters-uptrend-ether-bulls-grow-bolder",
+    "pubDate": "Thu, 04 Dec 2025 04:52:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "BTC's volatility meltdown offers bullish cues to the spot price."
+  },
+  {
+    "title": "Dogecoin Reclaims Bullish Structure as Whale Activity Hits 2-Month Low",
+    "link": "https://www.coindesk.com/markets/2025/12/04/dogecoin-reclaims-bullish-structure-as-whale-activity-hits-2-month-low",
+    "pubDate": "Thu, 04 Dec 2025 04:26:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Retail investors drove the rally, while whale transactions fell to their lowest in two months."
+  },
+  {
+    "title": "XRP Clears Resistance Channel With Traders Eyeing $2.33-$2.40 Zone",
+    "link": "https://www.coindesk.com/markets/2025/12/04/xrp-clears-resistance-channel-with-traders-eyeing-usd2-33-usd2-40-zone",
+    "pubDate": "Thu, 04 Dec 2025 04:13:52 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Maintaining support above $2.204 is crucial for continued upward movement, while a break above $2.22 could lead to further gains."
+  },
+  {
+    "title": "Bitcoin Short Positions Build Ahead of Potential Fed Rate Cut",
+    "link": "https://decrypt.co/350881/bitcoin-short-positions-build-potential-fed-rate-cut",
+    "pubDate": "Thu, 04 Dec 2025 04:00:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin is trading in a narrow band ahead of the Fed's rate decision, with more than $6 billion in leveraged positions at risk."
+  },
+  {
+    "title": "Crypto Is Edging Further Into Mainstream Finance, BlackRock and Coinbase Chiefs Say",
+    "link": "https://decrypt.co/350878/crypto-further-mainstream-finance-blackrock-coinbase-chiefs",
+    "pubDate": "Thu, 04 Dec 2025 03:35:18 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BlackRock and Coinbase executives discussed Bitcoin, U.S. legislation, tokenization, and market trends on during a joint interview."
+  },
+  {
+    "title": "Asia Morning Briefing: Polymarket Bettors Still Expect Big Strategy Buys Even as Saylor Prepares for a Weak Market",
+    "link": "https://www.coindesk.com/markets/2025/12/04/asia-morning-briefing-prediction-markets-still-expect-big-strategy-buys-even-as-saylor-prepares-for-a-weak-market",
+    "pubDate": "Thu, 04 Dec 2025 02:27:42 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "CryptoQuant’s latest report shows the company preparing for weaker conditions with smaller buys and a growing USD buffer, yet traders continue to price in a playbook built on reflexive accumulation."
+  },
+  {
+    "title": "Connecticut Orders Kalshi, Robinhood, and Crypto.com to Halt 'Unlicensed' Online Gambling",
+    "link": "https://decrypt.co/350874/connecticut-kalshi-robinhood-crypto-com-halt-unlicensed-online-gambling",
+    "pubDate": "Thu, 04 Dec 2025 02:10:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "State regulators have issued cease-and-desist letters alleging that the platforms offered illegal sports-event contracts to Connecticut users."
+  },
+  {
     "title": "Ledger Finds Popular Smartphone Chip Vulnerable to Unpatchable Attacks",
     "link": "https://decrypt.co/350867/ledger-smartphone-chip-vulnerable-unpatchable-attacks",
     "pubDate": "Thu, 04 Dec 2025 00:24:08 +0000",
@@ -77,34 +154,6 @@
     "contentSnippet": "French startup Mistral releases a 4-model AI family, challenging DeepSeek with frontier performance and EU data sovereignty for enterprises wary of Chinese alternatives."
   },
   {
-    "title": "Bitcoin Hovers Near Production Cost as Bull/Bear Line Tightens ",
-    "link": "https://www.coindesk.com/markets/2025/12/03/bitcoin-hovers-near-production-cost-as-bull-bear-line-tightens",
-    "pubDate": "Wed, 03 Dec 2025 20:48:45 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Difficulty and network valuation models point to BTC hovering around fair value near $90,000."
-  },
-  {
-    "title": "Is Bitcoin Treasury Giant Strategy 'Too Big To Fail'?",
-    "link": "https://decrypt.co/350793/strategy-too-big-fail-no",
-    "pubDate": "Wed, 03 Dec 2025 20:48:22 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin treasury company Strategy is not too big to fail, say some company observers, but others disagree."
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang Tells Joe Rogan AI Race Is Real, but It Won’t Have a Clear Winner",
-    "link": "https://www.coindesk.com/tech/2025/12/03/nvidia-ceo-jensen-huang-tells-joe-rogan-ai-race-is-real-but-it-won-t-have-a-clear-winner",
-    "pubDate": "Wed, 03 Dec 2025 20:08:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "In a wide-ranging interview, Huang claims AI growth is gradual, powerful and already changing global power dynamics."
-  },
-  {
-    "title": "Solana Mobile to Launch SKR Token in January With 10B Supply",
-    "link": "https://www.coindesk.com/tech/2025/12/03/solana-mobile-to-launch-skr-token-in-january-with-10b-supply",
-    "pubDate": "Wed, 03 Dec 2025 20:01:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Distribution is designed to go to the ecosystem, With 30% to airdrops, 25% to growth initiatives, and 10% for liquidity and launch support."
-  },
-  {
     "title": "CryptoQuant says Strategy prepares for a bitcoin bear market as it sets up US dollar reserve",
     "link": "https://www.theblock.co/post/381270/cryptoquant-strategy-bitcoin-bear-market-us-dollar-reserve?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 03 Dec 2025 14:43:33 -0500",
@@ -117,27 +166,6 @@
     "pubDate": "Wed, 03 Dec 2025 14:34:00 -0500",
     "source": "The Block",
     "contentSnippet": "The SKR token, native to Solana mobile ecosystem, is designed to power control, economics, incentives, and ownership."
-  },
-  {
-    "title": "Coinbase CEO Armstrong Says Banks That Don't Adapt Stablecoin Will be 'Left Behind'",
-    "link": "https://www.coindesk.com/business/2025/12/03/coinbase-is-partnering-with-major-u-s-banks-on-stablecoin-and-crypto-pilots",
-    "pubDate": "Wed, 03 Dec 2025 19:33:29 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "CEO Brian Armstrong said top banks are \"leaning into this as an opportunity,\" signaling Wall Street’s quiet embrace of crypto infrastructure."
-  },
-  {
-    "title": "Was the Bitcoin Jump a 'Fake Breakout'?",
-    "link": "https://decrypt.co/350787/was-bitcoin-jump-fake-breakout",
-    "pubDate": "Wed, 03 Dec 2025 19:23:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin surged on Tuesday but lost momentum. Analysts debate whether the rally will last as markets brace for the Federal Reserve's rate decision next week."
-  },
-  {
-    "title": "Polymarket Launches App With CFTC Green Light in U.S. Return",
-    "link": "https://www.coindesk.com/markets/2025/12/03/polymarket-launches-app-with-cftc-green-light-in-u-s-return",
-    "pubDate": "Wed, 03 Dec 2025 19:23:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Armed with CFTC approval, Polymarket has launched its mobile platform for sports and proposition markets under federal oversight."
   },
   {
     "title": "Franklin Templeton launches Solana ETF, expanding Wall Street’s crypto offerings",
@@ -154,20 +182,6 @@
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
   },
   {
-    "title": "Crypto UP 7-10%, Bank of America recommends crypto, Kalshi raise $11B",
-    "link": "https://decrypt.co/videos/interviews/kLKB13oZ/crypto-up-7-10-bank-of-america-recommends-crypto-kalshi-raise-11b",
-    "pubDate": "Wed, 03 Dec 2025 18:32:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Crypto majors are sharply higher, climbing 6–10% following Vanguard’s crypto debut and supportive commentary from Bank of America, with BTC up 6% to $92,900, ETH up 9% to $3,070, BNB up 7% to $899, an"
-  },
-  {
-    "title": "Filecoin Gains 2% Alongside Crypto Rally",
-    "link": "https://www.coindesk.com/markets/2025/12/03/filecoin-gains-2-alongside-crypto-rally",
-    "pubDate": "Wed, 03 Dec 2025 17:38:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token tracked broader crypto sentiment on below-average volume, establishing an ascending trend."
-  },
-  {
     "title": "IREN refuels balance sheet with $3.6 billion financing as AI-cloud buildout accelerates",
     "link": "https://www.theblock.co/post/381250/iren-refuels-balance-sheet-3-6-billion-financing-ai-cloud-buildout?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 03 Dec 2025 12:04:58 -0500",
@@ -182,13 +196,6 @@
     "contentSnippet": "The CFTC banned Polymarket from operating in the U.S. in 2022 for operating an unregistered derivatives exchange."
   },
   {
-    "title": "Eric Trump’s American Bitcoin Steadies After ‘First Major Unlock' of Shares",
-    "link": "https://decrypt.co/350775/eric-trumps-american-bitcoin-steadies-unlock",
-    "pubDate": "Wed, 03 Dec 2025 16:24:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The stock was volatile after insiders took profits."
-  },
-  {
     "title": "Harvard alumni-founded Ostium lands $24 million in fresh funding to scale onchain perpetuals for RWAs",
     "link": "https://www.theblock.co/post/381241/harvard-alumni-founded-ostium-lands-24-million-in-fresh-funding-to-scale-onchain-perpetuals-for-rwas?utm_source=rss&utm_medium=rss",
     "pubDate": "Wed, 03 Dec 2025 10:43:08 -0500",
@@ -201,13 +208,6 @@
     "pubDate": "Wed, 03 Dec 2025 09:56:20 -0500",
     "source": "The Block",
     "contentSnippet": "Upcoming U.S. policy changes, 401(k) access, and pro-crypto regulatory momentum create a stronger medium-term backdrop for bitcoin, K33 said."
-  },
-  {
-    "title": "Bitcoin back above $92K, BlackRock bullish on a tokenized future, Kalshi raise $11B - Daily Crypto Recap",
-    "link": "https://decrypt.co/videos/interviews/ImN1EVr6/bitcoin-back-above-92k-blackrock-bullish-on-a-tokenized-future-kalshi-raise-11b-daily-crypto-recap",
-    "pubDate": "Wed, 03 Dec 2025 14:32:33 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Your Decrypt daily recap with @tyler_did_it for December 3rd 2025\n\nToday’s headlines: BTC jumps back above $92K, BlackRock bullish on tokenized assets, Kalshi raise $11B, & more"
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
