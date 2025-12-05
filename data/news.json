@@ -1,38 +1,185 @@
 [
   {
-    "title": "Switch to Long-Term Thinking: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/12/05/switch-to-long-term-thinking-crypto-daybook-americas",
-    "pubDate": "Fri, 05 Dec 2025 12:29:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Dec. 5, 2025"
-  },
-  {
-    "title": "Bitcoin ETFs Just Shed $194 Million—Highest in Two Weeks",
-    "link": "https://decrypt.co/351065/bitcoin-etfs-just-shed-194-million-highest-in-two-weeks",
-    "pubDate": "Fri, 05 Dec 2025 12:19:06 +0000",
+    "title": "Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise",
+    "link": "https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise",
+    "pubDate": "Fri, 05 Dec 2025 17:56:10 +0000",
     "source": "Decrypt",
-    "contentSnippet": "Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades."
+    "contentSnippet": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green."
   },
   {
-    "title": "Crypto Markets Today: Bitcoin Slides to $91K as ETF Outflows Deepen Market Anxiety",
-    "link": "https://www.coindesk.com/markets/2025/12/05/crypto-markets-today-bitcoin-slides-to-usd91k-as-etf-outflows-deepen-market-anxiety",
-    "pubDate": "Fri, 05 Dec 2025 11:46:43 +0000",
+    "title": "New IMF Report Warns of Stablecoin Risk, Sparking Criticism From Experts",
+    "link": "https://www.coindesk.com/policy/2025/12/05/new-imf-report-warns-of-stablecoin-risk-sparking-criticism-from-experts",
+    "pubDate": "Fri, 05 Dec 2025 17:46:55 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin’s early week rally unraveled as sharp ETF outflows, aggressive derivatives deleveraging and muted altcoin reactions to catalysts pulled the broader crypto market lower."
+    "contentSnippet": "The IMF released a report that campaigns in favor of CBDCs and warns against the risk stablecoins represent, sparking criticism among crypto experts."
   },
   {
-    "title": "EU Seeks to Transfer Crypto Oversight to Bloc's Securities and Markets Authority",
-    "link": "https://www.coindesk.com/policy/2025/12/05/eu-seeks-to-transfer-crypto-oversight-to-bloc-s-securities-and-markets-authority",
-    "pubDate": "Fri, 05 Dec 2025 11:25:53 +0000",
+    "title": "Trump's National Security Strategy Gives Reality Check to Crypto's Low Interest Rate Obsession",
+    "link": "https://www.coindesk.com/markets/2025/12/05/trump-s-national-strategy-gives-reality-check-to-crypto-s-low-rate-obsession",
+    "pubDate": "Fri, 05 Dec 2025 17:25:38 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "The European Commission wants to get rid of fragmentation from differing supervisory approaches in member states."
+    "contentSnippet": "The White House's new National Security Strategy emphasizes increased global fiscal expansion and military spending."
   },
   {
-    "title": "BlackRock’s IBIT Faces Record Outflow Run as Bitcoin Struggles to Reclaim Bull Trend",
-    "link": "https://www.coindesk.com/markets/2025/12/05/blackrock-s-ibit-faces-record-outflow-run-as-bitcoin-struggles-to-reclaim-bull-trend",
-    "pubDate": "Fri, 05 Dec 2025 10:53:03 +0000",
+    "title": "Hedera Drops Alongside Broader Crypto Market Amid Volume Spike",
+    "link": "https://www.coindesk.com/markets/2025/12/05/hedera-drops-alongside-broader-crypto-market-amid-volume-spike",
+    "pubDate": "Fri, 05 Dec 2025 17:05:55 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "Another $113 million exited on Thursday, putting the fund on track for a sixth week in the red, its longest streak since debuting in early 2024."
+    "contentSnippet": "Hedera's token retreats despite fresh institutional product speculation driving broader altcoin momentum."
+  },
+  {
+    "title": "US Prosecutors Seek 12-Year Sentence for Terraform Founder Do Kwon in Crypto Fraud Case",
+    "link": "https://www.coindesk.com/policy/2025/12/05/us-prosecutors-seek-12-year-sentence-for-terraform-founder-do-kwon-in-crypto-fraud-case",
+    "pubDate": "Fri, 05 Dec 2025 16:58:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The collapse of Do Kwon's Terraform project caused losses that surpassed those by Sam Bankman-Fried's FTX, Celsius and OneCoin combined, the prosecutors argued."
+  },
+  {
+    "title": "WisdomTree first to market with Ethereum staking fund using Lido’s stETH",
+    "link": "https://www.theblock.co/post/381549/wisdomtree-first-market-ethereum-staking-fund-lido-steth?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 11:56:15 -0500",
+    "source": "The Block",
+    "contentSnippet": "WisdomTree introduced an Ethereum-based fund in Europe that earns staking rewards using the decentralized Lido protocol."
+  },
+  {
+    "title": "Strive urges MSCI to ‘let the market decide’ on Bitcoin treasury companies",
+    "link": "https://www.theblock.co/post/381538/strive-urges-msci-market-decide-bitcoin-treasury-companies?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 11:46:30 -0500",
+    "source": "The Block",
+    "contentSnippet": "Strive said the proposal could lead to uneven results worldwide because companies report Bitcoin differently under various accounting rules."
+  },
+  {
+    "title": "Indiana Lawmaker Pushes for Bitcoin in Pensions, Crypto Payment Protections",
+    "link": "https://decrypt.co/351112/indiana-lawmaker-pushes-bitcoin-pensions-crypto-payment-protections",
+    "pubDate": "Fri, 05 Dec 2025 16:40:11 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A lawmaker in Indiana introduced legislation that would broaden access to Bitcoin and crypto exposure for savers in the Midwestern state."
+  },
+  {
+    "title": "US prosecutors push for 12-year prison sentence for Terraform co-founder Do Kwon’s role in $40 billion collapse",
+    "link": "https://www.theblock.co/post/381543/us-prosecutors-12-year-prison-terraform-do-kwon-role-40-billion-collapse?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 11:35:02 -0500",
+    "source": "The Block",
+    "contentSnippet": "U.S. prosecutors say Do Kwon should get 12 years in prison for his role in the remarkable $40 billion dollar collapse of Terra."
+  },
+  {
+    "title": "Trump DOJ Wants Terra Founder Do Kwon Behind Bars for 12 Years, Citing SBF Sentence",
+    "link": "https://decrypt.co/351106/trump-doj-wants-terra-founder-do-kwon-behind-bars-12-years-sbf",
+    "pubDate": "Fri, 05 Dec 2025 16:33:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Federal prosecutors reserved the right to pursue up to 12 years for Terra founder Do Kwon in an August plea deal. Now, they’re seeking that maximum."
+  },
+  {
+    "title": "Maryland Man Sentenced for Helping North Korea Infiltrate US Tech Firms",
+    "link": "https://decrypt.co/351103/maryland-man-sentenced-for-helping-north-korea-infiltrate-u-s-tech-firms",
+    "pubDate": "Fri, 05 Dec 2025 16:03:30 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The scheme enabled overseas DPRK operatives to access sensitive government systems through fraudulent IT jobs."
+  },
+  {
+    "title": "2-4% Crypto Dip! Sovereign Wealth Funds Buying BTC! CTFC approves U.S. Spot Crypto!",
+    "link": "https://decrypt.co/videos/interviews/tUN6hCk7/2-4-crypto-dip-sovereign-wealth-funds-buying-btc-ctfc-approves-us-spot-crypto",
+    "pubDate": "Fri, 05 Dec 2025 15:55:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Crypto majors were broadly lower, falling 2–4% with BTC down 2% at $91,400, ETH down 2% at $3,130, BNB down 2% at $893, and SOL down 4% at $136, while ZEC (+4%) and TRX (+2%) led the day’s top movers."
+  },
+  {
+    "title": "Turkey's Paribu Buys CoinMENA in $240M Deal, Expanding Into High-Growth Crypto Markets",
+    "link": "https://www.coindesk.com/business/2025/12/05/turkey-s-paribu-buys-coinmena-in-usd240m-deal-expanding-into-high-growth-crypto-markets",
+    "pubDate": "Fri, 05 Dec 2025 15:51:05 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "With the acquisition, Paribu gains regulatory foothold in Bahrain and Dubai and access to the region's fast-growing crypto user base."
+  },
+  {
+    "title": "MARA Trades at a Premium Factoring in Its Debt, Not a Discount: VanEck’s Sigel",
+    "link": "https://www.coindesk.com/markets/2025/12/05/mara-trades-at-a-premium-factoring-in-its-debt-not-a-discount-vaneck-s-sigel",
+    "pubDate": "Fri, 05 Dec 2025 15:38:24 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "VanEck’s Matthew Sigel argues MARA’s valuation looks expensive when adjusted for its leverage and capital structure."
+  },
+  {
+    "title": "Has the DAT Bubble Already Burst? CoinShares Says In Many Ways, Yes.",
+    "link": "https://www.coindesk.com/markets/2025/12/05/has-the-dat-bubble-already-burst-coinshares-says-in-many-ways-yes",
+    "pubDate": "Fri, 05 Dec 2025 15:30:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Digital-asset treasury plays that once traded at big premiums have fallen back toward net asset value."
+  },
+  {
+    "title": "The Dollar Is Crumbling. Fiat-Backed Stablecoins Are Next",
+    "link": "https://www.coindesk.com/opinion/2025/12/05/the-dollar-is-crumbling-fiat-backed-stablecoins-are-next",
+    "pubDate": "Fri, 05 Dec 2025 15:23:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "One possible solution is a new kind of stablecoin whose value is pegged to a real-world, physical stockpile of gold, argues Algoz’ Stephen Wundke."
+  },
+  {
+    "title": "European Crypto Scam Network Dismantled After Laundering $815M",
+    "link": "https://www.coindesk.com/policy/2025/12/05/european-crypto-scam-network-dismantled-after-laundering-usd815m",
+    "pubDate": "Fri, 05 Dec 2025 15:22:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Authorities across Europe took down a massive crypto fraud and laundering network tied to fake investment platforms, deepfake ads and call-center operations."
+  },
+  {
+    "title": "Strategy Stock Still a Buy at Cantor After Plunge Forces Major Price Target Cut",
+    "link": "https://www.coindesk.com/markets/2025/12/05/cantor-slashes-mstr-price-target-but-stays-bullish-on-bitcoin-strategy-amid-market-pressures",
+    "pubDate": "Fri, 05 Dec 2025 15:20:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Lower adjusted net asset value multiple means Strategy can no longer issue equity at a premium, threatening its long-term plan to accumulate more bitcoin, analyst Brett Knoblauch wrote."
+  },
+  {
+    "title": "Beeple Made Robot Dogs With Musk, Zuckerberg, and Warhol Heads That Poop NFTs",
+    "link": "https://decrypt.co/351080/beeple-made-robot-dogs-with-musk-zuckerberg-and-warhol-heads-that-poop-nfts",
+    "pubDate": "Fri, 05 Dec 2025 14:16:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The installation at Art Basel is framed as a critique of algorithmic control, merging machine perception with on-chain “memories.”"
+  },
+  {
+    "title": "XRP ETFs near $1 Billion, Sovereign wealth funds buying Bitcoin, CFTC approves U.S spot crypto trading - Daily Crypto Recap",
+    "link": "https://decrypt.co/videos/interviews/a9gidnnr/xrp-etfs-near-1-billion-sovereign-wealth-funds-buying-bitcoin-cftc-approves-us-spot-crypto-trading-daily-crypto-recap",
+    "pubDate": "Fri, 05 Dec 2025 14:14:10 +0000",
+    "source": "Decrypt",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Turkey’s Paribu to buy CoinMENA in deal worth up to $240 million, adding Dubai and Bahrain licenses",
+    "link": "https://www.theblock.co/post/381511/turkeys-paribu-to-buy-coinmena-in-deal-worth-up-to-240-million-adding-dubai-and-bahrain-licenses?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 09:04:24 -0500",
+    "source": "The Block",
+    "contentSnippet": "Paribu has acquired CoinMENA in a transaction valued at up to $240M, expanding the platform’s regulated footprint into Dubai and Bahrain."
+  },
+  {
+    "title": "‘I’m not betting on a markup this month’: Lawyer outlines three issues still holding up the crypto market structure bill",
+    "link": "https://www.theblock.co/post/381512/lawyer-outlines-three-issues-still-holding-up-crypto-market-structure-bill?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 08:46:18 -0500",
+    "source": "The Block",
+    "contentSnippet": "Senate negotiators are struggling to finalize a bill as disputes over stablecoin yield, conflicts of interest, and DeFi slow progress."
+  },
+  {
+    "title": "Morning Minute: The CFTC Just Approved US Spot Crypto Trading",
+    "link": "https://decrypt.co/351078/morning-minute-the-cftc-just-approved-u-s-spot-crypto-trading",
+    "pubDate": "Fri, 05 Dec 2025 13:46:03 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Spot crypto trading is now cleared to go live with any CFTC-registered exchange, bringing down another barrier to institutional adoption."
+  },
+  {
+    "title": "India's DRI Says Smugglers Ditching Hawala Networks for Stablecoins",
+    "link": "https://decrypt.co/351077/indias-dri-says-smugglers-ditching-hawala-networks-for-stablecoins",
+    "pubDate": "Fri, 05 Dec 2025 13:21:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "In a new report, the anti-smuggling agency warns stablecoins like USDT are replacing hawala networks in transnational criminal operations."
+  },
+  {
+    "title": "Crypto sleuth ZachXBT claims British threat actor tied to $243 million Genesis creditor theft ‘likely arrested’",
+    "link": "https://www.theblock.co/post/381481/crypto-sleuth-zachxbt-claims-british-threat-actor-tied-to-243-million-genesis-creditor-theft-likely-arrested?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 07:51:02 -0500",
+    "source": "The Block",
+    "contentSnippet": "A British hacker tied to the $243 million Genesis creditor theft has possibly been arrested in Dubai, according to onchain sleuth ZachXBT."
+  },
+  {
+    "title": "Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts",
+    "link": "https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts",
+    "pubDate": "Fri, 05 Dec 2025 12:47:27 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty."
   },
   {
     "title": "International operation busts crypto fraud network that laundered more than $815 million",
@@ -42,32 +189,11 @@
     "contentSnippet": "Coordinated raids led to arrests, multimillion-dollar seizures, and the disruption of key infrastructure, according to Europol."
   },
   {
-    "title": "Polymarket Hiring In-House Team to Trade Against Customers — Here's Why It's a Risk",
-    "link": "https://www.coindesk.com/business/2025/12/05/polymarket-hiring-in-house-team-to-trade-against-customers-here-s-why-it-s-a-risk",
-    "pubDate": "Fri, 05 Dec 2025 10:34:44 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The prediction market’s move toward internal market making could blur the line with sportsbooks and undermine the platform’s neutrality, experts warn."
-  },
-  {
     "title": "Italy warns crypto firms to meet year-end MiCA deadline or shut down",
     "link": "https://www.theblock.co/post/381478/italy-warns-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 05 Dec 2025 03:57:00 -0500",
     "source": "The Block",
     "contentSnippet": "Italy's regulator reminded crypto firms and investors to pay close attention to the Dec. 30 deadline for complying with the EU's MiCA rules."
-  },
-  {
-    "title": "Kraken Launches High-Touch VIP Program for Ultra High Net Worth Clients ",
-    "link": "https://www.coindesk.com/business/2025/12/05/kraken-launches-high-touch-vip-program-for-ultra-high-net-worth-clients",
-    "pubDate": "Fri, 05 Dec 2025 07:25:21 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Kraken VIP members are paired with a specialist relationship manager, backed by 24/7 support and early insight into Kraken’s full product ecosystem."
-  },
-  {
-    "title": "Italy Launches 'In-Depth' Review of Crypto Risks",
-    "link": "https://decrypt.co/351032/italy-launches-in-depth-review-of-crypto-risks",
-    "pubDate": "Fri, 05 Dec 2025 06:50:24 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Regulators launch probe months after Italy's central bank warned that crypto's mainstream integration poses systemic financial dangers."
   },
   {
     "title": "Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks",
@@ -77,137 +203,11 @@
     "contentSnippet": "The ETFs' trading volume fell to $3.1 billion on Thursday, compared to $4.2 billion on Wednesday and $5.3 billion on Tuesday."
   },
   {
-    "title": "Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus",
-    "link": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
-    "pubDate": "Fri, 05 Dec 2025 05:57:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high."
-  },
-  {
-    "title": "EU Opens Antitrust Probe Into Meta's New AI Policy For WhatsApp",
-    "link": "https://decrypt.co/351029/eu-opens-antitrust-probe-meta-new-ai-policy-whatsapp",
-    "pubDate": "Fri, 05 Dec 2025 05:29:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The EU Commission’s probe excludes Italy, where the country's competition authority is already pursuing separate proceedings against Meta."
-  },
-  {
-    "title": "DOGE ETF Buzz Meets Bearish Reality as Dogecoin Prints Fresh Lower Lows",
-    "link": "https://www.coindesk.com/markets/2025/12/05/doge-etf-buzz-meets-bearish-reality-as-dogecoin-prints-fresh-lower-lows",
-    "pubDate": "Fri, 05 Dec 2025 04:47:12 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Technical analysis shows DOGE failed to hold key support levels, suggesting continued downside unless buyers reclaim critical price points."
-  },
-  {
-    "title": "Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'",
-    "link": "https://decrypt.co/351021/precious-metals-soar-bitcoin-stalls-investors-hedge-fed-policy-error",
-    "pubDate": "Fri, 05 Dec 2025 04:43:42 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk."
-  },
-  {
-    "title": "XRP at Risk of $2.05 Retest, Analysts Warn, as Bitcoin Gives Back Weekly Gains",
-    "link": "https://www.coindesk.com/markets/2025/12/05/xrp-at-risk-of-usd2-05-retest-analysts-warn-as-bitcoin-gives-back-weekly-gains",
-    "pubDate": "Fri, 05 Dec 2025 04:39:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Spot XRP ETFs have now attracted nearly $850 million in inflows since launching in mid-November — one of the strongest altcoin ETF starts on record — suggesting long-horizon capital continues to accum"
-  },
-  {
-    "title": "Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report",
-    "link": "https://www.coindesk.com/markets/2025/12/05/here-s-how-much-btc-eth-sol-xrp-may-move-on-friday-s-inflation-report",
-    "pubDate": "Fri, 05 Dec 2025 04:00:15 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies."
-  },
-  {
     "title": "IMF warns stablecoins may accelerate currency substitution, weaken central bank control",
     "link": "https://www.theblock.co/post/381467/imf-warns-stablecoins-may-accelerate-currency-substitution?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 04 Dec 2025 22:58:37 -0500",
     "source": "The Block",
     "contentSnippet": "The IMF warned that stablecoins could speed up currency substitution in countries with weak monetary systems."
-  },
-  {
-    "title": "OpenAI Ordered to Hand Over 20M ChatGPT Logs in NYT Copyright Case",
-    "link": "https://decrypt.co/351000/openai-ordered-20m-chatgpt-logs-nyt-copyright-case",
-    "pubDate": "Fri, 05 Dec 2025 03:57:48 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A federal judge rejected OpenAI’s bid to limit discovery, directing the company to produce de-identified user logs central to the case."
-  },
-  {
-    "title": "Stablecoin Adoption Could Stifle Central Bank Control, IMF Warns",
-    "link": "https://decrypt.co/350996/stablecoin-adoption-could-stifle-central-bank-control-imf-warns",
-    "pubDate": "Thu, 04 Dec 2025 22:58:18 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Stablecoins have the potential to broaden individuals’ access to financial services, but that may come at the cost of central banks, per IMF."
-  },
-  {
-    "title": "JPMorgan says Strategy’s resilience is key to bitcoin’s price direction in the near term",
-    "link": "https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 17:39:36 -0500",
-    "source": "The Block",
-    "contentSnippet": "JPMorgan reiterated that its bitcoin-to-gold model still points to a theoretical price of about $170,000 in the next 6–12 months."
-  },
-  {
-    "title": "First Sui-based ETF approved as 21Shares brings leveraged fund to market",
-    "link": "https://www.theblock.co/post/381451/first-sui-etf-approved-21shares-leveraged-fund-market?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 17:18:06 -0500",
-    "source": "The Block",
-    "contentSnippet": "The 21Shares 2x SUI ETF (TXXS) marks the 74th crypto ETF to launch this year and the 128th overall, according to Bloomberg."
-  },
-  {
-    "title": "TON treasury files $420.69 million meme shelf registration to invest in tokens and Telegram AI ecosystem",
-    "link": "https://www.theblock.co/post/381452/ton-treasury-files-420-69-million-meme-shelf-registration-invest-tokens-telegram-ai?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 17:07:35 -0500",
-    "source": "The Block",
-    "contentSnippet": "AlphaTON will expand its investments in TON tokens, the Telegram mini app ecosystem, and the recently launched Cocoon AI network."
-  },
-  {
-    "title": "Ripple CEO Brad Garlinghouse Expects Bitcoin to Hit $180K Next Year",
-    "link": "https://decrypt.co/350988/ripple-ceo-brad-garlinghouse-expects-bitcoin-180k-next-year",
-    "pubDate": "Thu, 04 Dec 2025 22:04:45 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Ripple CEO Brad Garlinghouse thinks Bitcoin will be trading at $180,000 at the close of 2026, nearly double the current price."
-  },
-  {
-    "title": "Myriad Moves: Bitcoin and Ethereum Recovery Odds Rise as Traders Flip Bullish",
-    "link": "https://decrypt.co/350986/myriad-moves-bitcoin-ethereum-recovery-odds-rise-traders-flip-bullish",
-    "pubDate": "Thu, 04 Dec 2025 21:36:01 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event."
-  },
-  {
-    "title": "Tokenization debate reveals gaps in perspectives between TradeFi and crypto on decentralization during SEC panel meeting",
-    "link": "https://www.theblock.co/post/381443/tokenization-debate-perspectives-tradefi-crypto-decentralization-sec-panel?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 16:30:05 -0500",
-    "source": "The Block",
-    "contentSnippet": "As tokenization gains momentum, Wall Street and crypto executives revealed some potential rifts on how the SEC should regulate it."
-  },
-  {
-    "title": "Solana and Ethereum Network Base Are Now Connected Thanks to Coinbase and Chainlink",
-    "link": "https://decrypt.co/350987/solana-ethereum-network-base-connected-coinbase-chainlink",
-    "pubDate": "Thu, 04 Dec 2025 21:25:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Solana and Base are now connected thanks to a new bridge secured by Chainlink's interoperability protocol and crypto exchange Coinbase."
-  },
-  {
-    "title": "Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana",
-    "link": "https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 15:58:01 -0500",
-    "source": "The Block",
-    "contentSnippet": "Popular Ethereum Layer 2 Base will now support Solana-based assets natively, and enable the export of Base assets onto Solana."
-  },
-  {
-    "title": "Privacy-First 'Alien' Identity System Aims to Prove Users Are Human in the Age of AI",
-    "link": "https://decrypt.co/350974/privacy-first-alien-identity-system-prove-users-human-age-ai",
-    "pubDate": "Thu, 04 Dec 2025 20:29:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Alien’s privacy-focused decentralized app verifies users without storing biometrics or government IDs. Here's how it works."
-  },
-  {
-    "title": "Breakout Ethereum perps DEX Lighter rolls out spot trading",
-    "link": "https://www.theblock.co/post/381427/breakout-ethereum-perps-dex-lighter-rolls-out-spot-trading?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 14:25:02 -0500",
-    "source": "The Block",
-    "contentSnippet": "Lighter also recently rolled out equities perp trading, starting with COIN and HOOD, and expanded foreign exchange offerings."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
