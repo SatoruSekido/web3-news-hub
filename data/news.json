@@ -1,5 +1,82 @@
 [
   {
+    "title": "Switch to Long-Term Thinking: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/12/05/switch-to-long-term-thinking-crypto-daybook-americas",
+    "pubDate": "Fri, 05 Dec 2025 12:29:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Dec. 5, 2025"
+  },
+  {
+    "title": "Bitcoin ETFs Just Shed $194 Million—Highest in Two Weeks",
+    "link": "https://decrypt.co/351065/bitcoin-etfs-just-shed-194-million-highest-in-two-weeks",
+    "pubDate": "Fri, 05 Dec 2025 12:19:06 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades."
+  },
+  {
+    "title": "Crypto Markets Today: Bitcoin Slides to $91K as ETF Outflows Deepen Market Anxiety",
+    "link": "https://www.coindesk.com/markets/2025/12/05/crypto-markets-today-bitcoin-slides-to-usd91k-as-etf-outflows-deepen-market-anxiety",
+    "pubDate": "Fri, 05 Dec 2025 11:46:43 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bitcoin’s early week rally unraveled as sharp ETF outflows, aggressive derivatives deleveraging and muted altcoin reactions to catalysts pulled the broader crypto market lower."
+  },
+  {
+    "title": "EU Seeks to Transfer Crypto Oversight to Bloc's Securities and Markets Authority",
+    "link": "https://www.coindesk.com/policy/2025/12/05/eu-seeks-to-transfer-crypto-oversight-to-bloc-s-securities-and-markets-authority",
+    "pubDate": "Fri, 05 Dec 2025 11:25:53 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The European Commission wants to get rid of fragmentation from differing supervisory approaches in member states."
+  },
+  {
+    "title": "BlackRock’s IBIT Faces Record Outflow Run as Bitcoin Struggles to Reclaim Bull Trend",
+    "link": "https://www.coindesk.com/markets/2025/12/05/blackrock-s-ibit-faces-record-outflow-run-as-bitcoin-struggles-to-reclaim-bull-trend",
+    "pubDate": "Fri, 05 Dec 2025 10:53:03 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Another $113 million exited on Thursday, putting the fund on track for a sixth week in the red, its longest streak since debuting in early 2024."
+  },
+  {
+    "title": "International operation busts crypto fraud network that laundered more than $815 million",
+    "link": "https://www.theblock.co/post/381485/international-operation-busts-crypto-fraud-network-that-laundered-more-than-815-million?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 05:37:06 -0500",
+    "source": "The Block",
+    "contentSnippet": "Coordinated raids led to arrests, multimillion-dollar seizures, and the disruption of key infrastructure, according to Europol."
+  },
+  {
+    "title": "Polymarket Hiring In-House Team to Trade Against Customers — Here's Why It's a Risk",
+    "link": "https://www.coindesk.com/business/2025/12/05/polymarket-hiring-in-house-team-to-trade-against-customers-here-s-why-it-s-a-risk",
+    "pubDate": "Fri, 05 Dec 2025 10:34:44 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The prediction market’s move toward internal market making could blur the line with sportsbooks and undermine the platform’s neutrality, experts warn."
+  },
+  {
+    "title": "Italy warns crypto firms to meet year-end MiCA deadline or shut down",
+    "link": "https://www.theblock.co/post/381478/italy-warns-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 03:57:00 -0500",
+    "source": "The Block",
+    "contentSnippet": "Italy's regulator reminded crypto firms and investors to pay close attention to the Dec. 30 deadline for complying with the EU's MiCA rules."
+  },
+  {
+    "title": "Kraken Launches High-Touch VIP Program for Ultra High Net Worth Clients ",
+    "link": "https://www.coindesk.com/business/2025/12/05/kraken-launches-high-touch-vip-program-for-ultra-high-net-worth-clients",
+    "pubDate": "Fri, 05 Dec 2025 07:25:21 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Kraken VIP members are paired with a specialist relationship manager, backed by 24/7 support and early insight into Kraken’s full product ecosystem."
+  },
+  {
+    "title": "Italy Launches 'In-Depth' Review of Crypto Risks",
+    "link": "https://decrypt.co/351032/italy-launches-in-depth-review-of-crypto-risks",
+    "pubDate": "Fri, 05 Dec 2025 06:50:24 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Regulators launch probe months after Italy's central bank warned that crypto's mainstream integration poses systemic financial dangers."
+  },
+  {
+    "title": "Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks",
+    "link": "https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 05 Dec 2025 01:42:18 -0500",
+    "source": "The Block",
+    "contentSnippet": "The ETFs' trading volume fell to $3.1 billion on Thursday, compared to $4.2 billion on Wednesday and $5.3 billion on Tuesday."
+  },
+  {
     "title": "Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus",
     "link": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
     "pubDate": "Fri, 05 Dec 2025 05:57:26 +0000",
@@ -54,13 +131,6 @@
     "pubDate": "Fri, 05 Dec 2025 03:57:48 +0000",
     "source": "Decrypt",
     "contentSnippet": "A federal judge rejected OpenAI’s bid to limit discovery, directing the company to produce de-identified user logs central to the case."
-  },
-  {
-    "title": "Asia Morning Briefing: Crypto’s Next Breakout Will Come From Infrastructure, Not Narratives, Hashed Says",
-    "link": "https://www.coindesk.com/markets/2025/12/05/asia-morning-briefing-crypto-s-next-breakout-will-come-from-infrastructure-not-narratives-hashed-says",
-    "pubDate": "Fri, 05 Dec 2025 02:29:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Korean venture firm’s 2026 thesis argues that stablecoins, AI agents, and on-chain credit markets are becoming the foundation of a real digital economy, with Asia emerging as the first region wher"
   },
   {
     "title": "Stablecoin Adoption Could Stifle Central Bank Control, IMF Warns",
@@ -119,25 +189,11 @@
     "contentSnippet": "Solana and Base are now connected thanks to a new bridge secured by Chainlink's interoperability protocol and crypto exchange Coinbase."
   },
   {
-    "title": "Canton Network Creator Snags Strategic Investment from Wall Street Giants",
-    "link": "https://www.coindesk.com/business/2025/12/04/canton-network-creator-snags-strategic-investment-from-wall-street-giants",
-    "pubDate": "Thu, 04 Dec 2025 21:12:22 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BNY, Nasdaq, iCapital and S&P Global invested in Digital Assets, powering blockchain infrastructure for tokenized real-world assets."
-  },
-  {
     "title": "Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana",
     "link": "https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 04 Dec 2025 15:58:01 -0500",
     "source": "The Block",
     "contentSnippet": "Popular Ethereum Layer 2 Base will now support Solana-based assets natively, and enable the export of Base assets onto Solana."
-  },
-  {
-    "title": "Kraken Partners With Deutsche Börse as Europe Looks to Rival Wall Street in Crypto",
-    "link": "https://www.coindesk.com/business/2025/12/04/kraken-partners-with-deutsche-boerse-as-europe-looks-to-rival-wall-street-in-crypto",
-    "pubDate": "Thu, 04 Dec 2025 20:38:59 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Deutsche Börse Group (DBG) and Kraken announced a strategic partnership signalling acceleration of crypto adoption across Europe and a clear intention to compete with Wall Street."
   },
   {
     "title": "Privacy-First 'Alien' Identity System Aims to Prove Users Are Human in the Age of AI",
@@ -147,67 +203,11 @@
     "contentSnippet": "Alien’s privacy-focused decentralized app verifies users without storing biometrics or government IDs. Here's how it works."
   },
   {
-    "title": "After Faking Death, Zerebro Founder Unveils AI-Penned Manifesto and New Solana Coin",
-    "link": "https://decrypt.co/350928/faking-death-zerebro-founder-unveils-ai-manifesto-solana-coin",
-    "pubDate": "Thu, 04 Dec 2025 20:22:37 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The manifesto argues for a future in which AI and humans will converge biologically, chemically, and surgically in a new form of humanity."
-  },
-  {
-    "title": "Bitcoin Could Continue Chopping Below $95K Into Year-End and Altcoins Could Benefit, Analyst Says",
-    "link": "https://www.coindesk.com/daybook-us/2025/12/04/bitcoin-could-continue-chopping-below-usd95k-into-year-end-as-altcoins-may-outperform-analyst-says",
-    "pubDate": "Thu, 04 Dec 2025 20:20:03 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Low-liquidity in December may cap bitcoin's recovery rally, but rangebound trading for the largest crypto could benefit smaller digital assets, Wincent's Paul Howard said."
-  },
-  {
     "title": "Breakout Ethereum perps DEX Lighter rolls out spot trading",
     "link": "https://www.theblock.co/post/381427/breakout-ethereum-perps-dex-lighter-rolls-out-spot-trading?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 04 Dec 2025 14:25:02 -0500",
     "source": "The Block",
     "contentSnippet": "Lighter also recently rolled out equities perp trading, starting with COIN and HOOD, and expanded foreign exchange offerings."
-  },
-  {
-    "title": "CFTC Gives Green Light to Spot Crypto Trading as Bitnomial Exchange Readies for Launch",
-    "link": "https://decrypt.co/350957/cftc-gives-green-light-spot-crypto-trading-bitnomial-exchange",
-    "pubDate": "Thu, 04 Dec 2025 19:19:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Acting CFTC Chair Caroline Pham described the move as unprecedented."
-  },
-  {
-    "title": "Kalshi inks exclusive CNBC deal as prediction markets surge into mainstream media",
-    "link": "https://www.theblock.co/post/381415/kalshi-exclusive-cnbc-deal-prediction-markets-surge-mainstream-media?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 14:00:52 -0500",
-    "source": "The Block",
-    "contentSnippet": "Between Kalshi and Polymarket, the two prediction markets platforms have generated a cumulative volume exceeding $45 billion."
-  },
-  {
-    "title": "Coinbase, Chainlink Introduce Base-Solana Bridge to Link Ecosystems",
-    "link": "https://www.coindesk.com/web3/2025/12/04/coinbase-chainlink-introduce-base-solana-bridge-to-link-ecosystems",
-    "pubDate": "Thu, 04 Dec 2025 19:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The bridge, secured by Chainlink's Cross-Chain Interoperability Protocol, allows users to trade and interact with Solana-based tokens on Base-based dapps."
-  },
-  {
-    "title": "The Daily: Ethereum rolls out Fusaka, Citadel triggers DeFi backlash, police arrest two men over crypto-linked murder, and more",
-    "link": "https://www.theblock.co/post/381411/the-daily-ethereum-rolls-out-fusaka-citadel-triggers-defi-backlash-police-arrest-two-men-over-crypto-linked-murder-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 13:36:19 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "‘Backed by nothing’: Peter Schiff says bitcoin can’t rival tokenized gold in debate with CZ",
-    "link": "https://www.theblock.co/post/381404/backed-nothing-peter-schiff-bitcoin-cant-rival-tokenized-gold-debate-cz?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 13:29:46 -0500",
-    "source": "The Block",
-    "contentSnippet": "Longtime gold advocate Peter Schiff said bitcoin’s demand is fading despite ETF inflows, corporate accumulation, and intense market hype."
-  },
-  {
-    "title": "Bitcoin’s Negative Correlation With Nasdaq Persists, and History Suggests a Bottom May Be Forming",
-    "link": "https://www.coindesk.com/markets/2025/12/04/bitcoin-s-negative-correlation-with-nasdaq-persists-and-history-suggests-a-bottom-may-be-forming",
-    "pubDate": "Thu, 04 Dec 2025 18:23:21 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Historical patterns show that bitcoin often bottoms when its correlation with the Nasdaq 100 breaks down, a dynamic now appearing for the fourth time in five years."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
