@@ -1,5 +1,68 @@
 [
   {
+    "title": "Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus",
+    "link": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
+    "pubDate": "Fri, 05 Dec 2025 05:57:26 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high."
+  },
+  {
+    "title": "EU Opens Antitrust Probe Into Meta's New AI Policy For WhatsApp",
+    "link": "https://decrypt.co/351029/eu-opens-antitrust-probe-meta-new-ai-policy-whatsapp",
+    "pubDate": "Fri, 05 Dec 2025 05:29:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The EU Commission’s probe excludes Italy, where the country's competition authority is already pursuing separate proceedings against Meta."
+  },
+  {
+    "title": "DOGE ETF Buzz Meets Bearish Reality as Dogecoin Prints Fresh Lower Lows",
+    "link": "https://www.coindesk.com/markets/2025/12/05/doge-etf-buzz-meets-bearish-reality-as-dogecoin-prints-fresh-lower-lows",
+    "pubDate": "Fri, 05 Dec 2025 04:47:12 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Technical analysis shows DOGE failed to hold key support levels, suggesting continued downside unless buyers reclaim critical price points."
+  },
+  {
+    "title": "Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'",
+    "link": "https://decrypt.co/351021/precious-metals-soar-bitcoin-stalls-investors-hedge-fed-policy-error",
+    "pubDate": "Fri, 05 Dec 2025 04:43:42 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Markets are hedging a Fed misstep, driving gold and silver higher while Bitcoin lags as traders reassess risk."
+  },
+  {
+    "title": "XRP at Risk of $2.05 Retest, Analysts Warn, as Bitcoin Gives Back Weekly Gains",
+    "link": "https://www.coindesk.com/markets/2025/12/05/xrp-at-risk-of-usd2-05-retest-analysts-warn-as-bitcoin-gives-back-weekly-gains",
+    "pubDate": "Fri, 05 Dec 2025 04:39:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Spot XRP ETFs have now attracted nearly $850 million in inflows since launching in mid-November — one of the strongest altcoin ETF starts on record — suggesting long-horizon capital continues to accum"
+  },
+  {
+    "title": "Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report",
+    "link": "https://www.coindesk.com/markets/2025/12/05/here-s-how-much-btc-eth-sol-xrp-may-move-on-friday-s-inflation-report",
+    "pubDate": "Fri, 05 Dec 2025 04:00:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies."
+  },
+  {
+    "title": "IMF warns stablecoins may accelerate currency substitution, weaken central bank control",
+    "link": "https://www.theblock.co/post/381467/imf-warns-stablecoins-may-accelerate-currency-substitution?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 04 Dec 2025 22:58:37 -0500",
+    "source": "The Block",
+    "contentSnippet": "The IMF warned that stablecoins could speed up currency substitution in countries with weak monetary systems."
+  },
+  {
+    "title": "OpenAI Ordered to Hand Over 20M ChatGPT Logs in NYT Copyright Case",
+    "link": "https://decrypt.co/351000/openai-ordered-20m-chatgpt-logs-nyt-copyright-case",
+    "pubDate": "Fri, 05 Dec 2025 03:57:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A federal judge rejected OpenAI’s bid to limit discovery, directing the company to produce de-identified user logs central to the case."
+  },
+  {
+    "title": "Asia Morning Briefing: Crypto’s Next Breakout Will Come From Infrastructure, Not Narratives, Hashed Says",
+    "link": "https://www.coindesk.com/markets/2025/12/05/asia-morning-briefing-crypto-s-next-breakout-will-come-from-infrastructure-not-narratives-hashed-says",
+    "pubDate": "Fri, 05 Dec 2025 02:29:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Korean venture firm’s 2026 thesis argues that stablecoins, AI agents, and on-chain credit markets are becoming the foundation of a real digital economy, with Asia emerging as the first region wher"
+  },
+  {
     "title": "Stablecoin Adoption Could Stifle Central Bank Control, IMF Warns",
     "link": "https://decrypt.co/350996/stablecoin-adoption-could-stifle-central-bank-control-imf-warns",
     "pubDate": "Thu, 04 Dec 2025 22:58:18 +0000",
@@ -126,13 +189,6 @@
     "contentSnippet": "The bridge, secured by Chainlink's Cross-Chain Interoperability Protocol, allows users to trade and interact with Solana-based tokens on Base-based dapps."
   },
   {
-    "title": "How an AI Wiz Used ChatGPT to Turn the Tables on a Scammer",
-    "link": "https://decrypt.co/350935/how-ai-wiz-used-chatgpt-turn-tables-scammer",
-    "pubDate": "Thu, 04 Dec 2025 18:41:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "An IT worker claims he \"vibe coded\" a phishing page via AI to unmask a would-be scammer in Delhi, prompting panicked pleas for mercy."
-  },
-  {
     "title": "The Daily: Ethereum rolls out Fusaka, Citadel triggers DeFi backlash, police arrest two men over crypto-linked murder, and more",
     "link": "https://www.theblock.co/post/381411/the-daily-ethereum-rolls-out-fusaka-citadel-triggers-defi-backlash-police-arrest-two-men-over-crypto-linked-murder-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Thu, 04 Dec 2025 13:36:19 -0500",
@@ -152,62 +208,6 @@
     "pubDate": "Thu, 04 Dec 2025 18:23:21 +0000",
     "source": "CoinDesk DeFi",
     "contentSnippet": "Historical patterns show that bitcoin often bottoms when its correlation with the Nasdaq 100 breaks down, a dynamic now appearing for the fourth time in five years."
-  },
-  {
-    "title": "Crypto Investor Donates $12M to UK's Reform Party",
-    "link": "https://www.coindesk.com/policy/2025/12/04/crypto-investor-donates-usd12m-to-uk-political-party-reform",
-    "pubDate": "Thu, 04 Dec 2025 17:58:02 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Christopher Harborne has invested in stablecoin issuer Tether and crypto exchange Bitfinex, according to reports."
-  },
-  {
-    "title": "Ex-Signature Bank Execs Launch Blockchain-Powered Narrow Bank Backed by Paradigm, Winklevoss",
-    "link": "https://www.coindesk.com/business/2025/12/04/ex-signature-bank-execs-launch-blockchain-powered-narrow-bank-backed-by-paradigm-winklevoss",
-    "pubDate": "Thu, 04 Dec 2025 17:56:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "N3XT Bank, operating under a Wyoming charter, aims to provide programmable U.S. dollar payments around the clock without lending deposits."
-  },
-  {
-    "title": "TD Cowen Grows Bearish on $60 Billion Bitcoin Giant Strategy—Here's Why",
-    "link": "https://decrypt.co/350944/td-cowen-grows-bearish-60-billion-bitcoin-giant-strategy",
-    "pubDate": "Thu, 04 Dec 2025 17:47:13 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "After Strategy established a $1.44 billion cash reserve and said it may need to sell Bitcoin, TD Cowen has lowed its MSTR price target."
-  },
-  {
-    "title": "Solana treasury Solmate stock rallies 11% after RockawayX merger announcement",
-    "link": "https://www.theblock.co/post/381405/solana-treasury-solmate-stock-rallies-11-after-rockawayx-merger-announcement?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 04 Dec 2025 12:45:15 -0500",
-    "source": "The Block",
-    "contentSnippet": "Solmate previously announced plans for an aggressive M&A strategy to bolster its treasury and staking operations."
-  },
-  {
-    "title": "Reform UK Gets Britain's Biggest Political Donation Ever From Tether Investor",
-    "link": "https://decrypt.co/350946/reform-uk-gets-britains-biggest-political-donation-ever-from-tether-investor",
-    "pubDate": "Thu, 04 Dec 2025 17:39:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "DigFinex shareholder Christopher Harborne donated $11.4 million to Reform UK, the largest ever gift to a UK political party by a living donor."
-  },
-  {
-    "title": "Sovereign Wealth Funds Were Buyers as Bitcoin Plunged: BlackRock's Larry Fink",
-    "link": "https://www.coindesk.com/markets/2025/12/04/sovereign-wealth-funds-were-buyers-as-bitcoin-btc-plunged-blackrock-s-larry-fink",
-    "pubDate": "Thu, 04 Dec 2025 17:32:02 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The CEO of the asset management giant, whose IBIT is the largest of the spot BTC ETFs, said the state actors were buying not for a trade, but to hold for years."
-  },
-  {
-    "title": "BNB Nears $910 as Volume Jumps 68%, Signaling Growing Interest Near Resistance Zone",
-    "link": "https://www.coindesk.com/markets/2025/12/04/bnb-nears-usd910-as-volume-jumps-68-signaling-growing-interest-near-resistance-zone",
-    "pubDate": "Thu, 04 Dec 2025 17:00:25 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token is trading in a sideways range, holding above recent lows near $896, while a breakout above $920-$928 resistance could push BNB toward $1,000."
-  },
-  {
-    "title": "Meta Plans 30% Cut to Metaverse Budget as Reality Becomes Less Virtual: Bloomberg",
-    "link": "https://www.coindesk.com/markets/2025/12/04/meta-plans-30-cut-to-metaverse-budget-as-reality-becomes-less-virtual-bloomberg",
-    "pubDate": "Thu, 04 Dec 2025 16:32:57 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Horizon Worlds and Quest are facing layoffs as Meta retreats further from its $70 billion bet on virtual reality, people familiar with the matter told Bloomberg."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
