@@ -1,5 +1,75 @@
 [
   {
+    "title": "French Banking Giant BPCE to Roll Out Crypto Trading for 2M Retail Clients",
+    "link": "https://www.coindesk.com/business/2025/12/06/french-banking-giant-bpce-to-roll-out-crypto-trading-for-2m-retail-clients",
+    "pubDate": "Sat, 06 Dec 2025 18:03:56 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The service will allow customers to buy and sell BTC, ETH, SOL, and USDC through a separate digital asset account managed by Hexarq."
+  },
+  {
+    "title": "Two Casascius Coins Holding 2K BTC Moved After 13 Years of Inactivity",
+    "link": "https://www.coindesk.com/business/2025/12/06/two-casascius-coins-holding-2k-btc-moved-after-13-years-of-inactivity",
+    "pubDate": "Sat, 06 Dec 2025 17:12:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Casascius coins were designed as offline cold storage with embedded private keys, but the project was shut down in 2013 due to regulatory pressure from FinCEN."
+  },
+  {
+    "title": "Coinbase Sees Crypto Recovery Ahead as Liquidity Improves and Fed Rate Cut Odds Climb",
+    "link": "https://www.coindesk.com/markets/2025/12/06/coinbase-sees-crypto-recovery-ahead-as-liquidity-improves-and-fed-rate-cut-odds-climb",
+    "pubDate": "Sat, 06 Dec 2025 15:46:33 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The crypto exchange also took note of a so-called AI bubble that continues to go strong and a weaker U.S. dollar."
+  },
+  {
+    "title": "Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold",
+    "link": "https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold",
+    "pubDate": "Sat, 06 Dec 2025 15:01:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike."
+  },
+  {
+    "title": "How Much Longer Until We Consider the Bitcoin Power Law Model Invalid?",
+    "link": "https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid",
+    "pubDate": "Sat, 06 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end."
+  },
+  {
+    "title": "The Grandma Test: When Your Mom Can Use DePIN, Mass Adoption Has Arrived",
+    "link": "https://www.coindesk.com/opinion/2025/12/05/the-grandma-test-when-your-mom-can-use-depin-mass-adoption-has-arrived",
+    "pubDate": "Sat, 06 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Mass adoption doesn't happen when crypto enthusiasts start using the technology: it happens when your grandma does it without even realizing it, argues Uplink co-founder Carlos Lei."
+  },
+  {
+    "title": "Anthony Pompliano's Bitcoin Treasury Firm ProCap BTC Closes SPAC Merger Deal",
+    "link": "https://www.coindesk.com/markets/2025/12/06/anthony-pompliano-s-bitcoin-treasury-firm-procap-btc-closes-spac-merger-deal",
+    "pubDate": "Sat, 06 Dec 2025 14:29:36 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Shares in the company fell more than 50% this week as the merger approval went forward."
+  },
+  {
+    "title": "Stablecoin Adoption Is ‘Exploding' — Here's Why Wall Street Is Going All-In",
+    "link": "https://www.coindesk.com/business/2025/12/05/stablecoin-adoption-is-exploding-here-s-why-wall-street-is-going-all-in",
+    "pubDate": "Sat, 06 Dec 2025 14:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Alchemy co-founder and president Joe Lau said stablecoin adoption is exploding as banks, fintechs and payment platforms push beyond the USDT/USDC exchange era."
+  },
+  {
+    "title": "LUNC Surges Over 160% in a Week as Do Kwon Sentencing and Token Burns Draw Traders",
+    "link": "https://www.coindesk.com/markets/2025/12/06/lunc-surges-over-160-in-a-week-as-do-kwon-sentencing-and-token-burns-draw-traders",
+    "pubDate": "Sat, 06 Dec 2025 13:00:03 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The rally is driven by speculation that a final verdict could bring clarity to the project, as well as technical factors like token burns."
+  },
+  {
+    "title": "Euro Stablecoin Market Cap Doubles in Year After MiCA, Study Finds",
+    "link": "https://www.coindesk.com/business/2025/12/06/hold-euro-stablecoin-market-cap-doubles-in-year-after-mica-decta-says",
+    "pubDate": "Sat, 06 Dec 2025 13:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Prior to MiCA, euro-denominated stablecoins' market cap contracted by 48% in the year leading up to June 2024."
+  },
+  {
     "title": "XRP Faces Downside Risk as Social Sentiment Turns Wildly Negative",
     "link": "https://www.coindesk.com/markets/2025/12/05/xrp-faces-downside-risk-as-social-sentiment-turns-wildly-negative",
     "pubDate": "Sat, 06 Dec 2025 04:30:00 +0000",
@@ -7,25 +77,11 @@
     "contentSnippet": "The turn in crowd mood comes after a two-month slide of roughly 31%, leaving the token vulnerable to further downside if risk appetite weakens across majors."
   },
   {
-    "title": "Japan’s Higher Rates Puts Bitcoin in the Crosshairs of a Yen Carry Unwind",
-    "link": "https://www.coindesk.com/markets/2025/12/05/japan-s-higher-rates-puts-bitcoin-in-the-crosshairs-of-a-yen-carry-unwind",
-    "pubDate": "Sat, 06 Dec 2025 03:30:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "A stronger yen typically coincides with de-risking across macro portfolios, and that dynamic could tighten liquidity conditions that recently helped bitcoin rebound from November’s lows."
-  },
-  {
     "title": "MetaMask moves into prediction markets with Polymarket integration",
     "link": "https://www.theblock.co/post/381592/metamask-moves-into-prediction-markets-with-polymarket-integration?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 05 Dec 2025 19:40:37 -0500",
     "source": "The Block",
     "contentSnippet": "Founded in 2020, Polymarket is now reportedly courting a valuation of up to $15 billion amid a breakout year."
-  },
-  {
-    "title": "Small Texas Lender Monet Joining Field of Crypto-Focused Banks ",
-    "link": "https://www.coindesk.com/policy/2025/12/05/small-texas-lender-monet-joining-field-of-crypto-focused-banks",
-    "pubDate": "Sat, 06 Dec 2025 00:23:42 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The bank is owned by billionaire Andy Beal, a major supporter of U.S. President Donald Trump's 2016 campaign."
   },
   {
     "title": "New 'Postal' Game Canceled One Day After Reveal, Following Generative AI Allegations",
@@ -61,34 +117,6 @@
     "pubDate": "Fri, 05 Dec 2025 17:56:10 +0000",
     "source": "Decrypt",
     "contentSnippet": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green."
-  },
-  {
-    "title": "New IMF Report Warns of Stablecoin Risk, Sparking Criticism From Experts",
-    "link": "https://www.coindesk.com/policy/2025/12/05/new-imf-report-warns-of-stablecoin-risk-sparking-criticism-from-experts",
-    "pubDate": "Fri, 05 Dec 2025 17:46:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The IMF released a report that campaigns in favor of CBDCs and warns against the risk stablecoins represent, sparking criticism among crypto experts."
-  },
-  {
-    "title": "Trump’s Security Strategy: Impact on Bitcoin, Gold, Bond Yields",
-    "link": "https://www.coindesk.com/markets/2025/12/05/trump-s-national-strategy-gives-reality-check-to-crypto-s-low-rate-obsession",
-    "pubDate": "Fri, 05 Dec 2025 17:25:38 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The White House's new National Security Strategy emphasizes increased global fiscal expansion and military spending."
-  },
-  {
-    "title": "Hedera Drops Alongside Broader Crypto Market Amid Volume Spike",
-    "link": "https://www.coindesk.com/markets/2025/12/05/hedera-drops-alongside-broader-crypto-market-amid-volume-spike",
-    "pubDate": "Fri, 05 Dec 2025 17:05:55 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera's token retreats despite fresh institutional product speculation driving broader altcoin momentum."
-  },
-  {
-    "title": "U.S. Prosecutors Seek 12-Year Sentence for Terraform Founder Do Kwon in Crypto Fraud Case",
-    "link": "https://www.coindesk.com/policy/2025/12/05/us-prosecutors-seek-12-year-sentence-for-terraform-founder-do-kwon-in-crypto-fraud-case",
-    "pubDate": "Fri, 05 Dec 2025 16:58:26 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The collapse of Do Kwon's Terraform project caused losses that surpassed those by Sam Bankman-Fried's FTX, Celsius and OneCoin combined, the prosecutors argued."
   },
   {
     "title": "WisdomTree first to market with Ethereum staking fund using Lido’s stETH",
@@ -140,27 +168,6 @@
     "contentSnippet": "Crypto majors were broadly lower, falling 2–4% with BTC down 2% at $91,400, ETH down 2% at $3,130, BNB down 2% at $893, and SOL down 4% at $136, while ZEC (+4%) and TRX (+2%) led the day’s top movers."
   },
   {
-    "title": "Turkey's Paribu Buys CoinMENA in $240M Deal, Expanding Into High-Growth Crypto Markets",
-    "link": "https://www.coindesk.com/business/2025/12/05/turkey-s-paribu-buys-coinmena-in-usd240m-deal-expanding-into-high-growth-crypto-markets",
-    "pubDate": "Fri, 05 Dec 2025 15:51:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "With the acquisition, Paribu gains regulatory foothold in Bahrain and Dubai and access to the region's fast-growing crypto user base."
-  },
-  {
-    "title": "MARA Trades at a Premium Factoring in Its Debt, Not a Discount: VanEck’s Sigel",
-    "link": "https://www.coindesk.com/markets/2025/12/05/mara-trades-at-a-premium-factoring-in-its-debt-not-a-discount-vaneck-s-sigel",
-    "pubDate": "Fri, 05 Dec 2025 15:38:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "VanEck’s Matthew Sigel argues MARA’s valuation looks expensive when adjusted for its leverage and capital structure."
-  },
-  {
-    "title": "Has the DAT Bubble Already Burst? CoinShares Says In Many Ways, Yes.",
-    "link": "https://www.coindesk.com/markets/2025/12/05/has-the-dat-bubble-already-burst-coinshares-says-in-many-ways-yes",
-    "pubDate": "Fri, 05 Dec 2025 15:30:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Digital-asset treasury plays that once traded at big premiums have fallen back toward net asset value."
-  },
-  {
     "title": "Beeple Made Robot Dogs With Musk, Zuckerberg, and Warhol Heads That Poop NFTs",
     "link": "https://decrypt.co/351080/beeple-made-robot-dogs-with-musk-zuckerberg-and-warhol-heads-that-poop-nfts",
     "pubDate": "Fri, 05 Dec 2025 14:16:02 +0000",
@@ -187,13 +194,6 @@
     "pubDate": "Fri, 05 Dec 2025 08:46:18 -0500",
     "source": "The Block",
     "contentSnippet": "Senate negotiators are struggling to finalize a bill as disputes over stablecoin yield, conflicts of interest, and DeFi slow progress."
-  },
-  {
-    "title": "Morning Minute: The CFTC Just Approved US Spot Crypto Trading",
-    "link": "https://decrypt.co/351078/morning-minute-the-cftc-just-approved-u-s-spot-crypto-trading",
-    "pubDate": "Fri, 05 Dec 2025 13:46:03 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Spot crypto trading is now cleared to go live with any CFTC-registered exchange, bringing down another barrier to institutional adoption."
   },
   {
     "title": "Crypto sleuth ZachXBT claims British threat actor tied to $243 million Genesis creditor theft ‘likely arrested’",
