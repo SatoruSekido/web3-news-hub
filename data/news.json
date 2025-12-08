@@ -1,5 +1,96 @@
 [
   {
+    "title": "Coinbase Reopens India Signups, Targets Fiat On-Ramp in 2026 After Two-Year Freeze",
+    "link": "https://www.coindesk.com/markets/2025/12/08/coinbase-reopens-india-signups-targets-fiat-on-ramp-in-2026-after-two-year-freeze",
+    "pubDate": "Mon, 08 Dec 2025 06:10:27 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Coinbase halted services entirely in 2023, off-boarded millions of Indian users and shuttered local access while reassessing regulatory exposure."
+  },
+  {
+    "title": "Robinhood to enter Indonesia by acquiring local crypto trading firm",
+    "link": "https://www.theblock.co/post/381655/robinhood-indonesia-acquisitions?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 08 Dec 2025 00:48:08 -0500",
+    "source": "The Block",
+    "contentSnippet": "Robinhood said it is buying Indonesian brokerage PT Buana Capital Sekuritas and digital asset trader PT Pedagang Aset Kripto."
+  },
+  {
+    "title": "Farcaster shifts focus to wallet service over social app, citing growth potential",
+    "link": "https://www.theblock.co/post/381653/farcaster-to-prioritize-wallet?utm_source=rss&utm_medium=rss",
+    "pubDate": "Mon, 08 Dec 2025 00:42:44 -0500",
+    "source": "The Block",
+    "contentSnippet": "In its 4.5-year run, Farcaster failed to find a sustainable growth mechanic in the social app, co-founder Dan Romero said."
+  },
+  {
+    "title": "ETH, ADA, XRP Lead Gains as Bitcoin Edges Higher on Fed Rate Cut Expectations",
+    "link": "https://www.coindesk.com/markets/2025/12/08/eth-ada-xrp-lead-gains-as-bitcoin-edges-higher-on-fed-rate-cut-expectations",
+    "pubDate": "Mon, 08 Dec 2025 05:40:23 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut."
+  },
+  {
+    "title": "Robinhood Eyes Indonesia Market as Local Crypto Adoption Soars",
+    "link": "https://decrypt.co/351393/robinhood-indonesia-market-local-crypto-adoption-soars",
+    "pubDate": "Mon, 08 Dec 2025 05:28:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Robinhood is buying a local brokerage and crypto firm as the country tightens digital finance rules and remains a leading crypto market."
+  },
+  {
+    "title": "Buyers Step In at $2 Floor as XRP Builds on Bitcoin's Hover Above $91K",
+    "link": "https://www.coindesk.com/markets/2025/12/08/buyers-step-in-at-usd2-00-floor-as-xrp-builds-on-bitcoin-s-hover-above-usd91k",
+    "pubDate": "Mon, 08 Dec 2025 05:21:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest."
+  },
+  {
+    "title": "Binance Wins Full ADGM Approval for Exchange, Clearing, and Brokerage Operations",
+    "link": "https://www.coindesk.com/policy/2025/12/08/binance-wins-full-adgm-approval-for-exchange-clearing-and-brokerage-operations",
+    "pubDate": "Mon, 08 Dec 2025 05:15:58 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Abu Dhabi’s Financial Services Regulatory Authority has granted licenses to three Binance entities covering exchange, clearing, and brokerage functions."
+  },
+  {
+    "title": "Here's How Bitcoin, Ether, XRP and Solana May Trade Today",
+    "link": "https://www.coindesk.com/markets/2025/12/08/here-s-how-bitcoin-xrp-ether-and-solana-may-trade-today",
+    "pubDate": "Mon, 08 Dec 2025 04:47:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "ETH mirrors BTC's counter-trend consolidation as XRP probes key $2 support and SOL remains directionless"
+  },
+  {
+    "title": "Coinbase Reopens India Access, Sets 2026 Target for Cash-to-Crypto Purchases",
+    "link": "https://decrypt.co/351391/coinbase-reopens-india-access-sets-2026-target-cash-crypto",
+    "pubDate": "Mon, 08 Dec 2025 04:36:48 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The move underscores Coinbase’s view of India as a long-term growth market, despite policy uncertainty in the near term."
+  },
+  {
+    "title": "Coinbase reopens app in India after two-year hiatus: report",
+    "link": "https://www.theblock.co/post/381644/coinbase-resumes-user-onboarding-india?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 07 Dec 2025 23:29:37 -0500",
+    "source": "The Block",
+    "contentSnippet": "Indian users can currently trade only between cryptocurrencies, with a full fiat on-ramp expected in 2026, TechCrunch reported."
+  },
+  {
+    "title": "Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data",
+    "link": "https://decrypt.co/351388/bitcoin-back-above-91000-traders-brace-fed-decision-jobs-data",
+    "pubDate": "Mon, 08 Dec 2025 03:29:52 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists."
+  },
+  {
+    "title": "Bittensor’s halving next week expected to boost TAO price, Grayscale says",
+    "link": "https://www.theblock.co/post/381638/bittensors-halving-tao-price?utm_source=rss&utm_medium=rss",
+    "pubDate": "Sun, 07 Dec 2025 22:17:26 -0500",
+    "source": "The Block",
+    "contentSnippet": "By reducing token emissions, the halving is poised to be a positive catalyst for TAO price, a Grayscale analyst said."
+  },
+  {
+    "title": "ZKsync to Retire Its Original Ethereum Rollup Next Year",
+    "link": "https://decrypt.co/351386/zksync-retire-original-ethereum-rollup-next-year",
+    "pubDate": "Mon, 08 Dec 2025 02:38:29 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades."
+  },
+  {
     "title": "ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum’s first ZK rollup",
     "link": "https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup?utm_source=rss&utm_medium=rss",
     "pubDate": "Sun, 07 Dec 2025 17:23:37 -0500",
@@ -84,32 +175,11 @@
     "contentSnippet": "DOGE network engagement surged to 71,589 active addresses — its highest reading since September — signaling improving chain activity despite muted price performance."
   },
   {
-    "title": "XRP Sentiment Hits Extreme Fear as TD Sequential Flashes Early Reversal Signal",
-    "link": "https://www.coindesk.com/markets/2025/12/07/xrp-sentiment-hits-extreme-fear-as-td-sequential-flashes-early-reversal-signal",
-    "pubDate": "Sun, 07 Dec 2025 12:47:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Social sentiment for XRP has collapsed to extreme fear levels, historically preceding short-term rebounds."
-  },
-  {
-    "title": "Bitcoin Faces Japan Rate Hike: Debunking The Yen Carry Trade Unwind Alarms, Real Risk Elsewhere",
-    "link": "https://www.coindesk.com/markets/2025/12/07/bitcoin-faces-japan-rate-hike-yen-carry-trade-unwind-fears-miss-the-mark-real-risk-lie-elsewhere",
-    "pubDate": "Sun, 07 Dec 2025 05:36:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind."
-  },
-  {
     "title": "Jupiter exec acknowledges ‘zero contagion’ claim was ‘not 100% correct’ after backlash over vault design",
     "link": "https://www.theblock.co/post/381602/jupiter-exec-acknowledges-zero-contagion-claim-was-not-100-correct-after-backlash-over-vault-design?utm_source=rss&utm_medium=rss",
     "pubDate": "Sat, 06 Dec 2025 18:35:51 -0500",
     "source": "The Block",
     "contentSnippet": "The co-founder of rival lending protocol Kamino has criticized Jupiter's messaging around their \"isolated vaults,\" and blocked a migration tool."
-  },
-  {
-    "title": "State of Crypto: Wrapping Up the Month",
-    "link": "https://www.coindesk.com/policy/2025/12/06/state-of-crypto-wrapping-up-the-month",
-    "pubDate": "Sat, 06 Dec 2025 22:56:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Congress continues to make progress on crypto issues but things are moving slowly."
   },
   {
     "title": "Poland becomes EU’s lone MiCA holdout after parliament fails to overturn veto on crypto bill",
@@ -126,20 +196,6 @@
     "contentSnippet": "At a loss for what to buy the crypto fan in your life this festive season? Look no further than Decrypt’s holiday gift guide."
   },
   {
-    "title": "French Banking Giant BPCE to Roll Out Crypto Trading for 2M Retail Clients",
-    "link": "https://www.coindesk.com/business/2025/12/06/french-banking-giant-bpce-to-roll-out-crypto-trading-for-2m-retail-clients",
-    "pubDate": "Sat, 06 Dec 2025 18:03:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The service will allow customers to buy and sell BTC, ETH, SOL, and USDC through a separate digital asset account managed by Hexarq."
-  },
-  {
-    "title": "Two Casascius Coins Holding 2K BTC Moved After 13 Years of Inactivity",
-    "link": "https://www.coindesk.com/business/2025/12/06/two-casascius-coins-holding-2k-btc-moved-after-13-years-of-inactivity",
-    "pubDate": "Sat, 06 Dec 2025 17:12:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Casascius coins were designed as offline cold storage with embedded private keys, but the project was shut down in 2013 due to regulatory pressure from FinCEN."
-  },
-  {
     "title": "Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold",
     "link": "https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold",
     "pubDate": "Sat, 06 Dec 2025 15:01:02 +0000",
@@ -152,62 +208,6 @@
     "pubDate": "Fri, 05 Dec 2025 19:40:37 -0500",
     "source": "The Block",
     "contentSnippet": "Founded in 2020, Polymarket is now reportedly courting a valuation of up to $15 billion amid a breakout year."
-  },
-  {
-    "title": "New 'Postal' Game Canceled One Day After Reveal, Following Generative AI Allegations",
-    "link": "https://decrypt.co/351204/new-postal-game-canceled-one-day-after-reveal-generative-ai-allegations",
-    "pubDate": "Fri, 05 Dec 2025 21:25:47 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Postal: Bullet Paradise has been scrapped and the developer is shutting down after gamers claimed the trailer used generative AI assets."
-  },
-  {
-    "title": "Meta cuts to metaverse ‘black hole’ could free up billions for AI and lift shares by 20%: analysts",
-    "link": "https://www.theblock.co/post/381581/meta-metaverse-black-hole-cuts-billions-ai-shares-20-analysts?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 05 Dec 2025 15:36:16 -0500",
-    "source": "The Block",
-    "contentSnippet": "The lack of user traction, combined with years of mounting spend, has fueled concerns that the division, Mizuho analysts said."
-  },
-  {
-    "title": "Cantor Slashes Strategy Price Target By 59%, Remains 'Long-Term Bullish' on Bitcoin Giant",
-    "link": "https://decrypt.co/351142/cantor-slashes-strategy-price-target-remains-long-term-bullish-bitcoin",
-    "pubDate": "Fri, 05 Dec 2025 19:27:20 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Cantor Fitzgerald analysts significantly lowered their price target for Strategy (MSTR) shares, while reiterating an “Overweight” rating."
-  },
-  {
-    "title": "The Daily: JPMorgan says Strategy is key to bitcoin’s next move, IMF warns stablecoins may weaken central bank control, and more",
-    "link": "https://www.theblock.co/post/381572/the-daily-jpmorgan-says-strategy-is-key-to-bitcoins-next-move-imf-warns-stablecoins-may-weaken-central-bank-control-and-more?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 05 Dec 2025 13:43:33 -0500",
-    "source": "The Block",
-    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise",
-    "link": "https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise",
-    "pubDate": "Fri, 05 Dec 2025 17:56:10 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green."
-  },
-  {
-    "title": "WisdomTree first to market with Ethereum staking fund using Lido’s stETH",
-    "link": "https://www.theblock.co/post/381549/wisdomtree-first-market-ethereum-staking-fund-lido-steth?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 05 Dec 2025 11:56:15 -0500",
-    "source": "The Block",
-    "contentSnippet": "WisdomTree introduced an Ethereum-based fund in Europe that earns staking rewards using the decentralized Lido protocol."
-  },
-  {
-    "title": "Strive urges MSCI to ‘let the market decide’ on Bitcoin treasury companies",
-    "link": "https://www.theblock.co/post/381538/strive-urges-msci-market-decide-bitcoin-treasury-companies?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 05 Dec 2025 11:46:30 -0500",
-    "source": "The Block",
-    "contentSnippet": "Strive said the proposal could lead to uneven results worldwide because companies report Bitcoin differently under various accounting rules."
-  },
-  {
-    "title": "Indiana Lawmaker Pushes for Bitcoin in Pensions, Crypto Payment Protections",
-    "link": "https://decrypt.co/351112/indiana-lawmaker-pushes-bitcoin-pensions-crypto-payment-protections",
-    "pubDate": "Fri, 05 Dec 2025 16:40:11 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A lawmaker in Indiana introduced legislation that would broaden access to Bitcoin and crypto exposure for savers in the Midwestern state."
   },
   {
     "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
