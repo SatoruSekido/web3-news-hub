@@ -1,5 +1,89 @@
 [
   {
+    "title": "XRP Sell Pressure Emerges as Ripple Linked Token Fails to Sustain $2.12 Break",
+    "link": "https://www.coindesk.com/markets/2025/12/10/xrp-sell-pressure-emerges-as-ripple-linked-token-fails-to-sustain-usd2-12-break",
+    "pubDate": "Wed, 10 Dec 2025 06:00:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Despite briefly reaching $2.17, XRP failed to maintain momentum, suggesting large holders may be unwinding positions rather than accumulating."
+  },
+  {
+    "title": "Breakout or Bull Trap? DOGE Jumps Above Resistance on Ethereum Strength",
+    "link": "https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength",
+    "pubDate": "Wed, 10 Dec 2025 05:39:59 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Despite the breakout, DOGE faces significant structural resistance from major EMAs."
+  },
+  {
+    "title": "Binance Co-CEO Yi He’s WeChat Account Hacked to Push Meme Coin MUBARA",
+    "link": "https://www.coindesk.com/markets/2025/12/10/binance-co-ceo-yi-he-s-wechat-account-hacked-to-push-meme-coin-mubara",
+    "pubDate": "Wed, 10 Dec 2025 05:25:58 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The attackers profited by selling the memecoin after creating artificial demand through the false endorsement."
+  },
+  {
+    "title": "Rep. Keith Self Moves to 'Fix the Bill' With CBDC Ban Before Key Hearing",
+    "link": "https://decrypt.co/351745/keith-self-moves-fix-bill-with-cbdc-ban-before-key-hearing",
+    "pubDate": "Wed, 10 Dec 2025 05:18:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The amendment follows Republican outcry over broken commitments to ban central bank digital currencies in the defense bill."
+  },
+  {
+    "title": "BTC, ETH, SOL, ADA Pull Back Ahead of Fed Meeting Where Rate-Cuts Expected",
+    "link": "https://www.coindesk.com/markets/2025/12/10/btc-eth-sol-ada-pull-back-ahead-of-fed-meeting-where-rate-cuts-expected",
+    "pubDate": "Wed, 10 Dec 2025 05:18:03 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Market depth in smaller tokens remained thin, echoing the uneven liquidity that has characterized December trading so far."
+  },
+  {
+    "title": "Solana Liquidity Plummets to Bear Level Territory Amid $500M Liquidation Overhang",
+    "link": "https://decrypt.co/351743/solana-liquidity-plummets-bear-level-500m-liquidation-overhang",
+    "pubDate": "Wed, 10 Dec 2025 05:03:08 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "On-chain data shows Solana's liquidity has contracted to bear-market levels, with $500M in long positions at risk if its price drops 5.5%."
+  },
+  {
+    "title": "Silk Road wallets move bitcoin to unknown address after decade of dormancy",
+    "link": "https://www.theblock.co/post/381998/silk-road-linked-wallets-awaken?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 09 Dec 2025 23:58:44 -0500",
+    "source": "The Block",
+    "contentSnippet": "Hundreds of Silk Road-linked crypto wallets sprang back to life, sending $3.14 million worth of BTC to an unknown address."
+  },
+  {
+    "title": "Strive launches $500 million at-the-market offering for further bitcoin acquisitions",
+    "link": "https://www.theblock.co/post/381997/strive-at-the-market-offering-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 09 Dec 2025 23:51:05 -0500",
+    "source": "The Block",
+    "contentSnippet": "Utilizing the ATM structure, Strive gains the flexibility to sell shares directly to the market at prevailing prices over a period."
+  },
+  {
+    "title": "Bitcoin Holds Near $92K as Selling Cools, but Demand Still Lags",
+    "link": "https://www.coindesk.com/markets/2025/12/10/bitcoin-holds-near-usd92k-as-selling-cools-but-demand-still-lags",
+    "pubDate": "Wed, 10 Dec 2025 02:12:50 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "ETF inflows have finally turned positive, but weak on-chain activity, defensive derivatives positioning, and negative spot CVD show a market stabilizing without the conviction needed for a sustained m"
+  },
+  {
+    "title": "KindlyMD enters $210 million USDT loan agreement with Kraken",
+    "link": "https://www.theblock.co/post/381993/kindlymd-210-million-usdt-loan-kraken?utm_source=rss&utm_medium=rss",
+    "pubDate": "Tue, 09 Dec 2025 21:09:37 -0500",
+    "source": "The Block",
+    "contentSnippet": "The proceeds would be used to repay its prior loan agreement with Singapore-based Antalpha formed in October."
+  },
+  {
+    "title": "AI Political Chatbots Can Sway Voters, New Research Finds",
+    "link": "https://decrypt.co/351737/ai-political-chatbots-can-sway-voters-new-research-finds",
+    "pubDate": "Wed, 10 Dec 2025 02:06:54 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The studies found policy-focused chatbot messages were more persuasive and that persuasion often rose alongside uneven inaccuracies."
+  },
+  {
+    "title": "Teachers Union Urges Senate to Scrap Crypto Market Structure Bill",
+    "link": "https://decrypt.co/351738/teachers-union-urges-senate-scrap-crypto-market-structure-bill",
+    "pubDate": "Wed, 10 Dec 2025 01:52:04 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The union urged lawmakers to abandon the draft, arguing it would erode securities protections and heighten risks for pension holders."
+  },
+  {
     "title": "Key U.S. Senator on Crypto Bill, Lummis, Negotiating Dicey Points With White House",
     "link": "https://www.coindesk.com/policy/2025/12/09/key-u-s-senator-on-crypto-bill-lummis-negotiating-dicey-points-with-white-house",
     "pubDate": "Tue, 09 Dec 2025 23:46:56 +0000",
@@ -70,13 +154,6 @@
     "contentSnippet": "The fund would hold bitcoin only overnight, betting on data showing bitcon gains mostly occur outside regular market hours."
   },
   {
-    "title": "JPMorgan Analysts Doubt Crypto Winter Is Coming, Despite 'Meaningful' Bitcoin Sell-Off",
-    "link": "https://decrypt.co/351657/jpmorgan-analysts-doubt-crypto-winter-despite-meaningful-bitcoin-sell-off",
-    "pubDate": "Tue, 09 Dec 2025 20:28:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The investment bank continues to have a positive outlook on the crypto market, even with Bitcoin and other assets down."
-  },
-  {
     "title": "XRP Underperforms Market as Sudden Bitcoin Surge Forces $387M of Liquidations",
     "link": "https://www.coindesk.com/markets/2025/12/10/xrp-underperforms-market-as-sudden-bitcoin-surge-ends-up-in-usd387m-liquidations",
     "pubDate": "Tue, 09 Dec 2025 19:36:41 +0000",
@@ -91,13 +168,6 @@
     "contentSnippet": "The breakout now sets up a clean continuation zone—provided bulls defend the mid-range pivot they just reclaimed."
   },
   {
-    "title": "Senator Booker: Low Odds for Crypto Bill Without Democrats Appointed at CFTC, SEC",
-    "link": "https://decrypt.co/351660/senator-booker-low-odds-crypto-bill-without-democrats-appointed-cftc-sec",
-    "pubDate": "Tue, 09 Dec 2025 19:09:40 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The Senate Democrat, who is leading negotiations on a crypto market structure bill, said promises from the White House on the escalating issue would not be enough."
-  },
-  {
     "title": "Aptos Rises 8% After Breaking Through $1.80 Resistance",
     "link": "https://www.coindesk.com/markets/2025/12/09/aptos-rises-8-after-breaking-through-usd1-80-resistance",
     "pubDate": "Tue, 09 Dec 2025 18:50:32 +0000",
@@ -105,25 +175,11 @@
     "contentSnippet": "Strong volume and technical momentum distinguished APT's gains from the broader market action."
   },
   {
-    "title": "Ether Surges 8%, Outpacing Bitcoin Gains Amid Staking ETF, Tokenization Optimism",
-    "link": "https://www.coindesk.com/markets/2025/12/09/ether-surges-8-outpacing-bitcoin-gains-amid-staking-etf-tokenization-optimism",
-    "pubDate": "Tue, 09 Dec 2025 18:47:33 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BlackRock's filing for a staking ether ETF earlier this week has contributed to ETH's relative strength to bitcoin, one market strategist noted."
-  },
-  {
     "title": "The Daily: Standard Chartered slashes 2025 bitcoin target, PNC rolls out direct BTC trading for high-net-worth clients, and more",
     "link": "https://www.theblock.co/post/381962/the-daily-standard-chartered-slashes-2025-bitcoin-target-pnc-rolls-out-direct-btc-trading-for-high-net-worth-clients-and-more?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 09 Dec 2025 13:38:35 -0500",
     "source": "The Block",
     "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
-  },
-  {
-    "title": "Privacy-Centric Version of Circle's USDC Stablecoin Rolling Out via Aleo Network",
-    "link": "https://decrypt.co/351636/privacy-centric-version-circle-usdc-stablecoin-banks-rolls-out-aleo",
-    "pubDate": "Tue, 09 Dec 2025 18:25:14 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A new privacy-focused stablecoin powered by Circle's xReserve platform is launching on the testnet of layer-1 blockchain, Aleo."
   },
   {
     "title": "Octra to hold $20 million public token sale on Sonar at $200 million valuation",
@@ -140,13 +196,6 @@
     "contentSnippet": "Total levered short liquidations exceeded $260 million over the past four hours, according to CoinGlass data."
   },
   {
-    "title": "What a $440,000 Hack Shows About the Rising Threat of Ethereum 'Permit Scams'",
-    "link": "https://decrypt.co/351651/what-a-440000-hack-shows-about-the-rising-threat-of-ethereum-permit-scams",
-    "pubDate": "Tue, 09 Dec 2025 17:56:56 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A single mistake cost one user nearly half a million dollars, highlighting how scammers are escalating phishing attacks."
-  },
-  {
     "title": "‘Nothing is holding up this bill,’ says Democratic Sen. Gillibrand as Senate barrels forward to advance major crypto bill",
     "link": "https://www.theblock.co/post/381924/nothing-holding-bill-democratic-sen-gillibrand-senate-advance-crypto-bill?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 09 Dec 2025 12:39:19 -0500",
@@ -154,60 +203,11 @@
     "contentSnippet": "Lawmakers are barrelling ahead to get a massive cryptocurrency bill advanced and moving forward to eventually land at President Trump's desk."
   },
   {
-    "title": "SEC Approves U.S.’ Second Crypto Index ETP with Bitwise’s BITW",
-    "link": "https://www.coindesk.com/policy/2025/12/09/sec-approves-u-s-second-crypto-index-etp-with-bitwise-s-bitw",
-    "pubDate": "Tue, 09 Dec 2025 17:20:14 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Bitwise 10 Crypto Index Fund now trades on NYSE Arca, joining the ranks of gold and oil funds in regulated exchange products."
-  },
-  {
     "title": "Stripe and Paradigm’s payments-focused blockchain Tempo launches public testnet",
     "link": "https://www.theblock.co/post/381930/stripe-and-paradigms-payments-focused-blockchain-tempo-launches-public-testnet?utm_source=rss&utm_medium=rss",
     "pubDate": "Tue, 09 Dec 2025 12:01:47 -0500",
     "source": "The Block",
     "contentSnippet": "In October, the Ethereum-compatible Layer 1 said it raised $500 million in a Series A, valuing the company at $5 billion."
-  },
-  {
-    "title": "Michael Saylor Urges Middle East to Become the 'Switzerland of Bitcoin Banking'",
-    "link": "https://www.coindesk.com/markets/2025/12/09/saylor-jpm-citi-and-schwab-are-starting-issue-credit-lines-backed-by-bitcoin",
-    "pubDate": "Tue, 09 Dec 2025 17:01:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The executive chairman of Strategy pitched BTC-backed banking and yield products as a $200 trillion opportunity at the Bitcoin MENA conference."
-  },
-  {
-    "title": "Cascade Unveils 24/7 Neo-Brokerage Offering Perpetuals on Cryptos, U.S. Stocks ",
-    "link": "https://www.coindesk.com/business/2025/12/09/cascade-unveils-247-neo-brokerage-offering-perpetuals-on-cryptos-us-stocks",
-    "pubDate": "Tue, 09 Dec 2025 17:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The platform will let retail traders use one margin account to trade round-the-clock perpetual markets."
-  },
-  {
-    "title": "Circle tests privacy-preserving wrapped version of USDC on Aleo",
-    "link": "https://www.theblock.co/post/381934/circle-tests-privacy-preserving-wrapped-version-usdc-aleo?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 09 Dec 2025 11:57:50 -0500",
-    "source": "The Block",
-    "contentSnippet": "Circle is piloting a version of its flagship USDC asset featuring native privacy protections and “configurable compliance” features."
-  },
-  {
-    "title": "Bitcoin Surges to $94K One Day Ahead of Expected Fed Rate Cut",
-    "link": "https://www.coindesk.com/markets/2025/12/09/bitcoin-surges-to-usd94k-one-day-ahead-of-expected-fed-rate-cut",
-    "pubDate": "Tue, 09 Dec 2025 16:47:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The change from what's become typical bearish U.S. session action could signal seller exhaustion."
-  },
-  {
-    "title": "PNC rolls out direct bitcoin trading for high-net-worth clients through Coinbase tie-up",
-    "link": "https://www.theblock.co/post/381903/pnc-bitcoin-trading-high-net-worth-clients-coinbase-tie-up?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 09 Dec 2025 11:09:27 -0500",
-    "source": "The Block",
-    "contentSnippet": "PNC says the move is driven less by near-term trading demand and more by keeping clients from shifting crypto activity to outside platforms."
-  },
-  {
-    "title": "Bitwise’s first-ever crypto investment product gets uplisted to the NYSE Arca",
-    "link": "https://www.theblock.co/post/381910/bitwises-first-ever-crypto-investment-product-gets-uplisted-to-the-nyse-arca?utm_source=rss&utm_medium=rss",
-    "pubDate": "Tue, 09 Dec 2025 11:02:28 -0500",
-    "source": "The Block",
-    "contentSnippet": "\"America’s first & largest crypto index fund — now in ETP format — is finally here,\" said Bitwise President Teddy Fusaro."
   },
   {
     "title": "NFT winter deepens: Monthly sales hit lowest point of the year",
