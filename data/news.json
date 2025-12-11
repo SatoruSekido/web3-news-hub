@@ -1,5 +1,117 @@
 [
   {
+    "title": "$500M Flows MIA for Month: Crypto Daybook Americas",
+    "link": "https://www.coindesk.com/daybook-us/2025/12/10/usd500m-flows-mia-for-month-crypto-daybook-americas",
+    "pubDate": "Thu, 11 Dec 2025 12:15:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Your day-ahead look for Dec. 11, 2025"
+  },
+  {
+    "title": "Here’s Why Bitcoin is Falling Despite the Fed's Rate Cut",
+    "link": "https://decrypt.co/351949/heres-why-bitcoin-is-falling-despite-the-feds-rate-cut",
+    "pubDate": "Thu, 11 Dec 2025 12:13:49 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Analysts say the Fed’s rate cut was priced in, driving Bitcoin lower as risks like sticky inflation and the 2026 election cycle mount."
+  },
+  {
+    "title": "Disgraced Terraform Labs Founder Do Kwon Faces Sentencing Today",
+    "link": "https://decrypt.co/351947/disgraced-terraform-labs-founder-do-kwon-faces-sentencing-today",
+    "pubDate": "Thu, 11 Dec 2025 12:01:51 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The upcoming sentencing comes after the South Korean entrepreneur pleaded guilty to defrauding investors in August."
+  },
+  {
+    "title": "Sky's Keel Starts $500M Investment Campaign to Boost RWAs on Solana ",
+    "link": "https://www.coindesk.com/business/2025/12/11/sky-s-keel-starts-usd500m-investment-campaign-to-boost-rwas-on-solana",
+    "pubDate": "Thu, 11 Dec 2025 12:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Tokenization Regatta aims to allocate funds and support to projects bringing tokenized real-world assets to the Solana network."
+  },
+  {
+    "title": "Marketnode, Lion Global Bring Singapore-Vaulted Gold Fund Onchain on Solana",
+    "link": "https://www.coindesk.com/business/2025/12/11/marketnode-lion-global-bring-singapore-vaulted-gold-fund-onchain-on-solana",
+    "pubDate": "Thu, 11 Dec 2025 11:59:55 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The fund offers exposure to physical gold bars vaulted and insured in Singapore, with traditional custody and an option for in-kind redemption."
+  },
+  {
+    "title": "‘Santa rally’ now unlikely as bitcoin slips after Fed delivers ‘hawkish cut’: analysts",
+    "link": "https://www.theblock.co/post/382164/santa-rally-hawkish-cut-bitcoin?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 06:52:54 -0500",
+    "source": "The Block",
+    "contentSnippet": "Analysts said Powell's messaging injected \"fresh uncertainty,\" keeping conviction thin and muting the impact of positive ETF demand."
+  },
+  {
+    "title": "Revolut and Trust Wallet Launch Instant Crypto Buys in EU With Self-Custody Focus",
+    "link": "https://www.coindesk.com/business/2025/12/11/revolut-and-trust-wallet-launch-instant-crypto-buys-in-eu-with-self-custody-focus",
+    "pubDate": "Thu, 11 Dec 2025 11:45:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The integration allows users to buy crypto and have it sent directly to their Trust Wallet, a self-custodial app, giving them full control of their assets from the moment of purchase."
+  },
+  {
+    "title": "Crypto Markets Today: Traders Seek Catalysts After Bitcoin’s Post-Fed Pullback",
+    "link": "https://www.coindesk.com/markets/2025/12/11/crypto-markets-today-traders-seek-catalysts-after-bitcoin-s-post-fed-pullback",
+    "pubDate": "Thu, 11 Dec 2025 11:30:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The crypto market slipped to the lower end of its range after the Federal Reserve’s 25bps rate cut failed to spark fresh momentum."
+  },
+  {
+    "title": "UK Bitcoin Company Satsuma Sells 579 of Its 1,199 Bitcoin for $53.2 Million",
+    "link": "https://www.coindesk.com/markets/2025/12/11/uk-bitcoin-company-satsuma-sells-579-of-its-1-199-bitcoin-for-usd53-2-million",
+    "pubDate": "Thu, 11 Dec 2025 11:25:53 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The company sells BTC to secure cash for upcoming loan note obligations ahead of its planned uplisting."
+  },
+  {
+    "title": "BTC, Nasdaq Futures Drop as Oracle Earnings Revive AI Bubble Fears",
+    "link": "https://www.coindesk.com/markets/2025/12/11/btc-nasdaq-futures-drop-as-oracle-earnings-stoke-ai-bubble-fears",
+    "pubDate": "Thu, 11 Dec 2025 10:20:53 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Oracle shares tanked after the firm revealed an earnings miss."
+  },
+  {
+    "title": "UK financial authority to prioritize stablecoin payments in 2026",
+    "link": "https://www.theblock.co/post/382151/uk-fca-stablecoin-2026?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 05:13:34 -0500",
+    "source": "The Block",
+    "contentSnippet": "The FCA recently opened a regulatory sandbox, inviting issuers to experiment with their stablecoin solutions."
+  },
+  {
+    "title": "Bybit CEO Ben Zhou on perps, RWAs, and what’s next for 2026",
+    "link": "https://www.theblock.co/post/382099/bybit-ceo-ben-zhou-on-perps-rwas-and-whats-next-for-2026?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 04:32:38 -0500",
+    "source": "The Block",
+    "contentSnippet": "Bybit CEO Ben Zhou talks about the challenges of building the exchange from a derivatives-first startup into a full-stack CEX."
+  },
+  {
+    "title": "A16z crypto launches South Korea office; ex-Monad APAC lead to head expansion",
+    "link": "https://www.theblock.co/post/382147/a16z-crypto-south-korea-office?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 03:54:10 -0500",
+    "source": "The Block",
+    "contentSnippet": "Sungmo Park, former APAC lead at Monad Foundation and Polygon Labs, has been named to head a16z's efforts in the region."
+  },
+  {
+    "title": "‘Ethereum has already bottomed’: Tom Lee’s BitMine reportedly adds $112 million in ETH to treasury",
+    "link": "https://www.theblock.co/post/382149/ethereum-bottom-tom-lee-bitmine-eth-treasury?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 03:49:05 -0500",
+    "source": "The Block",
+    "contentSnippet": "Lee claimed that the ISM Index moving back above 50 is a positive signal and has \"historically been associated with super cycle moves in Bitcoin and Ethereum.\""
+  },
+  {
+    "title": "Gemini Approved by CFTC to Offer U.S. Prediction Markets, Stock Surges Nearly 14%",
+    "link": "https://www.coindesk.com/markets/2025/12/11/gemini-becomes-first-crypto-exchange-approved-by-cftc-to-offer-u-s-prediction-markets",
+    "pubDate": "Thu, 11 Dec 2025 07:57:25 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The decision allows Gemini’s affiliate to offer supervised event-contract markets to U.S. users, adding regulated forecasting tools as the firm expands its product lineup."
+  },
+  {
+    "title": "Ether, Dogecoin, Solana Slide as Bitcoin Fails to Sustain Early-Week Breakout",
+    "link": "https://www.coindesk.com/markets/2025/12/11/ether-dogecoin-solana-slide-as-bitcoin-fails-to-sustain-early-week-breakout",
+    "pubDate": "Thu, 11 Dec 2025 07:03:41 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The pullback followed Tuesday's brief spike above $94,500, a move that triggered a minor short squeeze but failed to break the resistance that has capped bitcoin for most of the past three weeks."
+  },
+  {
     "title": "Crypto Drop Wipes Out $370M in Bullish Bets as BTC, ETH Give Back Gains",
     "link": "https://www.coindesk.com/markets/2025/12/11/crypto-drop-wipes-out-usd370m-in-bullish-bets-as-btc-eth-give-back-gains",
     "pubDate": "Thu, 11 Dec 2025 06:21:42 +0000",
@@ -14,13 +126,6 @@
     "contentSnippet": "The CFTC license will let Gemini offer event contracts in the U.S., joining Kalshi and Polymarket in a booming market."
   },
   {
-    "title": "XRP Slides as Traders Take Bitcoin Profits, With ETF Flows Still Strong",
-    "link": "https://www.coindesk.com/markets/2025/12/11/xrp-slides-as-traders-take-bitcoin-profits-with-etf-flows-still-strong",
-    "pubDate": "Thu, 11 Dec 2025 05:18:32 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Institutional flows surged 54% above the weekly average, indicating strategic selling rather than retail panic."
-  },
-  {
     "title": "Bhutan Launches Sovereign Gold-Backed Token on Solana",
     "link": "https://decrypt.co/351928/bhutan-launches-sovereign-gold-backed-token-solana",
     "pubDate": "Thu, 11 Dec 2025 04:58:24 +0000",
@@ -28,39 +133,11 @@
     "contentSnippet": "The launch adds to Bhutan’s broader blockchain push, including Bitcoin reserves, Binance Pay integration and hydro-powered BTC mining."
   },
   {
-    "title": "Why is Bitcoin Trading Lower Today?",
-    "link": "https://www.coindesk.com/markets/2025/12/11/why-is-bitcoin-trading-lower-today",
-    "pubDate": "Thu, 11 Dec 2025 04:32:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Market uncertainty persists due to internal Fed divisions and unclear future rate paths until 2026."
-  },
-  {
     "title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
     "link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
     "pubDate": "Thu, 11 Dec 2025 04:09:05 +0000",
     "source": "Decrypt",
     "contentSnippet": "Bitcoin options traders are tempering expectations for a Santa rally and are now looking to $130,000 and $180,000 strikes in Q1, 2026."
-  },
-  {
-    "title": "U.S. Senate's Crypto Market Structure Bill Gets Messy as Calendar Weighs Down",
-    "link": "https://www.coindesk.com/policy/2025/12/10/u-s-senate-s-crypto-market-structure-bill-gets-messy-as-calendar-weighs-down",
-    "pubDate": "Thu, 11 Dec 2025 03:35:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The White House has shut down proposals, and lawmakers are circulating the Democrats' asks in what had been a close negotiation, revealing 11th-hour pressure."
-  },
-  {
-    "title": "Asia Morning Briefing: Fed Cut Brings Little Volatility as Bitcoin Waits for Japan",
-    "link": "https://www.coindesk.com/markets/2025/12/11/asia-morning-briefing-fed-cut-brings-little-volatility-as-bitcoin-waits-for-japan",
-    "pubDate": "Thu, 11 Dec 2025 02:17:47 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "CryptoQuant data shows seller exhaustion as whales pull back from exchanges, while traders prepare for a closely watched BOJ meeting that could influence global liquidity."
-  },
-  {
-    "title": "Bhutan Debuts TER Gold-Backed Token on Solana",
-    "link": "https://www.coindesk.com/business/2025/12/10/bhutan-debuts-ter-gold-backed-token-on-solana",
-    "pubDate": "Thu, 11 Dec 2025 02:00:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Himalayan kingdom introduced TER, a Solana-based token backed by physical gold and issued through Gelephu Mindfulness City."
   },
   {
     "title": "Hong Kong Cardinal Calls AI a 'Gift From God' as Asian Bishops Mull Ethical Challenges",
@@ -91,20 +168,6 @@
     "contentSnippet": "Gemini's Designated Contract Market will offer binary event contracts and may expand into other CFTC-regulated derivatives."
   },
   {
-    "title": "State Street and Galaxy to Launch Tokenized Liquidity Fund on Solana in 2026",
-    "link": "https://www.coindesk.com/markets/2025/12/10/state-street-and-galaxy-to-launch-tokenized-liquidity-fund-on-solana-in-2026",
-    "pubDate": "Wed, 10 Dec 2025 22:30:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The fund will run on Solana at launch and use PYUSD."
-  },
-  {
-    "title": "Crypto CEOs Join U.S. CFTC's Innovation Council to Steer Market Developments ",
-    "link": "https://www.coindesk.com/policy/2025/12/10/crypto-ceos-join-u-s-cftc-s-innovation-council-to-steer-market-developments",
-    "pubDate": "Wed, 10 Dec 2025 22:22:08 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The chief executives of firms such as Gemini and Kraken will pitch in on U.S. policy efforts through the council's future, public discussions."
-  },
-  {
     "title": "Elon Musk's SpaceX Moves Bitcoin Ahead of Potential Record IPO",
     "link": "https://decrypt.co/351893/elon-musk-spacex-moves-bitcoin-ahead-potential-record-ipo",
     "pubDate": "Wed, 10 Dec 2025 22:20:09 +0000",
@@ -117,34 +180,6 @@
     "pubDate": "Wed, 10 Dec 2025 22:11:55 +0000",
     "source": "Decrypt",
     "contentSnippet": "Major U.S. banks denied services to crypto and other lawful businesses based on industry rather than risk, an OCC preliminary report finds."
-  },
-  {
-    "title": "Stripe Acqui-Hires Crypto Payments Startup Valora, Venturing Further Into Stablecoins ",
-    "link": "https://www.coindesk.com/business/2025/12/10/stripe-acqui-hires-crypto-payments-startup-valora-venturing-further-into-stablecoins",
-    "pubDate": "Wed, 10 Dec 2025 22:00:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The team behind the Celo-based app is joining Stripe, while the intellectual property is returned to cLabs."
-  },
-  {
-    "title": "Tether Pivots to Wellness Apps and Robotics in Latest Step Away from Crypto",
-    "link": "https://decrypt.co/351897/tether-pivots-wellness-apps-robotics-latest-step-from-crypto",
-    "pubDate": "Wed, 10 Dec 2025 21:55:09 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The stablecoin giant is using its cash surplus to fund a disparate string of side ventures, from humanoid robots to calorie-counting AI."
-  },
-  {
-    "title": "A Startup Is Trying to Take the Twitter Name From Elon Musk by Force—And It Might Work",
-    "link": "https://decrypt.co/351879/startup-twitter-name-elon-musk-force",
-    "pubDate": "Wed, 10 Dec 2025 21:30:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Operation Bluebird, led by Twitter's former trademark lawyer, filed to cancel X Corp's Twitter trademarks after Musk abandoned the brand. Will Musk spend millions defending a name he deliberately kill"
-  },
-  {
-    "title": "U.S. Banking Regulator Warns Wall Street on 'Debanking,' Claims Practices 'Unlawful'",
-    "link": "https://www.coindesk.com/policy/2025/12/10/u-s-banking-regulator-warns-wall-street-on-debanking-claims-practices-unlawful",
-    "pubDate": "Wed, 10 Dec 2025 21:23:19 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Office of the Comptroller of the Currency probed debanking of certain industries, including digital assets, and said it'll pursue any repeat of such activity."
   },
   {
     "title": "A16z-backed Lead Bank adds Loop Crypto to inner circle with eye on scaling stablecoins and payments",
@@ -173,41 +208,6 @@
     "pubDate": "Wed, 10 Dec 2025 13:34:43 -0500",
     "source": "The Block",
     "contentSnippet": "The firm said bitcoin could move toward $112,000 in the near term, but only if it clears two key resistance levels first."
-  },
-  {
-    "title": "Stripe acquires Valora wallet team as it builds out stablecoin services",
-    "link": "https://www.theblock.co/post/382111/stripe-acquires-valora-wallet-team-builds-stablecoin-services?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 10 Dec 2025 13:32:08 -0500",
-    "source": "The Block",
-    "contentSnippet": "Stripe has acquired the team behind peer-to-peer mobile payments app startup Valora, though not the app itself."
-  },
-  {
-    "title": "Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy",
-    "link": "https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 10 Dec 2025 11:47:50 -0500",
-    "source": "The Block",
-    "contentSnippet": "Strategy argues MSCI’s proposed crypto holding threshold would be impossible to apply consistently and would \"stifle innovation.\""
-  },
-  {
-    "title": "Crypto AI ‘four times better’ than ChatGPT and Grok raises $15 million",
-    "link": "https://www.theblock.co/post/382082/crypto-ai-four-times-better-chatgpt-grok-raises-15-million-fortune?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 10 Dec 2025 11:36:34 -0500",
-    "source": "The Block",
-    "contentSnippet": "The startup named Surf says over 300,000 people are using the platform with more than a million search results."
-  },
-  {
-    "title": "Trump brothers’ American Bitcoin adds another $38 million of the cryptocurrency as total holdings rise to 4,783 BTC",
-    "link": "https://www.theblock.co/post/382079/trump-brothers-american-bitcoin-adds-another-38-million-of-the-cryptocurrency-as-total-holdings-rise-to-4783-btc?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 10 Dec 2025 10:59:11 -0500",
-    "source": "The Block",
-    "contentSnippet": "Eric Trump said the company has become one of the fastest-growing bitcoin accumulators since its Nasdaq listing three months ago."
-  },
-  {
-    "title": "Polychain and Variant-backed ‘neo-brokerage’ Cascade wants to open 24/7 perps trading for any asset class",
-    "link": "https://www.theblock.co/post/381986/polychain-variant-neo-brokerage-cascade-wants-24-7-perps-trading-any-asset-class?utm_source=rss&utm_medium=rss",
-    "pubDate": "Wed, 10 Dec 2025 10:22:56 -0500",
-    "source": "The Block",
-    "contentSnippet": "Cascade raised $15 million in seed funding in a round co-led by Polychain and Variant, with support from Coinbase Ventures."
   },
   {
     "title": "NFT winter deepens: Monthly sales hit lowest point of the year",
