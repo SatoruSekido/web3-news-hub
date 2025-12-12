@@ -1,10 +1,178 @@
 [
   {
-    "title": "Binance Overhauls Stablecoin Trading with Trump-Linked USD1",
-    "link": "https://www.coindesk.com/business/2025/12/11/binance-expands-trump-linked-wlfi-s-stablecoin-for-trading-collateral-on-platform",
-    "pubDate": "Thu, 11 Dec 2025 18:16:29 +0000",
+    "title": "SEC Approves DTCC Pilot to Record US Securities on Select Blockchains Via 'Registered' Wallets",
+    "link": "https://decrypt.co/352080/sec-approves-dtcc-pilot-record-us-securities-select-blockchains",
+    "pubDate": "Fri, 12 Dec 2025 00:57:16 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The three-year program will allow the market’s central clearinghouse to create tokenized entitlements under modified regulatory oversight."
+  },
+  {
+    "title": "Coinbase-incubated x402 payments protocol built for AIs rolls out V2",
+    "link": "https://www.theblock.co/post/382284/coinbase-incubated-x402-payments-protocol-built-for-ais-rolls-out-v2?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 17:47:31 -0500",
+    "source": "The Block",
+    "contentSnippet": "x402 V2 is “multi-chain by default” and compatible with “legacy payment rails,” like ACH and card networks."
+  },
+  {
+    "title": "CFTC Gives No-Action Leeway to Polymarket, Gemini, PredictIt, LedgerX Over Data Rules",
+    "link": "https://www.coindesk.com/policy/2025/12/11/cftc-gives-no-action-leeway-to-polymarket-gemini-predictit-ledgerx-over-data-rules",
+    "pubDate": "Thu, 11 Dec 2025 22:36:24 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "The exchange is adding new USD1 trading pairs and replaces BUSD collateral with the token."
+    "contentSnippet": "The CFTC granted the operators of Polymarket, PredictIt, Gemini and LedgerX permission to skip certain recordkeeping requirements."
+  },
+  {
+    "title": "Google's New Browser Promises to End the Tyranny of the Tab",
+    "link": "https://decrypt.co/352068/googles-new-browser-promises-to-end-the-tyranny-of-the-tab",
+    "pubDate": "Thu, 11 Dec 2025 22:34:38 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Google's Disco builds custom apps from your open tabs, hinting at a post-search future."
+  },
+  {
+    "title": "US Senators make ‘real progress’ on sweeping crypto market bill following talks with bank execs",
+    "link": "https://www.theblock.co/post/382277/us-senators-make-real-progress-on-sweeping-crypto-market-bill-following-talks-with-bank-execs?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 17:03:57 -0500",
+    "source": "The Block",
+    "contentSnippet": "Sen. Scott said \"real progress\" is being made to pass a massive cryptocurrency bill into law after meeting with top bank CEOs on Thursday."
+  },
+  {
+    "title": "Do Kwon Sentenced to 15 Years in Prison Over $40 Billion Terra Crypto Collapse",
+    "link": "https://decrypt.co/352066/do-kwon-sentenced-15-years-prison-40-billion-terra-crypto-collapse",
+    "pubDate": "Thu, 11 Dec 2025 22:02:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Terraform Labs founder Do Kwon was sentenced to 15 years in prison, following the $40 billion collapse of UST and Luna in May 2022."
+  },
+  {
+    "title": "Terraform Labs founder Do Kwon sentenced to 15 years over $40 billion Terra-Luna collapse: Inner City Press",
+    "link": "https://www.theblock.co/post/382204/terraform-labs-founder-do-kwon-sentenced-to-15-years-over-40-billion-terra-luna-collapse-inner-city-press?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 17:02:26 -0500",
+    "source": "The Block",
+    "contentSnippet": "Terraform Labs founder Do Kwon was sentenced for his role in the collapse of the Terra and Luna tokens on Thursday."
+  },
+  {
+    "title": "Terraform's Do Kwon Sentenced to 15 Years in Prison for Fraud",
+    "link": "https://www.coindesk.com/policy/2025/12/10/terraform-s-do-kwon-sentenced-to-15-years-in-prison-for-fraud",
+    "pubDate": "Thu, 11 Dec 2025 21:58:15 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Terraform Labs co-founder pleaded guilty to conspiracy and wire fraud in August."
+  },
+  {
+    "title": "Save the Children Launches Bitcoin Fund as Aid Groups Look for Faster Crisis Payments",
+    "link": "https://decrypt.co/352064/save-children-launches-bitcoin-fund-aid-groups-faster-crisis-payments",
+    "pubDate": "Thu, 11 Dec 2025 21:40:36 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Save the Children introduced a Bitcoin fund aimed at speeding cash assistance during emergencies and expanding its use of crypto tools."
+  },
+  {
+    "title": "U.S. Financial-Risk Watchdog, FSOC, Erased Digital Assets as a Potential Hazard",
+    "link": "https://www.coindesk.com/policy/2025/12/11/u-s-financial-risk-watchdog-fsoc-erased-digital-assets-as-a-potential-hazard-area",
+    "pubDate": "Thu, 11 Dec 2025 21:31:14 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "From Donald Trump's crypto-friendly regulators, the yearly report that once flagged financial-stability risks is no longer issuing \"vulnerability\" warnings."
+  },
+  {
+    "title": "Bitcoin Rebounds to $93K From Post-Fed Lows, but Altcoins Remain Under Pressure",
+    "link": "https://www.coindesk.com/markets/2025/12/11/bitcoin-rebounds-to-usd93k-from-post-fed-lows-but-altcoins-remain-under-pressure",
+    "pubDate": "Thu, 11 Dec 2025 21:24:11 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Downward pressure on bitcoin is losing steam, with the market stabilizing but not yet out of the woods, said one analyst."
+  },
+  {
+    "title": "Bitcoin rewards app Lolli enables Lightning withdrawals",
+    "link": "https://www.theblock.co/post/382272/bitcoin-rewards-app-lolli-enables-lightning-withdrawals?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 16:23:48 -0500",
+    "source": "The Block",
+    "contentSnippet": "Some users complained that Lolli disabled withdrawals following its acquisition by Bitcoin venture and software development studio Thesis."
+  },
+  {
+    "title": "Myriad Moves: Will Santa Bring a Pump or Dump for Bitcoin, Ethereum and Solana?",
+    "link": "https://decrypt.co/352057/myriad-moves-santa-bring-pump-dump-bitcoin-ethereum-solana",
+    "pubDate": "Thu, 11 Dec 2025 20:45:08 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Top markets on Myriad this week include predictions on Ethereum's next move, if Bitcoin is headed back to $100K, and Solana’s next milestone."
+  },
+  {
+    "title": "Chainlink's LINK Drops 5% Despite Coinbase Bridge Deal, But Bottoming Signs Emerge",
+    "link": "https://www.coindesk.com/markets/2025/12/11/chainlink-s-link-drops-5-despite-coinbase-bridge-deal-but-bottoming-signs-emerge",
+    "pubDate": "Thu, 11 Dec 2025 20:21:51 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Coinbase tapped Chainlink services for $7 billion bridge, but broader crypto weakness weighed on price."
+  },
+  {
+    "title": "CFTC rolls back 2020 guidance focused on ‘actual delivery’ of digital assets",
+    "link": "https://www.theblock.co/post/382268/cftc-rolls-back-2020-guidance-on-actual-delivery-of-digital-assets?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 15:15:19 -0500",
+    "source": "The Block",
+    "contentSnippet": "The CFTC is withdrawing \"outdated and overly complex guidance,\" related to delivery of digital assets, according to acting Chair Pham."
+  },
+  {
+    "title": "U.S. CFTC's Pham Moves for Do-Over on 'Actual Delivery' Guidance on Crypto ",
+    "link": "https://www.coindesk.com/policy/2025/12/11/u-s-cftc-s-pham-moves-for-do-over-on-actual-delivery-guidance-on-crypto",
+    "pubDate": "Thu, 11 Dec 2025 19:55:39 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In what are likely her final days at the agency, the acting chairman checked another box from President Donald Trump's crypto agenda."
+  },
+  {
+    "title": " Coinbase Expands Reach of Stablecoin-Based AI Agent Payments Tool ",
+    "link": "https://www.coindesk.com/tech/2025/12/11/coinbase-expands-the-reach-of-its-stablecoin-based-ai-agent-payments-tool",
+    "pubDate": "Thu, 11 Dec 2025 19:52:07 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The updated protocol, x402 V2, allows developers to combine payments, enable secure wallet access, and add new features via a clean, modular design."
+  },
+  {
+    "title": "Do Kwon’s Sentencing Hearing Drags on as Court Weighs Mountain of Victim Testimony",
+    "link": "https://www.coindesk.com/policy/2025/12/11/do-kwon-s-sentencing-hearing-drags-on-as-court-weighs-mountain-of-victim-testimony",
+    "pubDate": "Thu, 11 Dec 2025 19:47:32 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "District Judge Paul Engelmeyer offered the Terraform Labs co-founder the chance to postpone his sentencing date, in light of hundreds of victim impact statements shared with the court in the past 24 h"
+  },
+  {
+    "title": "U.S. Senate Rolls Toward Last Vote on Confirming Crypto Regulators at CFTC, FDIC ",
+    "link": "https://www.coindesk.com/policy/2025/12/11/u-s-senate-rolls-toward-last-vote-on-confirming-crypto-regulators-at-cftc-fdic",
+    "pubDate": "Thu, 11 Dec 2025 19:23:43 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "In the prolonged process of the Senate, two key officials have faced a series of procedural steps on their way to a final vote, possibly early next week."
+  },
+  {
+    "title": "JPMorgan creates Solana-based USCP token to facilitate ‘landmark’ Galaxy debt offering",
+    "link": "https://www.theblock.co/post/382250/jpmorgan-creates-solana-based-uscp-token-to-facilitate-landmark-galaxy-debt-offering?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 14:21:29 -0500",
+    "source": "The Block",
+    "contentSnippet": "JPMorgan created the Solana-based USCP token to facilitate sales of short-term corporate debt, beginning with Galaxy."
+  },
+  {
+    "title": "Anthony Scaramucci on tokenizing Wall Street and why it’s ‘1998 for crypto’",
+    "link": "https://www.theblock.co/post/382251/anthony-scaramucci-tokenizing-wall-street-1998-for-crypto?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 14:18:54 -0500",
+    "source": "The Block",
+    "contentSnippet": "Ava Labs President John Wu and Skybridge founder Anthony Scaramucci discuss the Clarity Act and further institutional adoption of crypto."
+  },
+  {
+    "title": "JPMorgan Pushes Deeper Into Tokenization With Galaxy's Debt Issuance on Solana",
+    "link": "https://www.coindesk.com/business/2025/12/11/jpmorgan-pushes-deeper-into-tokenization-with-galaxy-s-debt-issuance-on-solana",
+    "pubDate": "Thu, 11 Dec 2025 19:16:30 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Galaxy’s onchain debt deal, where JP Morgan acted as arranger, was settled in USDC stablecoin and backed by Coinbase and Franklin Templeton."
+  },
+  {
+    "title": "The Daily: Analysts say ‘Santa rally’ looks unlikely, Rushi Manche unveils new venture, Tom Lee calls ETH bottom, and more",
+    "link": "https://www.theblock.co/post/382249/the-daily-analysts-say-santa-rally-looks-unlikely-rushi-manche-unveils-new-venture-tom-lee-calls-eth-bottom-and-more?utm_source=rss&utm_medium=rss",
+    "pubDate": "Thu, 11 Dec 2025 14:13:14 -0500",
+    "source": "The Block",
+    "contentSnippet": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons."
+  },
+  {
+    "title": "Binance Deepens Ties to Trump-Backed Stablecoin Following Founder’s Pardon",
+    "link": "https://decrypt.co/352035/binance-deepens-ties-trump-backed-stablecoin-following-founders-pardon",
+    "pubDate": "Thu, 11 Dec 2025 18:24:28 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "World Liberty Financial’s USD1 stablecoin is now a part of Binance’s core infrastructure, the President Trump-backed crypto project said."
+  },
+  {
+    "title": "Bitcoin Isn’t Buying What the Fed Is Selling: Here’s What the Charts Suggest Happens Next",
+    "link": "https://decrypt.co/352016/bitcoin-ethereum-price-fed-cut-charts-analysis",
+    "pubDate": "Thu, 11 Dec 2025 18:24:26 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "So much for that post-Fed relief rally. Bitcoin and Ethereum are again trending downwards, and the charts suggest bears are in control."
   },
   {
     "title": "Klarna Teams With Stripe’s Privy to Build Crypto Wallet ‘For the Masses’",
@@ -12,13 +180,6 @@
     "pubDate": "Thu, 11 Dec 2025 17:54:21 +0000",
     "source": "Decrypt",
     "contentSnippet": "Swedish fintech firm Klarna is working towards the launch of its own crypto wallet with Stripe-owned wallet infrastructure firm, Privy."
-  },
-  {
-    "title": "El Salvador Partners with Elon Musk’s Grok in AI-Powered Education for 1M Students",
-    "link": "https://www.coindesk.com/tech/2025/12/11/el-salvador-partners-with-elon-musk-s-grok-in-ai-powered-education-for-1m-students",
-    "pubDate": "Thu, 11 Dec 2025 17:51:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The nation that first adopted bitcoin as legal tender is looking to pioneer AI-powered education in 5,000 Salvadoran schools with xAI’s Grok"
   },
   {
     "title": "Multicoin joins as lead investor in LI.FI’s $29 million Series A extension round",
@@ -35,20 +196,6 @@
     "contentSnippet": "The Abu Dhabi investment firm MGX chose USD1 when making a $2 billion investment into Binance, the world's largest crypto exchange."
   },
   {
-    "title": "Crypto Investment Firm Blockstream to Acquire TradFi Hedge Fund Corbiere Capital ",
-    "link": "https://www.coindesk.com/business/2025/12/11/crypto-investment-firm-blockstream-to-acquire-tradfi-hedge-fund-corbiere-capital",
-    "pubDate": "Thu, 11 Dec 2025 17:36:28 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The planned deal will bring Corbiere’s equity and event-driven strategies under Blockstream’s asset management arm."
-  },
-  {
-    "title": "Robinhood Stock Slides 8% After Big Decline in November Trading Volumes",
-    "link": "https://www.coindesk.com/markets/2025/12/11/robinhood-shares-slide-8-after-november-trading-volumes-drop-sharply",
-    "pubDate": "Thu, 11 Dec 2025 17:30:51 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Slumps across equity, options and crypto trading in November raised concerns that retail investor momentum may be fading."
-  },
-  {
     "title": "Disney Targets Google Over AI Copyright Violations—Alongside $1 Billion OpenAI Deal",
     "link": "https://decrypt.co/352005/disney-targets-google-over-ai-copyright-violations-1-billion-openai-deal",
     "pubDate": "Thu, 11 Dec 2025 17:05:04 +0000",
@@ -56,158 +203,11 @@
     "contentSnippet": "Disney says Google’s AI used its characters without permission, as it signed a new deal with OpenAI to allow character generation with Sora."
   },
   {
-    "title": "Aptos Slumps 7% as Token Unlock Weighs on Sentiment",
-    "link": "https://www.coindesk.com/markets/2025/12/11/aptos-slumps-7-as-token-unlock-weighs-on-sentiment",
-    "pubDate": "Thu, 11 Dec 2025 17:05:03 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Trading volumes jumped 38% above monthly averages as institutional players repositioned ahead of a scheduled token unlock."
-  },
-  {
-    "title": "TON Slips 3.3% to $1.59 as Broader Crypto Market Weakens ",
-    "link": "https://www.coindesk.com/markets/2025/12/11/ton-slips-3-3-to-usd1-59-as-broader-crypto-market-weakens",
-    "pubDate": "Thu, 11 Dec 2025 16:58:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token is consolidating below resistance at $1.65, with support forming above $1.59, and traders are watching for a breakout above $1.70 to regain momentum."
-  },
-  {
-    "title": "ICP Extends Decline as Breakdown Below $3.40 Reinforces Bearish Structure",
-    "link": "https://www.coindesk.com/markets/2025/12/11/icp-extends-decline-as-breakdown-below-usd3-40-reinforces-bearish-structure",
-    "pubDate": "Thu, 11 Dec 2025 16:36:25 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "ICP slid 4.28% as a sharp reversal from early highs pushed the token below short-term support, with volume surging during key inflection points."
-  },
-  {
-    "title": "Coinbase taps Chainlink CCIP to expand wrapped assets like cbBTC and cbXRP to new chains",
-    "link": "https://www.theblock.co/post/382230/coinbase-chainlink-ccip-wrapped-assets-exclusive-deal?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 11:29:20 -0500",
-    "source": "The Block",
-    "contentSnippet": "The U.S. crypto exchange chose Chainlink’s cross-chain interoperability standard as the “exclusive bridging solution” for its wrapped assets."
-  },
-  {
-    "title": "Anchorage snags another stablecoin issuance as it trumpets regulated status as market advantage",
-    "link": "https://www.theblock.co/post/382229/anchorage-snags-stablecoin-issuance-trumpets-regulated-status?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 11:26:28 -0500",
-    "source": "The Block",
-    "contentSnippet": "The move follows Tether, in September, selecting Anchorage for issuing USAT, a stablecoin designed specifically for the U.S. market."
-  },
-  {
-    "title": "BNB Drops Below $865 as Crypto Market Moves Lower",
-    "link": "https://www.coindesk.com/markets/2025/12/11/bnb-drops-below-usd865-as-crypto-market-moves-lower",
-    "pubDate": "Thu, 11 Dec 2025 16:24:53 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The token is now trading in a tight range, with buyers defending the $864-$867 zone and sellers capping gains near $868.50."
-  },
-  {
-    "title": "Save the Children Introduces Bitcoin Fund to Streamline Crisis Response",
-    "link": "https://www.coindesk.com/policy/2025/12/11/save-the-children-introduces-bitcoin-fund-to-streamline-crisis-response",
-    "pubDate": "Thu, 11 Dec 2025 16:24:05 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "New fund enables Save the Children to hold bitcoin, pilot digital wallets, and speed up emergency aid delivery."
-  },
-  {
-    "title": "Cross-Chain Liquidity Protocol LI.FI Raises $29M in Series A Extension ",
-    "link": "https://www.coindesk.com/business/2025/12/11/cross-chain-liquidity-protocol-li-fi-raises-usd29m-in-series-a-extension",
-    "pubDate": "Thu, 11 Dec 2025 16:22:42 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Berlin-based bridging and swap infrastructure provider has now raised $51.7M in total funding and processed more than $60B in onchain volume."
-  },
-  {
     "title": "Some Bitcoin Buying Firms Are Selling as Losses Pile Up on Paper: Report",
     "link": "https://decrypt.co/352002/some-bitcoin-buying-firms-selling-losses-pile-up",
     "pubDate": "Thu, 11 Dec 2025 15:57:34 +0000",
     "source": "Decrypt",
     "contentSnippet": "A report found that most Bitcoin-stacking firms sit on unrealized losses, with a handful selling the asset as its price fell last month."
-  },
-  {
-    "title": "New XRP ETF hits the market with launch of 21Shares’ TOXR",
-    "link": "https://www.theblock.co/post/382224/new-xrp-etf-hits-the-market-with-launch-of-21shares-toxr?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 10:43:35 -0500",
-    "source": "The Block",
-    "contentSnippet": "A new XRP exchange-traded fund is on the block — 21Shares debuted its fund on the CBOE exchange with the ticker symbol TOXR."
-  },
-  {
-    "title": "Nexo acquires Buenbit to anchor regulated push into Latin America’s growing crypto market",
-    "link": "https://www.theblock.co/post/382195/nexo-acquires-buenbit-regulated-latin-america-crypto?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 10:31:01 -0500",
-    "source": "The Block",
-    "contentSnippet": "Nexo’s acquisition of Buenbit marks a significant regional bet for the firm, which claims to manage $11 billion in assets."
-  },
-  {
-    "title": "Binance API update hints at stock perpetual contracts as exchanges eye TradFi markets",
-    "link": "https://www.theblock.co/post/382209/binance-api-update-hints-at-stock-perpetual-contracts-as-exchanges-eye-tradfi-markets?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 10:21:19 -0500",
-    "source": "The Block",
-    "contentSnippet": "Binance added a new API endpoint for signing a “TradFi-Perps agreement contract,” signaling early work for potential stock perpetual futures."
-  },
-  {
-    "title": "Spanish Police Dismantle Network Linked to Crypto ‘Wrench Attack’ Murder",
-    "link": "https://decrypt.co/351996/spanish-police-dismantle-network-linked-to-crypto-wrench-attack-murder",
-    "pubDate": "Thu, 11 Dec 2025 15:14:12 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Five people have been arrested following a murder and kidnapping in April, with another four charged in Denmark."
-  },
-  {
-    "title": "Coinbase Ending USDC Rewards for Free Users, Will Only Be for Paid Members",
-    "link": "https://decrypt.co/351946/coinbase-ending-usdc-rewards-free-users-only-paid-members",
-    "pubDate": "Thu, 11 Dec 2025 14:50:25 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Not all Coinbase users will be able to earn rewards on USDC holdings, as the exchange moves to make it a feature for Coinbase One members."
-  },
-  {
-    "title": "Klarna furthers Stripe links, tapping Privy to explore potential crypto wallet after Tempo-based stablecoin foray",
-    "link": "https://www.theblock.co/post/382198/klarna-furthers-stripe-links-tapping-privy-to-explore-potential-crypto-wallet-after-tempo-based-stablecoin-foray?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 09:23:41 -0500",
-    "source": "The Block",
-    "contentSnippet": "The initiative remains exploratory, with any product launch dependent on securing required regulatory approvals, the firm said."
-  },
-  {
-    "title": "Crypto Is Now Central to Venezuela’s Economy—And Poses Sanctions Risks: TRM",
-    "link": "https://decrypt.co/351903/crypto-now-central-venezuelas-economy-poses-sanctions-risks-trm",
-    "pubDate": "Thu, 11 Dec 2025 14:01:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "An informal peer-to-peer crypto economy is now central to Venezuela’s economy, and should be considered as President Trump ratchets up tensions with the country, a new TRM report says."
-  },
-  {
-    "title": "Binance launches private IOI feature for large spot and loan orders via OTC desk",
-    "link": "https://www.theblock.co/post/382191/binance-private-ioi-feature-large-spot-loan-orders-otc-desk?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 09:00:03 -0500",
-    "source": "The Block",
-    "contentSnippet": "Binance has launched a private indication of interest feature for large spot and loan orders, saying it is the first crypto exchange to do so."
-  },
-  {
-    "title": "Spot trading rollout opens dYdX to US-based traders for first time, starting with Solana",
-    "link": "https://www.theblock.co/post/382180/dydx-spot-trading-solana-us-traders?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 09:00:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "While its perpetual contracts remain unavailable to U.S. traders, dYdX Labs said it will track regulatory developments from the SEC and CFTC."
-  },
-  {
-    "title": "US DoJ Indicts Ukrainian Over Russia-Linked Cyberattack Groups That Paid in Crypto",
-    "link": "https://decrypt.co/351967/us-doj-indicts-ukrainian-over-russia-linked-cyberattack-groups-that-paid-in-crypto",
-    "pubDate": "Thu, 11 Dec 2025 13:46:02 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The individual was allegedly involved in two groups that used Telegram to claim credit for attacks against infrastructure targets in the U.S."
-  },
-  {
-    "title": "Morning Minute: VanEck Leans Into 'Degen' Culture with New ETF",
-    "link": "https://decrypt.co/351968/morning-minute-vaneck-leans-into-degen-culture-with-new-etf",
-    "pubDate": "Thu, 11 Dec 2025 13:18:00 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "A basket of assets built around millennial finance, the gig economy and digital gambling has been built into this degen index."
-  },
-  {
-    "title": "New Xiaomi Smartphones Will Come With Sei Crypto Wallets Preinstalled",
-    "link": "https://decrypt.co/351959/xiaomi-smartphones-sei-crypto-wallets-preinstalled",
-    "pubDate": "Thu, 11 Dec 2025 12:36:08 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The partnership will see a Sei “crypto wallet and discovery app” preinstalled on devices sold outside mainland China and the U.S."
-  },
-  {
-    "title": "Here’s Why Bitcoin Is Falling Despite the Fed's Rate Cut",
-    "link": "https://decrypt.co/351949/heres-why-bitcoin-is-falling-despite-the-feds-rate-cut",
-    "pubDate": "Thu, 11 Dec 2025 12:13:49 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Analysts say the Fed’s rate cut was priced in, driving Bitcoin lower as risks like sticky inflation and the 2026 election cycle mount."
   },
   {
     "title": "NFT winter deepens: Monthly sales hit lowest point of the year",
