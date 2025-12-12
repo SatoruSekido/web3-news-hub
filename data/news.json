@@ -1,17 +1,178 @@
 [
   {
+    "title": "Solo Bitcoin Miner Beats the Odds, Winning $282K Reward",
+    "link": "https://decrypt.co/352193/solo-bitcoin-miner-beats-odds-winning-282k-reward",
+    "pubDate": "Fri, 12 Dec 2025 18:13:47 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A solo Bitcoin miner defied the odds and won a block reward worth around $282,000 with the help of mining service, Solo CKPool."
+  },
+  {
+    "title": "Sorry Gooners: OpenAI's Erotic ChatGPT Delayed Into 2026",
+    "link": "https://decrypt.co/352189/sorry-gooners-openai-erotic-chatgpt-delayed-2026",
+    "pubDate": "Fri, 12 Dec 2025 17:39:43 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Sam Altman breaks his December promise as OpenAI delays ChatGPT's adult content feature into at least Q1 next year."
+  },
+  {
+    "title": "DOT Sinks 2% After Breaking Key Support",
+    "link": "https://www.coindesk.com/markets/2025/12/12/dot-sinks-2-after-breaking-key-support",
+    "pubDate": "Fri, 12 Dec 2025 17:16:06 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The Polkadot token erased earlier gains amid elevated volume, falling from a high of $2.09 to $1.97."
+  },
+  {
+    "title": "Hedera Tumbles 4% as Altcoins Continue to Suffer",
+    "link": "https://www.coindesk.com/markets/2025/12/12/hedera-tumbles-4-as-altcoins-continue-to-suffer",
+    "pubDate": "Fri, 12 Dec 2025 17:14:17 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Hedera's native token retreated from resistance levels as institutional volume surged during key reversal hour."
+  },
+  {
+    "title": "Tether Considers Tokenizing Stock Amid $20 Billion Fundraise: Bloomberg",
+    "link": "https://decrypt.co/352183/tether-considers-tokenizing-stock-20-billion-fundraise-bloomberg",
+    "pubDate": "Fri, 12 Dec 2025 16:58:53 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Stablecoin issuer Tether moved to prevent equity sales as Bloomberg reports plans to raise funds at a $500 billion valuation."
+  },
+  {
+    "title": "Circle, Ripple, Paxos, Fidelity and BitGo Get Banking Charters Approved by OCC",
+    "link": "https://decrypt.co/352184/circle-ripple-paxos-fidelity-bitgo-banking-charters-occ",
+    "pubDate": "Fri, 12 Dec 2025 16:43:13 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Circle, Ripple among five stablecoin issuers conditionally approved for national banking charters as market hits $313 billion."
+  },
+  {
+    "title": "Five Crypto Firms Win Initial Approvals as Trust Banks, Including Ripple, Circle, BitGo",
+    "link": "https://www.coindesk.com/policy/2025/12/12/five-crypto-firms-step-closer-to-become-a-bank-including-ripple-circle-fidelity",
+    "pubDate": "Fri, 12 Dec 2025 16:39:19 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The firms have obtained conditional approval from the Office of the Comptroller of the Currency to convert into national trust banks."
+  },
+  {
+    "title": "Ripple, Circle and BitGo secure conditional approval for US banking charters",
+    "link": "https://www.theblock.co/post/382379/ripple-bitgo-and-paxos-secure-conditional-approval-for-us-banking-charters?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 12 Dec 2025 11:37:46 -0500",
+    "source": "The Block",
+    "contentSnippet": "Coinbase , Stripe-owned Bridge and Crypto.com have also applied to become federally chartered banks in the U.S."
+  },
+  {
+    "title": "Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down",
+    "link": "https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down",
+    "pubDate": "Fri, 12 Dec 2025 16:04:27 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026."
+  },
+  {
+    "title": "Pakistan, Binance Sign MOU to Explore Tokenization of $2B in State Assets: Reuters",
+    "link": "https://www.coindesk.com/business/2025/12/12/pakistan-binance-sign-mou-to-explore-tokenization-of-usd2b-in-state-assets-reuters",
+    "pubDate": "Fri, 12 Dec 2025 16:02:10 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The agreement comes as Pakistan accelerates the rollout of a formal crypto regulatory framework and explores blockchain-based distribution of government-owned assets."
+  },
+  {
+    "title": "Lawmakers Say Bank of England Stablecoin Proposals Will ‘Limit Adoption, Push Activity Overseas’",
+    "link": "https://decrypt.co/352175/lawmakers-bank-england-stablecoin-proposals-limit-adoption",
+    "pubDate": "Fri, 12 Dec 2025 15:48:25 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "A CryptoUK spokesperson told Decrypt the proposed restrictions “risk undermining the UK’s ambition to lead in digital finance.”"
+  },
+  {
+    "title": "Jennifer Garner to Star in Netflix Crypto Comedy 'One Attempt Remaining'",
+    "link": "https://decrypt.co/352165/jennifer-garner-to-star-in-netflix-crypto-comedy-one-attempt-remaining",
+    "pubDate": "Fri, 12 Dec 2025 15:33:53 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The film focuses on a divorced couple racing to recover access to their now-valuable crypto before time runs out."
+  },
+  {
+    "title": "Aave community probes CoW Swap integration and Aave Labs ‘stealth privatization’ of protocol",
+    "link": "https://www.theblock.co/post/382369/aave-community-probes-cow-swap-integration-and-aave-labs-stealth-privatization-of-protocol?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 12 Dec 2025 10:32:02 -0500",
+    "source": "The Block",
+    "contentSnippet": "An Aave governance dispute has erupted after a delegate claimed that swap fees from Aave Labs’ new CoWSwap integration no longer reach the DAO treasury."
+  },
+  {
+    "title": "Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee",
+    "link": "https://decrypt.co/352014/bitcoin-giant-strategy-cash-reserve-smart-move-bitmine-tom-lee",
+    "pubDate": "Fri, 12 Dec 2025 15:23:57 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why."
+  },
+  {
+    "title": "Prediction Markets Are Coming to Phantom's 20M User Via Kalshi ",
+    "link": "https://www.coindesk.com/business/2025/12/12/prediction-markets-are-coming-to-phantom-s-20m-user-via-kalshi",
+    "pubDate": "Fri, 12 Dec 2025 15:10:39 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Phantom users will be able to chat and trade Kalshi's prediction markets with any Solana-based tokens, CEO said."
+  },
+  {
+    "title": "Most Influential: Changpeng “CZ” Zhao",
+    "link": "https://www.coindesk.com/business/2025/12/12/most-influential-changpeng-cz-zhao",
+    "pubDate": "Fri, 12 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Zhao’s exit from Binance did little to dim his prominence."
+  },
+  {
+    "title": "Most Influential: Tom Lee",
+    "link": "https://www.coindesk.com/business/2025/12/12/most-influential-tom-lee",
+    "pubDate": "Fri, 12 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "A longtime fixture on Wall Street, Tom Lee’s pivot to crypto comes as the traditional finance industry is increasingly embracing digital assets."
+  },
+  {
+    "title": "Most Influential: Jesse Pollak",
+    "link": "https://www.coindesk.com/tech/2025/12/12/most-influential-jesse-pollak",
+    "pubDate": "Fri, 12 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Base, the layer-2 network incubated by Coinbase, exploded in popularity this year."
+  },
+  {
+    "title": "Most Influential: David Bailey",
+    "link": "https://www.coindesk.com/business/2025/12/12/most-influential-david-bailey",
+    "pubDate": "Fri, 12 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Bailey’s Strategy-inspired bitcoin treasury company, KindlyMD, exemplified the struggles of many of its peers this year."
+  },
+  {
+    "title": "Pyth launches token buyback program, allocating 33% of DAO treasury to monthly PYTH purchases",
+    "link": "https://www.theblock.co/post/382357/pyth-token-buyback-program-33-dao-treasury-monthly-pyth-purchases?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 12 Dec 2025 09:32:53 -0500",
+    "source": "The Block",
+    "contentSnippet": "The buybacks are funded by network revenue as Pyth reports rising traction, with its Pyth Pro product surpassing $1M ARR in its first month."
+  },
+  {
+    "title": "Morning Minute: Do Kwon Gets 15 Years for $40B Terra Luna Fraud",
+    "link": "https://decrypt.co/352135/morning-minute-do-kwon-gets-15-years-for-40b-terra-luna-fraud",
+    "pubDate": "Fri, 12 Dec 2025 13:51:41 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "The sentencing brings a measure of justice, finally, for all of those impacted by the collapse of Terra and its UST stablecoin in 2022."
+  },
+  {
+    "title": "Lucky solo bitcoin miner beats 1-in-82-year odds to win $285,000 block reward",
+    "link": "https://www.theblock.co/post/382346/lucky-solo-bitcoin-miner-beats-odds-wins-block-reward?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 12 Dec 2025 08:26:51 -0500",
+    "source": "The Block",
+    "contentSnippet": "The bitcoin miner earned $284,633 for mining block 927,474 on Thursday using CKpool in a solo mining configuration."
+  },
+  {
+    "title": "Tether mulls tokenizing its stock after seeking up to $20 billion in share sales at $500 billion valuation: Bloomberg",
+    "link": "https://www.theblock.co/post/382344/tether-mulls-tokenizing-stock?utm_source=rss&utm_medium=rss",
+    "pubDate": "Fri, 12 Dec 2025 08:18:34 -0500",
+    "source": "The Block",
+    "contentSnippet": "Tether is reportedly considering tokenizing its stock once it completes a share sale that could be finalized at a $500 billion valuation."
+  },
+  {
+    "title": "Florida Seizes $1.5M in Dogecoin, Pepe and Solana Over Case Tied to Chinese National",
+    "link": "https://decrypt.co/352136/florida-seizes-1-5m-in-dogecoin-pepe-and-solana-over-case-tied-to-chinese-national",
+    "pubDate": "Fri, 12 Dec 2025 13:12:02 +0000",
+    "source": "Decrypt",
+    "contentSnippet": "Prosecutors used a fugitive disentitlement statute to seize Dogecoin, Solana, and other tokens tied to a Citrus County fraud case."
+  },
+  {
     "title": "Phantom integrates with Kalshi to bring prediction markets to its web3 wallet",
     "link": "https://www.theblock.co/post/382340/phantom-integrates-kalshi-prediction-markets-web3-wallet?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 12 Dec 2025 07:20:38 -0500",
     "source": "The Block",
     "contentSnippet": "The integration adds real-time odds, settlement notifications, and live community chat alongside Phantom's existing trading tools."
-  },
-  {
-    "title": "U.S. SEC Gives Implicit Nod for Tokenized Stocks",
-    "link": "https://www.coindesk.com/policy/2025/12/12/u-s-sec-gives-implicit-nod-for-tokenized-stocks",
-    "pubDate": "Fri, 12 Dec 2025 12:17:04 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Clearing and settlement company the Depository Trust & Clearing Corp. said a subsidiary had received a no-action letter to offer tokenized real-world assets."
   },
   {
     "title": "New York Mandates AI Advertising Disclosures, Faces Showdown Over Trump Executive Order",
@@ -21,20 +182,6 @@
     "contentSnippet": "New York state legislation now mandates AI disclosure in advertising, while SAG-AFTRA lobbies for nationwide No Fakes Act protections."
   },
   {
-    "title": "Bitcoin's Volatility Meltdown: Crypto Daybook Americas",
-    "link": "https://www.coindesk.com/daybook-us/2025/12/12/bitcoin-s-volatility-meltdown-crypto-daybook-americas",
-    "pubDate": "Fri, 12 Dec 2025 12:15:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Your day-ahead look for Dec. 12, 2025"
-  },
-  {
-    "title": "YouTube Now Allows U.S. Content Creators to Get Paid in PayPal’s Stablecoin: Fortune",
-    "link": "https://www.coindesk.com/web3/2025/12/12/youtube-now-allows-content-creators-to-get-paid-in-paypal-s-stablecon-fortune",
-    "pubDate": "Fri, 12 Dec 2025 12:05:33 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "YouTube has added PayPal’s dollar-pegged stablecoin as a payout option for U.S. content creators, marking one of PYUSD’s most high-profile use cases yet."
-  },
-  {
     "title": "DTCC subsidiary authorized to offer tokenization service for US securities beginning 2026",
     "link": "https://www.theblock.co/post/382331/dtcc-subsidiary-tokenization-service-us-securities?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 12 Dec 2025 06:31:45 -0500",
@@ -42,32 +189,11 @@
     "contentSnippet": "DTCC's depository subsidiary has received an SEC No-Action Letter clearing it to offer a tokenization service for U.S. securities."
   },
   {
-    "title": "Crypto Markets Today: Bitcoin Stuck in Post-Fed Range as Altcoins Slump Deepens",
-    "link": "https://www.coindesk.com/markets/2025/12/12/crypto-markets-today-bitcoin-stuck-in-post-fed-range-as-altcoins-continue-to-lag",
-    "pubDate": "Fri, 12 Dec 2025 11:30:00 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior."
-  },
-  {
     "title": "Save the Children’s new Bitcoin Fund seeks to maximize donation value with up to four-year holding strategy",
     "link": "https://www.theblock.co/post/382329/save-the-children-bitcoin-fund?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 12 Dec 2025 06:23:35 -0500",
     "source": "The Block",
     "contentSnippet": "The initiative builds on the charity's early adoption of bitcoin donations to improve speed, transparency, and cost efficiency."
-  },
-  {
-    "title": "Hollywood Director Guilty of Scamming Netflix out of $11M, Spending It on Crypto",
-    "link": "https://decrypt.co/352128/hollywood-director-guilty-of-scamming-netflix-out-of-11m-spending-it-on-crypto",
-    "pubDate": "Fri, 12 Dec 2025 10:59:46 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "“47 Ronin” director Carl Rinsch faces a maximum prison sentence of up to 90 years, having been found guilty on seven separate charges."
-  },
-  {
-    "title": "From Lockstep to Lag, Bitcoin Poised to Catch Up With Small Cap Highs",
-    "link": "https://www.coindesk.com/markets/2025/12/12/from-lockstep-to-lag-bitcoin-poised-to-catch-up-with-small-cap-highs",
-    "pubDate": "Fri, 12 Dec 2025 10:50:56 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Federal Reserve begins Treasury bill purchases later Friday, starting with $8.2 billion as part of its reserve management program."
   },
   {
     "title": "Cathie Wood’s Ark Invest picks up $15.4 million in Robinhood shares and more of its own Bitcoin ETF",
@@ -82,132 +208,6 @@
     "pubDate": "Fri, 12 Dec 2025 04:20:23 -0500",
     "source": "The Block",
     "contentSnippet": "Several major crypto players, including Gemini and Crypto.com, are also venturing into the growing prediction market sector."
-  },
-  {
-    "title": "Standard Chartered, Coinbase Expand Crypto Prime Services for Institutions",
-    "link": "https://www.coindesk.com/business/2025/12/12/standard-chartered-coinbase-expand-crypto-prime-services-for-institutions",
-    "pubDate": "Fri, 12 Dec 2025 09:04:36 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The companies will explore the development of trading, prime services, custody, staking and lending solutions for institutional clients."
-  },
-  {
-    "title": "YouTube now allows US creators to receive payouts in PayPal’s PYUSD stablecoin: report",
-    "link": "https://www.theblock.co/post/382296/youtube-pyusd-stablecoin?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 12 Dec 2025 04:04:20 -0500",
-    "source": "The Block",
-    "contentSnippet": "PayPal's PYUSD currently holds a market capitalization of $3.9 billion as the world's eighth largest stablecoin."
-  },
-  {
-    "title": "deBridge launches new execution model to simplify onchain experience",
-    "link": "https://www.theblock.co/post/382298/debridge-bundles-execution-model?utm_source=rss&utm_medium=rss",
-    "pubDate": "Fri, 12 Dec 2025 03:35:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "DeBridge launched a new execution model that allows users to interact with blockchains without having to manage various requirements."
-  },
-  {
-    "title": "Boring Bitcoin's Green Light Moment Incoming?",
-    "link": "https://www.coindesk.com/markets/2025/12/12/boring-bitcoin-s-green-light-moment-incoming",
-    "pubDate": "Fri, 12 Dec 2025 07:11:48 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "BTC continues to bore traders with its directionless price action. But some indicators are pointing to renewed bullishness."
-  },
-  {
-    "title": "Bitcoin, Ether Steady as AI Fears Send Oracle Tumbling Down, Traders Eye Next Wave of Rate Cuts",
-    "link": "https://www.coindesk.com/markets/2025/12/12/bitcoin-ether-steady-as-ai-fears-send-oracle-tumbling-down-traders-next-wave-of-rate-cuts",
-    "pubDate": "Fri, 12 Dec 2025 06:30:13 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Traders appeared more focused on preserving trend structure than chasing upside, with flows concentrated in large-cap assets."
-  },
-  {
-    "title": "Dogecoin Hovers Near Key Support as Fed Easing Fails to Spark Risk Rally",
-    "link": "https://www.coindesk.com/markets/2025/12/12/dogecoin-hovers-near-key-support-as-fed-easing-fails-to-spark-risk-rally",
-    "pubDate": "Fri, 12 Dec 2025 05:45:24 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Despite elevated trading activity, Dogecoin faces resistance near $0.1425, and its future movement is likely dependent on broader market sentiment."
-  },
-  {
-    "title": "Stablecoins Get Backing From Cross-Party UK Lawmakers Urging Pro-Innovation Rules",
-    "link": "https://www.coindesk.com/markets/2025/12/12/stablecoins-get-backing-from-cross-party-uk-lawmakers-urging-pro-innovation-rules",
-    "pubDate": "Fri, 12 Dec 2025 05:43:19 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The group calls for a forward-looking framework to maintain the U.K.'s fintech leadership and attract international investment."
-  },
-  {
-    "title": "YouTube Now Lets US Creators Take Earnings in PayPal's Stablecoin: Report",
-    "link": "https://decrypt.co/352125/youtube-us-creators-take-earnings-paypals-stablecoin",
-    "pubDate": "Fri, 12 Dec 2025 05:37:31 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "YouTube has reportedly adopted the feature shortly after PayPal enabled PYUSD as a payout method for recipients in the third quarter."
-  },
-  {
-    "title": "Elliptic Flags Global Crypto Pivot as Banks, Stablecoins and Asian Hubs Take the Lead",
-    "link": "https://decrypt.co/352121/elliptic-global-crypto-pivot-banks-stablecoins-asian-hubs",
-    "pubDate": "Fri, 12 Dec 2025 04:58:52 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Elliptic noted a worldwide pivot toward innovation, highlighting U.S. shifts, stablecoin adoption, and APAC–Middle East regulatory momentum."
-  },
-  {
-    "title": "Bitcoin's Persistent Long-Term Buyers Step In as Market Struggles For Liquidity",
-    "link": "https://decrypt.co/352113/bitcoins-persistent-long-term-buyers-market-struggles-liquidity",
-    "pubDate": "Fri, 12 Dec 2025 04:39:16 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Experts remain cautiously optimistic as macro hurdles clear amid Bitcoin whale accumulation and liquidity drying up ahead of the holidays."
-  },
-  {
-    "title": "Trump’s New AI Order Sets Up Federal Fight With US States Over Industry Regulation",
-    "link": "https://decrypt.co/352093/trumps-new-ai-order-sets-up-federal-fight-states-over-regulations",
-    "pubDate": "Fri, 12 Dec 2025 02:49:05 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The White House has directed the DOJ to challenge state AI laws and highlighted Colorado’s algorithmic discrimination statute."
-  },
-  {
-    "title": "Stablecoins Gain Ground in Blockchain Gaming as Studios Tighten Spending, Study Finds",
-    "link": "https://decrypt.co/352092/stablecoins-gain-ground-blockchain-gaming-studios-tighten-spending",
-    "pubDate": "Fri, 12 Dec 2025 02:39:01 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "New industry data shows developers leaning on stablecoins and disciplined business models as blockchain studios adjust to cooling markets."
-  },
-  {
-    "title": "OpenAI Launches GPT-5.2 Amid Expanded Major Contracts",
-    "link": "https://decrypt.co/352081/gpt-5-2-launched-as-openai-expanded-major-contracts",
-    "pubDate": "Fri, 12 Dec 2025 01:20:57 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "OpenAI unveiled GPT-5.2, featuring upgrades for scientific, mathematical, and software tasks, as employers mull AI for technical work."
-  },
-  {
-    "title": "Hex Trust to issue and custody wrapped XRP to expand DeFi utility across multiple blockchains",
-    "link": "https://www.theblock.co/post/382211/hex-trust-issue-custody-wrapped-xrp-defi-utility-multiple-blockchains?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 20:00:00 -0500",
-    "source": "The Block",
-    "contentSnippet": "The asset aims to extend XRP's reach into DeFi and improve interoperability with Ripple's RLUSD stablecoin."
-  },
-  {
-    "title": "SEC Approves DTCC Pilot to Record US Securities on Select Blockchains Via 'Registered' Wallets",
-    "link": "https://decrypt.co/352080/sec-approves-dtcc-pilot-record-us-securities-select-blockchains",
-    "pubDate": "Fri, 12 Dec 2025 00:57:16 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "The three-year program will allow the market’s central clearinghouse to create tokenized entitlements under modified regulatory oversight."
-  },
-  {
-    "title": "Coinbase-incubated x402 payments protocol built for AIs rolls out V2",
-    "link": "https://www.theblock.co/post/382284/coinbase-incubated-x402-payments-protocol-built-for-ais-rolls-out-v2?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 17:47:31 -0500",
-    "source": "The Block",
-    "contentSnippet": "x402 V2 is “multi-chain by default” and compatible with “legacy payment rails,” like ACH and card networks."
-  },
-  {
-    "title": "Google's New Browser Promises to End the Tyranny of the Tab",
-    "link": "https://decrypt.co/352068/googles-new-browser-promises-to-end-the-tyranny-of-the-tab",
-    "pubDate": "Thu, 11 Dec 2025 22:34:38 +0000",
-    "source": "Decrypt",
-    "contentSnippet": "Google's Disco builds custom apps from your open tabs, hinting at a post-search future."
-  },
-  {
-    "title": "US Senators make ‘real progress’ on sweeping crypto market bill following talks with bank execs",
-    "link": "https://www.theblock.co/post/382277/us-senators-make-real-progress-on-sweeping-crypto-market-bill-following-talks-with-bank-execs?utm_source=rss&utm_medium=rss",
-    "pubDate": "Thu, 11 Dec 2025 17:03:57 -0500",
-    "source": "The Block",
-    "contentSnippet": "Sen. Scott said \"real progress\" is being made to pass a massive cryptocurrency bill into law after meeting with top bank CEOs on Thursday."
   },
   {
     "title": "NFT winter deepens: Monthly sales hit lowest point of the year",
