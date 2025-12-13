@@ -1,10 +1,73 @@
 [
   {
-    "title": "U.S. Market Structure Bill May Slide to January as Talks Continue Over Several Points",
-    "link": "https://www.coindesk.com/policy/2025/12/13/u-s-market-structure-bill-may-slide-to-january-as-talks-continue-over-several-points",
-    "pubDate": "Sat, 13 Dec 2025 12:00:00 +0000",
+    "title": "Michael Saylor's Strategy Hangs on to Spot in Nasdaq 100 Index",
+    "link": "https://www.coindesk.com/business/2025/12/13/michael-saylor-s-strategy-hangs-on-to-spot-in-nasdaq-100-index",
+    "pubDate": "Sat, 13 Dec 2025 17:23:19 +0000",
     "source": "CoinDesk DeFi",
-    "contentSnippet": "While legislative language circulates among all four corners of the talks — industry, White House, Republicans and Democrats — the process is still mid-stride."
+    "contentSnippet": "The annual Nasdaq 100 rebalance saw six companies dropped and three new additions, with changes taking effect on December 22, but bitcoin treasury company Strategy hung onto its spot."
+  },
+  {
+    "title": "Vanguard Exec Likens Bitcoin to ‘Digital Labubu’ Even as Firm Opens ETF Trading Access",
+    "link": "https://www.coindesk.com/business/2025/12/13/vanguard-exec-likens-bitcoin-to-digital-labubu-even-as-firm-opens-etf-trading-access",
+    "pubDate": "Sat, 13 Dec 2025 17:19:49 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Executive John Ameriks emphasized Vanguard's core view of the crypto sector hasn't changed, seeing the asset class as highly speculative."
+  },
+  {
+    "title": "After 2025’s Test Run, Crypto IPOs Face Their Real Trial in 2026",
+    "link": "https://www.coindesk.com/business/2025/12/10/after-2025-s-test-run-crypto-ipos-face-their-real-trial-in-2026",
+    "pubDate": "Sat, 13 Dec 2025 17:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "\"2026 is where we find out if crypto IPOs are a durable asset class,\" according to Laura Katherine Mann, a partner at global law firm White & Case."
+  },
+  {
+    "title": "Tether’s Bid to Buy Italian Soccer Club Juventus Rejected by Majority Shareholder Exor",
+    "link": "https://www.coindesk.com/coindesk-news/2025/12/13/tether-s-bid-to-buy-italian-soccer-club-juventus-rejected-by-majority-shareholder-exor",
+    "pubDate": "Sat, 13 Dec 2025 16:40:29 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The stablecoin giant, which currently has a 10% stake in Juventus, recently offered to buy out the Agnelli family’s 65.4% stake in an all-cash deal."
+  },
+  {
+    "title": "NFT Project Pudgy Penguins Takes Over Las Vegas Sphere in Holiday Campaign",
+    "link": "https://www.coindesk.com/tech/2025/12/12/nft-project-pudgy-penguins-takes-over-las-vegas-sphere-in-holiday-campaign",
+    "pubDate": "Sat, 13 Dec 2025 16:10:35 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The NFT brand’s animated segments will air on the Sphere across Christmas week, signaling the crypto company's move into real-world consumer markets."
+  },
+  {
+    "title": "MSCI Isn't Wrong to Be Cautious on DATs",
+    "link": "https://www.coindesk.com/opinion/2025/12/12/msci-isn-t-wrong-to-be-cautious-on-dats",
+    "pubDate": "Sat, 13 Dec 2025 16:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "As leading index provider MSCI considers excluding digital asset treasuries (DATs) from its suite of indexes, it’s worth considering the risk profile of these investment vehicles to determine if they "
+  },
+  {
+    "title": "Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks",
+    "link": "https://www.coindesk.com/business/2025/12/13/brazil-s-largest-asset-manager-recommends-investors-put-up-to-3-of-their-money-in-bitcoin-to-hedge-against-fx-market-shocks",
+    "pubDate": "Sat, 13 Dec 2025 15:42:24 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency."
+  },
+  {
+    "title": "State of Crypto: Policymakers Dominated Most Influential 2025",
+    "link": "https://www.coindesk.com/policy/2025/12/13/state-of-crypto-most-influential-2025",
+    "pubDate": "Sat, 13 Dec 2025 15:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "CoinDesk is unveiling its annual list of the individuals who have shaped the crypto industry and the discourse around it this year."
+  },
+  {
+    "title": "Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin",
+    "link": "https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin",
+    "pubDate": "Sat, 13 Dec 2025 14:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy."
+  },
+  {
+    "title": "Crypto’s Machine Learning ‘iPhone Moment’ Comes Closer as AI Agents Trade the Market",
+    "link": "https://www.coindesk.com/business/2025/12/13/crypto-s-machine-learning-iphone-moment-comes-closer-as-ai-agents-trade-the-market",
+    "pubDate": "Sat, 13 Dec 2025 13:00:00 +0000",
+    "source": "CoinDesk DeFi",
+    "contentSnippet": "Recall Labs, a firm that has run 20 or so AI trading arenas, pitted foundational large language models (LLMs) against customized trading agents."
   },
   {
     "title": "Fogo cancels $20 million pre-sale, will airdrop tokens instead in upcoming mainnet launch",
@@ -12,13 +75,6 @@
     "pubDate": "Fri, 12 Dec 2025 17:33:11 -0500",
     "source": "The Block",
     "contentSnippet": "Fogo will airdrop the tokens set aside for a pre-sale next week, a change in strategy to better distribute tokens and reward early users."
-  },
-  {
-    "title": "Citadel Securities and DeFi Waging War of Words Through SEC Correspondence ",
-    "link": "https://www.coindesk.com/policy/2025/12/12/citadel-securities-and-defi-waging-war-of-words-through-sec-correspondence",
-    "pubDate": "Fri, 12 Dec 2025 22:20:18 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The investing giant had asked the U.S. Securities and Exchange Commission to treat DeFi players like regulated entities, and the DeFi crowd pushed back."
   },
   {
     "title": "Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading",
@@ -40,13 +96,6 @@
     "pubDate": "Fri, 12 Dec 2025 16:25:59 -0500",
     "source": "The Block",
     "contentSnippet": "Tether, already a minority shareholder in Juventus, is \"prepared to invest 1 billion Euros in the support and development of the club.\""
-  },
-  {
-    "title": "Crypto Firm Tether Says It Wants to Take Over Italian Football Club Juventus",
-    "link": "https://www.coindesk.com/business/2025/12/12/crypto-firm-tether-moves-to-take-over-italian-football-club-juventus",
-    "pubDate": "Fri, 12 Dec 2025 20:59:57 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The issuer behind the most popular stablecoin said that if the bid succeeds, it prepares to invest $1 billion in the football club."
   },
   {
     "title": "Crypto Giant Tether Makes Offer to Acquire Juventus Soccer Club",
@@ -112,13 +161,6 @@
     "contentSnippet": "The startup says its AI can analyze viral videos and generate optimized remixes, though evidence beyond early demos remains limited."
   },
   {
-    "title": "Interactive Brokers Now Accepts Stablecoins in a Bid to Remain Competitive",
-    "link": "https://www.coindesk.com/business/2025/12/12/interactive-brokers-now-accepts-stablecoins-in-a-bid-to-remain-competitive",
-    "pubDate": "Fri, 12 Dec 2025 18:30:11 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The firm has begun offering stablecoin account funding for U.S. retail clients, joining a growing list of brokerages racing to keep pace with crypto-native rivals."
-  },
-  {
     "title": "Solo Bitcoin Miner Beats the Odds, Winning $282K Reward",
     "link": "https://decrypt.co/352193/solo-bitcoin-miner-beats-odds-winning-282k-reward",
     "pubDate": "Fri, 12 Dec 2025 18:13:47 +0000",
@@ -133,32 +175,11 @@
     "contentSnippet": "Sam Altman breaks his December promise as OpenAI delays ChatGPT's adult content feature into at least Q1 next year."
   },
   {
-    "title": "DOT Sinks 2% After Breaking Key Support",
-    "link": "https://www.coindesk.com/markets/2025/12/12/dot-sinks-2-after-breaking-key-support",
-    "pubDate": "Fri, 12 Dec 2025 17:16:06 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The Polkadot token erased earlier gains amid elevated volume, falling from a high of $2.09 to $1.97."
-  },
-  {
-    "title": "Hedera Tumbles 4% as Altcoins Continue to Suffer",
-    "link": "https://www.coindesk.com/markets/2025/12/12/hedera-tumbles-4-as-altcoins-continue-to-suffer",
-    "pubDate": "Fri, 12 Dec 2025 17:14:17 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Hedera's native token retreated from resistance levels as institutional volume surged during key reversal hour."
-  },
-  {
     "title": "Tether Considers Tokenizing Stock Amid $20 Billion Fundraise: Bloomberg",
     "link": "https://decrypt.co/352183/tether-considers-tokenizing-stock-20-billion-fundraise-bloomberg",
     "pubDate": "Fri, 12 Dec 2025 16:58:53 +0000",
     "source": "Decrypt",
     "contentSnippet": "Stablecoin issuer Tether moved to prevent equity sales as Bloomberg reports plans to raise funds at a $500 billion valuation."
-  },
-  {
-    "title": "Five Crypto Firms Win Initial Approvals as Trust Banks, Including Ripple, Circle, BitGo",
-    "link": "https://www.coindesk.com/policy/2025/12/12/five-crypto-firms-step-closer-to-become-a-bank-including-ripple-circle-fidelity",
-    "pubDate": "Fri, 12 Dec 2025 16:39:19 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The firms have obtained conditional approval from the Office of the Comptroller of the Currency to convert into national trust banks."
   },
   {
     "title": "Ripple, Circle and BitGo secure conditional approval for US banking charters",
@@ -168,32 +189,11 @@
     "contentSnippet": "Coinbase , Stripe-owned Bridge and Crypto.com have also applied to become federally chartered banks in the U.S."
   },
   {
-    "title": "Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down",
-    "link": "https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down",
-    "pubDate": "Fri, 12 Dec 2025 16:04:27 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026."
-  },
-  {
-    "title": "Pakistan, Binance Sign MOU to Explore Tokenization of $2B in State Assets: Reuters",
-    "link": "https://www.coindesk.com/business/2025/12/12/pakistan-binance-sign-mou-to-explore-tokenization-of-usd2b-in-state-assets-reuters",
-    "pubDate": "Fri, 12 Dec 2025 16:02:10 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "The agreement comes as Pakistan accelerates the rollout of a formal crypto regulatory framework and explores blockchain-based distribution of government-owned assets."
-  },
-  {
     "title": "Aave community probes CoW Swap integration and Aave Labs ‘stealth privatization’ of protocol",
     "link": "https://www.theblock.co/post/382369/aave-community-probes-cow-swap-integration-and-aave-labs-stealth-privatization-of-protocol?utm_source=rss&utm_medium=rss",
     "pubDate": "Fri, 12 Dec 2025 10:32:02 -0500",
     "source": "The Block",
     "contentSnippet": "An Aave governance dispute has erupted after a delegate claimed that swap fees from Aave Labs’ new CoWSwap integration no longer reach the DAO treasury."
-  },
-  {
-    "title": "Prediction Markets Are Coming to Phantom's 20M User Via Kalshi ",
-    "link": "https://www.coindesk.com/business/2025/12/12/prediction-markets-are-coming-to-phantom-s-20m-user-via-kalshi",
-    "pubDate": "Fri, 12 Dec 2025 15:10:39 +0000",
-    "source": "CoinDesk DeFi",
-    "contentSnippet": "Phantom users will be able to chat and trade Kalshi's prediction markets with any Solana-based tokens, CEO said."
   },
   {
     "title": "Pyth launches token buyback program, allocating 33% of DAO treasury to monthly PYTH purchases",
